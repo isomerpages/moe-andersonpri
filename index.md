@@ -11,13 +11,13 @@ sections:
       background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Announcements
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Calendar of Events
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Quicklinks for Staff and Students
+          description: ""
           url: /privacy/
 ---
