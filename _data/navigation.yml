@@ -1,6 +1,18 @@
 logo: /images/logo.jpg
 links:
-  - title: Contact Us
+  - title: About Us
     url: /contact-us/
-  - title: Example Page
+  - title: Our Family
     url: /example-page/
+  - title: Departments
+    url: /permalink
+  - title: Parents
+    url: /permalink
+  - title: CCA
+    url: /permalink
+  - title: Distinctive Programmes
+    url: /permalink
+  - title: Achievements
+    url: /permalink
+  - title: Gallery
+    url: /permalink
