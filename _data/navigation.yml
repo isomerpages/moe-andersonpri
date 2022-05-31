@@ -1,19 +1,5 @@
 logo: /images/logo.jpg
 links:
-  - title: Our Family
-    url: /example-page/
-  - title: Departments
-    url: /permalink
-  - title: Parents
-    url: /permalink
-  - title: CCA
-    url: /permalink
-  - title: Distinctive Programmes
-    url: /permalink
-  - title: Achievements
-    url: /permalink
-  - title: Gallery
-    url: /permalink
   - title: About Us
     url: /permalink
     sublinks:
@@ -37,5 +23,19 @@ links:
         url: /about-us/permalink11
       - title: ENCOMPASS EMAGAZINE For 2020
         url: ENCOMPASS EMAGAZINE For 2020
+  - title: Our Family
+    url: /example-page/
+  - title: Departments
+    url: /permalink
+  - title: Parents
+    url: /permalink
+  - title: CCA
+    url: /permalink
+  - title: Distinctive Programmes
+    url: /permalink
+  - title: Achievements
+    url: /permalink
+  - title: Gallery
+    url: /permalink
   - title: Quicklinks
     url: /permalinkQ
