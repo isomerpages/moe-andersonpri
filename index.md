@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Anderson Primary School
-      background: /images/hero-banner.png
+      background: /images/andersonpri.gif
       url: /contact-us/
       key_highlights:
         - title: Announcements
