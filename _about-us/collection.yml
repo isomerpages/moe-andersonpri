@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - ENCOMPASS EMAGAZINE For 2020.md
       - Corporate Videos.md
       - School Facilities.md
       - Affirmation and Appreciation/2018.md
