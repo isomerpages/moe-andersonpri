@@ -33,6 +33,7 @@ links:
     url: /permalink
   - title: Distinctive Programmes
     url: /permalink
+    sublinks: []
   - title: Achievements
     url: /permalink
     sublinks:
