@@ -2,4 +2,5 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - ANDVENTURE/.keep
       - ANDVENTURE.md
