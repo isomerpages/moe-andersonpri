@@ -33,7 +33,13 @@ links:
     url: /permalink
   - title: Distinctive Programmes
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: ANDventure
+        url: /distinctive-programmes/permalinkAND
+      - title: Applied Learning Programme
+        url: /distinctive-programmes/permalinkALP
+      - title: Learning for Life Programme
+        url: /distinctive-programmes/permalinkLLP
   - title: Achievements
     url: /permalink
     sublinks:
