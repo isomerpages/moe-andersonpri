@@ -33,6 +33,17 @@ links:
     url: /permalink
   - title: Distinctive Programmes
     url: /permalink
+  - title: Achievements
+    url: /permalink
+    sublinks:
+      - title: Awards
+        url: /achievements/permalinkAward
+      - title: NAEA 2015
+        url: /achievements/permalinkNAEA
+      - title: Curriculum
+        url: /achievements/Curriculum/permalink2020
+      - title: Co-Curriculum
+        url: /achievements/Co-Curriculum/permalink2020
   - title: Gallery
     url: /permalink
     sublinks:
@@ -46,14 +57,3 @@ links:
         url: /gallery/permalinkG2018
   - title: Quicklinks
     url: /permalinkQ
-  - title: Achievements
-    url: /permalink
-    sublinks:
-      - title: Awards
-        url: /achievements/permalinkAward
-      - title: NAEA 2015
-        url: /achievements/permalinkNAEA
-      - title: Curriculum
-        url: /achievements/Curriculum/permalink2020
-      - title: Co-Curriculum
-        url: /achievements/Co-Curriculum/permalink2020
