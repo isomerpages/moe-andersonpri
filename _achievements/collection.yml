@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Co Curriculum/.keep
       - Curriculum/2020.md
       - Curriculum/2019.md
       - Curriculum/2018.md
