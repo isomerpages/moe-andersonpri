@@ -37,5 +37,14 @@ links:
     url: /permalink
   - title: Gallery
     url: /permalink
+    sublinks:
+      - title: "2021"
+        url: /permalinkG2021
+      - title: "2020"
+        url: /permalinkG2020
+      - title: "2019"
+        url: /permalinkG2019
+      - title: "2018"
+        url: /permalinkG2018
   - title: Quicklinks
     url: /permalinkQ
