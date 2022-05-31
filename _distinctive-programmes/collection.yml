@@ -2,6 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - ANDventure/Example Title.md
+      - ANDventure/Learning Experiences.md
       - ANDventure/Overview of ANDventure.md
       - ANDventure/.keep
