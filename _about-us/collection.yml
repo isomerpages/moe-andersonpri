@@ -2,20 +2,20 @@ collections:
   about-us:
     output: true
     order:
-      - ENCOMPASS EMAGAZINE For 2020.md
-      - Corporate Videos.md
-      - School Facilities.md
-      - Affirmation and Appreciation/2018.md
-      - Affirmation and Appreciation/2017.md
-      - Affirmation and Appreciation/2016.md
-      - Affirmation and Appreciation/.keep
-      - School Crest.md
-      - School Rules.md
-      - School Song.md
-      - Mission, Vision and Values.md
       - Principal's Message/.keep
       - Principal's Message/Principal's Message for 2022.md
       - Principal's Message/Principal's Message for 2021.md
       - Principal's Message/Principal's Message for 2020.md
       - Principal's Message/Principal's Message for 2019.md
       - School History.md
+      - Mission, Vision and Values.md
+      - School Song.md
+      - School Rules.md
+      - School Crest.md
+      - Affirmation and Appreciation/.keep
+      - Affirmation and Appreciation/2018.md
+      - Affirmation and Appreciation/2017.md
+      - Affirmation and Appreciation/2016.md
+      - School Facilities.md
+      - Corporate Videos.md
+      - ENCOMPASS EMAGAZINE For 2020.md
