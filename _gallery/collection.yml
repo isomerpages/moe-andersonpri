@@ -2,5 +2,6 @@ collections:
   gallery:
     output: true
     order:
+      - Example Title.md
       - 2019.md
       - 2018.md
