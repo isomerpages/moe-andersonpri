@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Affirmation and Appreciation/.keep
       - School Crest.md
       - School Rules.md
       - School Song.md
