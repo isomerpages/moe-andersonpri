@@ -33,8 +33,6 @@ links:
     url: /permalink
   - title: Distinctive Programmes
     url: /permalink
-  - title: Achievements
-    url: /permalink
   - title: Gallery
     url: /permalink
     sublinks:
@@ -48,3 +46,8 @@ links:
         url: /gallery/permalinkG2018
   - title: Quicklinks
     url: /permalinkQ
+  - title: Achievements
+    url: /permalink
+    sublinks:
+      - title: Awards
+        url: /permalink
