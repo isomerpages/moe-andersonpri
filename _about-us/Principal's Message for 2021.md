@@ -3,7 +3,6 @@ title: Principal's Message for 2021
 permalink: /about-us/permalink2
 description: ""
 ---
-
 ![](/images/Anderson201501.jpg)<div class="">
 <div class="">
 <p class=""><u class=""><span class="" lang="EN-SG">Recollections &amp; Gratitude</span></u></p>
