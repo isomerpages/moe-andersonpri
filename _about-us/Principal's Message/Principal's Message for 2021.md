@@ -4,7 +4,6 @@ permalink: /about-us/permalink2
 description: ""
 third_nav_title: Principal's Message
 ---
-
 ![](/images/Anderson201501.jpg)<div class="">
 <div class="">
 <p class=""><u class=""><span class="" lang="EN-SG">Recollections &amp; Gratitude</span></u></p>
