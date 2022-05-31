@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Corporate Videos.md
       - School Facilities.md
       - Affirmation and Appreciation/2018.md
       - Affirmation and Appreciation/2017.md
