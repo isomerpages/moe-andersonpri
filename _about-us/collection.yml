@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Facilities.md
+      - School Facilities.md
       - Affirmation and Appreciation/2018.md
       - Affirmation and Appreciation/2017.md
       - Affirmation and Appreciation/2016.md
