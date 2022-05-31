@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Affirmation and Appreciation/2018.md
       - Affirmation and Appreciation/2017.md
       - Affirmation and Appreciation/2016.md
       - Affirmation and Appreciation/.keep
