@@ -62,7 +62,7 @@ description: ""
 <li>Parents who wish to take their children away from school during school hours must seek permission from the Principal, Vice-Principal, Head of Department or the child's Form teacher and sigh out at the General Office.</li>
 </ul>
 <div>&nbsp;</div>
-<div><strong>School Safety</strong></div>
+<p><strong><br />School Safety</strong></p>
 <div>
 <ul>
 <li>All students are not allowed to have their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</li>
