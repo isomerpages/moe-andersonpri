@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message for 2021.md
       - Principal's Message for 2022.md
