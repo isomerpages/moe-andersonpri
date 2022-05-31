@@ -22,3 +22,25 @@ description: ""
 <p>- Annual Arts Fiesta</p>
 <p>- Arts assembly programmes</p>
 <p>- Arts Learning Journey</p>
+
+![](/images/LLP%201.jpg)
+
+![](/images/LLP%202.jpg)
+
+![](/images/EnjoyArts1.png)
+
+<p><strong><em>Explore the Arts (Craftsmanship)<br /></em></strong>To equip students with the necessary 21st century competencies and to build their confidence from within, we offer special programmes in Design Thinking, Fine Arts, Mixed Media, Creative Opera, Music and Movement, and Pop Band playing under our school distinctive programme,&nbsp;<strong>ANDventure</strong>.&nbsp;<strong>ANDventure</strong>&nbsp;is our school-based curriculum innovation for each child to discover the artist that is within them, and to harness this potential as a future-ready citizen of character. Every child has a voice, and&nbsp;<strong>ANDventure</strong>&nbsp;provides the opportunities for these voices to be heard and ideas to be realised. For lower primary students who demonstrate aptitude and interest in performing arts, our Performing Arts Early Specialisation Programme allows them to begin their exploration at P2 before transiting into the more rigorous Performing Arts CCA programme from P3 to P6.</p>
+
+![](/images/LLP%203.jpg)
+
+![](/images/LLP%204.jpg)
+
+<p><em><strong>Excel in the Arts (Leadership)<br /></strong></em>For students who are interested to take their learning to a deeper level, there are opportunities for them to stretch their capabilities through high key public performances, participations at national festivals and exhibitions under the Performing Arts STEP-UP Programme. Students who demonstrate a high level of interest and ability in the different art forms can sign up for arts elective masterclasses for Music, Dance and Visual Art offered under our school distinctive programme,&nbsp;<strong>ANDventure</strong>, At this level, students will experience publication and production works as part of our talent development initiative.</p>
+
+![](/images/LLP%205.jpg)
+
+![](/images/LLP%206.jpg)
+
+![](/images/LLP%207.jpg)
+
+<p>With a differentiated and empowering curriculum anchored on values inculcation through the Arts,&nbsp;<strong>VIVACE@Anderson</strong>&nbsp;imbue in our students growth-oriented dispositions and attitudes to make them future-ready. It is our goal to take the power of the Arts from outward expressions to inward transformation. All these are in line with the school&rsquo;s vision to develop Learners with Passion, Leaders with Heart, Citizens of Character.</p>
