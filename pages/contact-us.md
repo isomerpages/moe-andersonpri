@@ -2,31 +2,48 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Anderson Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - Anderson Primary School
+      - 19 Ang Mo Kio Avenue 9
+      - Singapore 569785
+    operating_hours: []
+    maps_link: https://goo.gl/maps/RURcjvLaWWjbmp5e9
+    title: Our Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6456 0340
+      - email: ""
+      - other: "During School Term: 7:00AM to 6:00PM During School Holidays: 8:00AM to
+          5:00PM Mondays to Fridays"
+    title: General Office
+  - content:
+      - phone: +65 9831 5851
+      - email: andersonbus.services@outlook.sg
+      - other: Also available, +65 9621 6653
+    title: School Bus
+  - content:
+      - phone: +65 6257 2783
+      - email: ""
+      - other: "Note: The dental clinic in our school will be closed until further
+          notice. For emergencies such as dental trauma, facial/gum swellings or
+          toothaches please call +65 6435 3782"
+    title: School Dental Clinic
+  - content:
+      - phone: +65 6252 1933
+      - email: sales@pacificbookstores.com
+      - other: Under Pacific Bookstores Pte Ltd, https://www.pacificbookstores.com
+    title: School Bookshop
+  - content:
+      - phone: +65 6456 3198
+      - email: sales@jeepsinguniform.com
+      - other: "Under Jee Sing Fashion, https://www.jeepsinguniform.com  "
+    title: School Uniform / PE Attire
+  - content:
+      - phone: +65 8028 1456
+      - email: ""
+      - other: Led by Sally Tan, under Commit Learning,
+          ttps://www.commitlearning.com.sg/home
+    title: School Student Care (SSC)
 ---
