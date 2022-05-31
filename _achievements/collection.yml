@@ -2,5 +2,5 @@ collections:
   achievements:
     output: true
     order:
-      - National Arts Education Award (NAEA) 2015.md
       - Awards.md
+      - National Arts Education Award (NAEA) 2015.md
