@@ -3,8 +3,7 @@ title: Principal's Message for 2019
 permalink: /about-us/permalink4
 description: ""
 ---
-<div class="lo_main_mid">
-<div class="content_area">
+![](/images/Principal%20-%20Mdm%20Delia%20Hoo%20V2.png)<div class="content_area">
 <div class="mid mCustomScrollbar _mCS_1">
 <div id="mCSB_1" class="mCustomScrollBox mCS-rounded-dark mCSB_vertical mCSB_inside" tabindex="0">
 <div id="mCSB_1_container" class="mCSB_container" dir="ltr">
