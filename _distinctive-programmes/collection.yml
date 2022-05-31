@@ -2,5 +2,5 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - ANDVENTURE/Overview of ANDventure.md
-      - ANDVENTURE/.keep
+      - ANDventure/Overview of ANDventure.md
+      - ANDventure/.keep
