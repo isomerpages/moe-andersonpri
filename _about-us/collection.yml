@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Affirmation and Appreciation/Example Title.md
+      - Affirmation and Appreciation/2016.md
       - Affirmation and Appreciation/.keep
       - School Crest.md
       - School Rules.md
