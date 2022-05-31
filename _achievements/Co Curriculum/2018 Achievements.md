@@ -4,14 +4,6 @@ permalink: /achievements/Co-Curriculum/permalink2018
 description: ""
 third_nav_title: Co Curriculum
 ---
-
-
-<div class="mid mCustomScrollbar _mCS_1">
-<div id="mCSB_1" class="mCustomScrollBox mCS-rounded-dark mCSB_vertical mCSB_inside" tabindex="0">
-<div id="mCSB_1_container" class="mCSB_container" dir="ltr">
-<div class="pagecontent_box">
-<div class="tools_box">&nbsp;</div>
-<div id="_ptod_40930" class="description ive_editable ive_ptod ive_content">
 <table border="1" cellspacing="0" cellpadding="10">
 <thead>
 <tr>
@@ -28,7 +20,6 @@ third_nav_title: Co Curriculum
 <ul>
 <li>Accomplishment Award</li>
 </ul>
-<div>&nbsp;</div>
 </div>
 </div>
 </td>
@@ -41,7 +32,6 @@ third_nav_title: Co Curriculum
 <ul>
 <li>Art Club members</li>
 </ul>
-<div>&nbsp;</div>
 </div>
 </div>
 </td>
@@ -98,7 +88,6 @@ third_nav_title: Co Curriculum
 <ul>
 <li>Distinction Award</li>
 </ul>
-<div>&nbsp;</div>
 </div>
 </div>
 </td>
@@ -112,7 +101,6 @@ third_nav_title: Co Curriculum
 <ul>
 <li>Distinction Award</li>
 </ul>
-<div>&nbsp;</div>
 </div>
 </div>
 </td>
@@ -151,7 +139,6 @@ Participation<br />
 <ul>
 <li>G.A.I.A. Club members</li>
 </ul>
-<div>&nbsp;</div>
 </div>
 </div>
 </td>
@@ -173,7 +160,6 @@ Participation<br />
 <ul>
 <li>Distinction Award</li>
 </ul>
-<div>&nbsp;</div>
 </div>
 </div>
 </td>
@@ -187,7 +173,6 @@ Participation<br />
 <ul>
 <li>Distinction Award</li>
 </ul>
-<div>&nbsp;</div>
 </div>
 </div>
 </td>
@@ -270,7 +255,6 @@ All-Around for Junior Novice&nbsp;<br />
 <ul>
 <li>Distinction Award</li>
 </ul>
-<div>&nbsp;</div>
 </div>
 </div>
 </td>
@@ -412,8 +396,3 @@ Junior Division Boys Poom (Poomsae) - Participation<br />
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-</div>
-</div>
-</div>
