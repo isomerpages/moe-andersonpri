@@ -4,7 +4,6 @@ permalink: /about-us/permalink1
 description: ""
 ---
 
-# Principal's Message for 2022
 <div class="">
 <div class="">
 <p class=""><img src="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/.tn.school%20website%20-%20principal%20pic%20apr%202022.jpg.2.jpg" /></p>
