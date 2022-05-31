@@ -15,7 +15,7 @@ sections:
           url: https://google.com
         - title: Calendar of Events
           description: ""
-          url: https://gmail.com
+          url: https://calendar.google.com/calendar/u/0/r?cid=andersonprischool@gmail.com
         - title: Quicklinks for Staff and Students
           description: ""
           url: /privacy/
