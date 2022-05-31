@@ -10,13 +10,10 @@ sections:
       background: /images/andersonpri.gif
       url: /contact-us/
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: https://google.com
         - title: Calendar of Events
-          description: ""
+          description: School's Google Calendar
           url: https://calendar.google.com/calendar/u/0/r?cid=andersonprischool@gmail.com
-        - title: Quicklinks for Staff and Students
-          description: ""
-          url: /privacy/
+        - title: e-Showcase
+          description: 20th Anniversary Art Exhibition
+          url: https://o2.samwize.com/anderson-digital-exhibition/
 ---
