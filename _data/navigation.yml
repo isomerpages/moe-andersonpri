@@ -1,7 +1,5 @@
 logo: /images/logo.jpg
 links:
-  - title: About Us
-    url: /about-us/permalink1
   - title: Our Family
     url: /example-page/
   - title: Departments
@@ -16,3 +14,26 @@ links:
     url: /permalink
   - title: Gallery
     url: /permalink
+  - title: About Us
+    url: /permalink
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/permalink1
+      - title: School History
+        url: /about-us/permalink5
+      - title: Mission, Vision and Values
+        url: /about-us/permalink6
+      - title: School Song
+        url: /about-us/permalink7
+      - title: School Rules
+        url: /about-us/permalink8
+      - title: School Crest
+        url: /about-us/permalink9
+      - title: Affirmation and Apprecoation
+        url: /permalink
+      - title: School Facilities
+        url: /about-us/permalink10
+      - title: Corporate Videos
+        url: /about-us/permalink11
+      - title: ENCOMPASS EMAGAZINE For 2020
+        url: ENCOMPASS EMAGAZINE For 2020
