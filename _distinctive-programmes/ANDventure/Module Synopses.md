@@ -8,6 +8,8 @@ third_nav_title: ANDventure
 <p><strong><em>&ldquo;Care for something bigger than me&rdquo; - Strengthening 21CC and Character through Process Drama</em></strong></p>
 <p>Students will learn about the creative and symbolic use of the elements of drama - plot, time, space, roles &amp; relationship through their exploration of climate change using process drama conventions like Freeze Frames, Conscience Alley and Thought-tracking. With their collective inputs, they will devise their own drama using a scene-based approach to advocate environment care. Using our specially selected Digital Engagement platforms, students will be able to document their creative energies, performance skills in a collaborative manner. Besides developing negotiation skills with others in a group as they adapt and accommodate to different ideas, they also build their confidence in public speaking in a safe environment. The multi-faceted learning experiences will culminate into a student-led conference.&nbsp;</p>
 
+![](/images/combine_images.png)
+
 <p><strong>ANDventure Arts Elective (Visual Art Masterclass)</strong></p>
 <p><strong><em>Beauty of Zentangle Designs</em></strong></p>
 <p>Students will develop a deeper understanding of using the Zentangle illustration method to create amazing coloured tangle designs which can be printed on greeting cards and postcards. Through the intricate illustration and meticulous colouring, they learn patience as well as develop excellent motor control.&nbsp;</p>
