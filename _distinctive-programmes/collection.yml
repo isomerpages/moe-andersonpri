@@ -2,7 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - ANDventure/Module Synopses.md
-      - ANDventure/Learning Experiences.md
-      - ANDventure/Overview of ANDventure.md
       - ANDventure/.keep
+      - ANDventure/Overview of ANDventure.md
+      - ANDventure/Learning Experiences.md
+      - ANDventure/Module Synopses.md
