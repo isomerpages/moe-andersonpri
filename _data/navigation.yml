@@ -50,4 +50,10 @@ links:
     url: /permalink
     sublinks:
       - title: Awards
-        url: /permalink
+        url: /achievements/permalinkAward
+      - title: NAEA 2015
+        url: /achievements/permalinkNAEA
+      - title: Curriculum
+        url: /achievements/Curriculum/permalink2020
+      - title: Co-Curriculum
+        url: /achievements/Co-Curriculum/permalink2020
