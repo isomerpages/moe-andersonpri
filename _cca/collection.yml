@@ -2,20 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/Uniformed Groups (2022).md
-      - Uniformed Groups/Boys' Brigade (2022).md
-      - Uniformed Groups/Girls' Brigade (2022).md
-      - Uniformed Groups/.keep
-      - Clubs & Societies/Art Club (2022).md
-      - Clubs & Societies/GAIA CLUB (Green Activists in Anderson) 2022.md
-      - Clubs & Societies/Infocomm Club (2022).md
-      - Clubs & Societies/Robotics Club (2022).md
-      - Clubs & Societies/.keep
-      - Sports & Games/Basketball (2022).md
-      - Sports & Games/Badminton (2022).md
-      - Sports & Games/Football (2022).md
-      - Sports & Games/Volleyball (2022).md
-      - Sports & Games/.keep
+      - CCAs.md
       - Performing Arts/.keep
       - Performing Arts/Angklung & Kulintang Ensemble (2022).md
       - Performing Arts/Brass Band (2022).md
@@ -23,4 +10,17 @@ collections:
       - Performing Arts/English Drama (2022).md
       - Performing Arts/Guitar (2022).md
       - Performing Arts/Guzheng Ensemble (2022).md
-      - CCAs.md
+      - Sports & Games/.keep
+      - Sports & Games/Basketball (2022).md
+      - Sports & Games/Badminton (2022).md
+      - Sports & Games/Football (2022).md
+      - Sports & Games/Volleyball (2022).md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Art Club (2022).md
+      - Clubs & Societies/GAIA CLUB (Green Activists in Anderson) 2022.md
+      - Clubs & Societies/Infocomm Club (2022).md
+      - Clubs & Societies/Robotics Club (2022).md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups (2022).md
+      - Uniformed Groups/Boys' Brigade (2022).md
+      - Uniformed Groups/Girls' Brigade (2022).md
