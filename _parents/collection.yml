@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Programme for Active Learning (PAL).md
       - Sexuality Education Programme.md
       - Quick Links.md
