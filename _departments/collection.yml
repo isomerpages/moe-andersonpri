@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education/Useful Links.md
       - Physical Education/Key Programmes.md
       - Physical Education/Vision & Mission.md
       - Physical Education/.keep
