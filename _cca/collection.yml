@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Guzheng Ensemble.md
-      - Performing Arts/Guitar (2022).md
-      - Performing Arts/English Drama (2022).md
-      - Performing Arts/Dance Ensemble (2022).md
-      - Performing Arts/Brass Band (2022).md
-      - Performing Arts/Angklung & Kulintang Ensemble (2022).md
       - Performing Arts/.keep
+      - Performing Arts/Angklung & Kulintang Ensemble (2022).md
+      - Performing Arts/Brass Band (2022).md
+      - Performing Arts/Dance Ensemble (2022).md
+      - Performing Arts/English Drama (2022).md
+      - Performing Arts/Guitar (2022).md
+      - Performing Arts/Guzheng Ensemble.md
       - CCAs.md
