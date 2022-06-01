@@ -27,7 +27,6 @@ third_nav_title: Uniformed Groups
 <td>Friday</td>
 <td>P3 - P6</td>
 <td>1.30 pm - 3.30 pm</td>
-
 <td>Outside Art Room/5.6 Classroom&nbsp;<td>
 </td>
 </tr>
@@ -38,3 +37,5 @@ third_nav_title: Uniformed Groups
 <li>Mr William Ho (Overall Teacher-in-charge)</li>
 <li>Ms Stephanie Lim</li>
 </ul>
+
+![](/images/cca5.png)
