@@ -32,3 +32,5 @@ third_nav_title: Uniformed Groups
 <li>Mrs Vimaladevi Steven (Overall Teacher-in-charge)</li>
 <li>Miss Lio Jen Yun</li>
 </ul>
+
+![](/images/cca4.png)
