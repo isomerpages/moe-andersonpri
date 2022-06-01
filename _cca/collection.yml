@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA Withdrawal Form.md
       - CCAs.md
       - Performing Arts/.keep
       - Performing Arts/Angklung & Kulintang Ensemble (2022).md
@@ -25,3 +24,4 @@ collections:
       - Uniformed Groups/Uniformed Groups (2022).md
       - Uniformed Groups/Boys' Brigade (2022).md
       - Uniformed Groups/Girls' Brigade (2022).md
+      - CCA Withdrawal Form.md
