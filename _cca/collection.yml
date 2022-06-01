@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies.md
       - Sports & Games/Basketball (2022).md
       - Sports & Games/Badminton (2022).md
       - Sports & Games/Football (2022).md
