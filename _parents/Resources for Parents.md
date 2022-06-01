@@ -45,7 +45,6 @@ description: ""
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/letters/2017/November/Cyberwellness%20Tip%20Sheet%20for%20Parents%20T4%202017.pdf" target="_blank" rel="noopener">Cyberwellness - How to Stay Safe Online</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/General/Home%20Tabs/Announcements/Tip%20Sheet%20on%20Cyber%20Bullying.pdf" target="_blank" rel="noopener">Cyberwellness - Cyber Bullying</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/letters/2018/May/3B)%202018%20T2%20Parents%20Tip%20Sheet.pdf" target="_blank" rel="noopener">Cyberwellness - Helping Your Child Handle Online Content</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/general/easy-snacks-for-break-time" target="_blank" rel="noopener">Easy Snacks for Break Time</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/General/2020%20Metadata/POSB%20Smart%20Buddy.pdf" target="_blank" rel="noopener">POSB Smart Buddy Information&nbsp;</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/parents/2019/primary-school-education-booklet.pdf">Primary School Education Booklet&nbsp;</a></li>
 <li><a href="https://andersonpri-moe-edu-sg-admin.cwp.sg/qql/slot/u196/docs/letters/2020/S1-Posting-Booklet-English-2020.pdf" target="_blank" rel="noopener">S1 Posting Booklet English 2020</a>&nbsp;</li>
