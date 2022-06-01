@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA Withdrawal Form.md
       - CCAs.md
       - Performing Arts/.keep
       - Performing Arts/Angklung & Kulintang Ensemble (2022).md
