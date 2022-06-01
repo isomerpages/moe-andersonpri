@@ -1,7 +1,7 @@
 logo: /images/logo.jpg
 links:
   - title: About Us
-    url: /permalink
+    url: /about-us/permalink1
     sublinks:
       - title: Principal's Message
         url: /about-us/permalink1
@@ -28,7 +28,7 @@ links:
   - title: Departments
     url: /permalink
   - title: Parents
-    url: /permalink
+    url: /parents/permalinkL
     sublinks:
       - title: Letters to Parents
         url: /parents/permalinkL
@@ -64,7 +64,7 @@ links:
       - title: CCA Withdrawal Form
         url: https://form.gov.sg/#!/625379599e072500121b668e
   - title: Distinctive Programmes
-    url: /permalink
+    url: /distinctive-programmes/permalinkAND
     sublinks:
       - title: ANDventure
         url: /distinctive-programmes/permalinkAND
@@ -73,7 +73,7 @@ links:
       - title: Learning for Life Programme
         url: /distinctive-programmes/permalinkLLP
   - title: Achievements
-    url: /permalink
+    url: /achievements/permalinkAward
     sublinks:
       - title: Awards
         url: /achievements/permalinkAward
@@ -84,7 +84,7 @@ links:
       - title: Co-Curriculum
         url: /achievements/Co-Curriculum/permalink2020
   - title: Gallery
-    url: /permalink
+    url: /gallery/permalinkG2021
     sublinks:
       - title: "2021"
         url: /gallery/permalinkG2021
