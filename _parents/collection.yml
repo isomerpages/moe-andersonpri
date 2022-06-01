@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Road Safety/Road Safety of Students.md
       - Road Safety/.keep
       - Programme for Active Learning (PAL).md
       - Sexuality Education Programme.md
