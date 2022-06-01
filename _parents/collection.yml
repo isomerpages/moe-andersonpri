@@ -2,9 +2,9 @@ collections:
   parents:
     output: true
     order:
-      - P1 Registration/FAQs.md
-      - P1 Registration/Parent Volunteer Programme.md
       - P1 Registration/.keep
+      - P1 Registration/Parent Volunteer Programme.md
+      - P1 Registration/FAQs.md
       - Waiting List for Transfer & Admission Form.md
       - Road Safety/.keep
       - Road Safety/Road Safety of Students.md
