@@ -34,20 +34,18 @@ description: ""
 
 
 # **Extra Links**
-
-
+* [SC Mobile](https://scmobile.moe.edu.sg/)
+*  [iEXAMS](https://iexams.seab.gov.sg/)
+* [Pac@Gov](https://www.hrp.gov.sg/hrp/#/)
+* [Parents Gateway](https://pg.moe.edu.sg/)
+* [Schoolbag](https://www.schoolbag.edu.sg/)
 # **Dead Links**
 * [MOE Intranet](http://intranet.moe.gov.sg/Pages/Home.aspx)
 * [ICON 2.0](https://workspace.google.com/dashboard)
 * [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)
 * [School Cockpit](https://schoolcockpit.moe.gov.sg/)
-* [SC Mobile](https://scmobile.moe.edu.sg/)
 * [MOE HR Online](https://intranet.moe.gov.sg/hr_online/Pages/backup/redirect.aspx)
 * [HRMS](https://hrms.moe.gov.sg/)
 * [TRAISI](https://traisi.moe.gov.sg/AD/login.asp)
-* [iEXAMS](https://iexams.seab.gov.sg/)
-* [Pac@Gov](https://www.hrp.gov.sg/hrp/#/)
-* [Parents Gateway](https://pg.moe.edu.sg/)
 * [Academy of Teachers](https://www.academyofsingaporeteachers.moe.gov.sg/)
-* [Schoolbag](https://www.schoolbag.edu.sg/)
 * [Student iCON](https://workspace.google.com/dashboard)
