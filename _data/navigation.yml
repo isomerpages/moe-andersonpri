@@ -27,8 +27,6 @@ links:
     url: /example-page/
   - title: Departments
     url: /permalink
-  - title: Parents
-    url: /permalink
   - title: CCA
     url: /cca/permalinkCCAs
     sublinks:
@@ -73,3 +71,10 @@ links:
         url: /gallery/permalinkG2018
   - title: Quicklinks
     url: /permalinkQ
+  - title: Parents
+    url: /permalink
+    sublinks:
+      - title: Quick Links
+        url: /permalinkQ
+      - title: Submenu Title
+        url: /permalink
