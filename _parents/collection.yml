@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - P1 Registration Form.md
       - Waiting List for Transfer & Admission Form.md
       - Road Safety/.keep
       - Road Safety/Road Safety of Students.md
