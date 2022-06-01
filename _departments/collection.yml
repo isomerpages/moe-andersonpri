@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Physical Education/Useful Links.md
-      - Physical Education/Key Programmes.md
-      - Physical Education/Vision & Mission.md
       - Physical Education/.keep
+      - Physical Education/Vision & Mission.md
+      - Physical Education/Key Programmes.md
+      - Physical Education/Useful Links.md
       - Aesthetics/.keep
       - Aesthetics/Vision & Mission.md
       - Aesthetics/Our Arts Programme.md
