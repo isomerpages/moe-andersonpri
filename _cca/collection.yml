@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Dance Ensemble.md
+      - Performing Arts/Dance Ensemble (2022).md
       - Performing Arts/Brass Band (2022).md
       - Performing Arts/Angklung & Kulintang Ensemble (2022).md
       - Performing Arts/.keep
