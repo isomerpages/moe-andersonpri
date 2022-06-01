@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - FamilyMatters @ School.md
       - P1 Registration/.keep
       - P1 Registration/Parent Volunteer Programme.md
       - P1 Registration/FAQs.md
