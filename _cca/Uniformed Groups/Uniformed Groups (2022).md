@@ -4,3 +4,12 @@ permalink: /cca/Uniformed-Groups/permalinkUG
 description: ""
 third_nav_title: Uniformed Groups
 ---
+<p>The school has introduced two new CCA in 2020.&nbsp;</p>
+<p>They are the<strong>&nbsp;Boys&rsquo; Brigade (22nd Junior Company)</strong>&nbsp;and the&nbsp;<strong>Girls&rsquo; Brigade (22nd Junior Company)</strong>.&nbsp;</p>
+<p>The rationale for starting these two Uniformed Groups (UG) is their distinctive educational philosophy, and their robust and relevant values‐focused curricula that seek to develop students&rsquo; character and leadership competencies. These goals have a direct alignment with our school&rsquo;s desired student outcomes, particularly those of Leaders with Heart, Citizens of Character in our school vision. For our P2 boys and girls moving up to P3 in 2020, they will be eligible to choose the BB and the GB respectively.&nbsp;</p>
+
+![](/images/BB_contingent.jpg)
+
+![](/images/GB_contingent.jpg)
+
+![](/images/cca6.png)
