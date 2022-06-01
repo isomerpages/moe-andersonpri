@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics/Living Arts Gallery.md
       - Aesthetics/Our Arts Programme.md
       - Aesthetics/Vision & Mission.md
       - Aesthetics/.keep
