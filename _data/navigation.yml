@@ -30,7 +30,16 @@ links:
   - title: Parents
     url: /permalink
   - title: CCA
-    url: /permalink
+    url: /cca/permalinkCCAs
+    sublinks:
+      - title: Performing Arts
+        url: /cca/Performing-Arts/permalinkAnK
+      - title: Sports & Games
+        url: /cca/Sports-and-Games/permalinkBB
+      - title: Clubs & Societies
+        url: /cca/Clubs-and-Societies/permalinkAC
+      - title: Uniformed Groups
+        url: /cca/Uniformed-Groups/permalinkUG
   - title: Distinctive Programmes
     url: /permalink
     sublinks:
