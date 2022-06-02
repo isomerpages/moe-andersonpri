@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Key Programmes.md
       - Science/Vision & Mission.md
       - Science/SC Syllabus 2014.md
       - Science/.keep
