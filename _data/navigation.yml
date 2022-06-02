@@ -24,22 +24,22 @@ links:
       - title: ENCOMPASS EMAGAZINE For 2020
         url: https://cloud.3dissue.com/213008/213119/250573/20thAnniversaryCommemorativeBook/index.html
   - title: Our Family
-    url: /our-family/permalinkSAC
+    url: /our-family/school-advisory-committee
     sublinks:
       - title: School Advisory Committee
-        url: /our-family/permalinkSAC
+        url: /our-family/school-advisory-committee
       - title: School Executive Committee
-        url: /our-family/permalinkSEC
+        url: school-executive-committee
       - title: Teachers
-        url: /our-family/Teachers/permalinkP1
+        url: /our-family/Teachers/primary-1
       - title: Allied Educators
-        url: /our-family/permalinkAE
+        url: /our-family/allied-educators
       - title: Executive and Administrative
-        url: /our-family/permalinkEnA
+        url: /our-family/executive-and-administrative-staff
       - title: Parent Support Group
-        url: /our-family/permalinkPSG
+        url: /our-family/parent-support-group
       - title: Alumni
-        url: /our-family/permalinkA
+        url: /our-family/alumni
   - title: Departments
     url: /departments/English/permalinkVM
     sublinks:
