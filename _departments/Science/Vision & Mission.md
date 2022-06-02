@@ -26,3 +26,21 @@ third_nav_title: Science
 <li>interactions among living things, and</li>
 <li> how the flora and fauna are adapted for different purposes.</li>
 </ul>
+
+![](/images/2021-SCI-pic-20.jpg)
+<p>The &lsquo;Brown space&rsquo; at the&nbsp;<em class="">Community Vermicomposting Station</em>&nbsp;aims to raise awareness on how to recycle organic food waste into vermicast (an organic fertilizer) for the school gardens using worms. Through this closed-loop community food waste system, our Green Ambassadors are empowered to make Anderson Primary a composting hub, while our Primary 1 and 2 students learn about worm farming ecosystems through their PAL- Outdoor Education module.</p>
+
+![](/images/2021-SCI-pic-21.jpg)
+<p>The&nbsp;<em class="">Sustainable Learning Trail</em>&nbsp;aims to educate Andersonians about Singapore&rsquo;s sustainability journey. The trail features 6 different educational zones (Sustainable Blueprint, Clean Singapore, Food Waste, Future City, Water Story and Climate Change) with key learning outcomes to understand the different issues about sustainability through customized infographics. Students can access relevant fun facts and bit-sized information and scan the QR codes provided for more information on the topics presented. Accompanying activity sheets will be integrated into the Science and Social Studies curriculum to encourage students to interact with these panels in a fun way.</p>
+
+![](/images/2021-SCI-pic-22.jpg)
+<p><em>Roving Exhibitions</em>&nbsp;are also featured at Anderson Primary at various times of the year as outreach programmes to promote Sustainability Education and Environment Stewardship. These include:</p>
+<ul>
+<li>&lsquo;R.I.S.E to the Challenge&rsquo; Exhibit to engage Andersonians on the issue of Climate Change and the challenge of the rising sea levels.</li>
+<li>&lsquo;Energy Heroes!&rsquo; Exhibit comprised five game exhibits for Andersonians to appreciate the importance of energy and what we can do to conserve energy.</li>
+<li>&lsquo;The Inflatable Lung&rsquo; exhibition allowed Andersonians to take a step into one of the largest organs in our body that keeps us alive and breathing. Students also had an opportunity to participate in a challenge where they find out how &ldquo;powerful&rdquo; their lungs are.</li>
+<li>&lsquo;Marine Tank&rsquo; Interaction Booth where students learnt about ecosystems, habitats, adaptations and had the opportunity to &lsquo;touch&rsquo; various marine organisms.</li>
+</ul>
+
+![](/images/2021-SCI-pic-23.jpg)
+![](/images/2021-SCI-pic-24.jpg)
