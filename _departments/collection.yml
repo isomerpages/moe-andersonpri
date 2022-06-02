@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - I & C Technology/.keep
-      - I & C Technology/Vision & Mission.md
-      - I & C Technology/Key Programmes.md
-      - I & C Technology/Useful Links.md
+      - I&C Technology/.keep
+      - I&C Technology/Vision & Mission.md
+      - I&C Technology/Key Programmes.md
+      - I&C Technology/Useful Links.md
       - C&C Education/.keep
       - C&C Education/Our Programmes.md
       - C&C Education/Our Mission in C&C Education.md
