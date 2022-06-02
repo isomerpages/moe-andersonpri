@@ -3,8 +3,6 @@ title: Quick Links
 permalink: /quick-links
 description: ""
 ---
-
-
 # **MOE Links**
 * [MOE Website](moe.gov.sg)
 * [MOE P5-P6 Sexuality Education Programme](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2fprogrammes%2fsocial-and-emotional-learning%2fsexuality-education&user=extranet%5cAnonymous&site=moe-website)
@@ -32,7 +30,7 @@ description: ""
 
 # **Health Promotion Board (HPB)**
 * [Healthy Meals in Schools Programme](/files/HPB%20HM%20Parents%20Booklet_School_Generic_30%20Mar.pdf)
-* [Easy Snacks for Break Time](/permalinkESBT)
+* [Easy Snacks for Break Time](/https://moe-andersonpri-staging.netlify.app/easy-snacks-for-break-time)
 
 
 # **Extra Links**
