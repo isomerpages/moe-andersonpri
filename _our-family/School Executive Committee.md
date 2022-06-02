@@ -69,7 +69,12 @@ description: ""
 </tr>
 <tr>
 <td>
-</td><td>
+	
+![](/images/Mdm%20Neo%20Hwee%20Hwee.jpg)
+	
+</td>
+	
+<td>
 	
 ![](/images/Mr%20Edmung%20Liang.jpg)
 
