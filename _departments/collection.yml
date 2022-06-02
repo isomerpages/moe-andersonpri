@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/SC Syllabus 2014.md
       - Science/.keep
       - I&C Technology/.keep
       - I&C Technology/Vision & Mission.md
