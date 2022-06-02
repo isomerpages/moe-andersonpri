@@ -87,16 +87,16 @@ links:
       - title: Quick Links
         url: /quick-links
   - title: CCA
-    url: /cca/permalinkCCAs
+    url: /cca
     sublinks:
       - title: Performing Arts
-        url: /cca/Performing-Arts/permalinkAnK
+        url: /cca/Performing-Arts/angklung-n-kulintang-ensemble-2022
       - title: Sports & Games
-        url: /cca/Sports-and-Games/permalinkBB
+        url: /cca/Sports-n-Games/basketball-2022
       - title: Clubs & Societies
-        url: /cca/Clubs-and-Societies/permalinkAC
+        url: /cca/clubs-n-societies/art-club-2022
       - title: Uniformed Groups
-        url: /cca/Uniformed-Groups/permalinkUG
+        url: /cca/uniformed-groups
       - title: CCA Withdrawal Form
         url: https://form.gov.sg/#!/625379599e072500121b668e
   - title: Distinctive Programmes
