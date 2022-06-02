@@ -45,3 +45,12 @@ third_nav_title: Malay
 ![](/images/tnMLBusy.jpg)
 
 <p style="text-align: center;">Students busy gathering information using iPads and smart phones</p>
+
+<p><strong>Language and Cultural Fiesta (Fiesta Bahasa dan Budaya)&nbsp;</strong></p>
+<p>Students are exposed to Malay language and culture through various interactive activities.&nbsp; They also get to impart knowledge and ideas with students from other schools in the cluster</p>
+
+![](/images/tnfiesta.jpg)
+
+<p style="text-align: center;">Students dressing up as characters in a Malay folklore</p>
+
+
