@@ -26,7 +26,28 @@ links:
   - title: Our Family
     url: /example-page/
   - title: Departments
-    url: /permalink
+    url: /departments/English/permalinkVM
+    sublinks:
+      - title: English
+        url: /departments/English/permalinkVM
+      - title: Chinese
+        url: /departments/Chinese/permalinkVM
+      - title: Malay
+        url: /departments/Malay/permalinkVM
+      - title: Tamil
+        url: /departments/Tamil/permalinkVM
+      - title: Mathematics
+        url: /departments/Mathematics/permalinkVM
+      - title: Science
+        url: /departments/Science/permalinkVM
+      - title: Information and Communication
+        url: /departments/I-and-C-Technology/permalinkVM
+      - title: Character and Citizenship
+        url: /departments/CandC-Education/permalinkMiss
+      - title: Physical Education
+        url: /departments/Physical-Education/permalinkVnM
+      - title: Aesthetics
+        url: /departments/Aesthetics/permalinkVM
   - title: Parents
     url: /parents/permalinkL
     sublinks:
