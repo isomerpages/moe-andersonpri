@@ -4,6 +4,7 @@ permalink: /departments/I-and-C-Technology/permalinkVM
 description: ""
 third_nav_title: I & C Technology
 ---
+<p><strong>Vision</strong></p>
 <p>To build a community of ethical, self-directed and collaborative IT-empowered learners.</p>
 <p><strong>Mission</strong></p>
 <ul>
