@@ -50,3 +50,6 @@ third_nav_title: Chinese
 
 ![](/images/P$culturela.jpg)
 <p style="text-align: center;"><span class="">P4&nbsp;</span><span class="">Cultural Performance Exposure Scheme (CPES)&nbsp;</span><span class="">(</span><span class="">&ldquo;文</span><span class="">化随意门&rdquo;计划</span><span class="">)&nbsp;</span></p>
+
+![](/images/p5tea.jpg)
+<p style="text-align: center;">P5 Chinese Tea Appreciation at Tea Chapter&nbsp;<span class="">(</span><span class="">茶渊</span><span class="">)</span></p>
