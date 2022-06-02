@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - Chinese/Useful Links.md
-      - Chinese/Vision & Mission.md
       - Chinese/.keep
+      - Chinese/Vision & Mission.md
+      - Chinese/Useful Links.md
       - Malay/.keep
       - Malay/Vision & Mission.md
       - Malay/Key Programmes.md
