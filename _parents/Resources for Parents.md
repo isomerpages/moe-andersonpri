@@ -1,0 +1,56 @@
+---
+title: Resources for Parents
+permalink: /parents/resources-for-parents
+description: ""
+---
+
+<p><strong><u>Assessment Matters<br /></u></strong></p>
+<ul>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20P6%20Class%20Tests.pdf" target="_blank" rel="noopener">2022 P6 Common Test</a></li>
+</ul>
+<p><strong><u>2022 Booklists</u></strong><strong><u><br /></u></strong></p>
+<ul>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20Booklist/P1_30-10-2021.pdf" target="_blank" rel="noopener">2022 P1 Booklist</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20Booklist/P2_02-11-2021.pdf" target="_blank" rel="noopener">2022 P2 Booklist</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20Booklist/P3_02-11-2021.pdf" target="_blank" rel="noopener">2022 P3 Booklist</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20Booklist/P4_02-11-2021.pdf" target="_blank" rel="noopener">2022 P4 Booklist</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20Booklist/P5_02-11-2021.pdf" target="_blank" rel="noopener">2022 P5 Booklist</a>&nbsp;</li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20Booklist/P6_02-11-2021.pdf" target="_blank" rel="noopener">2022 P6 Booklist</a></li>
+</ul>
+<p><strong><br />P1/2022 Pre-Entry Info Kit</strong></p>
+<ol>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/1.%20P1%202022%20Booklist.pdf" target="_blank" rel="noopener">Primary 1 Booklist&nbsp;</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/2.%20Form%201%20-%20NMT.pdf" target="_blank" rel="noopener">Form 1 - NMT</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/3.%20Form%203%20-%20NTIL.pdf" target="_blank" rel="noopener">Form 3 - NTIL</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/4.%20MOE%20FAS%20Brochure%202022.pdf" target="_blank" rel="noopener">MOE FAS Brochure</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/5.%20MOE%20FAS%20Application%20Form.pdf" target="_blank" rel="noopener">MOE FAS Application Form</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/6.%20AndPS%202021%20Bookshop%20Schedule.pdf" target="_blank" rel="noopener">AndPS Bookshop Schedule</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/7.%20AndPS%202021%20Uniform%20Sale%20Schedule.pdf" target="_blank" rel="noopener">AndPS School Uniform</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/8.%202021%20PCAB%20Tip%201%20-%20Tip%204.pdf" target="_blank" rel="noopener">PCAB Tip 1 to Tip 4</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/9.%202021%20PCAB%20Tip%205%20-%20Tip%2010.pdf" target="_blank" rel="noopener">PCAB Tip 5 to Tip 10</a></li>
+</ol>
+<p><strong><u>Parental Talks and School Events</u></strong></p>
+<ul>
+<li><a href="https://www.moe.gov.sg/microsites/psle-fsbb/index.html" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - MOE Microsite</a></li>
+<li><a href="https://www.moe.gov.sg/schoolfinder" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - School Finder</a></li>
+<li><a href="https://www.moe.gov.sg/secondary/dsa" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - DSA</a></li>
+<li><a href="https://andersonpri-moe-edu-sg-admin.cwp.sg/qql/slot/u196/docs/parents/2020/New%20AL%20Infographic.pdf" target="_blank" rel="noopener">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a>&nbsp;</li>
+</ul>
+<p><br /><strong><u>Tips and User Guides for Parents</u></strong></p>
+<ul>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/parents/2020/New%20AL%20Infographic.pdf" target="_blank" rel="noopener">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/parents/2019/Resources%20to%20parents/Parents%20Guide%20for%20Travel%20Declaration%20on%20PG.pdf" target="_blank" rel="noopener">Parents Guide for Travel Declaration on PG</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/parents/2019/Instructions%20to%20parents%20to%20On-board%20Parents%20Gateway.pdf" target="_blank" rel="noopener">Instructions to parents to On-board Parents Gateway</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/letters/2018/April/Student%20Annexes%20(Instructions%20and%20FAQs%20updated%2029%20Mar).pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS) Instructional Guide and FAQ</a></li>
+<li><a href="https://andersonpri-moe-edu-sg-admin.cwp.sg/qql/slot/u196/docs/letters/2019/Sept%202019/SLS%20Familiarisation%20Exercise%202019%20(For%20Students)%20-%20website.pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS) - Reset Password/ Unlock Account</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/letters/2017/November/Cyberwellness%20Tip%20Sheet%20for%20Parents%20T4%202017.pdf" target="_blank" rel="noopener">Cyberwellness - How to Stay Safe Online</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/General/Home%20Tabs/Announcements/Tip%20Sheet%20on%20Cyber%20Bullying.pdf" target="_blank" rel="noopener">Cyberwellness - Cyber Bullying</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/letters/2018/May/3B)%202018%20T2%20Parents%20Tip%20Sheet.pdf" target="_blank" rel="noopener">Cyberwellness - Helping Your Child Handle Online Content</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/General/2020%20Metadata/POSB%20Smart%20Buddy.pdf" target="_blank" rel="noopener">POSB Smart Buddy Information&nbsp;</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/parents/2019/primary-school-education-booklet.pdf">Primary School Education Booklet&nbsp;</a></li>
+<li><a href="https://andersonpri-moe-edu-sg-admin.cwp.sg/qql/slot/u196/docs/letters/2020/S1-Posting-Booklet-English-2020.pdf" target="_blank" rel="noopener">S1 Posting Booklet English 2020</a>&nbsp;</li>
+<li><a href="https://www.moe.gov.sg/education/edusave" target="_blank" rel="noopener">Edusave Scheme</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/General/2020%20Metadata/School%20Bill%20FAQ.pdf" target="_blank" rel="noopener">School Bills FAQ</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/parents/2019/Resources%20to%20parents/Information%20on%20Miscellaneous%20Fees.pdf" target="_blank" rel="noopener">Information on Miscellaneous Fees</a></li>
+<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/General/2020%20Metadata/Address%20Update%20Form.pdf" target="_blank" rel="noopener">Form to update student address</a></li>
+</ul>
