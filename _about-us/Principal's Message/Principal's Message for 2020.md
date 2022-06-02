@@ -4,9 +4,7 @@ permalink: /about-us/principals-message-for-2022/principals-message-for-2020
 description: ""
 third_nav_title: Principal's Message
 ---
-
-
-![](/images/Principal%20(2020).jpg)<div class="lo_main_mid">
+![](/images/Principal%20(2020).jpg)
 <div class="content_area">
 <div class="mid mCustomScrollbar _mCS_1">
 <div id="mCSB_1" class="mCustomScrollBox mCS-rounded-dark mCSB_vertical mCSB_inside" tabindex="0">
