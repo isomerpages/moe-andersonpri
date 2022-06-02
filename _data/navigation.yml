@@ -100,14 +100,14 @@ links:
       - title: CCA Withdrawal Form
         url: https://form.gov.sg/#!/625379599e072500121b668e
   - title: Distinctive Programmes
-    url: /distinctive-programmes/permalinkAND
+    url: /distinctive-programmes/overview-of-andventure
     sublinks:
       - title: ANDventure
-        url: /distinctive-programmes/permalinkAND
+        url: /distinctive-programmes/overview-of-andventure
       - title: Applied Learning Programme
-        url: /distinctive-programmes/permalinkALP
+        url: /distinctive-programmes/applied-learning-programme-alp
       - title: Learning for Life Programme
-        url: /distinctive-programmes/permalinkLLP
+        url: /distinctive-programmes/learning-for-life-programme-llp
   - title: Achievements
     url: /achievements/permalinkAward
     sublinks:
