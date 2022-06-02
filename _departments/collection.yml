@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/.keep
       - I&C Technology/.keep
       - I&C Technology/Vision & Mission.md
       - I&C Technology/Key Programmes.md
