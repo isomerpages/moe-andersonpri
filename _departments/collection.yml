@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Chinese/.keep
       - Malay/.keep
       - Malay/Vision & Mission.md
       - Malay/Key Programmes.md
