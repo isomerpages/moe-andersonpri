@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Teachers/Primary 1.md
       - Teachers/Primary 2.md
       - Teachers/Primary 3.md
       - Teachers/Primary 4.md
