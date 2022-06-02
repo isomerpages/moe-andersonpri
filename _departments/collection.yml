@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English/.keep
       - Chinese/.keep
       - Chinese/Vision & Mission.md
       - Chinese/Useful Links.md
