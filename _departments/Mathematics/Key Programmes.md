@@ -23,4 +23,10 @@ third_nav_title: Mathematics
 <p><strong>Learning Support Programme<br /></strong>LSM&nbsp;(Learning Support for Mathematics) is an early intervention programme aims at providing learning support to students who do not have foundational numeracy skills and knowledge to access the Primary 1 Mathematics curriculum. A screening process is carried at the beginning of Primary 1 to identify the students who need intervention.&nbsp;</p>
 <p>In Anderson Primary School, P1 and P2 students who are in the programme will attend Mathematics lessons conducted by our LSM Teachers in small groups during curriculum hours so that greater attention can be devoted to each student.&nbsp;&nbsp;</p>
 
+![](/images/tnLSMrooms.jpg)
+
+<p><strong>Improving Confidence and Achievement in Numeracy (ICAN)<br /></strong>Beyond P2, the support in the learning of Mathematics continues in the form of ICAN Programme. This programme aims to strengthen students&rsquo; conceptual understanding and procedural fluency.&nbsp;ICAN emphasises the importance of concrete learning to enable pupils to make better sense of&nbsp;
+their learning. Students have lots of fun in their mathematics learning as they gain confidence and motivation in learning the subject.&nbsp;&nbsp;Lessons are conducted by ICAN Teachers in small groups during curriculum hours.&nbsp;</p>
+
+
 
