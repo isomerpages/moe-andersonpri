@@ -7,9 +7,6 @@ third_nav_title: Teachers
 <table border="0" width="100%" cellspacing="0">
 <tbody>
 <tr>
-<td colspan="2" height="25"><strong>Subject Teachers</strong></td>
-</tr>
-<tr>
 <td width="50%">Mrs Vimala Ratnaraja&nbsp;<br />Year Head (Middle Primary)</td>
 <td width="50%"><a href="mailto:vimala_ratnaraja@moe.edu.sg" target="">vimala_ratnaraja@moe.edu.sg</a><br /><br /></td>
 </tr>
