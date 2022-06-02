@@ -41,3 +41,7 @@ third_nav_title: Malay
 ![](/images/tnLJLLLL.jpg)
 
 <p style="text-align: center;">Students enjoying watching snippets of famous scenes in a film directed by P. Ramlee in a 1970's style theatre</p>
+
+![](/images/tnMLBusy.jpg)
+
+<p style="text-align: center;">Students busy gathering information using iPads and smart phones</p>
