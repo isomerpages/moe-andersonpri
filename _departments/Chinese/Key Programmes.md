@@ -82,3 +82,9 @@ third_nav_title: Chinese
 ![](/images/liondance.jpg)
 <p style="text-align: center;">Making of Lion&nbsp;<span class="">dance paper puppet&nbsp;</span><span class="">(</span><span class="">制作舞狮纸偶）</span></p>
 
+![](/images/jumpingclay.jpg)
+
+![](/images/chinesep.jpg)
+<p style="text-align: center;">Chinese Painting</p>
+
+![](/images/writinga.jpg)
