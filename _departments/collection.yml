@@ -2,11 +2,11 @@ collections:
   departments:
     output: true
     order:
-      - Science/Useful Links.md
-      - Science/Key Programmes.md
-      - Science/Vision & Mission.md
-      - Science/SC Syllabus 2014.md
       - Science/.keep
+      - Science/SC Syllabus 2014.md
+      - Science/Vision & Mission.md
+      - Science/Key Programmes.md
+      - Science/Useful Links.md
       - I&C Technology/.keep
       - I&C Technology/Vision & Mission.md
       - I&C Technology/Key Programmes.md
