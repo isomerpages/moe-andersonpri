@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Tamil/Key Programmes.md
       - Tamil/Vision & Mission.md
       - Tamil/.keep
       - Mathematics/.keep
