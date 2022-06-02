@@ -17,3 +17,15 @@ third_nav_title: Tamil
 <ul>
 <li><strong>Dance enrichment</strong><strong>&nbsp;modules&nbsp;</strong>are organized for all Tamil students to be exposed to the various Tamil dances such as Oyilattham, Kummi, Kollatham and Karagattham.&nbsp;</li>
 </ul>
+
+![](/images/Dance%20enrichment%20for%20Students1.jpg)
+<ul>
+<li><strong>Performing Arts</strong>&nbsp;is introduced to upper primary students through watching stage dramas / plays in Tamil put up by professionals drama groups.</li>
+</ul>
+
+![](/images/Watching%20Tamil%20Stage%20Performances%20-%20Drama.jpg)
+
+<ul>
+<li><strong>ICT encrichment</strong>&nbsp;classes give our students the opportunity to brush up their touch-typing skills using Microsoft word and Powerpoint and create e-books.</li>
+</ul>
+<p><strong>Collaboration with Sinda &ndash; Project Teach and Project Guide<br /></strong>Project Teach (small group tuition programme) and Project Guide (one to one tuition programme) classes are conducted in our school in the afternoons twice weekly for our P1 to P6 selected Tamil students to improve their grades in English, Mathematics and Science.&nbsp;</p>
