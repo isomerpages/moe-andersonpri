@@ -25,3 +25,6 @@ third_nav_title: Malay
 ![](/images/2021%20ML%20-%20pic%205.jpg)
 
 <p style="text-align: center;">Students' hands-on experience at Batik painting</p>
+
+<p><strong>Extensive Reading Programme (Program Bacaan Luas)</strong></p>
+<p>The programme aims to foster interest in reading among our students.&nbsp; Students have the opportunity to explore reading in different platform such as e-book, storybook apps and magazines.&nbsp; Through reading extensively, students will be able to increase their vocabulary and knowledge.</p>
