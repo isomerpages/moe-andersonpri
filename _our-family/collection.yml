@@ -2,5 +2,6 @@ collections:
   our-family:
     output: true
     order:
+      - Executive and Administrative Staff.md
       - Parent Support Group.md
       - Alumni.md
