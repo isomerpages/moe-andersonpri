@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Malay/Useful Links.md
-      - Malay/Key Programmes.md
-      - Malay/Vision & Mission.md
       - Malay/.keep
+      - Malay/Vision & Mission.md
+      - Malay/Key Programmes.md
+      - Malay/Useful Links.md
       - Tamil/.keep
       - Tamil/Vision & Mission.md
       - Tamil/Key Programmes.md
