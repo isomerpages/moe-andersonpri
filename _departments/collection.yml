@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Malay/.keep
       - Tamil/.keep
       - Tamil/Vision & Mission.md
       - Tamil/Key Programmes.md
