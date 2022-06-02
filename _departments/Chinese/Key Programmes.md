@@ -47,3 +47,6 @@ third_nav_title: Chinese
 
 ![](/images/P3EL.jpg)
 <p style="text-align: center;"><span class="">P3 Experential Learning -&nbsp;<br /></span>Zoo Goes to School:&nbsp;<span class="">Why&nbsp;</span><span class="">Did The Pangolin Cross The Road</span><span class="">?</span></p>
+
+![](/images/P$culturela.jpg)
+<p style="text-align: center;"><span class="">P4&nbsp;</span><span class="">Cultural Performance Exposure Scheme (CPES)&nbsp;</span><span class="">(</span><span class="">&ldquo;文</span><span class="">化随意门&rdquo;计划</span><span class="">)&nbsp;</span></p>
