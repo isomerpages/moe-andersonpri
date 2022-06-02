@@ -4,8 +4,7 @@ permalink: /about-us/principals-message-for-2022/principals-message-for-2021
 description: ""
 third_nav_title: Principal's Message
 ---
-
-![](/images/Anderson201501.jpg)<div class="">
+![](/images/Anderson201501.jpg)
 <div class="">
 <p class=""><u class=""><span class="" lang="EN-SG">Recollections &amp; Gratitude</span></u></p>
 </div>
