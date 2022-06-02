@@ -1,10 +1,10 @@
 logo: /images/logo.jpg
 links:
   - title: About Us
-    url: /about-us/permalink1
+    url: /about-us/principals-message-for-2022
     sublinks:
       - title: Principal's Message
-        url: /about-us/permalink1
+        url: /about-us/principals-message-for-2022
       - title: School History
         url: /about-us/permalink5
       - title: Mission, Vision and Values
@@ -16,7 +16,7 @@ links:
       - title: School Crest
         url: /about-us/permalink9
       - title: Affirmation and Appreciation
-        url: /permalink
+        url: /about-us/Affirmation-n-Appreciation/permalink2021
       - title: School Facilities
         url: /about-us/permalink10
       - title: Corporate Videos
