@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English/Key Programmes.md
       - English/Useful Links.md
       - English/Vision & Mission.md
       - English/.keep
