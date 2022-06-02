@@ -2,11 +2,11 @@ collections:
   departments:
     output: true
     order:
-      - Mathematics/Useful Links.md
-      - Mathematics/Key Programmes.md
-      - Mathematics/4R Learning Dispositions.md
-      - Mathematics/Vision & Mission.md
       - Mathematics/.keep
+      - Mathematics/Vision & Mission.md
+      - Mathematics/4R Learning Dispositions.md
+      - Mathematics/Key Programmes.md
+      - Mathematics/Useful Links.md
       - Science/.keep
       - Science/SC Syllabus 2014.md
       - Science/Vision & Mission.md
