@@ -38,6 +38,6 @@ third_nav_title: Malay
 
 <p class=""><span class="">Through the learning journey, our students were able to better appreciate the contributions by the Malay community in the development of Singapore as a nation. By getting to know their identity and origins, we hope that students will develop a keener sense of belonging and love for Singapore.</span></p>
 
-![](/images/tnLJ.jpg)
+![](/images/tnLJLLLL.jpg)
 
 <p style="text-align: center;">Students enjoying watching snippets of famous scenes in a film directed by P. Ramlee in a 1970's style theatre</p>
