@@ -4,9 +4,7 @@ permalink: /about-us/principals-message-for-2022/principals-message-for-2019
 description: ""
 third_nav_title: Principal's Message
 ---
-
-
-![](/images/Principal%20-%20Mdm%20Delia%20Hoo%20V2.png)<div class="content_area">
+![](/images/Principal%20-%20Mdm%20Delia%20Hoo%20V2.png)
 <div class="mid mCustomScrollbar _mCS_1">
 <div id="mCSB_1" class="mCustomScrollBox mCS-rounded-dark mCSB_vertical mCSB_inside" tabindex="0">
 <div id="mCSB_1_container" class="mCSB_container" dir="ltr">
@@ -29,11 +27,5 @@ third_nav_title: Principal's Message
 <div>Delia Hoo (Mdm)</div>
 <div>Principal</div>
 <div>December 2018</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="footer_area">&nbsp;</div>
+
+
