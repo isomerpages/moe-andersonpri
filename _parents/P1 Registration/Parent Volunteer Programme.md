@@ -173,7 +173,8 @@ third_nav_title: P1 Registration
 <p>Figures are correct as at 17/09/2021 11:35:00 AM</p>
 
 **FAQ**
-  <li>
+ <ul class="jekyllcodex_accordion">
+ <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">1. **Who can participate in the 2022 Primary One Registration Exercise?**</label>
     <div>
@@ -231,3 +232,4 @@ third_nav_title: P1 Registration
       </p>
     </div>
   </li>
+	</ul>
