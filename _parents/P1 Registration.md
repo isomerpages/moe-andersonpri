@@ -3,8 +3,6 @@ title: P1 Registration
 permalink: /parents/P1-Registration/
 description: ""
 ---
-
-
 <p><strong>Parent Volunteer Scheme</strong></p>
 <p>The Parent Volunteer (PV) Scheme is open to&nbsp;parents of children who are Singapore Citizens/Singapore Permanent Residents&nbsp;due for the P1 Registration Exercise.&nbsp;The school selects PV applicants who are generally able to contribute in areas which are aligned to the school&rsquo;s direction, programmes and desired outcomes for both staff and students.</p>
 <p>Registration for our PV Scheme (for 2024 P1 Intake in Phase 2B) will commence on Feb 2022 and will close on 29 Apr 2022. Our school will shortlist 20 PVs and only shortlisted PV applicant will be informed by 10 Jun 2022. </p>
