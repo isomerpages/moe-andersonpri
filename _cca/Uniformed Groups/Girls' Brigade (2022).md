@@ -29,7 +29,8 @@ third_nav_title: Uniformed Groups
 <td>Friday</td>
 <td>P3 - P6</td>
 <td>1.30 pm - 3.30 pm</td>
-<td>Outside Art Room/5.5 Classroom<td>
+<td>
+<p>Outside Art Room/ 5.5 Classroom</p>
 </td>
 </tr>
 </tbody>
