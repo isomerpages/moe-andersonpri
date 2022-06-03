@@ -223,7 +223,7 @@ third_nav_title: P1 Registration
       </p>
     </div>
   </li>
-	 <li>
+<li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6"><strong>6. Can I join Anderson Primary School as a Parent Volunteer for priority registration in Phase 2B?</strong></label>
     <div>
