@@ -3,7 +3,6 @@ title: National Arts Education Award (NAEA) 2015
 permalink: /achievements/national-arts-education-award-naea-2015
 description: ""
 ---
-
 <div><strong><u>National Arts Education Award (NAEA) 2015</u></strong></div>
 <div>&nbsp;</div>
 <div>Congratulations to Anderson Primary for achieving the NAEA Glow Award!</div>
@@ -17,4 +16,6 @@ description: ""
 <div>This award is valid for four years till 2019 and with pride, we will continue to strive and build a more vibrant and engaging environment in and through the arts for all Andersonians!</div>
 <hr />
 
-![](/images/NAEA%20logo%20glow%202015.jpg)
+
+<img src="/images/NAEA%20logo%20glow%202015.jpg" 
+     style="width:25%">
