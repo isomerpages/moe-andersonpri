@@ -2,7 +2,7 @@ collections:
   parents:
     output: true
     order:
-      - Parent Volunteer Programme.md
+      - P1 Registration.md
       - Letters to Parents.md
       - Resources for Parents.md
       - Student Care Centre.md
