@@ -5,7 +5,14 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 
+<div>
+<div style="float: left">
+<img src="/images/cca5.png" 
+     style="width:50%">
+</div>
+<div>
 <p>The 22J Boys&rsquo; Brigade (BB) Company started in Anderson Primary School in 2020. It offers a unique opportunity for boys to experience a programme designed for holistic development outside a classroom environment &ndash; with a strong emphasis on discipline and character development. It is also service oriented, grooming them to serve their families, our school and the community.</p>
+</div>
 <p>These are the 5 reasons why BB is the CCA of choice for boys:</p>
 <ol>
 <li>Leadership &ndash; We believe that every BB Boy is a leader and he will be given opportunities to lead according to his strengths.</li>
@@ -38,5 +45,3 @@ third_nav_title: Uniformed Groups
 <li>Mr William Ho (Overall Teacher-in-charge)</li>
 <li>Ms Stephanie Lim</li>
 </ul>
-
-![](/images/cca5.png)
