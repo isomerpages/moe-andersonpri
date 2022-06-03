@@ -4,12 +4,14 @@ permalink: /departments/Chinese/useful-links
 description: ""
 third_nav_title: Chinese
 ---
-
 <ul>
 <li>
 <p><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/chinese-primary-2015.pdf" target="_blank" rel="noopener">MOE Primary Chinese Syllabus (including Higher Chinese)</a></p>
 </li>
 <li>
+<p><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/images/department/CL/list_of_dictionaries_for_examination.pdf" target="_blank" rel="noopener">SEAB List of Approved Chinese Dictionaries for PSLE</a></p>
+</li>
+	<li>
 <p>MOE Primary Chinese Character List&nbsp;</p>
 <ul>
 <li>
@@ -33,9 +35,6 @@ third_nav_title: Chinese
 <p><a href="https://www.seab.gov.sg/content/syllabus/PSLE/2017_PSLE_Subject_info/0025_2017.pdf" target="_blank" rel="noopener">Foundation Chinese</a></p>
 </li>
 </ul>
-</li>
-<li>
-<p><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/images/department/CL/list_of_dictionaries_for_examination.pdf" target="_blank" rel="noopener">SEAB List of Approved Chinese Dictionaries for PSLE</a></p>
 </li>
 <li>
 <p>Other Useful Links</p>
