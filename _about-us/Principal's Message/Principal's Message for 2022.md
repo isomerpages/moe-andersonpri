@@ -4,7 +4,7 @@ permalink: /about-us/principals-message-for-2022
 description: ""
 third_nav_title: Principal's Message
 ---
-<img src="/images/tnprincipal.jpg" style="width:45%">
+<img src="/images/tnprincipal.jpg" style="width:40%">
 
 <div class="">
 <p class=""><u class=""><span class="" lang="EN-SG">Starting from Pioneers of the Future (POTF): Reimagining Learning in 2021</span></u></p>
