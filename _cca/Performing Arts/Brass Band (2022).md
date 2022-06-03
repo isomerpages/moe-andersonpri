@@ -7,7 +7,7 @@ third_nav_title: Performing Arts
 <div>
 <div style="float: left">
 <img src="/images/cca1.png" 
-     style="width:70%">
+     style="width:60%">
 </div>
 <p>Anderson Primary School Brass Band aims to create a conducive music-learning environment where our students can learn, grow and excel. We are constantly looking for ways to create the best musical experiences for our students so that they will treasure the time they spend with the Brass Band and grow their passion in music. Our Brass Band has received the Distinction Award for the third consecutive season at the SYF 2018 Arts Presentation (Brass Bands).</p>
 <center><strong><u>Our Band Vision</u></strong></center><center>We are a band with pride, ever striving to become a band of excellence, both in musical achievements and tenacity in character.</center>
@@ -50,5 +50,3 @@ Health &amp; Fitness Room</td>
 <li>Mrs Shereen Chan</li>
 <li>Mrs Eileen Lin</li>
 <li>Ms Nur Shamilah</li>
-</div>
-</div>
