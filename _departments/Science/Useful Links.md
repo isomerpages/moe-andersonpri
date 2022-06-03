@@ -4,7 +4,6 @@ permalink: /departments/Science/useful-links
 description: ""
 third_nav_title: Science
 ---
-
 <ul>
 <p><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/science-primary-2014.pdf" target="_blank" rel="noopener">MOE Primary Science Syllabus</a></p>
 <p><strong>Good Science Websites</strong></p>
@@ -18,6 +17,4 @@ third_nav_title: Science
 <li><a href="http://www.nationalgeographic.com/" target="_blank" rel="noopener">National Geographic</a></li>
 <li><a href="http://discoverykids.com/" target="_blank" rel="noopener">Discovery Kids</a></li>
 <li><a href="http://www.sciencebug.org/investigators.html" target="_blank" rel="noopener">Catch the Science Bug</a></li>
-</ul>
-</li>
 </ul>
