@@ -4,8 +4,15 @@ permalink: /cca/Performing-Arts/brass-band-2022
 description: ""
 third_nav_title: Performing Arts
 ---
+
+<div>
+<div style="float: left">
+<img src="/images/cca1.png" 
+     style="width:70%">
+</div>
 <p>Anderson Primary School Brass Band aims to create a conducive music-learning environment where our students can learn, grow and excel. We are constantly looking for ways to create the best musical experiences for our students so that they will treasure the time they spend with the Brass Band and grow their passion in music. Our Brass Band has received the Distinction Award for the third consecutive season at the SYF 2018 Arts Presentation (Brass Bands).</p>
-<center><strong><u>Our Band Vision</u></strong></center><center>We are a band with pride, ever striving to become a band of excellence, both in musical achievements and tenacity in character.</center><center><strong><u>Our Band Values (PQRS)</u></strong></center><center><strong>P</strong>assion and pride in making music<br /><strong>Q</strong>uest for skill mastery and excellence<br /><strong>R</strong>espects and cares for everyone in the team<br /><strong>S</strong>ervice from the heart</center><center><strong><u>Our Band programme (GLOW)</u></strong></center><center><strong>G</strong>rowth in skills and character<br /><strong>L</strong>eadership by role-modelling<br /><strong>O</strong>pportunities for talent development<br /><strong>W</strong>inning the community with passion</center>
+<center><strong><u>Our Band Vision</u></strong></center><center>We are a band with pride, ever striving to become a band of excellence, both in musical achievements and tenacity in character.</center>
+<center><strong><u>Our Band Values (PQRS)</u></strong></center><center><strong>P</strong>assion and pride in making music<br /><strong>Q</strong>uest for skill mastery and excellence<br /><strong>R</strong>espects and cares for everyone in the team<br /><strong>S</strong>ervice from the heart</center><center><strong><u>Our Band programme (GLOW)</u></strong></center><center><strong>G</strong>rowth in skills and character<br /><strong>L</strong>eadership by role-modelling<br /><strong>O</strong>pportunities for talent development<br /><strong>W</strong>inning the community with passion</center>
 <p><br /><br /><strong>Schedule<br /><br /></strong></p>
 <table border="0" cellpadding="10">
 <tbody>
@@ -44,8 +51,5 @@ Health &amp; Fitness Room</td>
 <li>Mrs Shereen Chan</li>
 <li>Mrs Eileen Lin</li>
 <li>Ms Nur Shamilah</li>
-</ul>
-
-<img src="/images/cca1.png" 
-     style="width:50%">
-
+</div>
+</div>
