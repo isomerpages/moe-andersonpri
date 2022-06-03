@@ -4,8 +4,12 @@ permalink: /cca/Performing-Arts/dance-ensemble-2022
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
+<div>
+<div style="float: left">
+<img src="/images/cca2.png" 
+     style="width:50%">
+</div>
+<div>
 <p>Our Dance troupe is open to Primary 2 to Primary 6 students who have a passion for dance. Students will learn the techniques and performance skills that enable them to develop good physical coordination, and poise in movement and form. They will have the opportunities to take part in school events and outdoor performances.&nbsp;</p>
 <p><strong>Schedule&nbsp;</strong></p>
 <table border="0" cellspacing="0" cellpadding="8">
@@ -40,5 +44,5 @@ third_nav_title: Performing Arts
 <p>Ms Aretha Cheong</p>
 </li>
 </ul>
-
-![](/images/cca2.png)
+</div>
+</div>
