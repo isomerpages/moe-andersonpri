@@ -2,13 +2,13 @@ collections:
   parents:
     output: true
     order:
-      - Road Safety.md
       - Letters to Parents.md
       - Resources for Parents.md
       - Student Care Centre.md
       - FamilyMatters @ School.md
       - P1 Registration.md
       - Waiting List for Transfer & Admission Form.md
+      - Road Safety.md
       - Programme for Active Learning (PAL).md
       - Sexuality Education Programme.md
       - Quick Links.md
