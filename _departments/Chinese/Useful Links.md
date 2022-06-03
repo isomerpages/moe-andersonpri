@@ -11,7 +11,7 @@ third_nav_title: Chinese
 <li>
 <p><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/images/department/CL/list_of_dictionaries_for_examination.pdf" target="_blank" rel="noopener">SEAB List of Approved Chinese Dictionaries for PSLE</a></p>
 </li>
-	<li>
+<li>
 <p>MOE Primary Chinese Character List&nbsp;</p>
 <ul>
 <li>
@@ -36,9 +36,10 @@ third_nav_title: Chinese
 </li>
 </ul>
 </li>
+
 <li>
 <p>Other Useful Links</p>
-</li>
+<ul>
 <li>
 <p><a href="https://sites.google.com/a/dizigui.org.sg/english/home" target="_blank" rel="noopener">Di Zi Gui Websites</a></p>
 </li>
