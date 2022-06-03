@@ -3,5 +3,5 @@ title: School Song
 permalink: /about-us/school-song
 description: ""
 ---
-
-![](/images/schoolsonglyrics.jpg)
+<img src="/images/schoolsonglyrics.jpg" 
+     style="width:75%">
