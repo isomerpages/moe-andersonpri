@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 <div>
 <div style="float: left">
 <img src="/images/cca4.png" 
-     style="width:50%">
+     style="width:45%">
 </div>
 <div>
 <p>The 22nd Girls&rsquo; Brigade (GB) Company started in Anderson Primary School in 2020. The CCA aims to develop character and skills so that the girls can achieve their fullest potential through positive character-based teachings and activities. In addition, we aim to equip, empower and enable every girl to be a leader.&nbsp;</p>
