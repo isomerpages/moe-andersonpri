@@ -4,4 +4,4 @@ permalink: /about-us/school-song
 description: ""
 ---
 <img src="/images/schoolsonglyrics.jpg" 
-     style="width:75%">
+     style="width:70%">
