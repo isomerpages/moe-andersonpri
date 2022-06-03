@@ -4,7 +4,6 @@ permalink: /departments/character-n-citizenship-education/student-leadership
 description: ""
 third_nav_title: C&C Education
 ---
-
 <p style="text-align: center;">“A leader is one who knows the way, goes the way and shows the way.”</p>
 <p style="text-align: center;">~ John C. Maxwell</p>
 <p>&nbsp;</p>
