@@ -3,13 +3,14 @@ title: Student Care Centre
 permalink: /parents/student-care-centre
 description: ""
 ---
-
-
 <p><strong>Student Care Centre at Anderson Primary School</strong></p>
 <p>Anderson Primary School&rsquo;s school-based Student Care Centre (SCC) was set up in January 2018 with the aim of providing an after-school environment which is safe, structured and conducive for rest and learning after school hours. Managed by Commit Learning Schoolhouse, our school-based SCC plans programmes which are student-centric, age-appropriate and provide opportunities for Andersonians to develop social and emotional competencies. With a focus on inculcating positive values, the SCC teachers strive to engage the students with interesting activities and programmes.</p>
 <p>If you are keen to enrol your child in the SCC, please complete the 'Indication of Interest in SCC Form'.&nbsp;You may access the form by clicking the link or scanning the QR code below.&nbsp;The school will contact you if there is an available vacancy for your child.</p>
 
-![](/images/andps_scc_interest_form2021_ed.png)
+
+<img src="/images/andps_scc_interest_form2021_ed.png" 
+     style="width:60%">
+
 
 <p style="text-align: center;"><a href="https://go.gov.sg/andps-scc-interestform">https://go.gov.sg/andps-scc-interestform</a></p>
 <p><strong>Anderson Primary School-Based SCC Enrolment Policy (wef 2020)&nbsp;<br /></strong>To ensure that our school-based SCC vacancies are able to cater to students with higher needs, we conduct a review of our SCC student enrolment once every 2 years. The next review will be done in Term 3, 2022 (for enrolment in Jan 2023). Parents of existing SCC students will be notified to submit their interest for a place in the SCC.</p>
