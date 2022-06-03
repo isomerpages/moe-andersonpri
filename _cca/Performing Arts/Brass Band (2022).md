@@ -4,7 +4,6 @@ permalink: /cca/Performing-Arts/brass-band-2022
 description: ""
 third_nav_title: Performing Arts
 ---
-
 <div>
 <div style="float: left">
 <img src="/images/cca1.png" 
