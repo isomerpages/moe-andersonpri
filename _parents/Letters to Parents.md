@@ -3,26 +3,6 @@ title: Letters to Parents
 permalink: /parents/letters-to-parents
 description: ""
 ---
-**March**
-
-**April**
-
-**May**
-
-**June**
-
-**July**
-
-**August**
-
-**September**
-
-**October**
-
-**November**
-
-**December**
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
