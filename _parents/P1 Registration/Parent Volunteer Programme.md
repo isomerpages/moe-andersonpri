@@ -176,7 +176,7 @@ third_nav_title: P1 Registration
  <ul class="jekyllcodex_accordion">
  <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">1. **Who can participate in the 2022 Primary One Registration Exercise?**</label>
+    <label for="accordion1"><strong>1. Who can participate in the 2022 Primary One Registration Exercise?</strong></label>
     <div>
       <p>
        Children born between 2 January 2016 and 1 January 2017 (both dates inclusive) can participate in the 2022 Primary One Registration Exercise for admission to Primary One Classes in 2023.
@@ -185,7 +185,7 @@ third_nav_title: P1 Registration
   </li>
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">2. **When is the Primary One Registration Exercise conducted?**</label>
+    <label for="accordion2"><strong>2. When is the Primary One Registration Exercise conducted?</strong></label>
     <div>
       <p>
 	The Primary One Registration Exercise is conducted from July to August.
@@ -194,7 +194,7 @@ third_nav_title: P1 Registration
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">3. **How do I register my child for P1 in Anderson Primary School?**</label>
+    <label for="accordion3"><strong>3. How do I register my child for P1 in Anderson Primary School?</strong></label>
     <div>
       <p>
 <p>Parents should refer to the&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" target="_blank" rel="noopener">registration phases and procedures&nbsp;</a>to find out which phase their children are eligible for, how to register and the&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/how-to-register" target="_blank" rel="noopener">documents required&nbsp;</a>for registration.&nbsp;</p>
@@ -228,7 +228,7 @@ third_nav_title: P1 Registration
     <label for="accordion6"><strong>6. Can I join Anderson Primary School as a Parent Volunteer for priority registration in Phase 2B?</strong></label>
     <div>
       <p>
-       In order to be eligible for the Registration in the Phase 2B in the Primary One Registration Exercise, parents must join the school as a Parent Volunteer (PV) at least 1 year before the Registration Exercise and fulfil at least 40 hours of PV service by 30th June before the P1 Registration starts.&nbsp;</p>
+       In order to be eligible for the Registration in the Phase 2B in the Primary One Registration Exercise, parents must join the school as a Parent Volunteer (PV) at least 1 year before the Registration Exercise and fulfil at least 40 hours of PV service by 30th June before the P1 Registration starts.&nbsp;
       </p>
     </div>
   </li>
