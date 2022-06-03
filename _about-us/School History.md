@@ -15,5 +15,3 @@ description: ""
 <p>The school is presently headed by Mdm Delia Hoo, Principal, Mrs Jane Chng, Vice-Principal (Academic) and Mr Low Kah Shen, Vice-Principal (Administration). The current leadership team will seek to build on the foundation laid and to develop compelling school goals aimed at taking the school to the next level of excellence.</p>
 
 ![](/images/history_img2.jpg)
-	
-![](/images/history_img2.jpg)
