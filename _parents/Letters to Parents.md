@@ -40,4 +40,14 @@ description: ""
     <div>
       <p><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20P6%20Class%20Tests.pdf" target="_blank" rel="noopener">2022 P6 Common Test</a></p>
     </div>
+
+
+</li>
+	<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">February</label>
+    <div>
+      <p><a href="https://youtu.be/Xzjbbn3H3tg" target="">Student Leaders' Investiture 2022</a></p>
+    </div>
 	</li>
