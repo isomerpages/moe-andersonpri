@@ -3,7 +3,6 @@ title: Programme for Active Learning (PAL)
 permalink: /parents/programme-for-active-learning-pal
 description: ""
 ---
-
 <p>As part of the Primary Education Review and Implementation (PERI) recommendations, Programme for Active Learning (PAL) was conceptualised to address the need for greater emphasis on non-academic programmes for all Primary 1 and Primary 2 pupils. The following are the objectives of PAL:</p>
 <ol>
 <li>
@@ -35,4 +34,5 @@ description: ""
 </ol>
 <p>Collectively, PAL modules will enhance the total experience of pupils in primary schools in the five domains of learning for a holistic education.&nbsp;</p>
 
-![](/images/pal.png)
+<img src="/images/pal.png" 
+     style="width:50%">
