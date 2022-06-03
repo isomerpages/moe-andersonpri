@@ -7,7 +7,7 @@ third_nav_title: Performing Arts
 <div>
 <div style="float: left">
 <img src="/images/cca2.png" 
-     style="width:52%">
+     style="width:45%">
 </div>
 <div>
 <p>Our Dance troupe is open to Primary 2 to Primary 6 students who have a passion for dance. Students will learn the techniques and performance skills that enable them to develop good physical coordination, and poise in movement and form. They will have the opportunities to take part in school events and outdoor performances.&nbsp;</p>
