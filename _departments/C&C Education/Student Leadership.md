@@ -6,15 +6,12 @@ third_nav_title: C&C Education
 ---
 <p style="text-align: center;">“A leader is one who knows the way, goes the way and shows the way.”</p>
 <p style="text-align: center;">~ John C. Maxwell</p>
-<p>&nbsp;</p>
-<p>This quote by John C. Maxwell reminds us of our mission to nurture outstanding student leaders who put others before self, who lead others out of a sincere heart, and who advocate the will to act for the school and community. It is our belief that a leader must lead self and others with a strong moral compass. They are to lead out of a light that shines the path for others.</p>
-<div>&nbsp;</div>
-<div>
-<p>Our vision for Student Leadership is to develop every Andersonian to be a confident Leader with Heart, who exemplify the school motto of courage and sincerity, and take initiative in making a positive difference in the school and community. Guided by our school values, PQRS, and the desired school culture of LIGHT, the school aspires to equip all students with values and competencies necessary to be authentic leaders who embrace a constancy of purpose in discovering and leading oneself, inspiring others and subsequently stewarding positive change in our community.</p>
-<div><strong>&nbsp;</strong></div>
-<p><strong>Anderson Student Leaders Council (SLC)</strong></p>
 
-<p>The Student Leaders Council (SLC) is set up to bring cohesiveness and coherence to the overall student leadership development in ANDPS. For students who demonstrate the potential to take up formal student leadership positions and are keen to further develop their leadership competencies, they can be part of any of the following five formal leadership boards:</p>
+<p>This quote by John C. Maxwell reminds us of our mission to nurture outstanding student leaders who put others before self, who lead others out of a sincere heart, and who advocate the will to act for the school and community. It is our belief that a leader must lead self and others with a strong moral compass. They are to lead out of a light that shines the path for others.</p>
+<p>Our vision for Student Leadership is to develop every Andersonian to be a confident Leader with Heart, who exemplify the school motto of courage and sincerity, and take initiative in making a positive difference in the school and community. Guided by our school values, PQRS, and the desired school culture of LIGHT, the school aspires to equip all students with values and competencies necessary to be authentic leaders who embrace a constancy of purpose in discovering and leading oneself, inspiring others and subsequently stewarding positive change in our community.</p>
+
+<p><strong>Anderson Student Leaders Council (SLC)</strong><br>
+The Student Leaders Council (SLC) is set up to bring cohesiveness and coherence to the overall student leadership development in ANDPS. For students who demonstrate the potential to take up formal student leadership positions and are keen to further develop their leadership competencies, they can be part of any of the following five formal leadership boards:</p>
 <ul>
 <li>School Prefectorial Board (SPB)</li>
 <li>Character &amp; Citizenship Education Ambassadors (CCEA)</li>
