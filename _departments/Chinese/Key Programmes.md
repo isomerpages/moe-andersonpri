@@ -4,11 +4,9 @@ permalink: /departments/Chinese/key-programmes
 description: ""
 third_nav_title: Chinese
 ---
-
 <ul>
 <li>
-<p><strong>Di Zi Gui CCE Lessons (弟子规）</strong></p>
-<p>Di Zi Gui is taught during our CL CCE lessons to all P1 to P4 students. Through Di Zi Gui, our students learn the values of Filial Piety, Respect, Responsibility, Resilience, Integrity, Care, ;Harmony and Diligence.&nbsp;</p>
+<p><strong>Di Zi Gui CCE Lessons (弟子规)</strong><br>Di Zi Gui is taught during our CL CCE lessons to all P1 to P4 students. Through Di Zi Gui, our students learn the values of Filial Piety, Respect, Responsibility, Resilience, Integrity, Care, ;Harmony and Diligence.&nbsp;</p>
 </li>
 </ul>
 
@@ -16,8 +14,7 @@ third_nav_title: Chinese
 <p style="text-align: center;">Lessons conducted by Zhong Hua Cultural Society(Singapore)</p>
 <ul>
 <li>
-<p><strong>Primary 3 Language and Cultural Camp（语文与文化营）</strong></p>
-<p>P3 Chinese Language and Cultural Camp is a half-day camp. It provides an immersion environment with authentic learning experiences for students to learn and use Chinese Language and to appreciate the Chinese culture through hands-on activities.</p>
+<p><strong>Primary 3 Language and Cultural Camp（语文与文化营）</strong><br>P3 Chinese Language and Cultural Camp is a half-day camp. It provides an immersion environment with authentic learning experiences for students to learn and use Chinese Language and to appreciate the Chinese culture through hands-on activities.</p>
 </li>
 </ul>
 
@@ -25,8 +22,7 @@ third_nav_title: Chinese
 
 <ul>
 <li>
-<p><strong>Extensive Reading Programmes（阅读计划）</strong></p>
-<p>This programme aims to foster interest in reading CL books among our students. CL students are provided with age-appropriate books. Through reading CL books extensively, students will be able to further increase their vocabulary in CL and cultivate the habit of reading CL books.</p>
+<p><strong>Extensive Reading Programmes（阅读计划）</strong><br>This programme aims to foster interest in reading CL books among our students. CL students are provided with age-appropriate books. Through reading CL books extensively, students will be able to further increase their vocabulary in CL and cultivate the habit of reading CL books.</p>
 </li>
 </ul>
 
@@ -38,8 +34,7 @@ third_nav_title: Chinese
 
 <ul>
 <li>
-<div><strong>Primary 1 to 6 Learning Trails（学习之旅）</strong></div>
-<p>The Chinese Learning Trails enhance students&rsquo; interest in Chinese Language and culture through various activities. These activities include interactive storytelling, cultural performance exposure and tea appreciation.</p>
+<div><strong>Primary 1 to 6 Learning Trails（学习之旅）</strong><br>The Chinese Learning Trails enhance students&rsquo; interest in Chinese Language and culture through various activities. These activities include interactive storytelling, cultural performance exposure and tea appreciation.</p>
 </li>
 </ul>
 
