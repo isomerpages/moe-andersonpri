@@ -17,7 +17,7 @@ third_nav_title: Clubs & Societies
 <tr>
 <td>Thursday</td>
 <td>P3 - P6</td>
-<td>1.30 p.m.<br />- 3.30 pm</td>
+<td>1.30 p.m- 3.30 pm</td>
 <td>Computer Lab 3</td>
 </tr>
 </tbody>
