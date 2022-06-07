@@ -9,7 +9,7 @@ third_nav_title: Chinese
 
 ![](/images/chinese_img.jpg)
 
-<p><strong>Announcements (2020)</strong>
+<p><strong>Announcements (2020)</strong></p>
 <ul>
 <li>
 <p><a href="https://www.facebook.com/permalink.php?story_fbid=3485612994809053&amp;id=248457555191296" target="_blank" rel="noopener">21st International Chinese Language Competition 2020(2020年国际小学生电脑创意写作比赛)</a></p>
