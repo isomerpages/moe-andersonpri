@@ -11,7 +11,7 @@ third_nav_title: Clubs & Societies
 </div>
 <div>
 <p>Anderson Art Club welcomes all with an interest in drawing, painting and craft making to be part of a quality art programme to realise the joy of art making. Students get to experiment with a wide variety of materials, gain deeper understanding of elements of art and principles of design, and work together on projects and exhibitions. At the recent AMK Hub Recycling Competition 2018, one of the Art Club&rsquo;s upcycled creations titled 'Chandelier' has been awarded the first prize in the competition.</p>
-<p><br /><strong>Schedule<br /></strong></p>
+<p><strong>Schedule</strong></p>
 <table class="iveo_table" border="1" cellspacing="0" cellpadding="10">
 <tbody>
 <tr>
@@ -28,7 +28,7 @@ third_nav_title: Clubs & Societies
 </tr>
 </tbody>
 </table>
-<p><br /><strong>Teacher-In-Charge</strong></p>
+<p><strong>Teacher-In-Charge</strong></p>
 <ul>
 <li>Mrs Maefrize Khoo (Overall Teacher-in-charge)</li>
 <li>Mrs Mahimy</li>
