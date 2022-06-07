@@ -4,10 +4,8 @@ permalink: /cca/Sports-and-Games/volleyball-2022
 description: ""
 third_nav_title: Sports & Games
 ---
-
-
 <p>Our volleyball teams consist of P3 to P6 students. Our students are trained by our professional and well-accredited coaches to equip them to play at a competitive level to take part in various volleyball competitions such as the North Zone Inter-Primary Schools Volleyball Championship and National Volleyball Championship. Our coaches focus on teaching various aspects of volleyball skills so that the students are proficient in a wide repertoire of offensive and defensive skills. As a result of this methodical approach, our teams have done well over the years.</p>
-<p><strong>Schedule</strong><br /><br /></p>
+<p><strong>Schedule</strong></p>
 <table border="0" cellspacing="0" cellpadding="10">
 <tbody>
 <tr>
@@ -30,7 +28,7 @@ third_nav_title: Sports & Games
 </tr>
 </tbody>
 </table>
-<p><br /><strong>Teachers-In-Charge</strong></p>
+<p><strong>Teachers-In-Charge</strong></p>
 <ul>
 <li>Mr Poh Chee Peng (Overall Teacher-in-charge)</li>
 <li>Mrs Lena Ho</li>
