@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 ---
 <p>Our Guzheng Ensemble was formed in 2001. The ensemble strives to grow in strength and has won several accolades in various local and International competitions. The ensemble also performs regularly in community events, sharing Guzheng&rsquo;s unique brand of music to its appreciative audience. In 2018, our Guzheng Ensemble received the Distinction award in the SYF 2018 Arts Presentation.</p>
-<p><strong>Schedule</strong><br /><br /></p>
+<p><strong>Schedule</strong></p>
 <table border="0" cellspacing="0" cellpadding="10">
 <tbody>
 <tr>
