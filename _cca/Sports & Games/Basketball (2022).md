@@ -4,9 +4,8 @@ permalink: /cca/Sports-n-Games/basketball-2022
 description: ""
 third_nav_title: Sports & Games
 ---
-
 <p>Anderson Basketball Team provides opportunity for students to develop the fundamental skills of basketball playing and instill in them good values and values such as discipline, respect and sportsmanship. Our students are drawn from P3 to P6. They are trained by accredited basketball coaches. Over the years, we are able to achieve success at various competitions such as the North Zone Inter-Primary Schools Basketball Championship and the National Basketball Championship.</p>
-<p><br /><strong>Schedule</strong><br /><br /></p>
+<p><strong>Schedule</strong></p>
 <table border="0" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
@@ -31,7 +30,7 @@ third_nav_title: Sports & Games
 </tr>
 </tbody>
 </table>
-<p><br /><strong>Teachers-In-Charge</strong></p>
+<p><strong>Teachers-In-Charge</strong></p>
 <ul>
 <li>Mdm Jumiati Mohd Sidek (Overall Teacher-in-charge)</li>
 <li>Mdm Cheong Hwee Hua</li>
