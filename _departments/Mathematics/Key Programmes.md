@@ -4,7 +4,6 @@ permalink: /departments/Mathematics/key-programmes
 description: ""
 third_nav_title: Mathematics
 ---
-
 <p>Our Math programmes and learning experiences are uniquely planned and designed so as to develop in our students a deep understanding of mathematical concepts. These learning experiences include hands-on activities and the use of technological aids to help them relate abstract mathematical concepts with concrete experiences.&nbsp;</p>
 
 ![](/images/mathkeyprogrammes.jpg)
@@ -41,12 +40,11 @@ their learning. Students have lots of fun in their mathematics learning as they 
 ![](/images/tncubes.jpg)
 
 <p><strong>ICT-infused lessons, Model-Eliciting Activities (MEA), Topical &amp; Heuristics Worksheets&nbsp;</strong>
-<p>ICT infused lessons are designed to provide opportunities for students to work collaboratively, deepen their understanding of mathematical concepts and be self-directed Mathematics Learner.&nbsp;</p>
+<br>ICT infused lessons are designed to provide opportunities for students to work collaboratively, deepen their understanding of mathematical concepts and be self-directed Mathematics Learner.&nbsp;</p>
 <p>Model-Eliciting Activities (MEAs) consists of a series of lessons to provide students with opportunities to develop creative and applied mathematical thinking through real-world problem or situation and attempting to find solutions to the problems.</p>
 <p>Topical worksheets are developed for all levels to provide a formative assessment on their learning and reinforce concepts learnt in Mathematics lessons. A structured set of heuristics worksheets is designed to develop and strengthen students&rsquo; problem-solving skills through the use of various heuristics and thinking skills.&nbsp;</p>
 <p></p>
-<p><strong>Competitions</strong></p>
-<p>P4 to P6 students who have shown aptitude in Mathematics will be selected to take&nbsp;part in the following Mathematics competitions:</p>
+<p><strong>Competitions</strong><br>P4 to P6 students who have shown aptitude in Mathematics will be selected to take&nbsp;part in the following Mathematics competitions:</p>
 <ul>
 <li>Primary Mathematics Project Competition</li>
 <li>Annual Mathlympics</li>
