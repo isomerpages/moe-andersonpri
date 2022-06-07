@@ -4,7 +4,6 @@ permalink: /departments/Mathematics/vision-n-mission
 description: ""
 third_nav_title: Mathematics
 ---
-
 ![](/images/Math%20Dept%20Banner%202020.jpg)
 
 <p><strong>Vision<br /></strong>Resilient and Reflective Problem Solvers who can connect Mathematics to everyday life situations.</p>
