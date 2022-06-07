@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Sitemap
+title: Anderson Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -23,4 +23,5 @@ sections:
       title: Announcements
       button: More announcements
 ---
+
 
