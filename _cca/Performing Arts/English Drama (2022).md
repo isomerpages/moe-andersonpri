@@ -4,9 +4,8 @@ permalink: /cca/Performing-Arts/english-drama-2022
 description: ""
 third_nav_title: Performing Arts
 ---
-
 <p>The English Drama first started in 2000. Our aim is to provide students with opportunities to develop self-confidence, creativity and drama skills that are useful in building their disposition in public speaking. We work with established drama companies such as The Necessary Stage and Act 3 International and seek to put up performances both in school and at other public platforms.</p>
-<p><strong>Schedule</strong><br /><br /></p>
+<p><strong>Schedule</strong></p>
 <table border="0" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
@@ -23,7 +22,7 @@ third_nav_title: Performing Arts
 </tr>
 </tbody>
 </table>
-<p><br /><strong>Teachers-In-Charge</strong></p>
+<p><strong>Teachers-In-Charge</strong></p>
 <ul>
 <li>Ms Erica Tan (Overall Teacher-in-Charge)</li>
 <li>
