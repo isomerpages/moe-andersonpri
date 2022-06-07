@@ -4,24 +4,26 @@ permalink: /distinctive-programmes/andventure/learning-experiences
 description: ""
 third_nav_title: ANDventure
 ---
-
-
-
 <p>Since its inception in 2016, the ANDventure programme is curated and reviewed year-on-year to ensure that the learning experiences remain relevant, meaningful and engaging. There are modules (interwoven with existing music and art curriculum) for all to experience, as well as masterclasses for students who wish to further their interest in the different genres or art forms.</p>
 <p>Our ANDventure modules aim to:</p>
-<p>- equip students with 21CC and SEL competencies</p>
-<p>- prepare students to be future-ready</p>
-<p>-&nbsp;empower students&rsquo; voice through student advocacy</p>
-<p>- inculcate positive values of other-centredness and empathy</p>
-<p>-&nbsp;help students make conceptual connections across different subjects</p>
+<p>- Equip students with 21CC and SEL competencies</p>
+<p>- Prepare students to be future-ready</p>
+<p>-&nbsp;Empower students&rsquo; voice through student advocacy</p>
+<p>- inculcate Positive values of other-centredness and empathy</p>
+<p>-&nbsp;Help students make conceptual connections across different subjects</p>
+<div class="horizontal-scroll">
 <table>
 <tbody>
 <tr>
-<th>For All</th>
-<th>Arts Integration Modules</th>
 <th>
-<div>Arts Elective Masterclass&nbsp;</div>
-<div>(For students with high interest/high ability)</div>
+<p>For All</p>
+</th>
+<th>
+<p>Arts Integration Modules</p>
+</th>
+<th>
+<p>Arts Elective Masterclass&nbsp;</p>
+<p>(For students with high interest/high ability)</p>
 </th>
 </tr>
 <tr>
@@ -102,3 +104,4 @@ third_nav_title: ANDventure
 </tr>
 </tbody>
 </table>
+</div>
