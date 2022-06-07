@@ -4,9 +4,6 @@ permalink: /achievements/co-curriculum/2020
 description: ""
 third_nav_title: Co Curriculum
 ---
-
-
-
 <table border="1" cellspacing="0" cellpadding="10">
 <thead>
 <tr>
@@ -23,7 +20,6 @@ third_nav_title: Co Curriculum
 <li>Senior Boys Basketball Team</li>
 </ul>
 <div>
-<div>&nbsp;</div>
 </div>
 </div>
 </td>
