@@ -9,7 +9,7 @@ third_nav_title: ANDventure
 <p>- Equip students with 21CC and SEL competencies</p>
 <p>- Prepare students to be future-ready</p>
 <p>-&nbsp;Empower students&rsquo; voice through student advocacy</p>
-<p>- inculcate Positive values of other-centredness and empathy</p>
+<p>- Inculcate Positive values of other-centredness and empathy</p>
 <p>-&nbsp;Help students make conceptual connections across different subjects</p>
 <div class="horizontal-scroll">
 <table>
