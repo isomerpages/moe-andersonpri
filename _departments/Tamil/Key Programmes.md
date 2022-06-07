@@ -4,7 +4,6 @@ permalink: /departments/Tamil/key-programmes
 description: ""
 third_nav_title: Tamil
 ---
-
 <p><strong>Mother Tongue Fortnight<br /></strong>A variety of activities and workshops based on Tamil Language and culture are carried out during Mother Tongue Fortnight to enthuse Tamil students to speak the language and know more about their culture. The two weeks of activities culminates with a concert, Muthamizh Vizha, where all the students get to perform in a group song, dance or drama for parents to see.</p>
 
 ![](/images/games.jpg)
