@@ -4,7 +4,6 @@ permalink: /achievements/Curriculum/2020-1
 description: ""
 third_nav_title: Curriculum
 ---
-
 <table border="1" cellspacing="0" cellpadding="10">
 <thead>
 <tr>
