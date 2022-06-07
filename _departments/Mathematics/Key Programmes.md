@@ -57,5 +57,4 @@ their learning. Students have lots of fun in their mathematics learning as they 
 ![](/images/tnmoremoknan.jpg)
 
 <p style="text-align: center;">Mokanan, 6.6 (2020)</p>
-
 <p><strong><br />KooBits Problem Sums online portal (P1 to 6)<br /></strong>Anderson Primary School adopts KooBits, an online learning portal for Problem Solving to engage students in Math learning.</p>
