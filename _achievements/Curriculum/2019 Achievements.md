@@ -4,8 +4,6 @@ permalink: /achievements/curriculum/2019
 description: ""
 third_nav_title: Curriculum
 ---
-
-
 <table border="1" cellspacing="0" cellpadding="10">
 <thead>
 <tr>
@@ -27,41 +25,41 @@ third_nav_title: Curriculum
 <li>Josiah Delroy Huang (P6.6)</li>
 <li>Gerard Goh Jing Xian (P6.6)</li>
 </ul>
-&nbsp;<br />Best Speaker (1st and 2nd Debate Rounds)<br />
+Best Speaker (1st and 2nd Debate Rounds)<br />
 <ul>
 <li>Christopher Uday Daniel (P6.5)</li>
 </ul>
-<br />Best Speaker (3rd Debate Round)<br />
+Best Speaker (3rd Debate Round)<br />
 <ul>
 <li>Shayenne Leong (P6.6)</li>
 </ul>
-<br /><strong>POSB-NLB Kids' Lit Quiz 2019</strong>&nbsp;<br />North Zone Heats - 7th Position<br />
+<strong>POSB-NLB Kids' Lit Quiz 2019</strong>&nbsp;<br />North Zone Heats - 7th Position<br />
 <ul>
 <li>Li Xinyao (P5.4)</li>
 <li>Lim Jun Yu Keane (P5.4)</li>
 <li>Shyanne Cheong Xin Yan (5.4)</li>
 <li>Toh Wang Kai En (P5.4)</li>
 </ul>
-<br />North Zone Heats - 17th Position<br />
+North Zone Heats - 17th Position<br />
 <ul>
 <li>Xia Kang (P5.5)</li>
 <li>Isaac Chiew Jun Yan (P5.3)</li>
 <li>Evelyn Victoria Wijaya (P5.5)</li>
 <li>Xu Zichen (P5.6)</li>
 </ul>
-<strong><br />Speak Up! Kids Competition 2019</strong><br />&nbsp;Champion&nbsp;<br />
+<strong>Speak Up! Kids Competition 2019</strong><br />&nbsp;Champion&nbsp;<br />
 <ul>
 <li>Rachel Chua Man-Hui (P2.4)</li>
 <li>Ian Chong Zhe Hao (P2.4)</li>
 <li>Teoh Kai Yang, Kyler (P2.7)</li>
 </ul>
-<br />1st Runner Up<br />
+1st Runner Up<br />
 <ul>
 <li>Jake Ng Chongkai (P2.3)</li>
 <li>Wong Ruijia (P2.7)</li>
 <li>Choo En Cheng, Kieran (P2.7)</li>
 </ul>
-<br />Finalists<br />
+Finalists
 <ul>
 <li>Sophia Nadya Habib Ansari (P3.4)</li>
 <li>Ry'anna Aliyah Sembiring Bte Rudy Sembiring (P3.6)</li>
@@ -76,11 +74,11 @@ third_nav_title: Curriculum
 <li>Jovan Lim Chen Yu (P5.6)</li>
 <li>Tan Kee Neng Frank (P5.6)</li>
 </ul>
-<br /><strong>33rd YMCA Plain English Speaking Awards (PESA)</strong><br />&nbsp;Top 14<br />
+<strong>33rd YMCA Plain English Speaking Awards (PESA)</strong><br />&nbsp;Top 14<br />
 <ul>
 <li>Ryan Ng (5.6)</li>
 </ul>
-<br />&nbsp;Semi-Finalists<br />
+&nbsp;Semi-Finalists<br />
 <ul>
 <li>Kayla Chong (P5.4)</li>
 </ul>
@@ -92,33 +90,33 @@ third_nav_title: Curriculum
 <ul>
 <li>Li Wen Xuan (P5.6)</li>
 </ul>
-<div><br />Bronze Award<br />
+<div>Bronze Award
 <ul>
 <li>Jovan Lim Chen Yu (P5.6)</li>
 <li>Krishnagopalan Mokanan (P5.6)</li>
 </ul>
-<br />Honourable Mention Award<br />
+Honourable Mention Award
 <ul>
 <li>Dong Shaoting (P5.6)</li>
 <li>Goh Yun Jie (P5.6)</li>
 <li>Keefe Ng Swee Kiat (P5.6)</li>
 </ul>
-<br />Participated<br />
+Participated
 <ul>
 <li>Khoo Jing Xuan Steffi (P5.6)</li>
 <li>Ng Ya Xuan, Eva (P5.6)</li>
 <li>Yap Zhuo Xun (P5.6)</li>
 <li>Tan Kee Neng Frank (P5.6)</li>
 </ul>
-<br /><strong>&nbsp;Primary Mathematics Project</strong><br />&nbsp;P5 Game Design Category - Commendation Award<br />
+<strong>&nbsp;Primary Mathematics Project</strong><br />&nbsp;P5 Game Design Category - Commendation Award
 <ul>
 <li>Krishnagopalan Mokanan (P5.6)</li>
 </ul>
-<div><br /><br /><strong>&nbsp;Singapore Mathematical Olympiad for Primary Schools (SMOPS)</strong><br />&nbsp;Silver Award<br />
+<div><strong>&nbsp;Singapore Mathematical Olympiad for Primary Schools (SMOPS)</strong><br />&nbsp;Silver Award<br />
 <ul>
 <li>Kang Jun Jie, Joseph (P6.4)</li>
 </ul>
-<div><br />Participated<br />
+<div>Participated
 <ul>
 <li>Wang Shiyu (P6.6)</li>
 <li>Fong Jian Wen (P6.6)</li>
@@ -133,17 +131,17 @@ third_nav_title: Curriculum
 <li>Phoebe Ng Songen (P6.4)</li>
 </ul>
 </div>
-<br /><strong>Raffles Institution Primary Mathematics World Contest (RIPMWC) 2019</strong><br />&nbsp;Distinction Award<br />
+<strong>Raffles Institution Primary Mathematics World Contest (RIPMWC) 2019</strong><br />&nbsp;Distinction Award
 <ul>
 <li>Jenna Tan Jia Xuan (P6.6)</li>
 </ul>
-<br />Credit Award<br />
+Credit Award
 <ul>
 <li>Kang Jun Jie, Joseph (P6.4)</li>
 <li>Leung Kai Heng, Sean (P6.6)</li>
 <li>Shaun Tan Rui Kai (P6.6)</li>
 </ul>
-<br />Participated<br />
+Participated
 <ul>
 <li>Wang Shiyu (P6.6)</li>
 <li>Fong Jian Wen (P6.6)</li>
@@ -162,11 +160,11 @@ third_nav_title: Curriculum
 <li>Rachel Tan Sze Hwee (P6.4)</li>
 <li>Phoebe Ng Songen (P6.4)</li>
 </ul>
-<br /><strong>Annual Mathlympics 2019</strong><br />&nbsp;Silver Award<br />
+<strong>Annual Mathlympics 2019</strong><br />&nbsp;Silver Award<br />
 <ul>
 <li>Krishnagopalan Mokanan (P5.6)</li>
 </ul>
-<div><br />Participated<br />
+<div>Participated
 <ul>
 <li>Chen Yu (P5.6)</li>
 <li>K-Den Tan Kai Da (P5.6)</li>
@@ -194,17 +192,17 @@ third_nav_title: Curriculum
 <ul>
 <li>Wong Bo Hui (P4.4)</li>
 </ul>
-<div><br />Upper Primary Category - 4th Position<br />
+<div>Upper Primary Category - 4th Position<br />
 <ul>
 <li>Wong Bo Xi (P4.4)</li>
 </ul>
 </div>
-<br /><strong>2nd Text Recitation Competition for Primary and Secondary Schools</strong><br />&nbsp;Lower Primary Category (Group) - 2nd Position<br />
+<strong>2nd Text Recitation Competition for Primary and Secondary Schools</strong><br />&nbsp;Lower Primary Category (Group) - 2nd Position<br />
 <ul>
 <li>Chuah Cheng Xun (P3.4)</li>
 <li>Liao Wei Jie (P3.4)</li>
 </ul>
-<br />Lower Primary Category (Single) - Silver Award<br />
+Lower Primary Category (Single) - Silver Award<br />
 <ul>
 <li>Chong Yi Ting Pearlys (P3.4)</li>
 </ul>
@@ -225,15 +223,15 @@ third_nav_title: Curriculum
 <li>Angela Liu Ruoyan (P4.3)</li>
 <li>Chuah Cheng Xun (P3.4)</li>
 </ul>
-<br /><strong>&nbsp;Periyar Community Service of Singapore (PCSS)</strong><br />Singing Category - 2nd Position<br />
+<strong>&nbsp;Periyar Community Service of Singapore (PCSS)</strong><br />Singing Category - 2nd Position<br />
 <ul>
 <li>Harshini Arun (P3.5)</li>
 </ul>
-<br />Art Category - Consolation<br />
+Art Category - Consolation<br />
 <ul>
 <li>Ali Mohamed Suha (P4.5)</li>
 </ul>
-<br /><strong>&nbsp;Your Talent! Our Pride! Yio Chu Kang Community</strong><br />Primary 4 to Primary 6 Category - 3rd Position<br />
+<strong>&nbsp;Your Talent! Our Pride! Yio Chu Kang Community</strong><br />Primary 4 to Primary 6 Category - 3rd Position<br />
 <ul>
 <li>Krishnagopalan Mokanan (P5.6)</li>
 </ul>
