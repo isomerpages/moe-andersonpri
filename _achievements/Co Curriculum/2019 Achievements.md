@@ -4,9 +4,6 @@ permalink: /achievements/co-curriculum/2019
 description: ""
 third_nav_title: Co Curriculum
 ---
-
-
-
 <table border="1" cellspacing="0" cellpadding="10">
 <thead>
 <tr>
@@ -64,12 +61,10 @@ third_nav_title: Co Curriculum
 </div>
 <div>Junior Boys Optional All Around Event- 2nd Position<br />
 <ul>
-<ul>
 <li>Elijah Looi (P4.6)</li>
 </ul>
 </ul>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
+
 <div>Junior Boys Vault Event- 5th Position<br />
 <ul>
 <li>Elijah Looi (P4.6)</li>
@@ -195,7 +190,7 @@ third_nav_title: Co Curriculum
 <div>
 <div>
 <div>
-<div>&nbsp;</div>
+
 </div>
 </div>
 </div>
@@ -254,8 +249,6 @@ third_nav_title: Co Curriculum
 <div>
 <div>
 <div>
-<div>
-<div>&nbsp;</div>
 </div>
 </div>
 </div>
@@ -281,7 +274,6 @@ third_nav_title: Co Curriculum
 </div>
 <div>
 <div>
-<div>&nbsp;</div>
 </div>
 </div>
 </td>
@@ -317,7 +309,6 @@ third_nav_title: Co Curriculum
 </div>
 <div>
 <div>
-<div>&nbsp;</div>
 </div>
 </div>
 </td>
@@ -334,13 +325,11 @@ third_nav_title: Co Curriculum
 </ul>
 <div>
 <div>
-<div>&nbsp;</div>
 </div>
 </div>
 </div>
 <div>
 <div>
-<div>&nbsp;</div>
 </div>
 </div>
 </td>
@@ -379,13 +368,11 @@ third_nav_title: Co Curriculum
 </div>
 <div>
 <div>
-<div>&nbsp;</div>
 </div>
 </div>
 </div>
 <div>
 <div>
-<div>&nbsp;</div>
 </div>
 </div>
 </td>
@@ -430,13 +417,11 @@ third_nav_title: Co Curriculum
 </div>
 <div>
 <div>
-<div>&nbsp;</div>
 </div>
 </div>
 </div>
 <div>
 <div>
-<div>&nbsp;</div>
 </div>
 </div>
 </td>
