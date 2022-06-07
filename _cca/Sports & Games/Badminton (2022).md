@@ -4,9 +4,8 @@ permalink: /cca/Sports-n-Games/badminton-2022
 description: ""
 third_nav_title: Sports & Games
 ---
-
 <p>Students learn the various aspects of badminton playing. They are trained by a professional coach engaged by the school. Members will be put through a rigorous regime of training and practice. This will enable them to acquire the required technical skills of badminton playing and stay in shape. They will also be introduced to various tactics and mental skills to perform effectively and efficiently especially during competitions.</p>
-<p><br /><strong>Schedule</strong><br /><br /></p>
+<p><strong>Schedule</strong></p>
 <table border="0" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
@@ -29,7 +28,7 @@ third_nav_title: Sports & Games
 </tr>
 </tbody>
 </table>
-<p><br /><strong>Teachers-In-Charge</strong></p>
+<p><strong>Teachers-In-Charge</strong></p>
 <ul>
 <li>Mr Deng Liqiang (Overall Teacher-in-charge)</li>
 <li>Ms Wong Jingyi</li>
