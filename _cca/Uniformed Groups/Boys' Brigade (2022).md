@@ -4,7 +4,6 @@ permalink: /cca/uniformed-groups/boys-brigade-2022
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 <div>
 <div style="float: left">
 <img src="/images/cca5.png" 
@@ -22,7 +21,7 @@ third_nav_title: Uniformed Groups
 <li>Family Engagement &ndash; We engage parents in meaningful ways to support the development of our BB boys.</li>
 </ol>
 <p>The highlights of Anderson Primary School&rsquo;s 22J Company are character-building lessons, leadership roles, parades, drills, games, badge work, learning journeys and camps. We also actively participate in HQ events such as BB Week, BB CARES, Character Quest and BB Share-A-Gift.&nbsp;</p>
-<p><strong><br />Schedule</strong><br /><br /></p>
+<p><strong>Schedule</strong></p>
 <table>
 <tbody>
 <tr>
