@@ -4,8 +4,6 @@ permalink: /achievements/curriculum/2018
 description: ""
 third_nav_title: Curriculum
 ---
-
-
 <table>
 <thead>
 <tr>
@@ -20,23 +18,23 @@ third_nav_title: Curriculum
 <ul>
 <li>Janani Balamurugan (P4.4)</li>
 </ul>
-Finalist<br />
+Finalist
 <ul>
 <li>Ry'anna Aliyah Sembiring Bte Rudy Sembiring (P2.1)</li>
 </ul>
-<p>Participation</p>
+Participation
 <ul>
 <li>Wong Bo Hui (P3.4)</li>
 </ul>
-<br /><strong>&nbsp;National Public Speaking Competition 2018</strong><br /><strong>&nbsp;Lower Primary</strong><br />&nbsp;Champion<br />
+<strong>&nbsp;National Public Speaking Competition 2018</strong><br /><strong>&nbsp;Lower Primary</strong><br />&nbsp;Champion<br />
 <ul>
 <li>Ry'anna Aliyah Sembiring Bte Rudy Sembiring (P2.1)</li>
 </ul>
-<p>&nbsp;2<sup>nd</sup>&nbsp;Place</p>
+2<sup>nd</sup>&nbsp;Place
 <ul>
 <li>Sophia Nadya Habib Ansaril (P2.7)</li>
 </ul>
-<p>&nbsp;3<sup>rd&nbsp;</sup>Place</p>
+3<sup>rd&nbsp;</sup>Place
 <ul>
 <li>Kara Ann Naylor (P3.6)</li>
 </ul>
@@ -44,11 +42,11 @@ Finalist<br />
 <ul>
 <li>Ng Yi Heng (P4.5)</li>
 </ul>
-<p>&nbsp;3<sup>rd&nbsp;</sup>Place</p>
+3<sup>rd&nbsp;</sup>Place
 <ul>
 <li>Kayla Chong Jin Ying (P4.6)</li>
 </ul>
-<p> <strong>Consolation<br /></strong></p>
+<strong>Consolation<br /></strong>
 <ul>
 <li>Roshan KR Rave (P1.7)</li>
 <li>Wong Rui JIa (P1.7)</li>
@@ -62,7 +60,7 @@ Finalist<br />
 <li>Janani Balamurugan (P4.4)</li>
 <li>Jovan Lim Chen Yu (P4.6)</li>
 </ul>
-<p><strong>Wits and Words 2018&nbsp;</strong><strong>Inter-School Debate</strong><br />&nbsp;Participated</p>
+<strong>Wits and Words 2018&nbsp;</strong><strong>Inter-School Debate</strong><br />&nbsp;Participated
 <ul>
 <li>Toong Hao Cheng (P6.4)</li>
 <li>Chantelle Ng Jia Xuan (P6.5)</li>
@@ -70,7 +68,7 @@ Finalist<br />
 <li>Lee Sun Jae (P6.6)</li>
 <li>Lyssa Lau Wen Qi (P6.6)</li>
 </ul>
-<p><strong>POSB-NBL Kids' Lit Quiz 2018&nbsp;</strong><strong>Inter-School Debate</strong><br />&nbsp;Semi-finals</p>
+<strong>POSB-NBL Kids' Lit Quiz 2018&nbsp;</strong><strong>Inter-School Debate</strong><br />&nbsp;Semi-finals
 <ul>
 <li>Christopher Uday (P5.5)</li>
 <li>Sophie Loy (P5.6)</li>
@@ -85,23 +83,23 @@ Finalist<br />
 <ul>
 <li>Chng Jue Rui Lloyd (P2.5)</li>
 </ul>
-<br /><strong>Raffles Institution Primary Mathematics World Contest (RIPMWC) 2018</strong><br />&nbsp;Distinction<br />
+<strong>Raffles Institution Primary Mathematics World Contest (RIPMWC) 2018</strong><br />Distinction<br />
 <ul>
 <li>Jay Ng (P6.6)</li>
 <li>Matthias Phua Kee Hock (P6.6)</li>
 </ul>
-<p>Credit</p>
+Credit
 <ul>
 <li>Chin Yung (P6.5)</li>
 <li>Shaun Lee Jie Wen (P6.6)</li>
 <li>Lee Sun Jae (P6.6)</li>
 <li>Toh Pei Ying (P6.6)</li>
 </ul>
-<p><strong>&nbsp;Singapore Mathematical Olympiad For Primary Schools (SMOPS) 2018</strong><br />&nbsp;Silver</p>
+<strong>Singapore Mathematical Olympiad For Primary Schools (SMOPS) 2018</strong><br />Silver
 <ul>
 <li>Chin Yung (P6.5)</li>
 </ul>
-<p>Bronze</p>
+Bronze
 <ul>
 <li>Shaun Lee Jie Wen (P6.6)</li>
 <li>Celine Tan (P6.6)</li>
@@ -109,22 +107,22 @@ Finalist<br />
 </td>
 </tr>
 <tr>
-<th><strong><br />Science</strong></th>
+<th><strong>Science</strong></th>
 <td>
-<p><strong>E-gnite! Junior Challenge</strong><br />2nd position</p>
+<strong>E-gnite! Junior Challenge</strong><br />2nd position
 <ul>
 <li>Chen Xiang (P5.6)</li>
 <li>Wui Jeongjun (P5.6)</li>
 <li>Fong Jian Wen (P5.6)</li>
 <li>Josiah Delroy Huang (P5.6)</li>
 </ul>
-<p><strong>Singapore Primary Science Olympiad 2018</strong></p>
-<p>Silver Award</p>
+<strong>Singapore Primary Science Olympiad 2018</strong>
+<br>Silver Award
 <ul>
 <li>Kang Jun Jie Joseph (P5.4)</li>
 </ul>
-<p><strong>Singapore Youth Science Fair 2018</strong></p>
-<p>Distinction Award</p>
+<strong>Singapore Youth Science Fair 2018</strong>
+<br>Distinction Award
 <ul>
 <li>Bethany Grace Eng Li Lin (P5.6)</li>
 <li>Tan Sze Yin Ashley (P5.6)</li>
@@ -143,15 +141,15 @@ Finalist<br />
 </tr>
 <tr>
 <td><strong>Chinese<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></strong></td>
-<td><strong>1st Text Recital Competition for Primary and Secondary Schools</strong><br />&nbsp;1st position (Upper Primary Category)<br />
+<td><strong>1st Text Recital Competition for Primary and Secondary Schools</strong><br />1st position (Upper Primary Category)<br />
 <ul>
 <li>Chaa Selina (P5.4)</li>
 </ul>
-<p><strong>9th International Primary and Secondary Schools Mandarin Recital Competition&nbsp;</strong><br />&nbsp;Merit Award</p>
+<strong>9th International Primary and Secondary Schools Mandarin Recital Competition&nbsp;</strong><br />Merit Award
 <ul>
 <li>Ng Yu Le (P5.6)</li>
 </ul>
-<p>3<sup>rd&nbsp;</sup>Prize</p>
+3<sup>rd&nbsp;</sup>Prize
 <ul>
 <li>Chaa Selena (P5.4)</li>
 </ul>
