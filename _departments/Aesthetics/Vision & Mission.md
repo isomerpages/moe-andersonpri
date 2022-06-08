@@ -21,4 +21,5 @@ third_nav_title: Aesthetics
 </li>
 </ul>
 
-![](/images/art1.png)
+<img src="/images/art1.png" 
+     style="width:65%">
