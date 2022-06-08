@@ -87,4 +87,4 @@ The Student Leaders Council (SLC) is set up to bring cohesiveness and coherence 
 <div>
 <p><strong>Student Leaders' Investiture Publicity_2021</strong></p>
 <div><strong>&nbsp;</strong></div>
-<iframe data-mce-fragment="1" allowfullscreen="allowfullscreen" frameborder="0" height="315" width="560" src="https://www.youtube.com/embed/XpeOVFF-HzE" title="YouTube video player" class="ive_eobj_center"></iframe></div></div>
+<iframe data-mce-fragment="1" allowfullscreen="allowfullscreen" frameborder="0" height="315" width="560" src="https://www.youtube.com/embed/XpeOVFF-HzE" title="YouTube video player" class="ive_eobj_center"></iframe></div>
