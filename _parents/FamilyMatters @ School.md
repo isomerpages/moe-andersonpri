@@ -3,7 +3,6 @@ title: FamilyMatters @ School
 permalink: /parents/familymatters-at-school
 description: ""
 ---
-
 ![](/images/FamilyMatters%20Logo.jpg)
 
 <h2>Objective</h2>
@@ -26,14 +25,12 @@ description: ""
 ![](/images/IMG_0008.jpg)
 
 <h2>Upcoming Programmes</h2>
-<p>Upcoming Programme:</p>
-
-<p>Please keep a lookout for the upcoming FMS programme.</p>
+<p>Upcoming Programme:<BR>Please keep a lookout for the upcoming FMS programme!</p>
 
 <h2> Photo Gallery </h2>
 <p>
-<li><a href="https://www.facebook.com/pg/Anderson-Primary-School-Official-248457555191296/photos/?tab=album&amp;album_id=1649615591742145" target="_blank" rel="noopener"><strong>Dad's Club @ Anderson</strong></a><br /><br /></li>
-<li><a href="https://www.facebook.com/pg/Anderson-Primary-School-Official-248457555191296/photos/?tab=album&amp;album_id=1677126662324371" target="_blank" rel="noopener"><strong>CyberWellness Talk - Be careful when accessing online content</strong></a><br /><br /></li>
-<li><strong><a href="https://www.facebook.com/pg/Anderson-Primary-School-Official-248457555191296/photos/?tab=album&amp;album_id=1598746413495730" target="_blank" rel="noopener">CyberWellness Talk - Let&rsquo;s Be a Positive Peer Influence Online</a><br /><br /></strong></li>
+<li><a href="https://www.facebook.com/pg/Anderson-Primary-School-Official-248457555191296/photos/?tab=album&amp;album_id=1649615591742145" target="_blank" rel="noopener"><strong>Dad's Club @ Anderson</strong></a></li>
+<li><a href="https://www.facebook.com/pg/Anderson-Primary-School-Official-248457555191296/photos/?tab=album&amp;album_id=1677126662324371" target="_blank" rel="noopener"><strong>CyberWellness Talk - Be careful when accessing online content</strong></a></li>
+<li><strong><a href="https://www.facebook.com/pg/Anderson-Primary-School-Official-248457555191296/photos/?tab=album&amp;album_id=1598746413495730" target="_blank" rel="noopener">CyberWellness Talk - Let&rsquo;s Be a Positive Peer Influence Online</a></strong></li>
 <li><a href="https://www.facebook.com/pg/Anderson-Primary-School-Official-248457555191296/photos/?tab=album&amp;album_id=1559441810759524" target="_blank" rel="noopener"><strong>Flower Power</strong></a></li>
 </p>
