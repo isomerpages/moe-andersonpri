@@ -35,7 +35,10 @@ third_nav_title: ANDventure
 <p><strong>ANDventure - Design Thinking</strong></p>
 <p>Design thinking&nbsp;has a human-centered core. Using design thinking to drive the process for creative problem solving encourages students to focus on the people they're creating innovation solutions for. Putting&nbsp;their creative minds and empathetic hearts into action, students develop prototypes of smart home devices&nbsp;and user-friendly experiences.&nbsp;</p>
 
-![](/images/ANDvDesignThinking.png) ![](/images/ANDvDesignThinking2.jpg)
+<img src="/images/ANDvDesignThinking.png" 
+     style="width:70%">
+<img src="/images/ANDvDesignThinking2.jpg" 
+     style="width:70%">
 
 <p><em><strong>Design Thinking Project (Math/ Science/ Art)<br /></strong></em>Through thought-provoking brainstorming sessions and collaborative and creative activities, students will be directed to think and work like little engineers. They will apply the knowledge that they have acquired and come up with their own artistic and innovative game creations.&nbsp;</p>
 <p><em><strong>Create Your Own Instrument<br /></strong></em>Curious about how sounds are produced? This module introduces students to the basic principles of producing music. By understanding the properties of different materials (such as wood, metal, glass, etc.), hitting them under different conditions, students explore more deeply the concepts of tension and thickness and how they influence the way sounds are created. The learning process will excite our students to continue to search and discover the pleasures of music creation, and be excited about delicate sound nuances.</p>
