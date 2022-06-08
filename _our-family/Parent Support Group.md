@@ -3,8 +3,6 @@ title: Parent Support Group
 permalink: /our-family/parent-support-group
 description: ""
 ---
-
-
 <h3>Our Mission</h3>
 <div>
 <p><strong>Mission</strong></p>
@@ -13,7 +11,8 @@ description: ""
 <p>Click&nbsp;<a href="https://www.facebook.com/apsparentsupportgroup"><strong>here</strong></a>&nbsp;to find out more about them.</p>
 </div>
 
-![](/images/plg_img.png)
+<img src="/images/plg_img.png" 
+     style="width:50%">
 
 <h3>Objectives</h3>
 <div id="_ptod_27379" class="ive_editable ive_ptod ive_content">
@@ -26,7 +25,8 @@ description: ""
 </ul>
 </div>
 
-![](/images/parent_link_group_objectives.jpg)
+<img src="/images/parent_link_group_objectives.jpg" 
+     style="width:50%">
 
 <h3>Come Join Us!</h3>
 <p>We warmly invite all parents to be a member of the&nbsp;Parent&nbsp;Support&nbsp;Group&nbsp;to support the school in its programmes as well as to network with other like-minded parents!</p>
