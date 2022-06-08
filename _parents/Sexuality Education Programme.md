@@ -3,9 +3,6 @@ title: Sexuality Education Programme
 permalink: /parents/sexuality-education-programme
 description: ""
 ---
-
-
-
 <div>
 <p><strong>MOE Sexua</strong><strong>l</strong><strong>ity Education in Schools</strong></p>
 <p>&nbsp;1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
@@ -44,8 +41,7 @@ description: ""
 <p>(iii)&nbsp;Make responsible decisions for yourself, your family and society; and</p>
 </div>
 </blockquote>
-<div>
-</div>
+<div>&nbsp;</div>
 <blockquote>
 <div>
 <p>(iv)&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
@@ -97,7 +93,7 @@ description: ""
 </td>
 <td width="159">
 <p><strong>TIME PERIOD</strong></p>
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </thead>
@@ -112,8 +108,8 @@ description: ""
 </td>
 <td width="352">
 <ul>
-<li>know what puberty is</li>
-<li>identify the physical changes during puberty</li>
+<li>Know what puberty is</li>
+<li>Identify the physical changes during puberty</li>
 </ul>
 </td>
 <td width="159">
@@ -127,10 +123,10 @@ description: ""
 </td>
 <td width="352">
 <ul>
-<li>identify the stresses caused by physical and emotional changes during puberty</li>
-<li>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</li>
-<li>describe the emotions caused by physical changes during puberty</li>
-<li>recognise that one&rsquo;s identity does not change even when one&rsquo;s body is experiencing change due to puberty</li>
+<li>Identify the stresses caused by physical and emotional changes during puberty</li>
+<li>Describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</li>
+<li>Describe the emotions caused by physical changes during puberty</li>
+<li>Recognise that one&rsquo;s identity does not change even when one&rsquo;s body is experiencing change due to puberty</li>
 </ul>
 </td>
 <td width="159">
@@ -144,10 +140,10 @@ description: ""
 </td>
 <td width="352">
 <ul>
-<li>identify the stresses caused by physical and emotional changes during puberty</li>
-<li>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty</li>
-<li>describe the emotions caused by physical changes during puberty</li>
-<li>recognise that one&rsquo;s identity does not change even when one&rsquo;s body is experiencing change due to puberty</li>
+<li>Identify the stresses caused by physical and emotional changes during puberty</li>
+<li>Describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty</li>
+<li>Describe the emotions caused by physical changes during puberty</li>
+<li>Recognise that one&rsquo;s identity does not change even when one&rsquo;s body is experiencing change due to puberty</li>
 </ul>
 </td>
 <td width="159">
@@ -177,10 +173,10 @@ description: ""
 </td>
 <td width="352">
 <ul>
-<li>know that there are different types of family structures</li>
-<li>know that every family is unique</li>
-<li>state that the three basic functions of families are to provide love, protection and guidance</li>
-<li>identify the right sources of help to turn to when in need</li>
+<li>Know that there are different types of family structures</li>
+<li>Know that every family is unique</li>
+<li>State that the three basic functions of families are to provide love, protection and guidance</li>
+<li>Identify the right sources of help to turn to when in need</li>
 </ul>
 </td>
 <td width="159">
@@ -197,8 +193,8 @@ description: ""
 </td>
 <td width="352">
 <ul>
-<li>know that gender is about being male or female</li>
-<li>choose not to stereotype by gender</li>
+<li>Know that gender is about being male or female</li>
+<li>Choose not to stereotype by gender</li>
 </ul>
 </td>
 <td width="159">
@@ -215,9 +211,9 @@ description: ""
 </td>
 <td width="352">
 <ul>
-<li>know what sexual abuse is</li>
-<li>know that there are laws in Singapore that can protect them from sexual abuse</li>
-<li>know their rights in keeping themselves safe from sexual abuse</li>
+<li>Know what sexual abuse is</li>
+<li>Know that there are laws in Singapore that can protect them from sexual abuse</li>
+<li>Know their rights in keeping themselves safe from sexual abuse</li>
 </ul>
 </td>
 <td width="159">
@@ -231,8 +227,8 @@ description: ""
 </td>
 <td width="352">
 <ul>
-<li>protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult</li>
-<li>know their responsibilities in minimising the risk of sexual harm</li>
+<li>Protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult</li>
+<li>Know their responsibilities in minimising the risk of sexual harm</li>
 </ul>
 </td>
 <td width="159">
@@ -245,153 +241,153 @@ description: ""
 <strong><br clear="all" /></strong>
 <p><strong>Primary 6</strong></p>
 <div>
-<table width="0">
+<table style="height: 1452px;" width="0">
 <thead>
-<tr>
-<td width="120">
+<tr style="height: 96px;">
+<td style="height: 96px; width: 96.7812px;">
 <p><strong>UNIT</strong></p>
 </td>
-<td width="217">
+<td style="height: 96px; width: 167.281px;">
 <p><strong>LESSONS / DURATION</strong></p>
 </td>
-<td width="353">
+<td style="height: 96px; width: 272.672px;">
 <p><strong>Lesson Objectives</strong></p>
 <p><strong>At the end of the lesson, pupils will be able to:</strong></p>
 </td>
-<td width="159">
+<td style="height: 96px; width: 122.266px;">
 <p><strong>TIME PERIOD</strong></p>
 <p><strong>(e.g. Term 1 Week 2)</strong></p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td rowspan="5" width="120">
+<tr style="height: 118px;">
+<td style="height: 750px; width: 96.7812px;" rowspan="5">
 <p>Are We More Than Friends?</p>
 </td>
-<td width="217">
+<td style="height: 118px; width: 167.281px;">
 <p>Who Are My Friends?</p>
 <p>(30 min)</p>
 </td>
-<td width="353">
+<td style="height: 118px; width: 272.672px;">
 <ul>
-<li>identify the qualities of a healthy friendship&nbsp;</li>
-<li>recognise the importance of making wise choices in friendship</li>
+<li>Identify the qualities of a healthy friendship&nbsp;</li>
+<li>Recognise the importance of making wise choices in friendship</li>
 </ul>
 </td>
-<td width="159">
+<td style="height: 118px; width: 122.266px;">
 <p>Term 4</p>
 <p>Post PSLE</p>
 </td>
 </tr>
-<tr>
-<td width="217">
+<tr style="height: 118px;">
+<td style="height: 118px; width: 167.281px;">
 <p>Am I A Good Friend?</p>
 <p>(30 min)</p>
 </td>
-<td width="353">
+<td style="height: 118px; width: 272.672px;">
 <ul>
 <li>Identify the qualities that they have as a friend</li>
-<li>recognise the importance of developing in oneself the qualities of a good friend</li>
+<li>Recognise the importance of developing in oneself the qualities of a good friend</li>
 </ul>
 </td>
-<td width="159">
+<td style="height: 118px; width: 122.266px;">
 <p>Term 4</p>
 <p>Post PSLE</p>
 </td>
 </tr>
-<tr>
-<td width="217">
+<tr style="height: 155px;">
+<td style="height: 155px; width: 167.281px;">
 <p>What is Love?</p>
 <p>(30 min)</p>
 </td>
-<td width="353">
+<td style="height: 155px; width: 272.672px;">
 <ul>
-<li>identify the characteristics of love and infatuation</li>
-<li>distinguish between the characteristics of love versus infatuation</li>
+<li>Identify the characteristics of love and infatuation</li>
+<li>Distinguish between the characteristics of love versus infatuation</li>
 <li>Identify strong feelings arising from infatuation</li>
 </ul>
 </td>
-<td width="159">
+<td style="height: 155px; width: 122.266px;">
 <p>Term 4</p>
 <p>Post PSLE</p>
 </td>
 </tr>
-<tr>
-<td width="217">
+<tr style="height: 100px;">
+<td style="height: 100px; width: 167.281px;">
 <p>Am I Falling In Love?</p>
 <p>(30 min)</p>
 </td>
-<td width="353">
+<td style="height: 100px; width: 272.672px;">
 <ul>
-<li>manage strong feelings arising from infatuation</li>
-<li>identify ways to manage and cope with teasing from peers</li>
+<li>Manage strong feelings arising from infatuation</li>
+<li>Identify ways to manage and cope with teasing from peers</li>
 </ul>
 </td>
-<td width="159">
+<td style="height: 100px; width: 122.266px;">
 <p>Term 4</p>
 <p>Post PSLE</p>
 </td>
 </tr>
-<tr>
-<td width="217">
+<tr style="height: 259px;">
+<td style="height: 259px; width: 167.281px;">
 <p>Main Task</p>
 <p>&nbsp;(30 min)</p>
 </td>
-<td width="353">
+<td style="height: 259px; width: 272.672px;">
 <p>Description of the Main Task:</p>
 <p>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation.&nbsp;They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</p>
 </td>
-<td width="159">
+<td style="height: 259px; width: 122.266px;">
 <p>Term 4</p>
 <p>Post PSLE</p>
 </td>
 </tr>
-<tr>
-<td rowspan="3" width="120">
+<tr style="height: 137px;">
+<td style="height: 606px; width: 96.7812px;" rowspan="3">
 <p>Friends or Foes?</p>
 </td>
-<td width="217">
+<td style="height: 137px; width: 167.281px;">
 <p>Are You Really My Friend?</p>
 <p>(30 min)</p>
 </td>
-<td width="353">
+<td style="height: 137px; width: 272.672px;">
 <ul>
-<li>identify the pros and cons of forming relationships through social networking websites</li>
-<li>know ways to keep themselves safe when using social networking websites</li>
+<li>Identify the pros and cons of forming relationships through social networking websites</li>
+<li>Know ways to keep themselves safe when using social networking websites</li>
 </ul>
 </td>
-<td width="159">
+<td style="height: 137px; width: 122.266px;">
 <p>Term 4</p>
 <p>Post PSLE</p>
 </td>
 </tr>
-<tr>
-<td width="217">
+<tr style="height: 173px;">
+<td style="height: 173px; width: 167.281px;">
 <p>Is It All Safe?</p>
 <p>(30 min)</p>
 </td>
-<td width="353">
+<td style="height: 173px; width: 272.672px;">
 <ul>
-<li>&middot;know that some information (like pornography) received through the Internet may be harmful</li>
-<li>know ways to keep themselves safe when using social networking websites or the Internet</li>
+<li>Know that some information (like pornography) received through the Internet may be harmful</li>
+<li>Know ways to keep themselves safe when using social networking websites or the Internet</li>
 </ul>
 </td>
-<td width="159">
+<td style="height: 173px; width: 122.266px;">
 <p>Term 4</p>
 <p>Post PSLE</p>
 </td>
 </tr>
-<tr>
-<td width="217">
+<tr style="height: 296px;">
+<td style="height: 296px; width: 167.281px;">
 <p>Main Task</p>
 <p>&nbsp;(30 min)</p>
 </td>
-<td width="353">
+<td style="height: 296px; width: 272.672px;">
 <p>Description of the Main Task:</p>
 <p>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</p>
 </td>
-<td width="159">
+<td style="height: 296px; width: 122.266px;">
 <p>Term 4</p>
 <p>Post PSLE</p>
 </td>
