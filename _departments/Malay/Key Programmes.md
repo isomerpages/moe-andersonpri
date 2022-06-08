@@ -48,5 +48,8 @@ third_nav_title: Malay
 
 <p style="text-align: center;">Students dressing up as characters in a Malay folklore</p>
 
-![](/images/tniPad%20thing.jpg)
-![](/images/tnedit.jpg)
+<img src="/images/tniPad%20thing.jpg" 
+     style="width:75%">
+<img src="/images/tnedit.jpg" 
+     style="width:75%">
+
