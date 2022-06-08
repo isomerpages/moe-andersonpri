@@ -81,6 +81,7 @@ third_nav_title: Chinese
 ![](/images/jumpingclay.jpg)
 
 ![](/images/chinesep.jpg)
+
 <p style="text-align: center;">Chinese Painting</p>
 
 ![](/images/writinga.jpg)
