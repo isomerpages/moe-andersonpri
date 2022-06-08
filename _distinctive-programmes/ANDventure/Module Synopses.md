@@ -24,7 +24,8 @@ third_nav_title: ANDventure
 <p><strong>ANDventure Arts Elective (Music&nbsp;</strong><strong>Masterclass)</strong><strong></strong></p>
 <p><em><strong>Anderson Songbirds I and II<br /></strong></em>Choral singing benefits one in different ways. It improves emotional well-being, allows social interaction and fosters teamwork. Students who are passionate and who show a high interest in singing embark on an exploration of different genres of music and develop their vocal talent. They will learn techniques on breathing, vocalising and harmonising.</p>
 
-![](/images/ANDvSongbird.png)
+<img src="/images/ANDvSongbird.png" 
+     style="width:50%">
 
 <p><em><strong>Band JAM!&nbsp;<br /></strong></em>This module appeals to students who dream of forming their own Pop Band and playing in it. As an extension to the Tech Band programme, students now have the opportunity to play on authentic instruments. Each jamming session prepares students to play on different instruments, such as the Ukulele, Keyboard and Cajon! They get to improve on their music arrangement skills and have the opportunity to even produce their very own pop covers and even perform live!&nbsp;</p>
 <p><strong></strong></p>
