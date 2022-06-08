@@ -29,7 +29,9 @@ third_nav_title: Science
 ![](/images/2021-SCI-pic-21.jpg)
 <p>The&nbsp;<em class="">Sustainable Learning Trail</em>&nbsp;aims to educate Andersonians about Singapore&rsquo;s sustainability journey. The trail features 6 different educational zones (Sustainable Blueprint, Clean Singapore, Food Waste, Future City, Water Story and Climate Change) with key learning outcomes to understand the different issues about sustainability through customized infographics. Students can access relevant fun facts and bit-sized information and scan the QR codes provided for more information on the topics presented. Accompanying activity sheets will be integrated into the Science and Social Studies curriculum to encourage students to interact with these panels in a fun way.</p>
 
-![](/images/2021-SCI-pic-22.jpg)
+<img src="/images/2021-SCI-pic-22.jpg" 
+     style="width:65%">
+
 <p><em>Roving Exhibitions</em>&nbsp;are also featured at Anderson Primary at various times of the year as outreach programmes to promote Sustainability Education and Environment Stewardship. These include:</p>
 <ul>
 <li>&lsquo;R.I.S.E to the Challenge&rsquo; Exhibit to engage Andersonians on the issue of Climate Change and the challenge of the rising sea levels.</li>
