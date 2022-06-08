@@ -18,4 +18,3 @@ third_nav_title: Chinese
 <p><a href="https://andersonpri-moe-edu-sg-admin.cwp.sg/departments/chinese/chinese-dept-announcement-2020/chinese-dept-announcement" target="_blank" rel="noopener">3rd School Text Recital Competition 2020 (Finals)</a></p>
 </li>
 </ul>
-</div>
