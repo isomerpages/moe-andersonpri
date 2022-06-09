@@ -76,7 +76,7 @@ description: ""
 <p><strong>At Anderson Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2022</u>:</strong></p>
 </div>
 <div>
-<p><strong>Primary 5</strong></p>
+<p style="text-align: center;"><strong>Primary 5</strong></p>
 <div>
 <table width="0">
 <thead>
@@ -239,7 +239,7 @@ description: ""
 </table>
 </div>
 <strong><br clear="all" /></strong>
-<p><strong>Primary 6</strong></p>
+<p style="text-align: center;"><strong>Primary 6</strong></p>
 <div>
 <table style="height: 1452px;" width="0">
 <thead>
