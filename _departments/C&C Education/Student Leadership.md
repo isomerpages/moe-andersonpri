@@ -58,7 +58,7 @@ The Student Leaders Council (SLC) is set up to bring cohesiveness and coherence 
 
 <div>
 <div>
-<p>Please click&nbsp;<a target="" href="https://andersonpri.moe.edu.sg/qql/slot/u196/2021/Departments/CCE/FOS%20Mission%20and%202020%20VOLJ%20presentation.pdf">here&nbsp;</a>to view the FOS Mission 2020 VOLJ Presentation.</p>
+<p>Please click&nbsp;<a target="" href="https://moe-andersonpri-staging.netlify.app/files/FOS%20Mission%20and%202020%20VOLJ%20presentation_compressed%20(1).pdf">here&nbsp;</a>to view the FOS Mission 2020 VOLJ Presentation.</p>
 </div>
 </div>
 <p style="text-align: center;"><strong><u>Our Student Leaders’ Pledge</u></strong></p>
