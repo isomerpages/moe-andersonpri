@@ -3,25 +3,17 @@ title: School Executive Committee
 permalink: /our-family/school-executive-committee
 description: ""
 ---
-
-
 <table cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
 <td>
-	
-![](/images/Mdm%20Delia%20Hoo.jpg)
-	
+<img src="/images/Mdm%20Delia%20Hoo.jpg"/>
 </td>
 <td>
-	
-![](/images/Mrs%20Jane%20Chng.jpg)
-
+<img src="/images/Mrs%20Jane%20Chng.jpg"/>
 </td>
 <td>
-	
-![](/images/Mr%20Low%20Kah%20Shen.jpg)
-
+<img src="/images/Mr%20Low%20Kah%20Shen.jpg"/>
 </td>
 </tr>
 <tr>
@@ -35,19 +27,13 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/Mr%20Leow%20Kor%20Ming.jpg)
-
+<img src="/images/Mr%20Leow%20Kor%20Ming.jpg"/>	
 </td>
 <td>
-	
-![](/images/Mrs%20Serene%20Soh.jpg)
-
+<img src="/images/Mrs%20Serene%20Soh.jpg"/>
 </td>
 <td>
-	
-![](/images/Mrs%20Vimala%20Ratnaraja.jpg)
-	
+<img src="/images/Mrs%20Vimala%20Ratnaraja.jpg"/>	
 </td>
 </tr>
 <tr>
@@ -71,20 +57,14 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/Mdm%20Neo%20Hwee%20Hwee.jpg)
-	
+<img src="/images/Mdm%20Neo%20Hwee%20Hwee.jpg"/>
 </td>
 	
 <td>
-	
-![](/images/Mr%20Edmung%20Liang.jpg)
-
+<img src="/images/Mr%20Edmung%20Liang.jpg"/>
 </td>
 <td>
-	
-![](/images/Mr%20Eric%20Lee.jpg)	
-	
+<img src="/images/Mr%20Eric%20Lee.jpg"/>
 </td>
 </tr>
 <tr>
@@ -94,19 +74,13 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/Mdm%20Sabariah%20Abdullah.jpg)
-	
+<img src="/images/Mdm%20Sabariah%20Abdullah.jpg"/>
 </td>
 <td>
-	
-![](/images/Mrs%20Sornamangai%20Mohan.jpg)	
-	
+<img src="/images/Mrs%20Sornamangai%20Mohan.jpg"/>
 </td>
 <td>
-	
-![](/images/Ms%20Goh%20Ling%20Li.png)
-	
+<img src="/images/Ms%20Goh%20Ling%20Li.png"/>
 </td>
 </tr>
 <tr>
@@ -126,19 +100,13 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/file%20(1).jpg)
-
+<img src=""/>
 </td>
 <td>
-	
-![](/images/Mrs%20Sharon%20Yeo.jpg)
-	
+<img src="/images/Mrs%20Sharon%20Yeo.jpg"/>
 </td>
 <td>
-	
-![](/images/Mdm%20Er%20Siew%20Shin.jpg)	
-	
+<img src="/images/Mdm%20Er%20Siew%20Shin.jpg"/>	
 </td>
 </tr>
 <tr>
@@ -164,19 +132,13 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/Mr%20Ivan%20Ng.jpg)
-	
+<img src="/images/Mr%20Ivan%20Ng.jpg"/>	
 </td>
 <td>
-	
-![](/images/Mdm%20Suzanah%20Saparwan.jpg)
-	
+<img src="/images/Mdm%20Suzanah%20Saparwan.jpg"/>
 </td>
 <td>
-	
-![](/images/Mrs%20Fion%20Ho.png)
-	
+<img src="/images/Mrs%20Fion%20Ho.png"/>
 </td>
 </tr>
 <tr>
@@ -188,19 +150,13 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/Miss%20Angela%20Lee.jpg)
-	
+<img src="/images/Miss%20Angela%20Lee.jpg"/>
 </td>
 <td>
-	
-![](/images/Mr%20Ramesh%20Sivakadacham.jpg)
-	
+<img src="/images/Mr%20Ramesh%20Sivakadacham.jpg"/>
 </td>
 <td>
-	
-![](/images/Mr%20Ben%20Choo.jpg)
-	
+<img src="/images/Mr%20Ben%20Choo.jpg"/>
 </td>
 </tr>
 <tr>
