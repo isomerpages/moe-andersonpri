@@ -19,9 +19,10 @@ sections:
         - title: e-Showcase
           description: 20th Anniversary Art Exhibition
           url: https://o2.samwize.com/anderson-digital-exhibition/
+        - title: Quick Links
+          description: For Parents
+          url: https://moe-andersonpri-staging.netlify.app/quick-links
   - resources:
       title: Announcements
       button: More announcements
 ---
-
-
