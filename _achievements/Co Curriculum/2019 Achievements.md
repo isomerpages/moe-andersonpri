@@ -63,8 +63,6 @@ third_nav_title: Co Curriculum
 <ul>
 <li>Elijah Looi (P4.6)</li>
 </ul>
-</ul>
-
 <div>Junior Boys Vault Event- 5th Position<br />
 <ul>
 <li>Elijah Looi (P4.6)</li>
