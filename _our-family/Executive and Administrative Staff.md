@@ -3,25 +3,17 @@ title: Executive and Administrative Staff
 permalink: /our-family/executive-and-administrative-staff
 description: ""
 ---
-
-
 <table border="0" cellspacing="0">
 <tbody>
 <tr>
 <td>
-	
-![](/images/Mr%20Patrick%20Tho%20Choon%20Seng.jpg)
-
+<img style="width: 76%;" src="/images/Mr%20Patrick%20Tho%20Choon%20Seng.jpg" />
 </td>
 <td>
-	
-![](/images/Ms%20Seah%20Chu%20Hwei.jpg)
-	
+<img src="/images/Ms%20Seah%20Chu%20Hwei.jpg" />	
 </td>
 <td>
-	
-![](/images/Mdm%20Ang%20Yann%20Yann.jpg)
-	
+<img src="/images/Mdm%20Ang%20Yann%20Yann.jpg" />	
 </td>
 </tr>
 <tr>
@@ -31,19 +23,13 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/Ms%20Atiqah%20Bte%20Abd%20Razak.jpg)
-	
+<img style="width: 76%;" src="/images/Ms%20Atiqah%20Bte%20Abd%20Razak.jpg" />
 </td>
 <td>
-	
-![](/images/Ms%20Lim%20Yee%20Leng.jpg)
-	
+<img src="/images/Ms%20Lim%20Yee%20Leng.jpg" />		
 </td>
 <td>
-	
-![](/images/Miss%20Shasha%20Siti%20Noraini.jpg)
-	
+<img src="/images/Miss%20Shasha%20Siti%20Noraini.jpg" />	
 </td>
 </tr>
 <tr>
@@ -55,19 +41,13 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/Mdm%20Chew%20Poh%20Choo.jpg)
-
+<img style="width: 76%;" src="/images/Mdm%20Chew%20Poh%20Choo.jpg" />
 </td>
 <td>
-	
-![](/images/Mdm%20Jennifer%20Phua%20Mei%20Yean.jpg)
-	
+<img src="/images/Mdm%20Jennifer%20Phua%20Mei%20Yean.jpg" />
 </td>
 <td>
-	
-![](/images/Mr%20Chan%20Kim%20Chye.jpg)
-
+<img src="/images/Mr%20Chan%20Kim%20Chye.jpg" />	
 </td>
 </tr>
 <tr>
@@ -77,19 +57,13 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/Mrs%20Raju%20Soranambal.jpg)
-	
+<img style="width: 76%;" src="/images/Mrs%20Raju%20Soranambal.jpg" />	
 </td>
 <td>
-	
-![](/images/Mr%20Juraimi%20Bin%20Taib.jpg)
-	
+<img src="/images/Mr%20Juraimi%20Bin%20Taib.jpg" />	
 </td>
 <td>
-	
-![](/images/Mdm%20Malar.jpg)
-	
+<img src="/images/Mdm%20Malar.jpg" />
 </td>
 </tr>
 <tr>
@@ -99,9 +73,7 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/Mdm%20Chin%20Sook%20Fong%20Audrey.jpg)
-
+<img style="width: 76%;" src="/images/Mdm%20Chin%20Sook%20Fong%20Audrey.jpg" />
 </td>
 </tr>
 <tr>
