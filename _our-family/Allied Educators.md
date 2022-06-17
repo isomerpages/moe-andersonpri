@@ -3,25 +3,17 @@ title: Allied Educators
 permalink: /our-family/allied-educators
 description: ""
 ---
-
-
 <table border="1" cellspacing="0">
 <tbody>
 <tr>
 <td>
-	
-![](/images/Mdm%20Ching%20Hock%20Hui%20Faith.jpg)
-
+<img src="/images/Mdm%20Ching%20Hock%20Hui%20Faith.jpg"/>
 </td>
 <td>
-	
-![](/images/Mdm%20Jayamalini%20Vailappan.jpg)	
-	
+<img style="width: 82%;" src="/images/Mdm%20Jayamalini%20Vailappan.jpg" />
 </td>
 <td>
-	
-![](/images/Ms%20Agnes%20Chang%20Tze%20Hsien.jpg)
-
+<img src="/images/Ms%20Agnes%20Chang%20Tze%20Hsien.jpg"/>	
 </td>
 </tr>
 <tr>
@@ -31,14 +23,10 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/Mrs%20Jeanette%20Liang.jpg)
-	
+<img src="/images/Mrs%20Jeanette%20Liang.jpg"/>	
 </td>
 <td>
-	
-![](/images/Mr%20Tye%20Kim%20Hoe.jpg)	
-	
+<img style="width: 82%;" src="/images/Mr%20Tye%20Kim%20Hoe.jpg" />
 </td>
 </tr>
 <tr>
