@@ -21,6 +21,8 @@ links:
         url: https://www.facebook.com/media/set/?set=a.1728858983817805&type=1&l=0237c3a584
       - title: Corporate Videos
         url: /about-us/corporate-videos
+      - title: Gallery
+        url: /gallery/2021
       - title: ENCOMPASS EMAGAZINE For 2020
         url: https://cloud.3dissue.com/213008/213119/250573/20thAnniversaryCommemorativeBook/index.html
   - title: Our Family
@@ -119,14 +121,3 @@ links:
         url: /achievements/Curriculum/2020-1
       - title: Co-Curriculum
         url: /achievements/co-curriculum/2020
-  - title: Gallery
-    url: /gallery/2021
-    sublinks:
-      - title: "2021"
-        url: /gallery/2021
-      - title: "2020"
-        url: /gallery/2020
-      - title: "2019"
-        url: /gallery/2019
-      - title: "2018"
-        url: /gallery/2018
