@@ -9,5 +9,3 @@ description: ""
 <li>We are building the database of our ex-Andersonians. Please update us with your latest contact details so that we can keep you informed of the latest events of the school.</li>
 </ul>
 <p><br />Please click&nbsp;<a href="https://cms.isomer.gov.sg/files/Anderson_former%20students.pdf" target=""><u><strong>here</strong></u></a>&nbsp;for the form and email the form back to&nbsp;<a href="mailto:anderson_ps@moe.edu.sg/">anderson_ps@moe.edu.sg</a>&nbsp;to keep in touch and stay connected with Anderson Primary School</p>
-
-[](/files/Anderson_former%20students.pdf)
