@@ -29,7 +29,7 @@ description: ""
 * [SEAB Website](https://www.seab.gov.sg/home/examinations/psle)
 
 # **Health Promotion Board (HPB)**
-* [Healthy Meals in Schools Programme](/files/HPB%20HM%20Parents%20Booklet_School_Generic_30%20Mar.pdf)
+* [Healthy Meals in Schools Programme](https://moe-andersonpri-staging.netlify.app/files/HPB%20HM%20Parents%20Booklet_School_Generic_30%20Mar.pdf)
 * [Easy Snacks for Break Time](https://moe-andersonpri-staging.netlify.app/easy-snacks-for-break-time)
 
 
