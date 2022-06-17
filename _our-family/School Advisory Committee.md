@@ -7,7 +7,7 @@ description: ""
 <tbody>
 <tr>
 <td>
-<img src="/images/7a%20Mr%20Lim%20Chiow%20Giap.jpg">
+<img style="width: 83%;" src="/images/7a%20Mr%20Lim%20Chiow%20Giap.jpg" />
 </td>
 <td>
 <img src="/images/2a%20Ms%20Amina%20Hu.jpg">
@@ -23,7 +23,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<img src="/images/Mdm%20Delia%20Hoo.jpg">
+<img style="width: 83%;" src="/images/Mdm%20Delia%20Hoo.jpg" />
 </td>
 <td>
 <img src="/images/15b%20Lau%20Yan%20Hong.jpg">
@@ -39,7 +39,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<img src="/images/12a%20Wee%20Kiat%20Cheng.jpg">
+<img style="width: 83%;" src="/images/12a%20Wee%20Kiat%20Cheng.jpg" />
 </td>
 <td>
 <img src="/images/9a%20Ken%20Wang.jpg">
@@ -55,7 +55,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<img src="/images/Dr%20Low%20Wing%20Li%20Gary.jpg">
+<img style="width: 83%;" src="/images/Dr%20Low%20Wing%20Li%20Gary.jpg" />
 </td>
 <td>
 <img src="/images/Dr%20Marie%20De%20Visser.jpg">	
@@ -71,7 +71,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<img src="/images/Dr%20Geoiphy.jpg">
+<img style="width: 83%;" src="/images/Dr%20Geoiphy.jpg" />
 </td>
 </tr>
 <tr>
