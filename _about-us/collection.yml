@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Gallery/.keep
       - Principal's Message/.keep
       - Principal's Message/Principal's Message for 2022.md
       - Principal's Message/Principal's Message for 2021.md
