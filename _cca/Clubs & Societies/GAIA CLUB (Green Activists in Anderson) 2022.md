@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 <p>Green Activists In Anderson (formerly known as Green Club) is an environmental conscious group formed in 2003. It promotes awareness of green issues and encourages students to take actions on environmental issues at school and community levels. In nurturing young Green Activists, the club hopes they will play an active role in caring for our environment, and teaching others how to do their part in protecting Mother Earth.</p>
-<p>To see the Anderson&nbsp;Environmental Policy, please click&nbsp;<a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/CCAs/G.A.I.A/APS%20Environment%20Policy.pdf" target="_blank" rel="noopener">here</a>.<br /><br><strong>Schedule</strong></p>
+<p>To see the Anderson&nbsp;Environmental Policy, please click&nbsp;<a href="https://moe-andersonpri-staging.netlify.app/files/APS%20Environment%20Policy.pdf" target="_blank" rel="noopener">here</a>.<br /><br><strong>Schedule</strong></p>
 <table border="0" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
