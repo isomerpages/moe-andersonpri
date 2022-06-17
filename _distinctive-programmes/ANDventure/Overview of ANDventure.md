@@ -12,4 +12,4 @@ third_nav_title: ANDventure
 <p>4. <strong>EMPOWER</strong>&nbsp;multi-modality in communications as designers of learning</p>
 <p>ANDventure integrates the arts with other subjects, thus providing an interdisciplinary approach which opens up a whole new dimension of experiential and authentic learning. Students develop an enduring appreciation of the different art forms, are empowered to design their final product through co-creation, and to communicate their ideas using multiple intelligences.</p>
 	
-*Most importantly, ANDventure enables our students to embrace learning as a 'lifelong adventure'.*
+<p>*Most importantly, ANDventure enables our students to embrace learning as a 'lifelong adventure'.*</p>
