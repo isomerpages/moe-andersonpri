@@ -7,16 +7,13 @@ description: ""
 <tbody>
 <tr>
 <td>
-
-![](/images/7a%20Mr%20Lim%20Chiow%20Giap.jpg)
+<img src="/images/7a%20Mr%20Lim%20Chiow%20Giap.jpg">
 </td>
 <td>
-
-![](/images/2a%20Ms%20Amina%20Hu.jpg)
+<img src="/images/2a%20Ms%20Amina%20Hu.jpg">
 </td>
 <td>
-	
-![](/images/8b%20Ms%20Lorina%20Law.jpg)
+<img src="/images/8b%20Ms%20Lorina%20Law.jpg">
 </td>
 </tr>
 <tr>
@@ -26,16 +23,13 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/Mdm%20Delia%20Hoo.jpg)
+<img src="/images/Mdm%20Delia%20Hoo.jpg">
 </td>
 <td>
-	
-![](/images/15b%20Lau%20Yan%20Hong.jpg)
+<img src="/images/15b%20Lau%20Yan%20Hong.jpg">
 </td>
 <td>
-	
-![](/images/14a%20Aison%20Tan.jpg)
+<img src="/images/14a%20Aison%20Tan.jpg">
 </td>
 </tr>
 <tr>
@@ -45,16 +39,13 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/12a%20Wee%20Kiat%20Cheng.jpg)
+<img src="/images/12a%20Wee%20Kiat%20Cheng.jpg">
 </td>
 <td>
-	
-![](/images/9a%20Ken%20Wang.jpg)
+<img src="/images/9a%20Ken%20Wang.jpg">
 </td>
 <td>
-	
-![](/images/Dr%20Teo%20Tang%20Wee%20.jpg)
+<img src="/images/Dr%20Teo%20Tang%20Wee%20.jpg">
 </td>
 </tr>
 <tr>
@@ -64,16 +55,13 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/Dr%20Low%20Wing%20Li%20Gary.jpg)
+<img src="/images/Dr%20Low%20Wing%20Li%20Gary.jpg">
 </td>
 <td>
-	
-![](/images/Dr%20Marie%20De%20Visser.jpg)
+<img src="/images/Dr%20Marie%20De%20Visser.jpg">	
 </td>
 <td>
-	
-![](/images/Dr%20Neo%20Peng%20Fu%20V21.jpg)
+<img src="/images/Dr%20Neo%20Peng%20Fu%20V21.jpg">	
 </td>
 </tr>
 <tr>
@@ -83,8 +71,7 @@ description: ""
 </tr>
 <tr>
 <td>
-	
-![](/images/Dr%20Geoiphy.jpg)
+<img src="/images/Dr%20Geoiphy.jpg">
 </td>
 </tr>
 <tr>
