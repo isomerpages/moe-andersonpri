@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/andersonpri.gif
+      background: /images/anderson2.gif
       url: /contact-us/
       key_highlights:
         - title: E-Magazine
