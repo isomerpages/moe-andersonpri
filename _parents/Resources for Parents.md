@@ -5,22 +5,22 @@ description: ""
 ---
 <p><strong><u>Assessment Matters<br /></u></strong></p>
 <ul>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20P6%20Class%20Tests.pdf" target="_blank" rel="noopener">2022 P6 Common Test</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/2022%20P6%20Class%20Tests.pdf" target="_blank" rel="noopener">2022 P6 Common Test</a></li>
 </ul>
 <p><strong><u>2022 Booklists</u></strong><strong><u><br /></u></strong></p>
 <ul>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20Booklist/P1_30-10-2021.pdf" target="_blank" rel="noopener">2022 P1 Booklist</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20Booklist/P2_02-11-2021.pdf" target="_blank" rel="noopener">2022 P2 Booklist</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20Booklist/P3_02-11-2021.pdf" target="_blank" rel="noopener">2022 P3 Booklist</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20Booklist/P4_02-11-2021.pdf" target="_blank" rel="noopener">2022 P4 Booklist</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20Booklist/P5_02-11-2021.pdf" target="_blank" rel="noopener">2022 P5 Booklist</a>&nbsp;</li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20Booklist/P6_02-11-2021.pdf" target="_blank" rel="noopener">2022 P6 Booklist</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/2022%20P1%20Booklist.pdf" target="_blank" rel="noopener">2022 P1 Booklist</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/2022%20P2%20Booklist.pdf" target="_blank" rel="noopener">2022 P2 Booklist</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/2022%20P3%20Booklist.pdf" target="_blank" rel="noopener">2022 P3 Booklist</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/2022%20P4%20Booklist.pdf" target="_blank" rel="noopener">2022 P4 Booklist</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/2022%20P5%20Booklist.pdf" target="_blank" rel="noopener">2022 P5 Booklist</a>&nbsp;</li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/2022%20P6%20Booklist.pdf" target="_blank" rel="noopener">2022 P6 Booklist</a></li>
 </ul>
 <p><strong><br />P1/2022 Pre-Entry Info Kit</strong></p>
 <ol>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/1.%20P1%202022%20Booklist.pdf" target="_blank" rel="noopener">Primary 1 Booklist&nbsp;</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/2.%20Form%201%20-%20NMT.pdf" target="_blank" rel="noopener">Form 1 - NMT</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/3.%20Form%203%20-%20NTIL.pdf" target="_blank" rel="noopener">Form 3 - NTIL</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/2022%20P1%20Booklist.pdf" target="_blank" rel="noopener">Primary 1 Booklist&nbsp;</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/Form%201%20NMT.pdf" target="_blank" rel="noopener">Form 1 - NMT</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/Form%201%20NTIL.pdf" target="_blank" rel="noopener">Form 3 - NTIL</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/4.%20MOE%20FAS%20Brochure%202022.pdf" target="_blank" rel="noopener">MOE FAS Brochure</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/5.%20MOE%20FAS%20Application%20Form.pdf" target="_blank" rel="noopener">MOE FAS Application Form</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/6.%20AndPS%202021%20Bookshop%20Schedule.pdf" target="_blank" rel="noopener">AndPS Bookshop Schedule</a></li>
