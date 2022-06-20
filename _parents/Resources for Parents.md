@@ -38,10 +38,10 @@ description: ""
 <p><br /><strong><u>Tips and User Guides for Parents</u></strong></p>
 <ul>
 <li><a href="https://moe-andersonpri-staging.netlify.app/files/New%20AL%20Infographic.pdf" target="_blank" rel="noopener">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/parents/2019/Resources%20to%20parents/Parents%20Guide%20for%20Travel%20Declaration%20on%20PG.pdf" target="_blank" rel="noopener">Parents Guide for Travel Declaration on PG</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/parents/2019/Instructions%20to%20parents%20to%20On-board%20Parents%20Gateway.pdf" target="_blank" rel="noopener">Instructions to parents to On-board Parents Gateway</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/letters/2018/April/Student%20Annexes%20(Instructions%20and%20FAQs%20updated%2029%20Mar).pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS) Instructional Guide and FAQ</a></li>
-<li><a href="https://andersonpri-moe-edu-sg-admin.cwp.sg/qql/slot/u196/docs/letters/2019/Sept%202019/SLS%20Familiarisation%20Exercise%202019%20(For%20Students)%20-%20website.pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS) - Reset Password/ Unlock Account</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/Parents%20Guide%20for%20Travel%20Declaration%20on%20PG.pdf" target="_blank" rel="noopener">Parents Guide for Travel Declaration on PG</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/Instructions%20to%20parents%20to%20On-board%20Parents%20Gateway.pdf" target="_blank" rel="noopener">Instructions to parents to On-board Parents Gateway</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/Student%20Annexes%20(Instructions%20and%20FAQs%20updated%2029%20Mar).pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS) Instructional Guide and FAQ</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/SLS%20Familiarisation%20Exercise%202019%20(For%20Students)%20-%20website.pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS) - Reset Password/ Unlock Account</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/letters/2017/November/Cyberwellness%20Tip%20Sheet%20for%20Parents%20T4%202017.pdf" target="_blank" rel="noopener">Cyberwellness - How to Stay Safe Online</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/General/Home%20Tabs/Announcements/Tip%20Sheet%20on%20Cyber%20Bullying.pdf" target="_blank" rel="noopener">Cyberwellness - Cyber Bullying</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/letters/2018/May/3B)%202018%20T2%20Parents%20Tip%20Sheet.pdf" target="_blank" rel="noopener">Cyberwellness - Helping Your Child Handle Online Content</a></li>
