@@ -23,21 +23,21 @@ description: ""
 <li><a href="https://moe-andersonpri-staging.netlify.app/files/Form%201%20NTIL.pdf" target="_blank" rel="noopener">Form 3 - NTIL</a></li>
 <li><a href="https://moe-andersonpri-staging.netlify.app/files/MOE%20Fas%20Brochure.pdf" target="_blank" rel="noopener">MOE FAS Brochure</a></li>
 <li><a href="https://moe-andersonpri-staging.netlify.app/files/MOE%20Fas%20Application.pdf" target="_blank" rel="noopener">MOE FAS Application Form</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/6.%20AndPS%202021%20Bookshop%20Schedule.pdf" target="_blank" rel="noopener">AndPS Bookshop Schedule</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/7.%20AndPS%202021%20Uniform%20Sale%20Schedule.pdf" target="_blank" rel="noopener">AndPS School Uniform</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/8.%202021%20PCAB%20Tip%201%20-%20Tip%204.pdf" target="_blank" rel="noopener">PCAB Tip 1 to Tip 4</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/9.%202021%20PCAB%20Tip%205%20-%20Tip%2010.pdf" target="_blank" rel="noopener">PCAB Tip 5 to Tip 10</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/AndPS%202021%20Bookshop%20Schedule.pdf" target="_blank" rel="noopener">AndPS Bookshop Schedule</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/AndPS%202021%20Uniform%20Sale%20Schedule.pdf" target="_blank" rel="noopener">AndPS School Uniform</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/2021%20PCAB%20Tip%201%20-%20Tip%204.pdf" target="_blank" rel="noopener">PCAB Tip 1 to Tip 4</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/2021%20PCAB%20Tip%205%20-%20Tip%2010.pdf" target="_blank" rel="noopener">PCAB Tip 5 to Tip 10</a></li>
 </ol>
 <p><strong><u>Parental Talks and School Events</u></strong></p>
 <ul>
 <li><a href="https://www.moe.gov.sg/microsites/psle-fsbb/index.html" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - MOE Microsite</a></li>
 <li><a href="https://www.moe.gov.sg/schoolfinder" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - School Finder</a></li>
 <li><a href="https://www.moe.gov.sg/secondary/dsa" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - DSA</a></li>
-<li><a href="https://andersonpri-moe-edu-sg-admin.cwp.sg/qql/slot/u196/docs/parents/2020/New%20AL%20Infographic.pdf" target="_blank" rel="noopener">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a>&nbsp;</li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/New%20AL%20Infographic.pdf" target="_blank" rel="noopener">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a>&nbsp;</li>
 </ul>
 <p><br /><strong><u>Tips and User Guides for Parents</u></strong></p>
 <ul>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/parents/2020/New%20AL%20Infographic.pdf" target="_blank" rel="noopener">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/New%20AL%20Infographic.pdf" target="_blank" rel="noopener">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/parents/2019/Resources%20to%20parents/Parents%20Guide%20for%20Travel%20Declaration%20on%20PG.pdf" target="_blank" rel="noopener">Parents Guide for Travel Declaration on PG</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/parents/2019/Instructions%20to%20parents%20to%20On-board%20Parents%20Gateway.pdf" target="_blank" rel="noopener">Instructions to parents to On-board Parents Gateway</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/docs/letters/2018/April/Student%20Annexes%20(Instructions%20and%20FAQs%20updated%2029%20Mar).pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS) Instructional Guide and FAQ</a></li>
