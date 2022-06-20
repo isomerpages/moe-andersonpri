@@ -21,8 +21,8 @@ description: ""
 <li><a href="https://moe-andersonpri-staging.netlify.app/files/2022%20P1%20Booklist.pdf" target="_blank" rel="noopener">Primary 1 Booklist&nbsp;</a></li>
 <li><a href="https://moe-andersonpri-staging.netlify.app/files/Form%201%20NMT.pdf" target="_blank" rel="noopener">Form 1 - NMT</a></li>
 <li><a href="https://moe-andersonpri-staging.netlify.app/files/Form%201%20NTIL.pdf" target="_blank" rel="noopener">Form 3 - NTIL</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/4.%20MOE%20FAS%20Brochure%202022.pdf" target="_blank" rel="noopener">MOE FAS Brochure</a></li>
-<li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/5.%20MOE%20FAS%20Application%20Form.pdf" target="_blank" rel="noopener">MOE FAS Application Form</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/MOE%20Fas%20Brochure.pdf" target="_blank" rel="noopener">MOE FAS Brochure</a></li>
+<li><a href="https://moe-andersonpri-staging.netlify.app/files/MOE%20Fas%20Application.pdf" target="_blank" rel="noopener">MOE FAS Application Form</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/6.%20AndPS%202021%20Bookshop%20Schedule.pdf" target="_blank" rel="noopener">AndPS Bookshop Schedule</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/7.%20AndPS%202021%20Uniform%20Sale%20Schedule.pdf" target="_blank" rel="noopener">AndPS School Uniform</a></li>
 <li><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/P1%202022%20Info%20Kit/8.%202021%20PCAB%20Tip%201%20-%20Tip%204.pdf" target="_blank" rel="noopener">PCAB Tip 1 to Tip 4</a></li>
