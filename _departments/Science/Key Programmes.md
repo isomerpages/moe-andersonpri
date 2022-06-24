@@ -5,11 +5,9 @@ description: ""
 third_nav_title: Science
 ---
 <p><strong>Inquiry-based Active Learning with Technology</strong><br>Students learn Science using the inquiry approach via a variety of ICT tools and experiential hands-on experiments. This ensures that the learning of Science is not confined to the textbook and the classrooms, but is seamlessly integrated into the students&rsquo; lives.</p>
-
 <img src="/images/2021%20SCI%20-%20pic%202.jpg" />
 <img src="/images/2021%20SCI%20-%20pic%203.jpg" />
 <img src="/images/2021%20SCI%20-%20pic%204.jpg" />
-
 <p><strong><u>Outdoor Learning</u></strong><br>To nurture a sense of appreciation for nature and encourage Andersonians to do their part for the environment, various science enrichment modules have been designed to provide outdoor learning experiences and opportunities for self-discovery through hands-on doing.</p>
 <p></p>
 <p><strong>(i)&nbsp;Friend or Foe Workshop</strong><br>Friend or Foe is a Biodiversity Learning Experience focused on drawing awareness and appreciation for the diverse range of bugs and insects that live in small green urban spaces around us. Conducted by&nbsp;trainers from an environmental social enterprise, Cultivate Central, students learnt about the special characteristics of different bugs and the different roles they play.</p>
