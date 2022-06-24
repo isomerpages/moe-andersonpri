@@ -4,7 +4,6 @@ permalink: /departments/Physical-Education/key-programmes
 description: ""
 third_nav_title: Physical Education
 ---
-
 <ul>
 <li>
 <div><strong>Modular PE Program</strong>&nbsp;</div>
@@ -14,7 +13,7 @@ third_nav_title: Physical Education
 <li>
 <div><strong>ALIVE Programme</strong>&nbsp;</div>
 <div>ALIVE which stands for Andersonians Living Actively through Values-based Experiences is the school&rsquo;s distinctive Learning for Life&nbsp;Programme. &nbsp;</div>
-<div>&nbsp;</div>
+
 <div>The 4 main objectives of ALIVE are to provide authentic learning&nbsp;opportunities that cater to the mass student population, as well as&nbsp;additional exposure for segmented students with greater interest,&nbsp;aptitude and talent in sports.</div>
 <div>&nbsp;</div>
 </li>
