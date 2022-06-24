@@ -40,8 +40,8 @@ description: ""
 <li><a href="/files/New%20AL%20Infographic.pdf" target="_blank" rel="noopener">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a></li>
 <li><a href="/files/Parents%20Guide%20for%20Travel%20Declaration%20on%20PG.pdf" target="_blank" rel="noopener">Parents Guide for Travel Declaration on PG</a></li>
 <li><a href="/files/Instructions%20to%20parents%20to%20On-board%20Parents%20Gateway.pdf" target="_blank" rel="noopener">Instructions to parents to On-board Parents Gateway</a></li>
-<li><a href="https://moe-andersonpri-staging.netlify.app/files/Student%20Annexes%20(Instructions%20and%20FAQs%20updated%2029%20Mar).pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS) Instructional Guide and FAQ</a></li>
-<li><a href="https://moe-andersonpri-staging.netlify.app/files/SLS%20Familiarisation%20Exercise%202019%20(For%20Students)%20-%20website.pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS) - Reset Password/ Unlock Account</a></li>
+<li><a href="/files/Student%20Annexes%20(Instructions%20and%20FAQs%20updated%2029%20Mar).pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS) Instructional Guide and FAQ</a></li>
+<li><a href="/files/SLS%20Familiarisation%20Exercise%202019%20(For%20Students)%20-%20website.pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS) - Reset Password/ Unlock Account</a></li>
 <li><a href="https://moe-andersonpri-staging.netlify.app/files/Cyberwellness%20Tip%20Sheet%20for%20Parents%20T4%202017.pdf" target="_blank" rel="noopener">Cyberwellness - How to Stay Safe Online</a></li>
 <li><a href="https://moe-andersonpri-staging.netlify.app/files/Tip%20Sheet%20on%20Cyber%20Bullying2.pdf" target="_blank" rel="noopener">Cyberwellness - Cyber Bullying</a></li>
 <li><a href="https://moe-andersonpri-staging.netlify.app/files/3B)%202018%20T2%20Parents%20Tip%20Sheet.pdf" target="_blank" rel="noopener">Cyberwellness - Helping Your Child Handle Online Content</a></li>
