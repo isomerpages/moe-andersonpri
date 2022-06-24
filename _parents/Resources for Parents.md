@@ -42,15 +42,15 @@ description: ""
 <li><a href="/files/Instructions%20to%20parents%20to%20On-board%20Parents%20Gateway.pdf" target="_blank" rel="noopener">Instructions to parents to On-board Parents Gateway</a></li>
 <li><a href="/files/Student%20Annexes%20(Instructions%20and%20FAQs%20updated%2029%20Mar).pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS) Instructional Guide and FAQ</a></li>
 <li><a href="/files/SLS%20Familiarisation%20Exercise%202019%20(For%20Students)%20-%20website.pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS) - Reset Password/ Unlock Account</a></li>
-<li><a href="https://moe-andersonpri-staging.netlify.app/files/Cyberwellness%20Tip%20Sheet%20for%20Parents%20T4%202017.pdf" target="_blank" rel="noopener">Cyberwellness - How to Stay Safe Online</a></li>
-<li><a href="https://moe-andersonpri-staging.netlify.app/files/Tip%20Sheet%20on%20Cyber%20Bullying2.pdf" target="_blank" rel="noopener">Cyberwellness - Cyber Bullying</a></li>
-<li><a href="https://moe-andersonpri-staging.netlify.app/files/3B)%202018%20T2%20Parents%20Tip%20Sheet.pdf" target="_blank" rel="noopener">Cyberwellness - Helping Your Child Handle Online Content</a></li>
-<li><a href="https://moe-andersonpri-staging.netlify.app/files/POSB%20Smart%20Buddy.pdf" target="_blank" rel="noopener">POSB Smart Buddy Information&nbsp;</a></li>
-<li><a href="https://moe-andersonpri-staging.netlify.app/easy-snacks-for-break-time" target="_blank" rel="noopener">Easy Snacks for Break Time</a></li>
-<li><a href="https://moe-andersonpri-staging.netlify.app/files/primary-school-education-booklet_compressed.pdf">Primary School Education Booklet&nbsp;</a></li>
-<li><a href="https://moe-andersonpri-staging.netlify.app/files/S1-Posting-Booklet-English-2020_compressed.pdf" target="_blank" rel="noopener">S1 Posting Booklet English 2020</a>&nbsp;</li>
+<li><a href="/files/Cyberwellness%20Tip%20Sheet%20for%20Parents%20T4%202017.pdf" target="_blank" rel="noopener">Cyberwellness - How to Stay Safe Online</a></li>
+<li><a href="/files/Tip%20Sheet%20on%20Cyber%20Bullying2.pdf" target="_blank" rel="noopener">Cyberwellness - Cyber Bullying</a></li>
+<li><a href="/files/3B)%202018%20T2%20Parents%20Tip%20Sheet.pdf" target="_blank" rel="noopener">Cyberwellness - Helping Your Child Handle Online Content</a></li>
+<li><a href="/files/POSB%20Smart%20Buddy.pdf" target="_blank" rel="noopener">POSB Smart Buddy Information&nbsp;</a></li>
+<li><a href="/easy-snacks-for-break-time" target="_blank" rel="noopener">Easy Snacks for Break Time</a></li>
+<li><a href=/files/primary-school-education-booklet_compressed.pdf">Primary School Education Booklet&nbsp;</a></li>
+<li><a href="/files/S1-Posting-Booklet-English-2020_compressed.pdf" target="_blank" rel="noopener">S1 Posting Booklet English 2020</a>&nbsp;</li>
 <li><a href="https://www.moe.gov.sg/education/edusave" target="_blank" rel="noopener">Edusave Scheme</a></li>
-<li><a href="https://moe-andersonpri-staging.netlify.app/files/School%20Bill%20FAQ.pdf" target="_blank" rel="noopener">School Bills FAQ</a></li>
-<li><a href="https://moe-andersonpri-staging.netlify.app/files/Information%20on%20Miscellaneous%20Fees.pdf" target="_blank" rel="noopener">Information on Miscellaneous Fees</a></li>
-<li><a href="https://moe-andersonpri-staging.netlify.app/files/Address%20Update%20Form.pdf" target="_blank" rel="noopener">Form to update student address</a></li>
+<li><a href="/files/School%20Bill%20FAQ.pdf" target="_blank" rel="noopener">School Bills FAQ</a></li>
+<li><a href="/files/Information%20on%20Miscellaneous%20Fees.pdf" target="_blank" rel="noopener">Information on Miscellaneous Fees</a></li>
+<li><a href="/files/Address%20Update%20Form.pdf" target="_blank" rel="noopener">Form to update student address</a></li>
 </ul>
