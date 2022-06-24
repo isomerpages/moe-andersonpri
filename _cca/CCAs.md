@@ -3,6 +3,4 @@ title: CCAs
 permalink: /cca
 description: ""
 ---
-
-
-![](/images/Our%20CCA.jpg)
+<img src="/images/Our%20CCA.jpg">
