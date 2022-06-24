@@ -47,7 +47,7 @@ description: ""
 <li><a href="/files/3B)%202018%20T2%20Parents%20Tip%20Sheet.pdf" target="_blank" rel="noopener">Cyberwellness - Helping Your Child Handle Online Content</a></li>
 <li><a href="/files/POSB%20Smart%20Buddy.pdf" target="_blank" rel="noopener">POSB Smart Buddy Information&nbsp;</a></li>
 <li><a href="/easy-snacks-for-break-time" target="_blank" rel="noopener">Easy Snacks for Break Time</a></li>
-<li><a href=/files/primary-school-education-booklet_compressed.pdf">Primary School Education Booklet&nbsp;</a></li>
+<li><a href="/files/primary-school-education-booklet_compressed.pdf">Primary School Education Booklet&nbsp;</a></li>
 <li><a href="/files/S1-Posting-Booklet-English-2020_compressed.pdf" target="_blank" rel="noopener">S1 Posting Booklet English 2020</a>&nbsp;</li>
 <li><a href="https://www.moe.gov.sg/education/edusave" target="_blank" rel="noopener">Edusave Scheme</a></li>
 <li><a href="/files/School%20Bill%20FAQ.pdf" target="_blank" rel="noopener">School Bills FAQ</a></li>
