@@ -9,16 +9,16 @@ third_nav_title: Chinese
 <p><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/chinese-primary-2015.pdf" target="_blank" rel="noopener">MOE Primary Chinese Syllabus (including Higher Chinese)</a></p>
 </li>
 <li>
-<p><a href="https://moe-andersonpri-staging.netlify.app/files/list_of_dictionaries_for_examination.pdf" target="_blank" rel="noopener">SEAB List of Approved Chinese Dictionaries for PSLE</a></p>
+<p><a href="/files/list_of_dictionaries_for_examination.pdf" target="_blank" rel="noopener">SEAB List of Approved Chinese Dictionaries for PSLE</a></p>
 </li>
 <li>
 <p>MOE Primary Chinese Character List&nbsp;</p>
 <ul>
 <li>
-<p><a href="https://moe-andersonpri-staging.netlify.app/files/%E2%80%9C%E6%AC%A2%E4%B9%90%E4%BC%99%E4%BC%B4%E2%80%9D%E5%B0%8F%E5%AD%A6%E5%8D%8E%E6%96%87%E7%94%9F%E5%AD%97%E8%A1%A8.pdf" target="_blank" rel="noopener">Chinese</a></p>
+<p><a href="/files/%E2%80%9C%E6%AC%A2%E4%B9%90%E4%BC%99%E4%BC%B4%E2%80%9D%E5%B0%8F%E5%AD%A6%E5%8D%8E%E6%96%87%E7%94%9F%E5%AD%97%E8%A1%A8.pdf" target="_blank" rel="noopener">Chinese</a></p>
 </li>
 <li>
-<p><a href="https://moe-andersonpri-staging.netlify.app/files/%E2%80%9C%E6%AC%A2%E4%B9%90%E4%BC%99%E4%BC%B4%E2%80%9D%E5%B0%8F%E5%AD%A6%E9%AB%98%E7%BA%A7%E5%8D%8E%E6%96%87%E7%94%9F%E5%AD%97%E8%A1%A81.pdf" target="_blank" rel="noopener">Higher Chinese</a></p>
+<p><a href="/files/%E2%80%9C%E6%AC%A2%E4%B9%90%E4%BC%99%E4%BC%B4%E2%80%9D%E5%B0%8F%E5%AD%A6%E9%AB%98%E7%BA%A7%E5%8D%8E%E6%96%87%E7%94%9F%E5%AD%97%E8%A1%A81.pdf" target="_blank" rel="noopener">Higher Chinese</a></p>
 </li>
 </ul>
 </li>
