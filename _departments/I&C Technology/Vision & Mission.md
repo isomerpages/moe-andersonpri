@@ -12,5 +12,4 @@ third_nav_title: I&C Technology
 <li>To ensure that students are discerning and responsible ICT users</li>
 <li>To develop teachers&rsquo; competency in using ICT</li>
 </ul>
-
-![](/images/ICT%20Dept%20banner-min.jpg)
+<img src="/images/ICT%20Dept%20banner-min.jpg">
