@@ -4,7 +4,6 @@ permalink: /departments/Malay/useful-links
 description: ""
 third_nav_title: Malay
 ---
-
 <ul>
 <li><a href="https://www.moe.gov.sg/-/media/files/primary/malay-primary-2015.pdf?la=en&amp;hash=3D78EE4296AEA86D7B640415CFC0C36BCF2C391F" target="_blank" rel="noopener">MOE Primary Malay Syllabus (including Higher Malay)</a></li>
 <li>
@@ -20,7 +19,7 @@ third_nav_title: Malay
 <div>Good Malay Websites</div>
 <ul>
 <li>
-<div><a href="https://www.mtl.moe.edu.sg/ecekap/index.html" target="_blank" rel="noopener">e-cekap</a></div>
+<a href="https://www.mtl.moe.edu.sg/ecekap/index.html" target="_blank" rel="noopener">e-cekap</a>
 <div>For Primary ML students with a wide range of multimedia content and online activities</div>
 </li>
 </ul>
