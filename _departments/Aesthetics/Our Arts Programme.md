@@ -35,4 +35,4 @@ third_nav_title: Aesthetics
 <li>Performing Arts EXCEL development programme</li>
 <li><span class="">ANDventure Arts specialisation programmes</span>&nbsp;</li>
 </ul>
-<img src="/images/Arts%20Prog%20Picture%203.jpg">
+<img src="/images/Arts%20Prog%20Picture%203%20dc.jpg">
