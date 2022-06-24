@@ -3,8 +3,7 @@ title: FamilyMatters @ School
 permalink: /parents/familymatters-at-school
 description: ""
 ---
-![](/images/FamilyMatters%20Logo.jpg)
-
+<img src="/images/FamilyMatters%20Logo.jpg">
 <h2>Objective</h2>
 <p>Empowering families through FamilyMatters@School! Because FAMILY matters.</p>
 <p>Our family is the anchor in our lives, bringing us love, joy and warmth. Our family supports us, keeps us rooted and gives meaning to our existence. A happy family does not just happen. It takes effort and commitment.</p>
@@ -21,12 +20,9 @@ description: ""
 <p>Parent-and-child bonding activities</p>
 </li>
 </ul>
-
-![](/images/IMG_0008.jpg)
-
+<img src="/images/IMG_0008.jpg">
 <h2>Upcoming Programmes</h2>
 <p>Upcoming Programme:<BR>Please keep a lookout for the upcoming FMS programme!</p>
-
 <h2> Photo Gallery </h2>
 <p>
 <li><a href="https://www.facebook.com/pg/Anderson-Primary-School-Official-248457555191296/photos/?tab=album&amp;album_id=1649615591742145" target="_blank" rel="noopener"><strong>Dad's Club @ Anderson</strong></a></li>
