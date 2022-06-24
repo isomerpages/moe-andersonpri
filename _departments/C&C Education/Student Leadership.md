@@ -66,7 +66,6 @@ The Student Leaders Council (SLC) is set up to bring cohesiveness and coherence 
 <p style="text-align: center;">to be leaders with heart and citizens of character.</p>
 <p><strong>2020 Initiating a Clean Pail Challenge by Anderson School Prefects</strong></p>
 <div><iframe data-mce-fragment="1" allowfullscreen="allowfullscreen" frameborder="0" height="315" width="560" src="https://www.youtube.com/embed/dF8QWohu03Y" title="YouTube video player" class="ive_eobj_center"></iframe></div>
-
 <p><strong>(2021) Student Leaders' Pledge at Student Leaders' Investiture</strong><br><br><iframe data-mce-fragment="1" allowfullscreen="allowfullscreen" frameborder="0" height="315" width="560" src="https://www.youtube.com/embed/Mpspjpnzszw" title="YouTube video player" class="ive_eobj_center"></iframe></p>
 <p><strong>Stewarding Change by Design Advocating Zero Food Waste in Anderson</strong></p>
 <div><strong><br></strong><iframe data-mce-fragment="1" allowfullscreen="allowfullscreen" frameborder="0" height="315" width="560" src="https://www.youtube.com/embed/aSyK_xEa_Uc" title="YouTube video player" class="ive_eobj_center"></iframe></div>
