@@ -3,7 +3,6 @@ title: Learning for Life Programme (LLP)
 permalink: /distinctive-programmes/learning-for-life-programme-llp
 description: ""
 ---
-
 <p>Leveraging on the vibrant Arts culture in Anderson, the&nbsp;<strong>VIVACE@Anderson&nbsp;</strong>LLP Arts programme is specially designed to develop in our students, the qualities of Performance Character (resilience, diligence, confidence, excellence and self-discipline) and Moral Character (empathy, integrity and graciousness) through a wide spectrum of experiences in the Arts.</p>
 <p><strong>V</strong>alues<strong>&nbsp;I</strong>nculcation<strong>&nbsp;V</strong>ia<strong>&nbsp;A</strong>rtsand&nbsp;<strong>C</strong>reative<strong>E</strong>xperiences<strong>&nbsp;(VIVACE) @ Anderson</strong>&nbsp;LLP empowers Andersonians to take&nbsp;<em>Ownership</em>&nbsp;when creating artistic experiences with their friends, sharpen their&nbsp;<em>Craftsmanship</em>&nbsp;in their respective areas of arts specialisation and grow their&nbsp;<em>Leadership</em>&nbsp;skills as active advocates and leading champions of the arts. Through the progressive milestones of learning,&nbsp;Andersonians strive&nbsp;to:</p>
 <p>-&nbsp;<strong>V</strong>alue teamwork as they collaborate and create</p>
@@ -23,25 +22,14 @@ description: ""
 <p>- Annual Arts Fiesta</p>
 <p>- Arts assembly programmes</p>
 <p>- Arts Learning Journey</p>
-
-![](/images/LLP%201.jpg)
-
-![](/images/LLP%202.jpg)
-
-![](/images/EnjoyArts1.png)
-
+<img src="/images/LLP%201.jpg">
+<img src="/images/LLP%202.jpg">
+<img src="/images/EnjoyArts1.png">
 <p><strong><em>Explore the Arts (Craftsmanship)<br /></em></strong>To equip students with the necessary 21st century competencies and to build their confidence from within, we offer special programmes in Design Thinking, Fine Arts, Mixed Media, Creative Opera, Music and Movement, and Pop Band playing under our school distinctive programme,&nbsp;<strong>ANDventure</strong>.&nbsp;<strong>ANDventure</strong>&nbsp;is our school-based curriculum innovation for each child to discover the artist that is within them, and to harness this potential as a future-ready citizen of character. Every child has a voice, and&nbsp;<strong>ANDventure</strong>&nbsp;provides the opportunities for these voices to be heard and ideas to be realised. For lower primary students who demonstrate aptitude and interest in performing arts, our Performing Arts Early Specialisation Programme allows them to begin their exploration at P2 before transiting into the more rigorous Performing Arts CCA programme from P3 to P6.</p>
-
-![](/images/LLP%203.jpg)
-
-![](/images/LLP%204.jpg)
-
+<img src="/images/LLP%203.jpg">
+<img src="/images/LLP%204.jpg">
 <p><em><strong>Excel in the Arts (Leadership)<br /></strong></em>For students who are interested to take their learning to a deeper level, there are opportunities for them to stretch their capabilities through high key public performances, participations at national festivals and exhibitions under the Performing Arts STEP-UP Programme. Students who demonstrate a high level of interest and ability in the different art forms can sign up for arts elective masterclasses for Music, Dance and Visual Art offered under our school distinctive programme,&nbsp;<strong>ANDventure</strong>, At this level, students will experience publication and production works as part of our talent development initiative.</p>
-
-![](/images/LLP%205.jpg)
-
-![](/images/LLP%206.jpg)
-
-![](/images/LLP%207.jpg)
-
+<img src="/images/LLP%205.jpg">
+<img src="/images/LLP%206.jpg">
+<img src="/images/LLP%207.jpg">
 <p>With a differentiated and empowering curriculum anchored on values inculcation through the Arts,&nbsp;<strong>VIVACE@Anderson</strong>&nbsp;imbue in our students growth-oriented dispositions and attitudes to make them future-ready. It is our goal to take the power of the Arts from outward expressions to inward transformation. All these are in line with the school&rsquo;s vision to develop Learners with Passion, Leaders with Heart, Citizens of Character.</p>
