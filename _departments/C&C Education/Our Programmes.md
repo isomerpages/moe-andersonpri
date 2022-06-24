@@ -45,14 +45,11 @@ citizens of good character. With a strong sense of responsibility and a heart to
 </li>
 </ul>
 </div>
-
-![](/images/apscce1.jpg)
+<img src="/images/apscce1.jpg">
 <p style="text-align: center;"><strong><em>EOY Finish Strong! Programme (2020)</em></strong></p>
-
-![](/images/apscce2.jpg)
+<img src="/images/apscce2.jpg">
 <p style="text-align: center;"><strong><em>Learning first aid skills during Total Defence Day (2021)</em></strong></p>
 <p style="text-align: center;"><strong><em>(Student Leaders OLJ 2019)</em></strong></p>
-
 <p><strong><u>National Education (NE) Programmes and Social Studies</u></strong><br>The objective of NE is to develop national cohesion, the instinct for survival and confidence in the future,&nbsp;</p>
 <div>
 <ul>
@@ -63,13 +60,9 @@ citizens of good character. With a strong sense of responsibility and a heart to
 </ul>
 </div>
 <p>In Anderson, we commemorate four core NE events which have been identified as defining moments in Singapore&rsquo;s history every year. The aim is to entrench these events and the images they evoke in the consciousness of each successive generation.</p>
-
-![](/images/apscce6.jpg)
-
-![](/images/apscce7.jpg)
-
+<img src="/images/apscce6.jpg">
+<img src="/images/apscce7.jpg">
 <p style="text-align: center;"><strong><em>School Commemoration of Racial Harmony Day and National Day (2020)</em></strong></p>
-
 <p><strong><u>Values-in-Action (ViA): Anderson Primary Gives Back </u></strong><br>&lsquo;Anderson Primary Gives Back&rsquo; is part of our school&rsquo;s Values-In-Action programme that provides students with opportunities, from primary one to six, to learn what it means to contribute meaningfully to the community. As students prepare and actively contribute towards their ViA activities, we hope they will spend time reflecting how they have impacted the community and the lessons they have learnt as they play their part towards a caring and inclusive Singapore.&nbsp;</p>
 <p>Some key focuses of our ViA activities include:</p>
 <ul>
@@ -80,11 +73,7 @@ citizens of good character. With a strong sense of responsibility and a heart to
 <li><em>Project HOPE</em>: Care for Something bigger than Myself (Primary 5)</li>
 <li><em>Project GIFT: Champion our Cause!</em> (Primary 6)</li>
 </ul>
-
-![](/images/apscce8.jpg)
-
+<img src="/images/apscce8.jpg">
 <p style="text-align: center;"><strong><em>Values-in-Action &ndash; Clean Plate Campaign (2020)</em></strong></p>
-
-![](/images/apscce9.jpg)
-
+<img src="/images/apscce9.jpg">
 <p style="text-align: center;"><strong><em>Student Leaders serving at &lsquo;Food from the Heart&rsquo; Donation Drive (2020)</em></strong></p>
