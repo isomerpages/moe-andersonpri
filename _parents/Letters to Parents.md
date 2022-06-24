@@ -8,7 +8,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">January</label>
     <div>
-      <p><a href="https://andersonpri.moe.edu.sg/qql/slot/u196/2022/2022%20P6%20Class%20Tests.pdf" target="_blank" rel="noopener">2022 P6 Common Test</a></p>
+      <p><a href="/files/2022%20P6%20Class%20Tests.pdf" target="_blank" rel="noopener">2022 P6 Common Test</a></p>
     </div>
 </li>
   <li>
