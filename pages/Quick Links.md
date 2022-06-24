@@ -6,7 +6,7 @@ description: ""
 # **MOE Links**
 * [MOE Website](moe.gov.sg)
 * [MOE P5-P6 Sexuality Education Programme](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2fprogrammes%2fsocial-and-emotional-learning%2fsexuality-education&user=extranet%5cAnonymous&site=moe-website)
-* [Information on Studen Vaccination Exercise](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)
+* [Information on Student Vaccination Exercise](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise%20(1).pdf)
 * [Principal's Briefing on changes to PSLE Scoring System - MOE Microsite](https://www.moe.gov.sg/microsites/psle-fsbb/index.html)
 * [Principal's Briefing on changes to PSLE Scoring System - School Finder](https://www.moe.gov.sg/schoolfinder)
 * [Principal's Briefing on changes to PSLE Scoring System - DSA](https://www.moe.gov.sg/secondary/dsa)
@@ -23,15 +23,14 @@ description: ""
 
 # **Academic Links**
 * [Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-* [SLS - Quick Guide](https://andersonpri.moe.edu.sg/qql/slot/u196/docs/quick_links/2019/SLS%20Annex%20-%20Website%20(1%20Feb%202019).pdf)
-* [SLS - Reset Password / Unlock Account](https://andersonpri.moe.edu.sg/qql/slot/u196/docs/letters/2019/Sept%202019/SLS%20Familiarisation%20Exercise%202019%20(For%20Students)%20-%20website.pdf)
+* [SLS - Quick Guide](/files/SLS%20Annex%20-%20Website%20(1%20Feb%202019).pdf)
+* [SLS - Reset Password / Unlock Account](/files/SLS%20Familiarisation%20Exercise%202019%20(For%20Students)%20-%20website.pdf)
 * [Learning Management System](https://lms.wizlearn.com/LMS/Login_main.aspx)
 * [SEAB Website](https://www.seab.gov.sg/home/examinations/psle)
 
 # **Health Promotion Board (HPB)**
 * [Healthy Meals in Schools Programme](/files/HPB%20HM%20Parents%20Booklet_School_Generic_30%20Mar.pdf)
-* [Easy Snacks for Break Time](https://moe-andersonpri-staging.netlify.app/easy-snacks-for-break-time)
-
+* [Easy Snacks for Break Time](/easy-snacks-for-break-time)
 
 # **Extra Links**
 * [SC Mobile](https://scmobile.moe.edu.sg/)
