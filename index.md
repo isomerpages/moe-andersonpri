@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Anderson Primary School
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -26,3 +26,4 @@ sections:
       title: Announcements
       button: More announcements
 ---
+
