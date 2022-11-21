@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education Programme
-permalink: /parents/sexuality-education-programme
+permalink: /parents/sexuality-education-programme/
 description: ""
 ---
 <div>

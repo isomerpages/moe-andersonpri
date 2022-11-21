@@ -1,6 +1,6 @@
 ---
 title: Alumni
-permalink: /our-family/alumni
+permalink: /our-family/alumni/
 description: ""
 ---
 <ul>

@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /departments/Science/useful-links
+permalink: /departments/Science/useful-links/
 description: ""
 third_nav_title: Science
 ---

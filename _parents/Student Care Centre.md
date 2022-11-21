@@ -1,6 +1,6 @@
 ---
 title: Student Care Centre
-permalink: /parents/student-care-centre
+permalink: /parents/student-care-centre/
 description: ""
 ---
 <p><strong>Student Care Centre at Anderson Primary School</strong></p>

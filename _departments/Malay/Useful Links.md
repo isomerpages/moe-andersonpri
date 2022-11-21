@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /departments/Malay/useful-links
+permalink: /departments/Malay/useful-links/
 description: ""
 third_nav_title: Malay
 ---

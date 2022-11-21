@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /departments/English/useful-links
+permalink: /departments/English/useful-links/
 description: ""
 third_nav_title: English
 ---

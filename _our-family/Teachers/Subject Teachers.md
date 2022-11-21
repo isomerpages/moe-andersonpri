@@ -1,6 +1,6 @@
 ---
 title: Subject Teachers
-permalink: /our-family/Teachers/subject-teachers
+permalink: /our-family/Teachers/subject-teachers/
 description: ""
 third_nav_title: Teachers
 ---

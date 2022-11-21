@@ -1,6 +1,6 @@
 ---
 title: Key Programmes
-permalink: /departments/information-n-communication-technology/key-programmes
+permalink: /departments/information-n-communication-technology/key-programmes/
 description: ""
 third_nav_title: I&C Technology
 ---

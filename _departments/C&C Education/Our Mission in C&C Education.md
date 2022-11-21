@@ -1,6 +1,6 @@
 ---
 title: Our Mission in C&C Education
-permalink: /departments/character-n-citizenship-education/our-mission-in-cce
+permalink: /departments/character-n-citizenship-education/our-mission-in-cce/
 description: ""
 third_nav_title: C&C Education
 ---

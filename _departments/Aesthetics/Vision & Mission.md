@@ -1,6 +1,6 @@
 ---
 title: Vision & Mission
-permalink: /departments/Aesthetics/vision-n-mission
+permalink: /departments/Aesthetics/vision-n-mission/
 description: ""
 third_nav_title: Aesthetics
 ---

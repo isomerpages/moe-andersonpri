@@ -1,6 +1,6 @@
 ---
 title: English Drama (2022)
-permalink: /cca/Performing-Arts/english-drama-2022
+permalink: /cca/Performing-Arts/english-drama-2022/
 description: ""
 third_nav_title: Performing Arts
 ---

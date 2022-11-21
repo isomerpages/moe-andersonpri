@@ -1,6 +1,6 @@
 ---
 title: Vision & Mission
-permalink: /departments/English/vision-n-mission
+permalink: /departments/English/vision-n-mission/
 description: ""
 third_nav_title: English
 ---

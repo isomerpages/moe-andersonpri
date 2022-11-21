@@ -1,6 +1,6 @@
 ---
 title: Art Club (2022)
-permalink: /cca/clubs-n-societies/art-club-2022
+permalink: /cca/clubs-n-societies/art-club-2022/
 description: ""
 third_nav_title: Clubs & Societies
 ---

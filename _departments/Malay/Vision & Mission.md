@@ -1,6 +1,6 @@
 ---
 title: Vision & Mission
-permalink: /departments/Malay/vision-n-mission
+permalink: /departments/Malay/vision-n-mission/
 description: ""
 third_nav_title: Malay
 ---

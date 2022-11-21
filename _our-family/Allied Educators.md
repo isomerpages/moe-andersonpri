@@ -1,6 +1,6 @@
 ---
 title: Allied Educators
-permalink: /our-family/allied-educators
+permalink: /our-family/allied-educators/
 description: ""
 ---
 <table border="1" cellspacing="0">

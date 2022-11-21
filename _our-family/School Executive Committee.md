@@ -1,6 +1,6 @@
 ---
 title: School Executive Committee
-permalink: /our-family/school-executive-committee
+permalink: /our-family/school-executive-committee/
 description: ""
 ---
 <table cellpadding="0" cellspacing="0">

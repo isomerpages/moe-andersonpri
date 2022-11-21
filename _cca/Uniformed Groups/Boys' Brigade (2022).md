@@ -1,6 +1,6 @@
 ---
 title: Boys' Brigade (2022)
-permalink: /cca/uniformed-groups/boys-brigade-2022
+permalink: /cca/uniformed-groups/boys-brigade-2022/
 description: ""
 third_nav_title: Uniformed Groups
 ---

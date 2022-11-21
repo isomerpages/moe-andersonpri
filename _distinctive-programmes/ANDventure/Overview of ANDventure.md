@@ -1,6 +1,6 @@
 ---
 title: Overview of ANDventure
-permalink: /distinctive-programmes/andventure/overview-of-andventure
+permalink: /distinctive-programmes/andventure/overview-of-andventure/
 description: ""
 third_nav_title: ANDventure
 ---

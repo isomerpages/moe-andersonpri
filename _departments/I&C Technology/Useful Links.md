@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /departments/information-n-communication-technology/useful-links
+permalink: /departments/information-n-communication-technology/useful-links/
 description: ""
 third_nav_title: I&C Technology
 ---

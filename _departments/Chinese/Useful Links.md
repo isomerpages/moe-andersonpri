@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /departments/Chinese/useful-links
+permalink: /departments/Chinese/useful-links/
 description: ""
 third_nav_title: Chinese
 ---

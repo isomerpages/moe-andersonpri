@@ -1,6 +1,6 @@
 ---
 title: Girls' Brigade (2022)
-permalink: /cca/uniformed-groups/girls-brigade-2022
+permalink: /cca/uniformed-groups/girls-brigade-2022/
 description: ""
 third_nav_title: Uniformed Groups
 ---

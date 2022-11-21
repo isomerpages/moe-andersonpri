@@ -1,6 +1,6 @@
 ---
 title: Key Programmes
-permalink: /departments/Malay/key-programmes
+permalink: /departments/Malay/key-programmes/
 description: ""
 third_nav_title: Malay
 ---

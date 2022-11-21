@@ -1,6 +1,6 @@
 ---
 title: Letters to Parents
-permalink: /parents/letters-to-parents
+permalink: /parents/letters-to-parents/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">

@@ -1,6 +1,6 @@
 ---
 title: Resources for Parents
-permalink: /parents/resources-for-parents
+permalink: /parents/resources-for-parents/
 description: ""
 ---
 <p><strong><u>Assessment Matters<br /></u></strong></p>

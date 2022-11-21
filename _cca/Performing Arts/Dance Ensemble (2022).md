@@ -1,6 +1,6 @@
 ---
 title: Dance Ensemble (2022)
-permalink: /cca/Performing-Arts/dance-ensemble-2022
+permalink: /cca/Performing-Arts/dance-ensemble-2022/
 description: ""
 third_nav_title: Performing Arts
 ---

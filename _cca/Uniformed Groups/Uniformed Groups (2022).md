@@ -1,6 +1,6 @@
 ---
 title: Uniformed Groups (2022)
-permalink: /cca/uniformed-groups
+permalink: /cca/uniformed-groups/
 description: ""
 third_nav_title: Uniformed Groups
 ---

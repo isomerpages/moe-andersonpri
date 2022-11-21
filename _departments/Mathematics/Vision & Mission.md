@@ -1,6 +1,6 @@
 ---
 title: Vision & Mission
-permalink: /departments/Mathematics/vision-n-mission
+permalink: /departments/Mathematics/vision-n-mission/
 description: ""
 third_nav_title: Mathematics
 ---

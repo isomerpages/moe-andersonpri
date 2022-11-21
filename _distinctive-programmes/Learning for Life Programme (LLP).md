@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme (LLP)
-permalink: /distinctive-programmes/learning-for-life-programme-llp
+permalink: /distinctive-programmes/learning-for-life-programme-llp/
 description: ""
 ---
 <p>Leveraging on the vibrant Arts culture in Anderson, the&nbsp;<strong>VIVACE@Anderson&nbsp;</strong>LLP Arts programme is specially designed to develop in our students, the qualities of Performance Character (resilience, diligence, confidence, excellence and self-discipline) and Moral Character (empathy, integrity and graciousness) through a wide spectrum of experiences in the Arts.</p>

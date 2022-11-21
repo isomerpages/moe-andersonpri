@@ -1,6 +1,6 @@
 ---
 title: Road Safety
-permalink: /parents/Road-Safety-1
+permalink: /parents/Road-Safety-1/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">

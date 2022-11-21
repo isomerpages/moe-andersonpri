@@ -1,6 +1,6 @@
 ---
 title: Module Synopses
-permalink: /distinctive-programmes/ANDventure/module-synposes
+permalink: /distinctive-programmes/ANDventure/module-synposes/
 description: ""
 third_nav_title: ANDventure
 ---

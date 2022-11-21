@@ -1,6 +1,6 @@
 ---
 title: Principal's Message for 2019
-permalink: /about-us/principals-message-for-2022/principals-message-for-2019
+permalink: /about-us/principals-message-for-2022/principals-message-for-2019/
 description: ""
 third_nav_title: Principal's Message
 ---

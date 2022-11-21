@@ -1,6 +1,6 @@
 ---
 title: 2020 Achievements
-permalink: /achievements/co-curriculum/2020
+permalink: /achievements/co-curriculum/2020/
 description: ""
 third_nav_title: Co Curriculum
 ---

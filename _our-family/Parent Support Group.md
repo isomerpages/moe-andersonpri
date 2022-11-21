@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group
-permalink: /our-family/parent-support-group
+permalink: /our-family/parent-support-group/
 description: ""
 ---
 <h3>Our Mission</h3>

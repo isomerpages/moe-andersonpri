@@ -1,6 +1,6 @@
 ---
 title: Programme for Active Learning (PAL)
-permalink: /parents/programme-for-active-learning-pal
+permalink: /parents/programme-for-active-learning-pal/
 description: ""
 ---
 <div>

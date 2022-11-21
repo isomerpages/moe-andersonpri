@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /departments/Tamil/useful-links
+permalink: /departments/Tamil/useful-links/
 description: ""
 third_nav_title: Tamil
 ---
