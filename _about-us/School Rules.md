@@ -1,6 +1,6 @@
 ---
 title: School Rules
-permalink: /about-us/school-rules
+permalink: /about-us/school-rules/
 description: ""
 ---
 <p><strong>National Anthem / Pledge</strong></p>

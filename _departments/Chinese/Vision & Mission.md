@@ -1,6 +1,6 @@
 ---
 title: Vision & Mission
-permalink: /departments/Chinese/vision-n-mission
+permalink: /departments/Chinese/vision-n-mission/
 description: ""
 third_nav_title: Chinese
 ---

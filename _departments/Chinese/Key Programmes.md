@@ -1,6 +1,6 @@
 ---
 title: Key Programmes
-permalink: /departments/Chinese/key-programmes
+permalink: /departments/Chinese/key-programmes/
 description: ""
 third_nav_title: Chinese
 ---

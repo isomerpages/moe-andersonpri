@@ -1,6 +1,6 @@
 ---
 title: Key Programmes
-permalink: /departments/Tamil/key-programmes
+permalink: /departments/Tamil/key-programmes/
 description: ""
 third_nav_title: Tamil
 ---

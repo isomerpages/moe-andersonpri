@@ -1,6 +1,6 @@
 ---
 title: School Song
-permalink: /about-us/school-song
+permalink: /about-us/school-song/
 description: ""
 ---
 <img src="/images/schoolsonglyrics.jpg" 

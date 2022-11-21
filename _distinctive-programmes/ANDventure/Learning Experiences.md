@@ -1,6 +1,6 @@
 ---
 title: Learning Experiences
-permalink: /distinctive-programmes/andventure/learning-experiences
+permalink: /distinctive-programmes/andventure/learning-experiences/
 description: ""
 third_nav_title: ANDventure
 ---

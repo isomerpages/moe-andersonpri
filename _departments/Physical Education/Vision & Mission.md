@@ -1,6 +1,6 @@
 ---
 title: Vision & Mission
-permalink: /departments/Physical-Education/vision-n-mission
+permalink: /departments/Physical-Education/vision-n-mission/
 description: ""
 third_nav_title: Physical Education
 ---

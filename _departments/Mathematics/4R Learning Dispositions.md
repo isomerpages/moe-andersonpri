@@ -1,6 +1,6 @@
 ---
 title: 4R Learning Dispositions
-permalink: /departments/Mathematics/4r-learning-dispositions
+permalink: /departments/Mathematics/4r-learning-dispositions/
 description: ""
 third_nav_title: Mathematics
 ---

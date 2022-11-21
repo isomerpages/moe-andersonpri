@@ -1,6 +1,6 @@
 ---
 title: Vision & Mission
-permalink: /departments/information-n-communication-technology/vision-n-mission
+permalink: /departments/information-n-communication-technology/vision-n-mission/
 description: ""
 third_nav_title: I&C Technology
 ---

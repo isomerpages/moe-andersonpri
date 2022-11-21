@@ -1,6 +1,6 @@
 ---
 title: Robotics Club (2022)
-permalink: /cca/clubs-n-societies/robotics-club-2022
+permalink: /cca/clubs-n-societies/robotics-club-2022/
 description: ""
 third_nav_title: Clubs & Societies
 ---

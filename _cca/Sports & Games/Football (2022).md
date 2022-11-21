@@ -1,6 +1,6 @@
 ---
 title: Football (2022)
-permalink: /cca/Sports-n-Games/football-2022
+permalink: /cca/Sports-n-Games/football-2022/
 description: ""
 third_nav_title: Sports & Games
 ---

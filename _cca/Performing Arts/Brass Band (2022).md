@@ -1,6 +1,6 @@
 ---
 title: Brass Band (2022)
-permalink: /cca/Performing-Arts/brass-band-2022
+permalink: /cca/Performing-Arts/brass-band-2022/
 description: ""
 third_nav_title: Performing Arts
 ---

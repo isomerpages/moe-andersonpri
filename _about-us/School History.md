@@ -1,6 +1,6 @@
 ---
 title: School History
-permalink: /about-us/school-history
+permalink: /about-us/school-history/
 description: ""
 ---
 <img src="/images/history_img1.jpg">

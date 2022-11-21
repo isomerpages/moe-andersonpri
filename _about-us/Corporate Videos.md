@@ -1,6 +1,6 @@
 ---
 title: Corporate Videos
-permalink: /about-us/corporate-videos
+permalink: /about-us/corporate-videos/
 description: ""
 ---
 <p>Anderson Primary School values the holisticdevelopment of every child and seeks every opportunity to maximise the potential of all our students, both in academic and non-academic domains.</p>

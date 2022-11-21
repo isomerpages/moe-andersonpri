@@ -1,6 +1,6 @@
 ---
 title: Primary 6
-permalink: /our-family/Teachers/primary-6
+permalink: /our-family/Teachers/primary-6/
 description: ""
 third_nav_title: Teachers
 ---

@@ -1,6 +1,6 @@
 ---
 title: Executive and Administrative Staff
-permalink: /our-family/executive-and-administrative-staff
+permalink: /our-family/executive-and-administrative-staff/
 description: ""
 ---
 <table border="0" cellspacing="0">

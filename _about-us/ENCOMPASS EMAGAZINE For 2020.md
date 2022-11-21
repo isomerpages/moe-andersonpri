@@ -1,6 +1,6 @@
 ---
 title: ENCOMPASS EMAGAZINE For 2020
-permalink: /about-us/encompass-emagazine-for-2020
+permalink: /about-us/encompass-emagazine-for-2020/
 description: ""
 ---
 

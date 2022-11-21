@@ -1,6 +1,6 @@
 ---
 title: FamilyMatters @ School
-permalink: /parents/familymatters-at-school
+permalink: /parents/familymatters-at-school/
 description: ""
 ---
 <img src="/images/FamilyMatters%20Logo.jpg">

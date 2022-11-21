@@ -1,6 +1,6 @@
 ---
 title: Vision & Mission
-permalink: /departments/Tamil/vision-n-mission
+permalink: /departments/Tamil/vision-n-mission/
 description: ""
 third_nav_title: Tamil
 ---

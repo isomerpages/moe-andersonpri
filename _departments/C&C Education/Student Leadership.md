@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /departments/character-n-citizenship-education/student-leadership
+permalink: /departments/character-n-citizenship-education/student-leadership/
 description: ""
 third_nav_title: C&C Education
 ---

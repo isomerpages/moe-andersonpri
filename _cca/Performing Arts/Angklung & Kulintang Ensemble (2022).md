@@ -1,6 +1,6 @@
 ---
 title: Angklung & Kulintang Ensemble (2022)
-permalink: /cca/Performing-Arts/angklung-n-kulintang-ensemble-2022
+permalink: /cca/Performing-Arts/angklung-n-kulintang-ensemble-2022/
 description: ""
 third_nav_title: Performing Arts
 ---

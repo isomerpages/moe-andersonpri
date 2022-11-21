@@ -1,6 +1,6 @@
 ---
 title: Vision & Mission
-permalink: /departments/Science/vision-n-mission
+permalink: /departments/Science/vision-n-mission/
 description: ""
 third_nav_title: Science
 ---

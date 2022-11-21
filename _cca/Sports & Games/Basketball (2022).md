@@ -1,6 +1,6 @@
 ---
 title: Basketball (2022)
-permalink: /cca/Sports-n-Games/basketball-2022
+permalink: /cca/Sports-n-Games/basketball-2022/
 description: ""
 third_nav_title: Sports & Games
 ---

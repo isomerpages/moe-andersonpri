@@ -1,6 +1,6 @@
 ---
 title: 2018 Achievements
-permalink: /achievements/curriculum/2018
+permalink: /achievements/curriculum/2018/
 description: ""
 third_nav_title: Curriculum
 ---

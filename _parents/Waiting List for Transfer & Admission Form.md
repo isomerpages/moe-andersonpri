@@ -1,6 +1,6 @@
 ---
 title: Waiting List for Transfer & Admission Form
-permalink: /parents/waiting-list-for-transfer-admission-form
+permalink: /parents/waiting-list-for-transfer-admission-form/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Living Arts Gallery
-permalink: /departments/Aesthetics/living-arts-gallery
+permalink: /departments/Aesthetics/living-arts-gallery/
 description: ""
 third_nav_title: Aesthetics
 ---

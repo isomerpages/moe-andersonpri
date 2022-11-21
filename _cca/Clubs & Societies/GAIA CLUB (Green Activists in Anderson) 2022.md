@@ -1,6 +1,6 @@
 ---
 title: GAIA CLUB (Green Activists in Anderson) 2022
-permalink: /cca/clubs-n-societies/g-a-i-a-club-green-activists-in-anderson-2022
+permalink: /cca/clubs-n-societies/g-a-i-a-club-green-activists-in-anderson-2022/
 description: ""
 third_nav_title: Clubs & Societies
 ---

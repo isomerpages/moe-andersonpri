@@ -1,6 +1,6 @@
 ---
 title: 2020 Achievements
-permalink: /achievements/Curriculum/2020-1
+permalink: /achievements/Curriculum/2020-1/
 description: ""
 third_nav_title: Curriculum
 ---

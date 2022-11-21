@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /departments/Physical-Education/useful-links
+permalink: /departments/Physical-Education/useful-links/
 description: ""
 third_nav_title: Physical Education
 ---

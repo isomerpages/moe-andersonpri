@@ -1,6 +1,6 @@
 ---
 title: Volleyball (2022)
-permalink: /cca/Sports-and-Games/volleyball-2022
+permalink: /cca/Sports-and-Games/volleyball-2022/
 description: ""
 third_nav_title: Sports & Games
 ---

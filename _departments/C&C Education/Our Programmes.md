@@ -1,6 +1,6 @@
 ---
 title: Our Programmes
-permalink: /departments/character-n-citizenship-education/our-programmes
+permalink: /departments/character-n-citizenship-education/our-programmes/
 description: ""
 third_nav_title: C&C Education
 ---

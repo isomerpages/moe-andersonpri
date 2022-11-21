@@ -1,6 +1,6 @@
 ---
 title: National Arts Education Award (NAEA) 2015
-permalink: /achievements/national-arts-education-award-naea-2015
+permalink: /achievements/national-arts-education-award-naea-2015/
 description: ""
 ---
 <p><strong><u>National Arts Education Award (NAEA) 2015</u></strong></p>

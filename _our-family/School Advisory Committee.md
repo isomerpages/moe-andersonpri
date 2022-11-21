@@ -1,6 +1,6 @@
 ---
 title: School Advisory Committee
-permalink: /our-family/school-advisory-committee
+permalink: /our-family/school-advisory-committee/
 description: ""
 ---
 <table cellspacing="1" cellpadding="1">

@@ -1,6 +1,6 @@
 ---
 title: Our Arts Programme
-permalink: /departments/Aesthetics/our-arts-programme
+permalink: /departments/Aesthetics/our-arts-programme/
 description: ""
 third_nav_title: Aesthetics
 ---

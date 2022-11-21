@@ -1,6 +1,6 @@
 ---
 title: Infocomm Club (2022)
-permalink: /cca/clubs-n-societies/infocomm-club-2022
+permalink: /cca/clubs-n-societies/infocomm-club-2022/
 description: ""
 third_nav_title: Clubs & Societies
 ---
