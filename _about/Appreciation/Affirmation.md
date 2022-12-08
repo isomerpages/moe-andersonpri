@@ -269,21 +269,76 @@ third_nav_title: Appreciation
 <p>All the best and once again, thank you.</p>
 <p>- Mr James and Jessie Foo, Parents of Justin Foo -</p>
 <hr>
-
+<p><strong><em><u>Compliment from Parent</u></em></strong></p>
+<p>Ms Nadiah who is the form teacher and Ms Esther Chuah who is the Chinese teacher are good teachers who have spent extra time and effort to support Ethan though term 1 and term 2. Ethan has started to enjoy his new school and new friends from July onwards. I want to thank the 2 dedicated Teachers for their extra time and effort. Ms Nadiah has been on TOP of his day to day emotions and she has spent extra time coaching and guiding him. These 2 young ladies have gone the extra mile to see him during lunch and accompany him to his CCA. And Ms Chuah has met Ethan a few times after CCA to have a review with him after his CCA!</p>
+<p>I&rsquo;m very thankful for these 2 good teachers to support him into his new school and new home and new friends. And I have thanked them personally many times. But I think they deserve a good award and recognition in school for such heart-warming behaviour towards our children. And we want to see more passionate and good Teachers like them.</p>
+<p>- Parents of Ethan Ng, P3.5 -</p>
 <hr>
-
+<p><strong><em><u>Compliment from Parent</u></em></strong></p>
+<p>This affirmation is for Mr Ramesh s/o Sivakadacham who is the form teacher of P4.2 from Anderson Primary School.</p>
+<p>He inspires, motivates, and encourages students to think out of the box, to learn what&rsquo;s right from wrong, to speak their minds, and to use what they learn in school to help change their lives and the lives of others.</p>
+<p>I believe that he is the only teacher to share and update his students frequently about his family, kid and himself. The sharing will enable the students and parents to understand their teacher well and the bonding will be much closer like a family. He acts like a father, the provider, protector and guide for them. He also cares and shows concern and educates his students in their character, discipline, attitude and so on.</p>
+<p>He gets to spend a lot of time with his students, so he is able to talk to them and know what&rsquo;s on their minds.</p>
+<p>His duty is not as simple as a teacher in school. After school, he has to entertain and promptly respond to all parents and students&rsquo; messages no matter how busy or sick he is and he has never failed or disappointed us.</p>
+<p>He will print out extra worksheets to drill the kids and let them keep practicing. When there is ANDRich class every Wednesday, he will try to extend for an hour and a half for his class. He will try his best to slot in time to give extra lessons, even though the ANDRich classes have ended for the whole school.</p>
+<p>Mr Ramesh, as a wonderful teacher, you may not realize that good teachers should have good parental qualities. But as good parents, we realize that we don&rsquo;t have exquisite teaching qualities like you. Thank you for taking good care of our child and also your sacrificing your family time for your dear students.</p>
+<p>Mr Ramesh has such huge responsibilities yet get so little in return. Great teachers are very hard to come by. There are plenty of teachers around, but not all of them are patient, kind, enthusiastic, knowledgeable, or inspiring.</p>
+<p>Thank you, Mr Ramesh, for being my girl, Tan Grasielia&rsquo;s Form Teacher and also her English, Math, Social Studies and ANDventure teacher.</p>
+<p>She hopes that you can continue to be her teacher for the next 2 years! No words can express my gratitude for the extra mile you have taken for her.</p>
+<p>Thank you so much for being the BEST Teacher at Anderson Primary School.</p>
+<p>- Ms. Eileen Leong, Mother of Tan Grasielia, P4.2 -</p>
 <hr>
-
+<p><strong><u><em>Compliment from Parent</em></u></strong></p>
+<p style="text-align: right;">14 May 2018</p>
+<p>Dear Mrs Tan Wie Pin (Principal),</p>
+<p>Cecilia here, mother of Jovan Lim Chen Yu (class P4.4). May I take this opportunity to thank you the English Language Dept, especially Mrs Redwan &amp; Mdm Aatiyah Tan for their patience, approachable &amp; caring nature; and for giving the children chances to be exposed to areas that they are interested in. Examples, like the recent Share A Book session (which Jovan volunteered during class); the teams' Speech Competition (organised by the Speech Academy), the individual's Speech experience (ref the Arts Busking / Nights Festival), plus the upcoming spelling game show "Word Whiz or Slime Pit" (WWSP).</p>
+<p>All these provided positive learnings to Jovan &amp; belief for the other children as well (eg confidence booster, more verbal &amp; expressive, team work &amp; most importantly the "never give up" attitude!)</p>
+<p>As not every participation ended up with success... but can see the perseverance in them, as the children are so enthusiastic &amp; harbour good team spirit, include good bonding with the teachers.</p>
+<p>Jovan once said (when he was in lower primary)... "Failure is not about failing, failure is about not persevering." Glad he managed to apply this through these speech learnings.</p>
+<p>Thanks again school &amp; teachers for grooming children in various aspect - holistically &amp; academically.</p>
+<p>- Ms. Cecilia Koh, Mummy of Jovan Lim Chen Yu -</p>
 <hr>
-
+<p><strong><u><em>Compliment from Parent</em></u></strong></p>
+<p style="text-align: right;">3 May 2018</p>
+<p>Dear Mrs Tan,</p>
+<p>My name is Hooi Lin. My daughter, Ruijia Wong, is currently in class 1.7. I am writing this e-mail to share with you how much I appreciate the effort Mrs Redwan has put in to guide Ruijia in the recent Smartkids Asia's public speaking competition.</p>
+<p>First of all, I would like to express my gratitude to Mrs Redwan for providing Ruijia with early exposure to public speaking! She not only guided Ruijia to come out with the content of the speech, but she also went the extra mile to provide Ruijia (as well as other children) a few practice sessions to learn the public speaking skills before the competition. Since then, Ruijia has acquired a deep interest in public speaking. And most importantly, I saw my child blossom into a confident person throughout the whole experience.</p>
+<p>I once read this quote somewhere, "A good teacher isn't someone who gives the answers out to their kids but is understanding of needs and challenges and gives tools to help other people succeed. " I am glad that Ruijia has met an excellent teacher (Mrs Redwan!!) who unleashes her inner potential. Without Mrs Redwan's guidance, Ruijia would not be where she is today. Thank you from the bottom of my heart.</p>
+<p>- Ms. Hooi Lin, Mummy of Ruijia Wong -</p>
 <hr>
-
+<p><strong><u><em>Compliment from External stakeholder</em></u></strong></p>
+<p style="text-align: right;">12 March 2018</p>
+<p>Dear Sir/Mdm,</p>
+<p>I am writing to express my appreciation to Mr Poh Chee Peng, one of the volleyball teachers in Anderson Primary. This is an overdue email but I believe his act of kindness should not go unnoticed.</p>
+<p>I was in Anderson Primary School with my basketball team for the North Zone Basketball Championship in February and needed a court for warm up. Mr Poh&rsquo;s CCA was starting but he did not hesitate to remove his volleyball posts to make space for my team. When Anderson&rsquo;s basketball team came down, he even reminded the boys to give us the space because Anderson had already played their match for that day.</p>
+<p>It may seem like a small act but we have met other teachers who were not as kind, so the 20 minutes of space sharing means a lot to my team. It takes a teacher with a big heart to do this for children from another school.</p>
+<p>Thank you, Mr Poh.</p>
+<p>- Ms. Hui Qi, Basketball Teacher-in-charge Endeavour Primary -</p>
 <hr>
-
+<p><strong><em><u>Compliment from Parent</u></em></strong></p>
+<p style="text-align: right;">27 January 2018</p>
+<p>Dear Mr. Adam,</p>
+<p>I am Luca's mummy. Thank you for teaching Luca art this year. I just want to thank you for inspiring him. He enjoys your lessons so much and always looking forward to attending Thursday's lesson. I love to pick him up on Thursday, because he always look like an artist with paints all over :).</p>
+<p>And he always can't wait to share with me what he did in art class. Yesterday, I was pleasantly surprised when requested to paint on weekend - and he rarely does painting at home. Teachers can inspire kids; and you are definitely doing that.</p>
+<p>Thank you so much, Mr Adam.</p>
+<p>- Ms. Ivy Tan-Joanny, Mummy of Luca Joanny -</p>
 <hr>
-
+<h4><strong>2017</strong></h4>
+<p><strong><em><u>Compliment from Parent</u></em></strong></p>
+<p style="text-align: right;">15 October 2017</p>
+<p>Dear Mrs Tan,</p>
+<p>With the end to Jordan and Shannon's immersion program at Anderson Primary School, we would like to express our gratitude for the love, dedication and patience shown by you and your team. A big Thank You to Ms Lim and Ms Neo, Jordan's and Shannon's form teachers respectively.</p>
+<p>The children will cherish the friendship and memories formed during this short 4 weeks of immersion. They speak fondly of the happenings in school, and interactions with their fellow classmates. It was also an eye-opener for Shannon, having never experienced the Singapore school system before.</p>
+<p>We wish you and your team the very best of health, love and joy.</p>
+<p>Thank you.</p>
+<p>- Mr. &amp; Mrs Lim, Parents of Jordan &amp; Shannon -</p>
 <hr>
-
+<p><strong><em><u>Compliment from Parent</u></em></strong></p>
+<p style="text-align: right;">12 September 2017</p>
+<p>I would like to extend my sincere appreciation to Ms Sutha, FT of Class 1.7 for her provision of care to my son.</p>
+<p>Due to my son's timid nature, he was extremely worried when he could not locate his Maths workbook upon his return home yesterday. He was concerned as he could not complete his homework for today. As he was crying continuously even when we sent him to school today, I contacted Ms Sutha to keep a watch on him. I was updated by her subsequently that he was fine and the workbook was left behind under his desk.</p>
+<p>I am grateful to Ms Sutha's prompt actions to assure us of my son's well-being. Thank you.</p>
+<p>- Eugene Lee, Parent of Lee Kai Yuan, P1.7 -</p>
 <hr>
 
 <hr>
