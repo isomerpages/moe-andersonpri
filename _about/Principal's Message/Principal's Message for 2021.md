@@ -4,38 +4,10 @@ permalink: /about-us/principals-message-for-2022/principals-message-for-2021/
 description: ""
 third_nav_title: Principal's Message
 ---
-<img src="/images/Anderson201501.jpg" style="width:40%">
-
-<div class="">
-<p class=""><u class=""><span class="" lang="EN-SG">Recollections &amp; Gratitude</span></u></p>
-</div>
-<div>&nbsp;</div>
-<div class="lo_main_mid">
-<div class="content_area">
-<div class="mid mCustomScrollbar _mCS_1">
-<div id="mCSB_1" class="mCustomScrollBox mCS-rounded-dark mCSB_vertical mCSB_inside" tabindex="0">
-<div id="mCSB_1_container" class="mCSB_container" dir="ltr">
-<div class="pagecontent_box">
-<div id="_ptod_49215" class="description ive_editable ive_ptod ive_content">
-<div>As we welcome a brand new year, we recollect with gratitude the extraordinary journey that we took as a school in 2020. We launched Full Home-Based Learning (FHBL) in April with the support of MOE SLS; leveraged a school-based microsite with daily check-in to ensure learning could continue virtually. We refined the timetable numerous times to accommodate six recesses, up from three, and staggered our dismissal timings to minimise cross-level interactions. CCA teachers responded nimbly to the situation and initiated e-CCA to keep our Andersonians gainfully engaged on their CCA afternoons.  During curriculum time, learning took on various forms and modalities. We infused sports modules within the PE lessons with the support of specialised coaches and instructors. Our P4 students proceeded with Museum-Based Learning without a hitch. Our art teachers resourcefully enacted a MBL by transforming the school into a collection of mini galleries.&nbsp;</div>
-<div>&nbsp;</div>
-<div>2020 was also our 20th School Anniversary. Yet Covid-19 did not stop us in our tracks. In fact, the reverse was true. It turned out to be a year of watershed in terms of innovations for the school, accelerating our pace towards digital transformation. We learnt to hold school events and meetings virtually. We met often over Zoom. We held our inaugural e-Open House in July 2020 and ended the year with a phenomenal EOY Finish Strong, P6 PGD, Graduation Ceremony, first-ever Performing Arts digital showcase, in what was originally planned to be a school concert, People, Passion, Poise III, reaching a wider audience in our school community.&nbsp;</div>
-	<p class=""><u class=""><span class="" lang="EN-SG">‘Pioneers of the Future (POTF): Reimagining Learning’ as 2021 School Theme</span></u></p>
-
-<div>The school did a mid-year review in 2020, taking reference from the momentous change that was incumbent on us as educators. We made a couple of immediate refinements to our school strategic thrusts. These refreshed strategic thrusts seek to amplify and sharpen the school focus in the 3 years ahead. It is with a light dose of playfulness that I am sharing the school strategic thrusts, The Anderson GPS: (ST1) Growing Organisational and Staff Capacity, (ST2) Pursuing Student All-Round Excellence and (ST3) Strengthening Strategic Partnerships.&nbsp;</div>
-<div>&nbsp;</div>
-<div>Complementing the GPS is the running school theme: Pioneers of the Future (POFT). Aligned with our school vision, the POTF will run its course over the next 3 years, each year focusing on one of its tenets, fleshing out how learning, leadership and citizenship would look like with a strong future orientation. The complete school theme for 2021 is Pioneers of the Future: Reimagining Learning. It expresses our aspiration to make the best of the affordances of educational technology and taking advantage of what this new frontier can offer. It also underscores the importance of adopting a growth mindset and being creative and bold as we explore how powerful, purposeful, authentic and joyful learning looks like and how to make it happen.&nbsp;</div>
-<div>&nbsp;</div>
-<div>2021 ushers in a new normal. Entering into our 21st year, I am buoyed by a sense of optimistic anticipation and cheerful confidence as Anderson Primary School starts a new chapter.&nbsp;</div>
-<div>&nbsp;</div>
-<div>Delia Hoo (Mdm)</div>
-<div>Principal</div>
-<div>December 2020</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="footer_area">&nbsp;</div>
+<img style="width: 33%;" src="/images/Anderson201501.jpg" align = "left" />
+<p><u><em>Recollections &amp; Gratitude<br /></em></u>As we welcome a brand new year, we recollect with gratitude the extraordinary journey that we took as a school in 2020. We launched Full Home-Based Learning (FHBL) in April with the support of MOE SLS; leveraged a school-based microsite with daily check-in to ensure learning could continue virtually. We refined the timetable numerous times to accommodate six recesses, up from three, and staggered our dismissal timings to minimise cross-level interactions. CCA teachers responded nimbly to the situation and initiated e-CCA to keep our Andersonians gainfully engaged on their CCA afternoons. During curriculum time, learning took on various forms and modalities. We infused sports modules within the PE lessons with the support of specialised coaches and instructors. Our P4 students proceeded with Museum-Based Learning without a hitch. Our art teachers resourcefully enacted a MBL by transforming the school into a collection of mini galleries.</p>
+<p>2020 was also our 20<sup>th</sup>&nbsp;School Anniversary. Yet Covid-19 did not stop us in our tracks. In fact, the reverse was true. It turned out to be a year of watershed in terms of innovations for the school, accelerating our pace towards digital transformation. We learnt to hold school events and meetings virtually. We met often over Zoom. We held our inaugural e-Open House in July 2020 and ended the year with a phenomenal&nbsp;<em>EOY Finish Strong</em>, P6 PGD, Graduation Ceremony, first-ever Performing Arts digital showcase, in what was originally planned to be a school concert,&nbsp;<em>People, Passion, Poise III</em>, reaching a wider audience in our school community.</p>
+<p><u><em>&lsquo;Pioneers of the Future (POTF): Reimagining Learning&rsquo; as 2021 School Theme<br /></em></u>The school did a mid-year review in 2020, taking reference from the momentous change that was incumbent on us as educators. We made a couple of immediate refinements to our school strategic thrusts. These refreshed strategic thrusts seek to amplify and sharpen the school focus in the 3 years ahead. It is with a light dose of playfulness that I am sharing the school strategic thrusts, The Anderson GPS: (ST1) Growing Organisational and Staff Capacity, (ST2) Pursuing Student All-Round Excellence and (ST3) Strengthening Strategic Partnerships.</p>
+<p>Complementing the GPS is the running school theme: Pioneers of the Future (POFT). Aligned with our school vision, the POTF will run its course over the next 3 years, each year focusing on one of its tenets, fleshing out how learning, leadership and citizenship would look like with a strong future orientation. The complete school theme for 2021 is Pioneers of the Future: Reimagining Learning. It expresses our aspiration to make the best of the affordances of educational technology and taking advantage of what this new frontier can offer. It also underscores the importance of adopting a growth mindset and being creative and bold as we explore how powerful, purposeful, authentic and joyful learning looks like and how to make it happen.</p>
+<p>2021 ushers in a new normal. Entering into our 21<sup>st</sup>&nbsp;year, I am buoyed by a sense of optimistic anticipation and cheerful confidence as Anderson Primary School starts a new chapter.</p>
+<p>Delia Hoo (Mdm)<br />Principal<br />December 2020</p>
