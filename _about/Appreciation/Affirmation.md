@@ -340,5 +340,190 @@ third_nav_title: Appreciation
 <p>I am grateful to Ms Sutha's prompt actions to assure us of my son's well-being. Thank you.</p>
 <p>- Eugene Lee, Parent of Lee Kai Yuan, P1.7 -</p>
 <hr>
-
+<p><strong><em><u>Appreciation from Bangkok Education Delegates</u></em></strong></p>
+<p style="text-align: right;">11 September 2017</p>
+<p>Dear Mrs Tan and Mr Koh,</p>
+<p>Good Afternoon to you and hope this finds you well.</p>
+<p>On behalf of the delegation from Valaya Alongkorn Rajabhat University under the Royal Patronage, Board Members from Siam Singapore International School: RVi Academy Bangkok and the RVi Group, we would like to thank you and your team for hosting us at your school. It was certainly an eye-opener and a wonderful experience for us all.</p>
+<p>Should you and/or any of your team members plan to visit Bangkok, please feel free to contact us. We look forward to hosting you.</p>
+<p>Thank you once again and "Best Wishes to All Anderson P6 for the Upcoming PSLE".</p>
+<p>- Christina Chan -</p>
 <hr>
+<p><strong><em><u>Compliment from Parent</u></em></strong></p>
+<p style="text-align: right;">8 September 2017</p>
+<p>Dear Mrs Tan,</p>
+<p>I applaud the school&rsquo;s decision to assess my P4 boy with topical test for Math and Science. We had a breeze going through the revision and he managed to understand the topic relatively well. He came home beaming from ears to ears showing off his test papers.</p>
+<p>I believe topical assessment works for him where he can focus on one topic at a time and have joy in the learning process. I hope that will give him the confidence to face new challenges and overcome difficult questions in future.</p>
+<p>Thank you</p>
+<p>- Michelle Neo -</p>
+<hr>
+<p><strong><em><u>Compliment from Parent</u></em></strong></p>
+<p style="text-align: right;">29 August 2017</p>
+<p>I would like to express my heartfelt gratitude to Isabella's form teacher, Ms Kavitha of class 1.3.</p>
+<p>Ms Kavitha is a responsible teacher who has fire and passion in her job as an educator. She goes beyond school walls, to extend moral support to parents.</p>
+<p>Today, I receive a phone call from her to compliment Bella. Even though the piece of information may seem insignificant to others, it truly does matter to us, as parents.</p>
+<p>I am inspired by such dedication and exemplary role demonstrated by her. I am honored to have Bella as her student, as part of Anderson Primary School.</p>
+<p>Thank you for joining hands with us parents.</p>
+<p>- Norizan, Parent of Isabella, P1.3 -</p>
+<hr>
+<p><strong><em><u>Appreciation from Founder of Arsomsilp Institute of the Arts</u></em></strong></p>
+<p style="text-align: right;">21 August 2017</p>
+<p>Dear Mrs Tan,</p>
+<p>I would like to take this opportunity to thank you and everyone who coordinated the school visit at Anderson Primary School. The timing was indeed rush to properly organize this program, but it was made possible because of your cooperation and coordination efforts.</p>
+<p>It was unfortunate that we didn't have a chance to converse as fellow educators. We, however, were touched by your passion and devotion toward providing best education to your students in order to develop them to become productive members of Singapore and the world society.</p>
+<p>Our journey to many learning centers in Singapore had also helped us to envision our ideal school and education. The knowledge and experiences we got from learning about your school's holistic approach in education, observing art classrooms, discussing and exchanging education vision with your staffs has profoundly enriched our vision of the ideal education that we like to conduct at our new school.</p>
+<p>What we have learned from your school does not make us only appreciate the value of arts education and many intangible benefits it brings to children, but it also makes us realize the meaningful truth that we share the same heart that beats for our students, their future and our nation even though our schools are operated in different geo-socio-economic backgrounds.</p>
+<p>On behalf of Arsomsilp Institute of the Arts, I would like to express my gratitude to you and every dedicated personnel who serve in this school for providing us with this wonderful opportunity. We are looking forward to welcoming you and your team to Roong Aroon School to foster the relationship between our schools.</p>
+<p>- Associate Professor Prapapat Niyom, Founder of Arsomsilp Institute of the Arts -</p>
+<hr>
+<p><strong><em><u>Appreciation from untrained LBS, AED</u></em></strong></p>
+<p style="text-align: right;">11 August 2017</p>
+<p>Dear Mrs Tan,</p>
+<p>On my last day in Anderson Primary School, I would like to take the opportunity to thank you and your school staff for making me feel welcome in the school for the past few months.</p>
+<p>It has been a wonderful learning journey as I have learnt much from the AED team. Special thanks go to Ms Nancy and Ms Agnes for their unselfish sharing, in depth knowledge of SEN students and deep concerns for these children.</p>
+<p>Also have I learned much from other teachers. Kudos to the teachers of LSP, LSM, RRP, I CAN and Foundation classes. Their patience and never-give-up spirit inspire me.</p>
+<p>Once again, a big thank you to ALL.</p>
+<p>- Joanna Yong Fong Ling, (untrained LBS, AED) -</p>
+<hr>
+<p><strong><em><u>Compliments from MP for AMK GRC</u></em></strong></p>
+<p style="text-align: right;">16 July 2017</p>
+<p>Dear Mrs Tan,</p>
+<p>It was a real pleasure to join you and your students at the &lsquo;Magic in the Community&rsquo; performance at AMK Central Stage on Saturday, 8 July 2017. I have enjoyed myself tremendously. The kids were hilarious and their creativity and spontaneity showed through. This is an excellent initiative by Anderson Primary School to make learning fun and experiential. Your teachers and you have clearly put in much efforts. I'm glad YCK CC was able to provide the platform for them to showcase their talents. We will be more than happy to continue this partnership with your school and to explore ways in which the community can become a place of learning for the students. Thank you once again and I look forward to our next event together!</p>
+<p>- Dr Koh Poh Koon, Grassroots Advisor, MP for AMK GRC -</p>
+<hr>
+<p><strong><em><u>Compliments from a Preschool Principal</u></em></strong></p>
+<p style="text-align: right;">4 July 2017</p>
+<p>Dear Ms. Neo,</p>
+<p>I am writing to thank you, your colleagues and Mrs Tan for having us at your school today.</p>
+<p>The tour was well-organized and we got to see many of your school facilities and many of our children cited that this was the best field trip they ever had!</p>
+<p>Thank you so much for all your efforts. We really appreciate it!</p>
+<p>- Ms. Claire Oh, Principal of Little Footprints Preschool@Thomson Pte Ltd -</p>
+<hr>
+<p><strong><em><u>Appreciation from a parent</u></em></strong></p>
+<p style="text-align: right;">17 April 2017</p>
+<p>Dear Mrs Tan,</p>
+<p>Dancesport Competition is organized by Edgefield Primary School for all primary schools and held once in every 2 years.</p>
+<p>Sometime in Feb this year, I got in touch with Teacher Fion as my girl, Hazel Tan from P3.6 wanted to participate in this competition. In a short time, Teacher Fion managed to get the registration form and submitted it timely for us.</p>
+<p>Though Hazel was the only student who represented Anderson Primary School for the Dancesport Competition held on 13/04/17, Teacher Fion readily supported her participation without any hesitation.</p>
+<p>On the day of the competition, Teacher Fion took a cab and rushed down from another event which took place in the first half of the day and managed to make it in time for the registration and collection of number tag. She was with Hazel throughout the competition and her encouragement really boosted Hazel&rsquo;s confidence.</p>
+<p>This is the first dance competition which Hazel has ever participated. She managed to make it through 2 qualifying rounds and moved on to the Semi-Finals. Though she didn&rsquo;t qualify for the Finals (Top 8), we are still very proud of her.</p>
+<p>It is only after the competition then I know that Teacher Fion has actually skipped her lunch to rush for this competition. Even so, she stayed with Hazel throughout the competition and ensured that Hazel is in her best mode. Her commitment and support is greatly appreciated. Such teachers are truly precious assets of Anderson Primary!</p>
+<p>Please convey my sincerest thanks to Teacher Fion.</p>
+<p>Thank you very much Teacher Fion for your time and support!!</p>
+<p>Cheers!!</p>
+<p>- Mdm Angie Tay, parent of Hazel Tan P3.6 -</p>
+<hr>
+<p><strong><em><u>Compliments from a grandparent</u></em></strong></p>
+<p style="text-align: right;">8 February 2017</p>
+<p>Dear Mrs Tan,</p>
+<p>I would like to express my appreciation to your staff, Mdm Pamela Chia, from the General Office.</p>
+<p>Today, my helper accidentally left the set of house keys in my grandson, Ryan Tan's (Primary 5.6) lunch carrier. As this was the only set of keys, there was no way for us to enter our home.</p>
+<p>I explained the situation to Mdm Pamela Chia, who was very patient and understanding. She took down Ryan's details and immediately set off to retrieve the keys.</p>
+<p>Mdm Chia's customer service was exemplary. She saved my day - otherwise I would have to spend my time waiting aimlessly at the bus stop until dismissal time.</p>
+<p>Please convey my gratitude to Mdm Chia. You have an excellent employee.</p>
+<p>- Elsie Tan, Ryan Tan's grandmother -</p>
+<hr>
+<p><strong><em><u>Appreciation from a parent</u></em></strong></p>
+<p style="text-align: right;">8 February 2017</p>
+<p>It is gratifying to know that there is always a guardian angel out there like Mrs Lau Han Kee who lends a hand to guide and teaches my daughter. Her patience and foresight are a blessing to my child and I thank her for believing that no child or parent out there is left helpless and in despair.</p>
+<p>- Ms Selina Ng, parent -</p>
+<hr>
+<h4><strong>2016</strong></h4>
+<p><strong>From the Community</strong></p>
+<p><strong><u><em>Compliments from Dr. Koh Poh Koon (Minister of State)</em></u></strong></p>
+<p style="text-align: right;">April 24, 2016 (Facebook)</p>
+<p>"Values in Action. That's what the primary 4&amp;5 student leaders from Anderson Primary School did when they became Ambassadors of our Tray Return Project at Blk 628 Market on Saturday. Accompanied by their Principal, teachers and our Grassroots Volunteers, these students engaged diners at the hawker centre to remind them to be gracious to fellow diners by returning the used crockery to the Tray Return Station after their meals. Thank you, diners for responding to the calls by our students. Thank you students and teachers for adopting this hawker centre as a 'beneficiary' of your civil efforts. Together, by each doing our part, we can make our eating places cleaner and our society more gracious!"</p>
+<p>- Dr. Koh Poh Koon (Minister of State) -</p>
+<hr>
+<p><strong><em><u>Compliments from Dr. Koh Poh Koon (Minister of State)</u></em></strong></p>
+<p style="text-align: right;">March 15, 2016 (Facebook)</p>
+<p>"Anderson Primary School held their annual family day. Parents, students and teachers worked hand in hand to put together a wonderful carnival. I tried some of the challenging and innovative games that the kids created with their teachers. It's definitely not easy! Glad to see everyone had fun while our kids can learn through play and activities."</p>
+<p>- Dr. Koh Poh Koon (Mister of State) -</p>
+<hr>
+<p><strong>From our Staff &amp; Partners</strong></p>
+<p><strong><u><em>Appreciation from parent</em></u></strong></p>
+<p style="text-align: right;">November 25, 2016</p>
+<p>On behalf of student, Lim Shi Tong Yuki, of Class P6.6 of Anderson Primary School, I would like to express our appreciation to Teacher Chan See Meng for being a patient, kind, caring and dedicated teacher. He is passionate about teaching and will always encourage and motivate his students to do their best. Through his guidance, student Lim Shi Tong has shown great improvement in the subjects that he had taught her. Mr Chan has shown the dedication of what a true educator should be. We are ever so grateful and blessed to know him through Anderson Primary School.<br />Many thanks!</p>
+<p>- Ms Lai Soo Leng, parent -</p>
+<hr>
+<p><strong><em><u>Appreciation from parent</u></em></strong></p>
+<p style="text-align: right;">August 15, 2016</p>
+<p>Although she has high expectations for your students, she never gave up guiding the slower children. Thank you Mrs Redwan for giving her extra time to coach my child and some of her classmates. During the school's sports day, she not only encouraged my child and even ran with her ensuring that she's well as she's awared about her medical condition. I'm Glad that my child has such a good teacher at Anderson Primary School.</p>
+<p>- Mdm Doris Low, parent -</p>
+<hr>
+<p><strong><em><u>Appreciation from parent</u></em></strong></p>
+<p style="text-align: right;">August 8, 2016</p>
+<p>I have 2 daughters studying in Anderson Primary. I would like to mention that the school has put in great effort to promote good public speakers within the students.</p>
+<p>Under an initiative of book sharing, they were given the opportunity to share a book that they have read in front of the school. Mrs Redwan, the teacher-in-charge, not only worked patiently with my girls on the script, but also highlighted to them on their body language on stage and how they should read or rather speak with conviction during the presentation. Through this process, my girls have improved and gained much self confidence.</p>
+<p>This is definitely an asset to them in life. Likewise is Mrs Redwan, to Anderson Primary and the Ministry of Education of Singapore. Big thank you to Anderson Primary and Mrs Redwan.</p>
+<p>- Mrs Ng, parent -</p>
+<hr>
+<p><strong><em><u>Appreciation from Contract Teacher</u></em></strong></p>
+<p style="text-align: right;">July 22, 2016</p>
+<p>Time flies when you are enjoying what you do. I had just finished one year contract teaching here in Anderson Primary School. I would say that the experience is like none other! The teachers are very friendly and helpful, regardless of department. I would especially like to thank my mentor Mr Anuar who has guided and taught me in many ways throughout the year. Also, my department head Mrs Fion Ho who never fails to encourage me and shared with me the bigger picture in teaching art. There is also a very conducive environment in the staff room where I can recharge and concentrate on lesson preparation.</p>
+<p>The pupils in Anderson Primary School are lovely to work with. They indeed demonstrate the school vision: learners with passion, leaders with heart and citizens of character. The teachers also instil the school values through their daily actions. Therefore, I see a positive cycle of learning taking place in Anderson Primary School.</p>
+<p>This year of contract teaching in Anderson Primary School has been a very fruitful and memorable one. I really appreciate the teachers who have helped me along the way and I look forward to entering NIE.</p>
+<p>- Ann Pei Qianru, Contract Teacher, 2016 -</p>
+<hr>
+<p><strong><em><u>Appreciation from Contract Teacher</u></em></strong></p>
+<p style="text-align: right;">July 22, 2016</p>
+<p>Dear Staff of Anderson Primary School,</p>
+<p>A big thank you to all the staff who have made this a fulfilling experience for me over the past year. I learnt a lot from the staff here over the past year. The staffs here are approachable, warm and friendly, which made the transition a smooth one. The passion that the teachers have for their students is very evident in their teaching and the organizing of school activities for the children.</p>
+<p>I was mentored not only by my mentor Mrs Kan but also by many teachers who willingly shared their experiences with me. I would especially like to thank the Aesthetics Department for their encouragement and guidance throughout this period.</p>
+<p>This one year has been an eventful and fulfilling one and I can only hope to be able to put into practice the many things I have learnt in my time here.</p>
+<p>- Alexandria Kirsten Tobias, Contract Teacher, 2016 -</p>
+<hr>
+<p><strong><em><u>Appreciation from Contract Teacher</u></em></strong></p>
+<p style="text-align: right;">July 22, 2016</p>
+<p>I would like to extend my thanks and gratitude to Mrs Tan and all teaching staff in Anderson. The year I spent in Anderson Primary School was nothing short of wonderful.</p>
+<p>Not only were the staff welcoming, they were also approachable. They shared their knowledge, insight and valuable experience readily. They were supportive and gave good advice that helped me grow as a teacher. I would especially like to mention my mentor, Mdm Suzannah. She went the extra mile to support and guide me in the budding years of my teaching career.</p>
+<p>I had the opportunity to observe different teachers. Despite the different teaching styles and methods, they had a common goal in mind: to bring out the best in every child. The passion to engage and inspire young lives left an indelible mark on me.</p>
+<p>Once again, a big thank you to all staff and pupils of Anderson Primary School. The time spent here was awesome! I definitely hope to back again after my studies at NIE.</p>
+<p>- Carlene Yeo, Contract Teacher, 2016 -</p>
+<hr>
+<p><strong><em><u>Appreciation from parent</u></em></strong></p>
+<p style="text-align: right;">June 23, 2016</p>
+<p>Greetings, I would like to share my feedback regarding the Hong Kong cultural immersion trip. My son Sananth Akash was under the charge of Mrs. Ramathas. She took care of him very well and was very helpful and considerate. She often provided updates through Whatsapp in the duration of the trip, which allowed us to know what our child was doing and how he was. She also rendered a huge help when she made sure that he was eating properly as he has a tendency to be a fussy eater. In short she was like a mother to my child. Our son also enjoyed the trip alot and it was a new experience for him as he has never been alone before. He regaled us with tales of his trip when he came back and told us that he liked it alot. I hope to give him more opportunities of exposure like this in the future. Thank you for your help and consideration.</p>
+<p>- C.Sucila -</p>
+<hr>
+<p><strong><em><u>Appreciation letter from parent</u></em></strong></p>
+<p style="text-align: right;">June 20, 2016</p>
+<p>Dear Mrs Tan Wie Pin (Principal),</p>
+<p>We would like to take a moment to thank the Teachers and the Principal for letting our child D. Geerish Dass Naidu of class 4.5 to participate in the &ldquo;Cultural Immersion Programme to HongKong&rsquo;2016&rdquo;.</p>
+<p>It was indeed an engaging and meaningful tour which benefitted our son. The trip provided an opportunity for the pupils to absorb and learn new things outside the country and the living community. The trip has also broadened the pupils mind and vision.</p>
+<p>All the teachers are wonderful and truly dedicated ones. Specials thanks to Mrs.Ramathas for the relentless dedication and patience in taking care of our child needs, safety and comfort during this immersion program. A group chat was created to update us constantly on our child whereabouts and always assuring us our child is safe. We were at our ease seeing Mrs. Ramathas daily updates.</p>
+<p>We should also emphasis the hotel and the food provided for our child were good and also catered to every child&rsquo;s preference. The kids had so much fun with Mrs.Ramathas and the activities organized in Hongkong.</p>
+<p>We are so glad to say that everything was perfect. It is indeed a very successful immersion programme organized by the school and would like to thank the teachers in charge for the care and efforts to make this a successful and memorable learning experience to our child.</p>
+<p>Thank you.</p>
+<p>- K. Deena Thayalan Naidu, father of D. Geerish Dass Naidu Class 4.5 -</p>
+<hr>
+<p><strong><em><u>Appreciation from parent</u></em></strong></p>
+<p style="text-align: right;">January 6, 2016 (Facebook)</p>
+<p>"Anderson Primary parents volunteers are awesome.. Morning n afternoon, upmost efforts, sincerity and care were showed despite being under the scorching sun and the enduring exhaust fumes... Ensuring the safety of the school children and keeping the smooth flowing of the never ending vehicles... Keep it up, knowing their own children at school, these parents are amazing, giving up their time for the school.. Not forgetting school staff and security personnel, u had done very well too.. Im proud to be in the Anderson Primary School family..."</p>
+<p>- Md Rozaini -</p>
+<hr>
+<p><strong><em><u>Appreciation from New Zealand Teacher, Catherine Sahlie</u></em></strong></p>
+<p>Dear students, teachers, friends and other affiliated persons,</p>
+<p>Thank you. Thank you for the conversations, the smiles and greetings. For saying &ldquo;can lah&rdquo; more frequently than &ldquo;cannot lah&rdquo;. For showing us your country and feeding us your food. For being patient as I taught and for letting me know how I might teach better. My friends and I have had such a great time with you over these past five weeks. I anticipate missing you all a great deal. Additionally, I have developed an addiction to bubble tea, and I think that Nancy and Sarah have become addicted to prata, so we shall definitely be back!</p>
+<p>Now, a poem:<br />Before the sun awakes, I do,<br />As do you, and you, and you.<br />Under the cover of darkness we slink<br />To counters that sell to us breakfast and drink<br />In dishes of red and yellow and blue.</p>
+<p>We hike to the hall, into a book, dive,<br />An anthem, a pledge, two flags upwards strive.<br />Walking to class, we greet in the hall<br />&ldquo;Good morning&rdquo; to you &ndash; good morning to all.<br />From this point begins the rest of our lives.</p>
+<p>Maths and Science and English and Art<br />If I have a whole, can you find the part?<br />Stuffing, and cramming, and filling our heads,<br />Learning and knowing and thinking &ndash; and bed.<br />Before the dreams finish tomorrow will start.</p>
+<p>In shirts of red and yellow and blue<br />Memories mine, now contain you.<br />As strange as Singapore&rsquo;s changeable weather -<br />To feel satisfaction and sadness together -<br />Yet as the sun slumbers, I do.</p>
+<p>Many thanks,</p>
+<p>Catherine Sahlie<br />- New Zealand Student-Teacher Teaching Practicum, 2016 -</p>
+<hr>
+<p><strong><em><u>Appreciation from New Zealand Teacher, Sarah Frank</u></em></strong></p>
+<p>Dear Staff, Students, Parents and Caregivers &ndash; Anderson Primary School,</p>
+<p>From the moment I walked through the doors here at Anderson Primary School I knew this was a wonderful and positive learning environment. The teachers here are extremely passionate, caring, and experts in their field. They care a lot about their students&rsquo; achievements, success and well-being. The quality of education at Anderson Primary school is to a very high standard, and I have thoroughly enjoyed observing and teaching here over the past 5 weeks. I have learnt so much about teaching and learning, children and culture. A highlight for me personally was attending the Chingay Parade, which gave me a truly passionate experience of all that is important to this country and its people.</p>
+<p>My time here has been extremely rewarding for me professionally, academically and personally, I am so thankful to all the staff and students here at Anderson Primary School. I appreciate everything you have done to welcome me and allow me to learn alongside you all. It is sad to leave as I have made many friends who I will keep in touch with after I return home. I cannot wait to bring my children and family here as soon as possible to experience your amazing country - Singapore. A country you should be extremely proud of, a truly beautiful place in the world.</p>
+<p>Wishing you all a wonderful year ahead in 2016 and beyond.</p>
+<p>Kind regards,<br />Sarah Frank (Miss Sarah).<br />- New Zealand Student-Teacher Teaching Practicum, 2016 -</p>
+<hr>
+<p><strong><em><u>Appreciation from New Zealand Teacher, Nancy Simes</u></em></strong></p>
+<p>To all of the special teachers at Anderson Primary,</p>
+<p>When I was first told I was granted a teaching scholarship in Singapore it felt so far away. Now that I am here I cannot believe that time has passed so quickly. Through your encouragement and guidance, I feel I am ready for tomorrow&rsquo;s challenges. Teachers play such an important role in shaping and guiding, thank you for making my five weeks at your school such a pleasant and special experience, an experience that not many people will be offered or lucky enough to obtain.</p>
+<p>Singapore is truly blessed to have Anderson Primary School. Never have I been so overwhelmed with the kindness, helpfulness and drive that the teachers at Anderson Primary School demonstrate. Each member of staff has taught me some very important skills of how to be an amazing teacher. Thank you for not treating your jobs as a profession but more as a passion. Thanks to the staff at Anderson I am now able to grow as an educator and am able to further my understanding of the lives and cultures of others and embrace the unique differences that we all have to offer this world.</p>
+<p>I am truly blessed to have had this opportunity and I could not have asked for a better school environment or group of people to grow alongside of.</p>
+<p>I have fallen in love with Singapore and even more Anderson Primary School.</p>
+<p>I wish you all the best for 2016 and many more years to come.</p>
+<p>With kind regards,<br />Nancy Simes &ndash;New Zealand.<br />- New Zealand Student-Teacher Teaching Practicum, 2016 -</p>
