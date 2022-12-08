@@ -2,11 +2,11 @@ collections:
   accolades:
     output: true
     order:
-      - Co Curriculum/2020.md
-      - Co Curriculum/2019.md
-      - Co Curriculum/2018.md
-      - Co Curriculum/.keep
+      - Curriculum/.keep
       - Curriculum/2020.md
       - Curriculum/2019.md
       - Curriculum/2018.md
-      - Curriculum/.keep
+      - Co Curriculum/.keep
+      - Co Curriculum/2020.md
+      - Co Curriculum/2019.md
+      - Co Curriculum/2018.md
