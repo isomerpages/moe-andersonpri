@@ -2,7 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - School Advisory Committee.md
       - School Executive Committee.md
       - Teachers/Primary 1.md
       - Teachers/Primary 2.md
