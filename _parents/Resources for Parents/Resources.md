@@ -7,22 +7,41 @@ third_nav_title: Resources for Parents
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1"><h4><strong>Assessment Matters</strong></h4></label>
 <div>
-<p>This is a simple one line item</p>
+<ul>
+<li><a href="/files/2022%20P6%20Class%20Tests.pdf" target="_blank" rel="noopener">2022 P6 Common Test</a></li>
+</ul>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2"><h4><strong>2022 Booklists</strong></h4></label>
 <div>
-<p>This is a simple one line item</p>
+<ul>
+<li><a href="/files/P1_30-10-2021.pdf" target="_blank" rel="noopener">2022 P1 Booklist</a></li>
+<li><a href="/files/P2_02-11-2021.pdf" target="_blank" rel="noopener">2022 P2 Booklist</a></li>
+<li><a href="/files/P3_02-11-2021.pdf" target="_blank" rel="noopener">2022 P3 Booklist</a></li>
+<li><a href="/files/P4_02-11-2021.pdf" target="_blank" rel="noopener">2022 P4 Booklist</a></li>
+<li><a href="/filesP5_02-11-2021.pdf" target="_blank" rel="noopener">2022 P5 Booklist</a></li>
+<li><a href="/files/P6_02-11-2021.pdf" target="_blank" rel="noopener">2022 P6 Booklist</a></li>
+</ul>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3"><h4><strong>P1/2022 Pre-Entry Info Kit</strong></h4></label>
 <div>
-<p>This is a simple one line item</p>
+<ol>
+<li><a href="/files/P1%202022%20Booklist.pdf" target="_blank" rel="noopener">Primary 1 Booklist</a></li>
+<li><a href="/files/Form%201%20-%20NMT.pdf" target="_blank" rel="noopener">Form 1 - NMT</a></li>
+<li><a href="/files/Form%203%20-%20NTIL.pdf" target="_blank" rel="noopener">Form 3 - NTIL</a></li>
+<li><a href="/files/MOE%20FAS%20Brochure%202022.pdf" target="_blank" rel="noopener">MOE FAS Brochure</a></li>
+<li><a href="/files/MOE%20FAS%20Application%20Form.pdf" target="_blank" rel="noopener">MOE FAS Application Form</a></li>
+<li><a href="/files/AndPS%202021%20Bookshop%20Schedule.pdf" target="_blank" rel="noopener">AndPS Bookshop Schedule</a></li>
+<li><a href="/files/AndPS%202021%20Uniform%20Sale%20Schedule.pdf" target="_blank" rel="noopener">AndPS School Uniform</a></li>
+<li><a href="/files/202021%20PCAB%20Tip%201%20-%20Tip%204.pdf" target="_blank" rel="noopener">PCAB Tip 1 to Tip 4</a></li>
+<li><a href="/files/2021%20PCAB%20Tip%205%20-%20Tip%2010.pdf" target="_blank" rel="noopener">PCAB Tip 5 to Tip 10</a></li>
+</ol>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4"><h4><strong>Parental Talks and School Events</strong></h4></label>
 <div>
-<p>This is a simple one line item</p>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/index.html" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - MOE Microsite</a><br /><a href="https://www.moe.gov.sg/schoolfinder" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - School Finder</a><br /><a href="https://www.moe.gov.sg/secondary/dsa" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - DSA</a><br /><a href="/files/New%20AL%20Infographic.pdf" target="_blank" rel="noopener">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a></p>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5"><h4><strong>Tips and User Guides for Parents</strong></h4></label>
