@@ -2,7 +2,7 @@ collections:
   partners:
     output: true
     order:
-      - LENS.md
-      - Alumni.md
-      - Parent Support Group.md
       - School Advisory Committee (SAC).md
+      - Parent Support Group.md
+      - Alumni.md
+      - LENS.md
