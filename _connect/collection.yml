@@ -2,5 +2,6 @@ collections:
   connect:
     output: true
     order:
+      - Service Providers/School Uniform.md
       - Service Providers/.keep
       - Family Matters @ School.md
