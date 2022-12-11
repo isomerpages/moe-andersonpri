@@ -2,6 +2,7 @@ collections:
   connect:
     output: true
     order:
+      - Admission & Forms/Alumni (online form).md
       - Admission & Forms/.keep
       - Service Providers/School Student Care.md
       - Service Providers/School Bus.md
