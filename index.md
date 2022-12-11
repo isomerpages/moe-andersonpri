@@ -16,7 +16,7 @@ sections:
         - title: Calendar of Events
           description: School's Google Calendar
           url: https://calendar.google.com/calendar/u/0/r?cid=andersonprischool@gmail.com
-        - title: e-Showcase
+        - title: Digital Showcase
           description: 20th Anniversary Art Exhibition
           url: https://o2.samwize.com/anderson-digital-exhibition/
         - title: Quick Links
@@ -26,4 +26,3 @@ sections:
       title: Announcements
       button: More announcements
 ---
-
