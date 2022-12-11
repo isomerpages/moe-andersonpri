@@ -298,3 +298,49 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>School Student Care (SSC)</strong></h4>
+<table>
+<tbody>
+<tr>
+<td width="180px">
+<div>Tel</div>
+</td>
+<td>
+<div><a href="tel:8028 1456" target="">8028 1456</a>&nbsp;(preferably through SMS<br />between 2.30pm to 5.30pm)</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Email</div>
+</td>
+<td>
+<div>Mr Sunny Goh</div>
+<div><a href="mailto:goh_kim_poh@commitlearning.com.sg" target="">goh_kim_poh@commitlearning.com.sg</a></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Website</div>
+</td>
+<td>
+<div><a href="https://www.commitlearning.com.sg/home" target="_blank" rel="noopener">https://www.commitlearning.com.sg/home</a></div>
+</td>
+</tr>
+<tr>
+<td>
+<div>During School Term</div>
+</td>
+<td>
+<div>School Dismissal Time &ndash; 7.00 pm</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>During School Holidays</div>
+</td>
+<td>
+<div>7.00 am &ndash; 7.00 pm</div>
+</td>
+</tr>
+</tbody>
+</table>
