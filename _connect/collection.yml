@@ -2,6 +2,7 @@ collections:
   connect:
     output: true
     order:
+      - Quick Links/School Calendar.md
       - Quick Links/.keep
       - Admission & Forms/Waiting List (Admission).md
       - Admission & Forms/Parent Volunteers.md
