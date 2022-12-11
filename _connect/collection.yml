@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Admission & Forms/FAS.md
-      - Admission & Forms/Alumni (online form).md
+      - Admission & Forms/Alumni (Online Form).md
       - Admission & Forms/.keep
       - Service Providers/School Student Care.md
       - Service Providers/School Bus.md
