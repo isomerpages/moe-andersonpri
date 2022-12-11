@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
+      - Letters to Parents.md
       - Resources for Parents/.keep
       - Resources for Parents/Road Safety.md
       - Resources for Parents/Resources.md
       - Resources for Parents/Easy Snacks for Break Time.md
-      - Letters to Parents.md
       - P1 Registration.md
       - Road Safety.md
