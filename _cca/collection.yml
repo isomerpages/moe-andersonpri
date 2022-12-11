@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCAs.md
       - Performing Arts/.keep
       - Performing Arts/Angklung & Kulintang Ensemble (2022).md
       - Performing Arts/Brass Band (2022).md
