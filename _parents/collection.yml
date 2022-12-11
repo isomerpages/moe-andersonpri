@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Resources for Parents/Easy Snacks for Break Time.md
       - Resources for Parents/.keep
       - Letters to Parents.md
       - Resources for Parents.md
