@@ -2,6 +2,7 @@ collections:
   connect:
     output: true
     order:
+      - School Contact & Admin Info.md
       - Quick Links/Quick Links.md
       - Quick Links/School Calendar.md
       - Quick Links/.keep
