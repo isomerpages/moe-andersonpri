@@ -13,9 +13,9 @@ sections:
         - title: E-Magazine
           description: Online School Magazine
           url: https://cloud.3dissue.com/213008/213119/250573/20thAnniversaryCommemorativeBook/index.html
-        - title: Calendar of Events
+        - title: Calendar
           description: School's Google Calendar
-          url: https://calendar.google.com/calendar/u/0/r?cid=andersonprischool@gmail.com
+          url: /connect/quick-links/school-calendar
         - title: Digital Showcase
           description: 20th Anniversary Art Exhibition
           url: https://o2.samwize.com/anderson-digital-exhibition/
