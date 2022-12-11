@@ -8,14 +8,23 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">January</label>
     <div>
-      <p><a href="/files/2022%20P6%20Class%20Tests.pdf" target="_blank" rel="noopener">2022 P6 Common Test</a></p>
+<ul>
+<li><a href="/files/Road%20Safety%20Advisory%2019%20Jan%202022.pdf" target="_blank" rel="noopener">Road Safety Advisory</a></li>
+<li><a href="/files/2022%20CNY%20LETTER%20TO%20PARENTS.pdf" target="_blank" rel="noopener">2022 Chinese New Year Celebrations</a></li>
+<li><a href="/curriculum/departments/character-n-citizenship-education/sexuality-education" target="">Sexuality Education Programme</a></li>
+<li><a href="/files/Consent%20for%20Use%20of%20Photography%20and%20Video-recording%202022.pdf" target="_blank" rel="noopener">Consent for Use of Photography and Video Recording</a></li>
+<li><a href="/parents/resources-for-parents/resources" target="">2022 P1 to P6 Booklists</a></li>
+</ul>
     </div>
 </li>
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">February</label>
     <div>
-      <p><a href="https://youtu.be/Xzjbbn3H3tg" target="">Student Leaders' Investiture 2022</a></p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Xzjbbn3H3tg" target="_blank" rel="noopener">Student Leaders' Investiture 2022</a></li>
+<li><a href="/files/2022%20P6%20Class%20Tests.pdf" target="_blank" rel="noopener">2022 P6 Common Test</a></li>
+</ul>
     </div>
 	</li>
   <li>
@@ -50,7 +59,7 @@ description: ""
     <input type="checkbox" id="accordion7">
     <label for="accordion7">July</label>
     <div>
-      <p>Coming Soon!</p>
+<p><a href="/files/Start%20of%20Term%203%20Updates.pdf" target="_blank" rel="noopener">Start of Term 3 Updates</a></p>
     </div>
 	</li>
   <li>
