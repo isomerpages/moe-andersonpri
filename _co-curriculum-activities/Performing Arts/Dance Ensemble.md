@@ -4,45 +4,35 @@ permalink: /curriculum/co-curriculum-activities-cca/performing-arts/dance-ensemb
 description: ""
 third_nav_title: Performing Arts
 ---
-
-<div>
-<div style="float: left">
-<img src="/images/cca2.png" 
-     style="width:45%">
-</div>
-<div>
 <p>Our Dance troupe is open to Primary 2 to Primary 6 students who have a passion for dance. Students will learn the techniques and performance skills that enable them to develop good physical coordination, and poise in movement and form. They will have the opportunities to take part in school events and outdoor performances.&nbsp;</p>
-</div>
-<p><strong>Schedule&nbsp;</strong></p>
-<table border="0" cellspacing="0" cellpadding="8">
+<h4><strong>Schedule</strong></h4>
+<table>
 <tbody>
 <tr>
-<td><strong>Day</strong></td>
-<td><strong>Level</strong></td>
-<td><strong>Time</strong></td>
-<td><strong>Venue</strong></td>
+<td style="text-align: center;" width="76"><strong>Day</strong></td>
+<td style="text-align: center;" width="68"><strong>Level</strong></td>
+<td style="text-align: center;" width="139"><strong>Time</strong></td>
+<td style="text-align: center;" width="156"><strong>Venue</strong></td>
 </tr>
 <tr>
-<td>Thursday&nbsp;</td>
-<td>P2</td>
-<td>1.30 pm - 3.30 pm</td>
-<td>Dance Studio</td>
+<td style="text-align: center;" width="76">Thursday</td>
+<td style="text-align: center;" width="68">P2</td>
+<td style="text-align: center;" width="139">1.30 pm to 3.30 pm</td>
+<td style="text-align: center;" width="156">PAL Room 1 and 2</td>
 </tr>
 <tr>
-<td>Friday</td>
-<td>P3 to P6</td>
-<td>1.30 pm - 3.30 pm</td>
-<td>P2 &amp; P3 Students:<br />PAL Rm 1 &amp; 2<br /><br />P5 Students:<br />Dance Studio</td>
+<td style="text-align: center;" width="76">Friday</td>
+<td style="text-align: center;" width="68">P3 - P6</td>
+<td style="text-align: center;" width="139">1.30 pm to 3.30 pm</td>
+<td style="text-align: center;" width="156">PAL Room 1 and 2/ Dance Studio</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Teachers-In-Charge</strong></p>
+<h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
 <li>Miss Serena Goh (Overall Teacher-in-charge)</li>
 <li>Mrs Rachael Goh (Overall Teacher-in-charge)</li>
 <li>Mdm Xia Shanna</li>
 <li>Ms Low Li Lin</li>
-<li>
-<p>Ms Aretha Cheong</p>
-</li>
+<li>Ms Aretha Cheong</li>
 </ul>
