@@ -2,7 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - Applied Learning Programme (ALP).md
+      - Active Learning Programme (ALP) – STEM Education.md
       - Learning for Life Programme (LLP) – Music & Performance Arts.md
       - ANDventure/.keep
       - ANDventure/Overview of ANDventure.md
