@@ -4,39 +4,33 @@ permalink: /curriculum/co-curriculum-activities-cca/performing-arts/guzheng-ense
 description: ""
 third_nav_title: Performing Arts
 ---
-
 <p>Our Guzheng Ensemble was formed in 2001. The ensemble strives to grow in strength and has won several accolades in various local and International competitions. The ensemble also performs regularly in community events, sharing Guzheng&rsquo;s unique brand of music to its appreciative audience. In 2018, our Guzheng Ensemble received the Distinction award in the SYF 2018 Arts Presentation.</p>
-<p><strong>Schedule</strong></p>
-<table border="0" cellspacing="0" cellpadding="10">
+<h4><strong>Schedule</strong></h4>
+<table>
 <tbody>
 <tr>
-<td><strong>Day</strong></td>
-<td><strong>Level</strong></td>
-<td><strong>Time</strong></td>
-<td><strong>Venue</strong></td>
+<td style="text-align: center;" width="76"><strong>Day</strong></td>
+<td style="text-align: center;" width="68"><strong>Level</strong></td>
+<td style="text-align: center;" width="139"><strong>Time</strong></td>
+<td style="text-align: center;" width="156"><strong>Venue</strong></td>
 </tr>
 <tr>
-<td>Thursday</td>
-<td>P2</td>
-<td>1.30 pm - 3.30 pm</td>
-<td>
-<div>Aesthetics Rm 3</div>
-</td>
+<td style="text-align: center;" width="76">Thursday</td>
+<td style="text-align: center;" width="68">P2</td>
+<td style="text-align: center;" width="139">1.30 pm to 3.30 pm</td>
+<td style="text-align: center;" width="156">Aesthetics Rm 3</td>
 </tr>
 <tr>
-<td>Friday</td>
-<td>P3 - P6</td>
-<td>1.30 pm - 3.30 pm</td>
-<td>
-<div>Aesthetics Rm 3</div>
-</td>
+<td style="text-align: center;" width="76">Friday</td>
+<td style="text-align: center;" width="68">P3 - P6</td>
+<td style="text-align: center;" width="139">1.30 pm to 3.30 pm</td>
+<td style="text-align: center;" width="156">Aesthetics Rm 3</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Teachers-In-Charge</strong></p>
+<h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
 <li>Mr Chong Wee Tit (Overall Teacher-in-charge)</li>
 <li>Ms Fiona Tan</li>
 <li>Ms Tan Soo Kheng</li>
-<li>Ms Fiona Tan</li>
 </ul>
