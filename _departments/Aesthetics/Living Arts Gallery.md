@@ -25,7 +25,6 @@ third_nav_title: Aesthetics
 <p><strong>Daily opening hours:</strong></p>
 <p class="">&nbsp;&nbsp;P1:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 9.05 a.m. - 9.35 a.m.<br />&nbsp;&nbsp;P2 &amp; P4:&nbsp; &nbsp;9.35 a.m. - 10.05 a.m.<br />&nbsp;&nbsp;P3 &amp; P5:&nbsp; &nbsp;10.05 a.m. - 10.35 a.m.<br />&nbsp;&nbsp;P6:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10.35 a.m. - 11.05 a.m.</p>
 <p><strong>All users can help care for the Living Arts Gallery by practicing the following Gallery Etiquette:</strong></p>
-<div>
 <ul>
 <li>No consumption of any food and drinks is allowed in the Gallery</li>
 <li>Remove your shoes before entering the space</li>
@@ -35,6 +34,5 @@ third_nav_title: Aesthetics
 <li>Do not remove anything from the Gallery</li>
 <li>Maintain the tranquillity of the room by whispering at all times.</li>
 </ul>
-</div>
-<img src="/images/LAG%201.jpg">
-<img src="/images/LAG-2.jpg">
+<img style="width: 65%;" src="/images/LAG-2.jpg"><br>
+<img style="width: 65%;" src="/images/LAG%201.jpg">
