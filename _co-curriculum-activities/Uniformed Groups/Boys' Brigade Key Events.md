@@ -45,3 +45,45 @@ third_nav_title: Uniformed Groups
 </tr>
 </tbody>
 </table>
+<h4><strong>Brigade President Commendation Award</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 65%;">
+<p>The 22nd Boys' Brigade Junior Company had been conferred the Brigade President Commendation Award on 28th May. Our Principal, Mdm Hoo, our Company Captain, Mr Louis Seng and our Chaplain were present that afternoon to receive the award from Boys' Brigade Headquarters. This award is given to BB companies that have performed consistently well since its inception even though they have less than three years of operation. It was a proud moment for BB 22J Company!</p>
+<p>Company Cpt Louis Seng, Chaplin Li Wengcong and Mdm Delia Hoo, Principal of APS at the Award Ceremony</p>
+</td>
+<td style="width: 35%;"><img src="/images/bb8.jpg"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>National Day Contingent</strong></h4>
+<p>On 8 August 2022 (Monday), Anderson Primary School celebrated Singapore&rsquo;s 57th year of independence with a dignified Observance Ceremony led by our Boys&rsquo; Brigade, Girls&rsquo; Brigade, Prefects and CCE Ambassadors. This is the first time our companies form a continent made up of P4, P5 and P6 BB Boys and GB Girls dressed in their full uniforms to showcase their unity and discipline. Three BB Boys and three GB Girls had the honor of marching up the stage carrying the state flag.</p>
+<img src="/images/bb9.jpg">
+<p style="text-align: center;">Rehearsal for National Day Observance Ceremony</p>
+<img src="/images/bb10.jpg">
+<p style="text-align: center;">Observance Ceremony in the School Hall</p>
+<h4><strong>Community Service at Thye Hua Kwan Senior Activity Centre (THKSAC)</strong></h4>
+<p>The P4 BB Boys visited Thye Hua Kwan Senior Activity Centre at Blk 645 Ang Mo Kio Ave 9 on 19 August 2022 (Friday) to carry out a community service project - BB Cares. There were about 45 elderly folks eagerly playing games like the Local Dish Bingo and Connect the Dot Challenge, with the help of the Boys who were by their side. The parting gifts from the Boys were the paper baskets the Boys had woven at home with their parents. It was a fun and meaningful experience for the Boys. We would like to extend our sincere appreciation to our school leaders, parents, volunteers and teachers for supporting us in our journey of growth. We look forward to scaling greater heights for the 22nd Junior Company.</p>
+<img style="width: 80%;" src="/images/bb11.jpg">
+<p style="text-align: center;">Boys interacting with the seniors</p>
+<img style="width: 70%;" src="/images/bb12.jpg">
+<p style="text-align: center;">Boys helping the elderly folks with their bingo cards</p>
+<img style="width: 60%;" src="/images/bb13.jpg">
+<p style="text-align: center;">Group Photo at Thye Hua Kwan Senior Activity Centre</p>
+<h4><strong>Learning Journey at SEA Aquarium</strong></h4>
+<p>The 22J Boys&rsquo; Brigade Boys were so excited about their very first learning journey since the CCA started in Anderson Primary in 2020. On 26 August 2022 (Friday), 22J visited the SEA Aquarium. The boys were taken on a guided tour and visited many beautiful marine animals. They learnt much about the life cycle, habitat, food chain and the impact of climate change on these marine animals. The amazing sea creatures they saw included dolphins, jellyfish, sharks, manta rays, and corals. The Boys ended their amazing day by touching the sea stars. The Boys had an enriching, meaningful and fun time learning together at the SEA Aquarium.Jellyfish Enclosure &ndash; The Boys learnt that jellyfish has no brain and skeleton.</p>
+<img style="width: 40%;" src="/images/bb14.jpg">
+<p style="text-align: center;">Jellyfish Enclosure – The Boys learnt that jellyfish has no brain and skeleton.</p>
+<img style="width: 80%;" src="/images/bb15.jpg">
+<p style="text-align: center;">Coral Reefs - the Rainforest of the Sea</p>
+<img style="width: 70%;" src="/images/bb16.jpg">
+<p style="text-align: center;">Touching Sea Stars – A unique Experience</p>
+<h4><strong>Archery Workshop</strong></h4>
+<p>An archery workshop was conducted on 27 August 2022 (Saturday) to familiarise the Volunteer Adult Leaders in both GB and BB. The trainers were Mr Anthony Tan from BBHQ and Mr Ong Chee Seng from 27th Singapore Company, PHS. It is our hope to bring the joy of archery to our BB Boys and GB Girls as well as to staff members of Anderson Primary School (APS). Mr Poh Chee Peng, a teacher in APS, joined the session and found it time well spent. He said, &ldquo;I&rsquo;m glad I attended the session. It&rsquo;s been a while since I learnt something new, and I enjoyed it more than I expected.&rdquo;</p>
+<img style="width: 80%;" src="/images/bb17.jpg">
+<p style="text-align: center;">Captain Louis Seng from BB and Captain Sylvia Kiew from GB hitting their targets.</p>
+<img style="width: 80%;" src="/images/bb18.png">
+<p style="text-align: center;">Captain Louis Seng from BB and Captain Sylvia Kiew from GB hitting their targets.</p>
+<img style="width: 80%;" src="/images/bb19.png">
+<p style="text-align: center;">Captain Louis Seng from BB and Captain Sylvia Kiew from GB hitting their targets.</p>
