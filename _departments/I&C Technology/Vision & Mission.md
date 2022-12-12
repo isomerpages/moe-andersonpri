@@ -4,7 +4,6 @@ permalink: /curriculum/departments/information-n-communication-technology/vision
 description: ""
 third_nav_title: I&C Technology
 ---
-
 <p><strong>Vision</strong><br>To build a community of ethical, self-directed and collaborative IT-empowered learners.</p>
 <p><strong>Mission</strong></p>
 <ul>
@@ -13,4 +12,4 @@ third_nav_title: I&C Technology
 <li>To ensure that students are discerning and responsible ICT users</li>
 <li>To develop teachers&rsquo; competency in using ICT</li>
 </ul>
-<img src="/images/ICT%20Dept%20banner-min.jpg">
+<img style="width: 65%;" src="/images/ICT%20Dept%20banner-min.jpg">
