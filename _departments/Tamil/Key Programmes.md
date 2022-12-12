@@ -30,4 +30,4 @@ third_nav_title: Tamil
 <ul>
 <li><strong>ICT encrichment</strong>&nbsp;classes give our students the opportunity to brush up their touch-typing skills using Microsoft word and Powerpoint and create e-books.</li>
 </ul>
-<p><strong>Collaboration with Sinda &ndash; Project Teach and Project Guide<br /></strong>Project Teach (small group tuition programme) and Project Guide (one to one tuition programme) classes are conducted in our school in the afternoons twice weekly for our P1 to P6 selected Tamil students to improve their grades in English, Mathematics and Science.&nbsp;</p>
+<p><strong>Collaboration with Sinda &ndash; Project Teach and Project Guide<br /></strong>Project Teach (small group tuition programme) and Project Guide (one to one tuition programme) classes are conducted in our school in the afternoons twice weekly for our P1 to P6 selected Tamil students to improve their grades in English, Mathematics and Science.</p>
