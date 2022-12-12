@@ -4,10 +4,9 @@ permalink: /curriculum/departments/chinese/vision-n-mission/
 description: ""
 third_nav_title: Chinese
 ---
-
 <p><strong>Vision</strong><br>To inspire and cultivate the love for the Chinese Language and culture.</p>
 <p><strong>Mission</strong><br>Pupils as self-directed learners who are able to grasp knowledge of the Chinese Language.</p>
-<img src="/images/chinese_img.jpg">
+<img style="width: 65%;" src="/images/chinese_img.jpg">
 <p><strong>Announcements (2020)</strong></p>
 <ul>
 <li>
