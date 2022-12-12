@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Distinctive Programmes.md
       - Departments.md
       - Co–Curriculum Activities (CCA).md
