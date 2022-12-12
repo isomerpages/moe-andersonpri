@@ -25,99 +25,49 @@ links:
         url: https://andersonpri-moe-edu-sg.cwp-stg.sg/about/appreciation/affirmation
       - title: Accolades
         url: /about/accolades/awards
-  - title: Our Family
-    url: /our-family/school-advisory-committee
+  - title: Key Personnel
+    url: /key-personnel/school-executive-committee
     sublinks:
-      - title: School Advisory Committee
-        url: /our-family/school-advisory-committee
       - title: School Executive Committee
-        url: school-executive-committee
+        url: /key-personnel/school-executive-committee
       - title: Teachers
-        url: /our-family/Teachers/primary-1
+        url: /key-personnel/teachers/primary-1
       - title: Allied Educators
-        url: /our-family/allied-educators
+        url: /key-personnel/allied-educators
       - title: Executive and Administrative
-        url: /our-family/executive-and-administrative-staff
-      - title: Parent Support Group
-        url: /our-family/parent-support-group
-      - title: Alumni
-        url: /our-family/alumni
-  - title: Departments
-    url: /departments/English/vision-n-mission
-    sublinks:
-      - title: English
-        url: /departments/English/vision-n-mission
-      - title: Chinese
-        url: /departments/Chinese/vision-n-mission
-      - title: Malay
-        url: /departments/Malay/vision-n-mission
-      - title: Tamil
-        url: /departments/Tamil/vision-n-mission
-      - title: Mathematics
-        url: /departments/Mathematics/vision-n-mission
-      - title: Science
-        url: /departments/Science/vision-n-mission
-      - title: Information and Communication
-        url: //departments/information-n-communication-technology/vision-n-mission
-      - title: Character and Citizenship
-        url: /departments/character-n-citizenship-education/our-mission-in-cce
-      - title: Physical Education
-        url: //departments/Physical-Education/vision-n-mission
-      - title: Aesthetics
-        url: /departments/Aesthetics/vision-n-mission
+        url: /key-personnel/executive-and-administrative-staff
+  - title: Curriculum
+    collection: curriculum
   - title: Parents
     url: /parents/letters-to-parents
     sublinks:
       - title: Letters to Parents
         url: /parents/letters-to-parents
-      - title: Resource for Parents
-        url: /parents/resources-for-parents
-      - title: Student Care Centre
-        url: /parents/student-care-centre
-      - title: FamilyMatters @ School
-        url: /parents/familymatters-at-school
+      - title: Resources for Parents
+        url: /parents/resources-for-parents/road-safety
       - title: P1 Registration
-        url: /parents/P1-Registration/
-      - title: Transfer & Admission Form
-        url: /parents/waiting-list-for-transfer-admission-form
-      - title: Road Safety
-        url: /parents/Road-Safety-1
-      - title: Programme for Active Learning
-        url: /parents/programme-for-active-learning-pal
-      - title: Sexuality Education Programme
-        url: /parents/sexuality-education-programme
+        url: /parents/p1-registration
+  - title: Partners
+    url: /partners/school-advisory-committee-sac
+    sublinks:
+      - title: School Advisory Committee
+        url: /partners/school-advisory-committee-sac
+      - title: Parent Support Group
+        url: /partners/parent-support-group
+      - title: Alumni
+        url: /partners/alumni
+      - title: LENS
+        url: /partners/lens
+  - title: Connect
+    url: /connect/school-contact-n-admin-info
+    sublinks:
+      - title: School Contact & Admin Info
+        url: /connect/school-contact-n-admin-info
       - title: Quick Links
-        url: /quick-links
-  - title: CCA
-    url: /cca
-    sublinks:
-      - title: Performing Arts
-        url: /cca/Performing-Arts/angklung-n-kulintang-ensemble-2022
-      - title: Sports & Games
-        url: /cca/Sports-n-Games/basketball-2022
-      - title: Clubs & Societies
-        url: /cca/clubs-n-societies/art-club-2022
-      - title: Uniformed Groups
-        url: /cca/uniformed-groups
-      - title: CCA Withdrawal Form
-        url: https://form.gov.sg/#!/625379599e072500121b668e
-  - title: Distinctive Programmes
-    url: /distinctive-programmes/andventure/overview-of-andventure
-    sublinks:
-      - title: ANDventure
-        url: /distinctive-programmes/andventure/overview-of-andventure
-      - title: Applied Learning Programme
-        url: /distinctive-programmes/applied-learning-programme-alp
-      - title: Learning for Life Programme
-        url: /distinctive-programmes/learning-for-life-programme-llp
-  - title: Achievements
-    url: /achievements/awards
-    sublinks:
-      - title: Awards
-        url: /achievements/awards
-      - title: NAEA 2015
-        url: /achievements/national-arts-education-award-naea-2015
-      - title: Curriculum
-        url: /achievements/Curriculum/2020-1
-      - title: Co-Curriculum
-        url: /achievements/co-curriculum/2020
+        url: /connect/quick-links
+      - title: Admission & Forms
+        url: /connect/admission-n-forms/waiting-list-admission
+      - title: Service Providers
+        url: /connect/service-providers/school-student-care
+      - title: Family Matters @ School
+        url: /connect/family-matters-at-school
