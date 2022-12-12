@@ -2,4 +2,5 @@ collections:
   curriculum:
     output: true
     order:
+      - Departments.md
       - Co–Curriculum Activities (CCA).md
