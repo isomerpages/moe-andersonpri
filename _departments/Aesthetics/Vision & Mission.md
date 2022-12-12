@@ -4,7 +4,6 @@ permalink: /curriculum/departments/aesthetics/vision-n-mission/
 description: ""
 third_nav_title: Aesthetics
 ---
-
 <p><strong>Vision</strong><br>Creative and confident Learners of the Arts with Performance and Moral Character</p>
 
 <p><strong>Mission</strong><br>To provide a holistic arts education for all Andersonians to communicate creativity, passion, respect and excellence.</p>
@@ -21,6 +20,5 @@ third_nav_title: Aesthetics
 <p>Leadership</p>
 </li>
 </ul>
-
 <img src="/images/art1.png" 
      style="width:65%">
