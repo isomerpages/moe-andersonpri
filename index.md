@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/anderson2.gif
+      background: /images/Andersonpri4.gif
       url: /contact-us/
       key_highlights:
         - title: Digital Showcase
