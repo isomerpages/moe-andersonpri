@@ -13,8 +13,8 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Ms Cindy Leong Wah</td>
-<td width="50%"><a href="mailto:leong_wah_jin@moe.edu.sg" target="">leong_wah_jin@moe.edu.sg</a></td>
+<td width="50%">Mrs Lena Ho</td>
+<td width="50%"><a href="mailto:teo_mui_lin_lena@moe.edu.sg" target="">teo_mui_lin_lena@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
