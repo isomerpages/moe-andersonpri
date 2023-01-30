@@ -45,14 +45,14 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Ms Chan Si Zhen</td>
-<td><a href="mailto:chan_si_zhen@moe.edu.sg" target="">chan_si_zhen@moe.edu.sg</a></td>
+<td>Mdm Neo Shu Ling</td>
+<td><a href="mailto:neo_shu_ling@moe.edu.sg" target="">neo_shu_ling@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mdm Cheong Hwee Hua</div>
+<div>Ms Ong Yu Ling Eunice</div>
 </td>
-<td><a href="mailto:cheong_hwee_hua@moe.edu.sg" target="">cheong_hwee_hua@moe.edu.sg</a></td>
+<td><a href="mailto:ong_yu_ling_eunice@moe.edu.sg" target="">ong_yu_ling_eunice@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 2.4</strong></td>
@@ -61,12 +61,12 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Mrs Eileen Lin</td>
-<td width="50%"><a href="mailto:eileen_toh_ying_lin@moe.edu.sg" target="">eileen_toh_ying_lin@moe.edu.sg</a></td>
+<td width="50%">Ms Low Li Lin</td>
+<td width="50%"><a href="mailto:low_li_lin@moe.edu.sg" target="">low_li_lin@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>&nbsp;Mdm Jumiati Md Sidek</td>
-<td>&nbsp;<a href="mailto:jumiati_mohd_sidek@moe.edu.sg" target="">jumiati_mohd_sidek@moe.edu.sg</a></td>
+<td>Ms Serena Goh Yi Ting</td>
+<td><a href="mailto:serena_goh_yi_ting@moe.edu.sg" target="">serena_goh_yi_ting@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 2.5</strong></td>
