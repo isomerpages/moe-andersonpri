@@ -111,8 +111,8 @@ third_nav_title: Teachers
 <td><a href="mailto:ng_lih_teng@moe.edu.sg" target="">ng_lih_teng@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>&nbsp;Mdm Grace Loke<br />Senior Teacher (Chinese Language)</td>
-<td>&nbsp;<a href="mailto:loke_wei_ming@moe.edu.sg" target="">loke_wei_ming@moe.edu.sg</a><br /><br /></td>
+<td>Ms Divyashree</td>
+<td><a href="mailto:divyashree_c_bala_krishnan@moe.edu.sg" target=""> divyashree_c_bala_krishnan@moe.edu.sg</a><br /><br /></td>
 </tr>
 </tbody>
 </table>
