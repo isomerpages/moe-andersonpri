@@ -107,8 +107,8 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mdm Jocelyn Ng</td>
-<td><a href="mailto:joceyln_ng_suu-iyn@moe.edu.sg" target="">joceyln_ng_suu-iyn@moe.edu.sg</a></td>
+<td>Mdm Ng Lih Teng</td>
+<td><a href="mailto:ng_lih_teng@moe.edu.sg" target="">ng_lih_teng@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>&nbsp;Mdm Grace Loke<br />Senior Teacher (Chinese Language)</td>
