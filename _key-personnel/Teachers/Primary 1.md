@@ -68,10 +68,10 @@ third_nav_title: Teachers
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Ms Serena Goh</div>
+<div>Ms Lim Swee Yee</div>
 </td>
 <td>
-<div><a target="" href="mailto:serena_goh_yi_ting@moe.edu.sg">serena_goh_yi_ting@moe.edu.sg</a></div>
+<div><a target="" href="mailto:lim_swee_yee_a@moe.edu.sg">lim_swee_yee_a@moe.edu.sg</a></div>
 </td>
 </tr>
 <tr style="text-align: center;">
