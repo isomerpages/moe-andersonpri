@@ -34,10 +34,10 @@ third_nav_title: Teachers
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mdm Rachel Cheng</div>
+<div>Mdm Cheong Hwee Hua</div>
 </td>
 <td>
-<div>&nbsp;<a target="" href="mailto:cheng_lee_chin_rachel@moe.edu.sg">cheng_lee_chin_rachel@moe.edu.sg</a></div>
+<div>&nbsp;<a target="" href="mailto:cheong_hwee_hua@moe.edu.sg">cheong_hwee_hua@moe.edu.sg</a></div>
 </td>
 </tr>
 <tr style="text-align: center;">
