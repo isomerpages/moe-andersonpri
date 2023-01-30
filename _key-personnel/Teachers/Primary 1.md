@@ -47,8 +47,8 @@ third_nav_title: Teachers
 <td height="25" colspan="2"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mrs Angeline Lee</td>
-<td><a target="" href="mailto:chong_sok_ling@moe.edu.sg">chong_sok_ling@moe.edu.sg</a></td>
+<td>Ms Tiang May Lin Linda</td>
+<td><a target="" href="mailto:tiang_may_lin_linda@moe.edu.sg">tiang_may_lin_llinda@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
