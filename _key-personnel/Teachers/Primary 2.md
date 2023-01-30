@@ -13,16 +13,16 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Mrs Lena Ho</td>
+<td width="50%">Mrs Lena Ho<br />P2 Level Executive Officer</td>
 <td width="50%"><a href="mailto:teo_mui_lin_lena@moe.edu.sg" target="">teo_mui_lin_lena@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
 <div>
-<div>Ms Divyashree</div>
+<div>Mdm Koh Ah Lek</div>
 </div>
 </td>
-<td><a href="mailto:divyashree_c_bala_krishnan@moe.edu.sg" target="">divyashree_c_bala_krishnan@moe.edu.sg</a></td>
+<td><a href="mailto:koh_ah_lek@moe.edu.sg" target="">koh_ah_lek@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 2.2</strong></td>
