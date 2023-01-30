@@ -29,7 +29,7 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Mrs Lisa Kan<br />P3 Level Executive Officer</td>
+<td width="50%">Mrs Lisa Kan</td>
 <td><a href="mailto:chua_ling_ling@moe.edu.sg" target="">chua_ling_ling@moe.edu.sg</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
@@ -59,12 +59,12 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Ms Stephanie Lim</td>
-<td width="50%"><a href="mailto:lim_ruoh_wen@moe.edu.sg" target="">lim_ruoh_wen@moe.edu.sg</a></td>
+<td width="50%">Ms Joy Lim Swee Ping<br />P3 Level Executive Officer</td>
+<td width="50%"><a href="mailto:lim_swee_ping@moe.edu.sg" target="">lim_swee_ping@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>&nbsp;Mdm Aretha Cheong</td>
-<td>&nbsp;<a href="mailto:aretha_cheong_hui_lin@moe.edu.sg" target="">aretha_cheong_hui_lin@moe.edu.sg</a></td>
+<td>Mdm Wong H'sien Yi</td>
+<td><a href="mailto: wong_hsien_yi@moe.edu.sg" target="">wong_hsien_yi@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 3.5</strong></td>
@@ -73,15 +73,15 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Ms Angeline Teo</td>
-<td><a href="mailto:teo_puay_leng@moe.edu.sg" target="">teo_puay_leng@moe.edu.sg</a></td>
+<td> Mdm Suzanah Saparwan <br/>
+HOD (Information & Communication Technology)</td>
+<td><a href="mailto:suzanah_saparwan@moe.edu.sg" target="">suzanah_saparwan@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Ms Jan Hu Wen Ying</div>
-<div>HOD (PECCA &amp; Asthetics)</div>
+<div>Mdm Xia Shanna</div>
 </td>
-<td><a href="mailto:jan_hu_wen_ying@moe.edu.sg" target="">jan_hu_wen_ying@moe.edu.sg</a></td>
+<td><a href="mailto:xia_shanna@moe.edu.sg" target="">xia_shanna@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 3.6</strong></td>
