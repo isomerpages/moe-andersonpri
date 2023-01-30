@@ -48,9 +48,9 @@ third_nav_title: Teachers
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Ms Joy Lim Swee Ping</div>
+<div>Mrs Subbrahmanyam</div>
 </td>
-<td><a href="mailto:lim_swee_ping@moe.edu.sg" target="">lim_swee_ping@moe.edu.sg</a></td>
+<td><a href="mailto:s_k_t_subbrahmanyam@moe.edu.sg)@moe.edu.sg" target="">s_k_t_subbrahmanyam@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 3.4</strong></td>
