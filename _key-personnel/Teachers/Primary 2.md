@@ -92,9 +92,9 @@ third_nav_title: Teachers
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mdm Fiona Tan Pei Wei&nbsp;</div>
+<div>Mrs Rachael Goh</div>
 </td>
-<td><a href="mailto:tan_pei_wei_fiona@moe.edu.sg" target="">tan_pei_wei_fiona@moe.edu.sg</a></td>
+<td><a href="mailto:seah_yan_ying_rachael@moe.edu.sg" target="">seah_yan_ying_rachael@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>Ms Eu Lee May</td>
