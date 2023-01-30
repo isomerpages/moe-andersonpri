@@ -97,8 +97,8 @@ third_nav_title: Teachers
 <td><a href="mailto:seah_yan_ying_rachael@moe.edu.sg" target="">seah_yan_ying_rachael@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>Ms Eu Lee May</td>
-<td>&nbsp;<a href="mailto:loke_wei_ming@moe.edu.sg" target="">eu_lee_may@moe.edu.sg</a></td>
+<td>Mrs Maefrize Khoo</td>
+<td><a href="mailto:lim_meng_hui@moe.edu.sg" target="">lim_meng_hui@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 2.7</strong></td>
