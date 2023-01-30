@@ -119,9 +119,9 @@ P1 Level Executive Officer</td>
 <td><a target="" href="mailto:kavitha_kunnasegaran@moe.edu.sg">kavitha_kunnasegaran@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>Ms Lin Routing</td>
+<td>Mr Deng Li Qiang</td>
 <td>
-<div><a target="" href="mailto:kavitha_kunnasegaran@moe.edu.sg">kavitha_kunnasegaran@moe.edu.sg</a></div>
+<div><a target="" href="mailto:deng_li_qiang@moe.edu.sg">deng_li_qiang@moe.edu.sg</a></div>
 </td>
 </tr>
 </tbody>
