@@ -98,14 +98,14 @@ third_nav_title: Teachers
 <td height="25" colspan="2"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Mrs Rachael Goh<br>P1 Level Executive Officer</td>
-<td><a target="" href="mailto:seah_yan_ying_rachael@moe.edu.sg">seah_yan_ying_rachael@moe.edu.sg</a><br><br></td>
+<td> Mdm Fiona Tan Pei Wei</td>
+<td><a target="" href="mailto:tan_pei_wei_fiona@moe.edu.sg">tan_pei_wei_fiona@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mr Chong Wee Tit</div>
+<div>Ms Kek Sor Ling</div>
 </td>
-<td><a target="" href="mailto:chong_wee_tit@moe.edu.sg">chong_wee_tit@moe.edu.sg</a></td>
+<td><a target="" href="mailto:kek_sor_ling@moe.edu.sg">kek_sor_ling@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td height="41" colspan="2"><strong>Class 1.7</strong></td>
