@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website School Banner.gif
+      background: /images/Website School Banner 2.gif
       url: /contact-us/
       key_highlights:
         - title: Digital Showcase
