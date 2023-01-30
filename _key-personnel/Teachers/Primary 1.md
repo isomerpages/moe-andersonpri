@@ -81,8 +81,9 @@ third_nav_title: Teachers
 <td height="25" colspan="2"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Ms Tan Yin Jia Erica</td>
-<td><a target="" href="mailto:tan_yin_jia_erica@moe.edu.sg">tan_yin_jia_erica@moe.edu.sg</a></td>
+<td width="50%">Mdm Neo Hwee Hwee<br>Year Head (Lower Pri)</td>
+	
+<td><a target="" href="mailto:neo_hwee_hwee@moe.edu.sg">neo_hwee_hwee@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
