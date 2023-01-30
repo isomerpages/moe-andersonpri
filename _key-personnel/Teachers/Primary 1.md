@@ -87,9 +87,9 @@ third_nav_title: Teachers
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mdm Sharulbariah Md Arif</div>
+<div>Ms Lin Routing</div>
 </td>
-<td><a target="" href="mailto:shahrulbariah_muhd_arif@moe.edu.sg">shahrulbariah_muhd_arif@moe.edu.sg</a></td>
+<td><a target="" href="mailto:lin_routing@moe.edu.sg">lin_routing@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td height="41" colspan="2"><strong>Class 1.6</strong></td>
