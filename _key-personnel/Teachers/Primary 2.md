@@ -31,12 +31,12 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Mdm Kavitha Kunnasegaran<br />P2 Level Executive Officer</td>
-<td><a href="mailto:kavitha_kunnasegaran@moe.edu.sg" target="">kavitha_kunnasegaran@moe.edu.sg</a><br /><br /></td>
+<td>Mdm Maryati Mohamed</td>
+<td><a href="mailto:maryati_mohamed@moe.edu.sg" target="">maryati_mohamed@moe.edu.sg</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
-<td>&nbsp;Ms Li Xuan</td>
-<td><a href="mailto:%C2%A0li_xuan@moe.edu.sg" target="">&nbsp;li_xuan@moe.edu.sg</a></td>
+<td>Mdm Rachel Cheng</td>
+<td><a href="mailto:cheng_lee_chin_rachel@moe.edu.sg" target="">cheng_lee_chin_rachel@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 2.3</strong></td>
