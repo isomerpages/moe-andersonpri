@@ -48,13 +48,13 @@ third_nav_title: Teachers
 </tr>
 <tr style="text-align: center;">
 <td>Ms Tiang May Lin Linda</td>
-<td><a target="" href="mailto:tiang_may_lin_linda@moe.edu.sg">tiang_may_lin_llinda@moe.edu.sg</a></td>
+<td><a target="" href="mailto:tiang_may_lin_linda@moe.edu.sg">tiang_may_lin_linda@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mdm Neo Shu Ling</div>
+<div>Mdm Jumiati Md Sidek</div>
 </td>
-<td><a target="" href="mailto:neo_shu_ling@moe.edu.sg">neo_shu_ling@moe.edu.sg</a></td>
+<td><a target="" href="mailto:jumiati_mohd_sidek@moe.edu.sg">jumiati_mohd_sidek@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td height="41" colspan="2"><strong>Class 1.4</strong></td>
