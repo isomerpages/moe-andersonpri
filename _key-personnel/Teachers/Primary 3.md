@@ -90,12 +90,12 @@ HOD (Information & Communication Technology)</td>
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mr Soh Wei Xuan</td>
-<td><a href="mailto:soh_wei_xuan@moe.edu.sg" target="">soh_wei_xuan@moe.edu.sg</a></td>
+<td>Ms Inoue Ikuyo</td>
+<td><a href="mailto:inoue_ikuyo@moe.edu.sg" target="">inoue_ikuyo@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>Ms Gracia Lim&nbsp;</td>
-<td><a href="mailto:lim_gek_hia@moe.edu.sg" target="">lim_gek_hia@moe.edu.sg</a></td>
+<td>Mdm Sheena Toh<br/>HOD (Aesthetics)</td>
+<td><a href="mailto:sheena_toh@moe.edu.sg" target="">sheena_toh@moe.edu.sg</a></td>
 </tr>
 </tbody>
 </table>
