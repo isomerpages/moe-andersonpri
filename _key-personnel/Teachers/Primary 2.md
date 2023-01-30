@@ -75,14 +75,14 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mdm Neo Hwee Hwee<br />Year Head (Lower Primary)</td>
-<td><a href="mailto:neo_hwee_hwee@moe.edu.sg" target="">neo_hwee_hwee@moe.edu.sg</a><br /><br /></td>
+<td>Mdm Sharulbariah Md Arif</td>
+<td><a href="mailto:shahrulbariah_muhd_arif@moe.edu.sg" target="">shahrulbariah_muhd_arif@moe.edu.sg</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Ms Nur Shamilah Abd Hamid</div>
+<div>Ms Yeow Kia Chin Mabel</div>
 </td>
-<td><a href="mailto:nur_shamilah_abdul_hamid@moe.edu.sg" target="">nur_shamilah_abdul_hamid@moe.edu.sg</a></td>
+<td><a href="mailto:yeow_kia_chin_mabel@moe.edu.sg" target="">yeow_kia_chin_mabel@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 2.6</strong></td>
