@@ -21,7 +21,7 @@ description: ""
 </tr>
 <tr>
 <td><img src="/images/Mr%20Leow%20Kor%20Ming.jpg" style="max-height: 80%;" /></td>
-<td><img src="/images/Mrs%20Serene%20Soh.jpg"      style="max-height: 80%;" /></td>
+<td><img src="/images/Mrs%20Serene%20Soh.jpg"      style="max-height: 800%;" /></td>
 <td><img src="/images/Mrs%20Vimala%20Ratnaraja.jpg" style="max-height: 80%;" /></td>
 </tr>
 <tr>
