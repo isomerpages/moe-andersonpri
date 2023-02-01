@@ -3,7 +3,6 @@ title: School Executive Committee
 permalink: /key-personnel/school-executive-committee/
 description: ""
 ---
-
 <table cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -22,7 +21,7 @@ description: ""
 </tr>
 <tr>
 <td><img src="/images/Mr%20Leow%20Kor%20Ming.jpg" /></td>
-<td><img src="/images/Mrs%20Serene%20Soh.jpg" /></td>
+<td><img src="/images/Mrs%20Serene%20Soh.jpg"      style="max-height: 80%;" /></td>
 <td><img src="/images/Mrs%20Vimala%20Ratnaraja.jpg" /></td>
 </tr>
 <tr>
