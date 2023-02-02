@@ -4,4 +4,4 @@ permalink: /connect/admission-n-forms/parent-volunteers/
 description: ""
 third_nav_title: Admission & Forms
 ---
-<p><a href="/2020/11/11/chinese-junior-reporters-dian-dian-di-di-vol-2-2020/">Redirect to Parents webpage</a></p>
+Parents who are interested to join the **PSG@Anderson** can register through this online form at<p><a href="https://go.gov.sg/psg-anderson">PSG@Anderson</a></p>
