@@ -35,8 +35,8 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Ms Angela Lee<br />Subject Head (Citizenship &amp; Character Education)</td>
-<td><a href="mailto:lee_yueling_angela@moe.edu.sg" target="">lee_yueling_angela@moe.edu.sg</a><br /><br /></td>
+<td width="50%">Ms Adelene Guo</td>
+<td><a href="mailto:guo_yuanhui_adelene@moe.edu.sg" target="">guo_yuanhui_adelene@moe.edu.sg</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
 <td>&nbsp;Mr Lee Seh Lat<br />HOD (Mother Tongue Language)</td>
