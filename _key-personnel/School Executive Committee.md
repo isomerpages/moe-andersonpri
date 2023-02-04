@@ -66,12 +66,12 @@ description: ""
 <td style="text-align: center;">Mrs Sornamangai Mohan<br />Subject Head (Tamil Language)<br /><a href="mailto:sornamangai_arumugam@moe.edu.sg" target="">sornamangai_arumugam@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td><img src="/images/mdmjanhu.jpg" /></td>
+<td><img src="/images/Mrs%20Sharon%20Yeo.jpg" /></td>
 <td><img src="/images/Mrs%20Sharon%20Yeo.jpg" /></td>
 <td><img src="/images/Mdm%20Er%20Siew%20Shin.jpg" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Ms Jan Hu Wen Ying<br />HOD (PE &amp; CCA)&nbsp;<br /><a href="mailto:jan_hu_wen_ying@moe.edu.sg" target="">jan_hu_wen_ying@moe.edu.sg</a></td>
+<td style="text-align: center;">Mrs Sharon Yeo<br />Level Head (Mathematics)<br /><a href="mailto:yeo_sharon@moe.edu.sg" target="">yeo_sharon@moe.edu.sg</a></td>
 <td style="text-align: center;">Mrs Sharon Yeo&nbsp;<br />Level Head (Mathematics)&nbsp;<br /><a href="mailto:yeo_sharon@moe.edu.sg" target="">yeo_sharon@moe.edu.sg</a></td>
 <td style="text-align: center;">Mdm Er Siew Shin<br />&nbsp;HOD (Science)&nbsp;<br /><a href="mailto:er_siew_shin@moe.edu.sg" target="">er_siew_shin@moe.edu.sg</a></td>
 </tr>
