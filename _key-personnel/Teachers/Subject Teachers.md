@@ -10,9 +10,16 @@ third_nav_title: Teachers
 <td style="text-align: center;" colspan="2"><strong>Subject Teachers</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mrs Vimala Ratnaraja<br />Year Head (Middle Primary)</td>
+<td style="text-align: center;">Mrs Vimala Ratnaraja<br />Year Head (Upper Primary)</td>
 <td style="text-align: center;"><a href="mailto:vimala_ratnaraja@moe.edu.sg" target="">vimala_ratnaraja@moe.edu.sg</a></td>
 </tr>
+	
+	<tr>
+<td style="text-align: center;">Mdm Goh Ling Li<br />HOD (English Language)</td>
+<td style="text-align: center;"><a href="mailto:goh_ling_li@moe.edu.sg" target="">goh_ling_li@moe.edu.sg</a></td>
+</tr>
+	
+	
 <tr>
 <td style="text-align: center;">Mrs Fion Ho<br />HOD (Character &amp; Citizenship Education)&nbsp;</td>
 <td style="text-align: center;"><a href="mailto:lim_ser_yee@moe.edu.sg" target="">lim_ser_yee@moe.edu.sg</a></td>
