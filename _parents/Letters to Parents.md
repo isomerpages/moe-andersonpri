@@ -59,7 +59,7 @@ description: ""
     <input type="checkbox" id="accordion7">
     <label for="accordion7">July</label>
     <div>
-<p><a href="/files/Start%20of%20Term%203%20Updates.pdf" target="_blank" rel="noopener">Start of Term 3 Updates</a></p>
+<p>Coming Soon!</p>
     </div>
 	</li>
   <li>
