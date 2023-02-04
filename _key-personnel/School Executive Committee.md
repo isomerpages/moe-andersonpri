@@ -95,7 +95,7 @@ description: ""
 <tr>
 <td style="text-align: center;">Miss Angela Lee&nbsp;<br />Subject Head (Character &amp; Citizenship Education)&nbsp;<br /><a href="mailto:lee_yueling_angela@moe.edu.sg" target="">lee_yueling_angela@moe.edu.sg</a></td>
 <td style="text-align: center;">Mr Ramesh Sivadakacham&nbsp;<br />Subject Head&nbsp;<br />(Student Management)&nbsp;<br /><a href="mailto:ramesh_sivakadacham@moe.edu.sg" target="">ramesh_sivakadacham@moe.edu.sg</a></td>
-<td style="text-align: center;">Mr Ben Choo&nbsp;<br />Subject Head (CCA &amp;<br />Data Management)&nbsp;<br /><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg</a></td>
+<td style="text-align: center;">Ms Jan Hu Wen Ying;<br />HOD (PE & CCA)<br /><a href="mailto:jan_hu_wen_ying@moe.edu.sg" target="">jan_hu_wen_ying@moe.edu.sg</a></td>
 </tr>
 	
 	
