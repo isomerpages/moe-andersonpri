@@ -39,8 +39,8 @@ third_nav_title: Teachers
 <td><a href="mailto:guo_yuanhui_adelene@moe.edu.sg" target="">guo_yuanhui_adelene@moe.edu.sg</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
-<td>&nbsp;Mr Lee Seh Lat<br />HOD (Mother Tongue Language)</td>
-<td><a href="mailto:lee_seh_lat@moe.edu.sg" target="">lee_seh_lat@moe.edu.sg</a><br /><br /></td>
+<td>Ms Siti Suraidah Rahim<br />P5 Level Executive Officer</td>
+<td><a href="mailto:siti_suraidah_rahim@moe.edu.sg" target="">siti_suraidah_rahim@moe.edu.sg</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 5.3</strong></td>
