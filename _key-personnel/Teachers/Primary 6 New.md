@@ -23,7 +23,7 @@ third_nav_title: Teachers
 <td><a href="mailto:sabariah_abdullah@moe.edu.sg" target="">sabariah_abdullah@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 5.2</strong></td>
+<td colspan="2" height="41"><strong>Class 6.2</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
@@ -76,7 +76,7 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mdm Cheong Mei Yuan</td>
+<td>Mdm Cheong Mei Yuan <br>Level Head (Chinese Language)</td>
 <td><a href="mailto:cheong_mei_yuan@moe.edu.sg" target="">cheong_mei_yuan@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
