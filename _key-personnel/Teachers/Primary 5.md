@@ -79,8 +79,8 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mdm Cheong Mei Yuan</td>
-<td><a href="mailto:cheong_mei_yuan@moe.edu.sg" target="">cheong_mei_yuan@moe.edu.sg</a></td>
+<td>Ms Tan Yin Jia Erica</td>
+<td><a href="mailto:tan_yin_jia_erica@moe.edu.sg" target="">tan_yin_jia_erica@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>Mr Ben Choo Chee Keong<br />Subject Head (CCA &amp; Data Management)</td>
