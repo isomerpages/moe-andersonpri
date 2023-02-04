@@ -14,8 +14,8 @@ description: ""
 <td style="text-align: center;">Mdm Delia Hoo<br />Principal&nbsp;<br /><a href="mailto:Delia_Hoo@schools.gov.sg" target="">Delia_Hoo@schools.gov.sg</a></td>
 <td style="text-align: center;">Mrs Jane Chng <br />Vice-Principal (Academic)&nbsp;<br /><a href="mailto:Jane_Ngoh@schools.gov.sg" target="">Jane_Ngoh@schools.gov.sg</a></td>
 <td style="text-align: center;">
-<div>&nbsp;Mr Low Kah Shen</div>
-<div>Vice-Principal (Administrative)</div>
+<div> Mr Thomas Boh</div>
+<div>Vice-Principal (Academic)</div>
 <div><a href="mailto:Low_Kah_Shen@schools.gov.sg" target="">Low_Kah_Shen@schools.gov.sg</a></div>
 </td>
 </tr>
