@@ -7,7 +7,7 @@ description: ""
 <tbody>
 <tr>
 <td><img src="/images/Mdm%20Delia%20Hoo.jpg" /></td>
-<td><img style ="width: 85%;" src="/images/Mrs%20Jane%20Chng.jpg" /></td>
+<td><img style ="width: 78%;" src="/images/Mrs%20Jane%20Chng.jpg" /></td>
 <td><img style ="width: 98%;" src="/images/Mr Thomas Boh ii.jpg" /></td>
 </tr>
 <tr>
