@@ -63,8 +63,8 @@ third_nav_title: Teachers
 <td width="50%"><a href="mailto:lim_ruoh_wen@moe.edu.sg" target="">lim_ruoh_wen@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>&nbsp;Mdm Esther Chuah</td>
-<td>&nbsp;<a href="mailto:chuah_szu_khia@moe.edu.sg" target="">chuah_szu_khia@moe.edu.sg</a></td>
+<td>Mdm Meenachi</td>
+<td>&nbsp;<a href="mailto:meenachi_raman@moe.edu.sg" target="">meenachi_raman@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 4.5</strong></td>
