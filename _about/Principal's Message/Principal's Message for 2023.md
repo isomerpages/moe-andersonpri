@@ -17,8 +17,6 @@ To operationalise POTF, we take reference from our School Vision. We focus on ea
 
 2023 School Theme continues to mirror our School Vision – the third tenet on Citizenship. There is so much to unpack for ‘Citizenship’. It is also timely as we deepen CCE 2021 Syllabus enactment in the classroom. At the same time, we want foreground citizenship literacies, values and dispositions from other frames of perspective, including digital citizenship and global citizenship. The mega-theme continues to be ‘Sustainability’, riding on our curricular strengths identified by our Customised Validation Team in 2022 as we take further strides towards the aspirational goal of a ‘Zero Waste School’. More importantly, we want to impress on our Andersonians that being a good citizen is about developing and strengthening one’s character. In the year ahead, as a school community, we will be ever more intentional in providing our Andersonians authentic platforms to internalise and demonstrate good habits and values and shine the Anderson LIGHT. It is my vision that Andersonians, through this process, may experience the joy of helping, serving and caring for others, and learn to ‘Put Others First’. I look forward to celebrating their personal growth and the contributions they will make to the community.
 
-Delia Hoo (Mdm)
-
-Principal
-
+Delia Hoo (Mdm) <br>
+Principal <br>
 Dec 2022
