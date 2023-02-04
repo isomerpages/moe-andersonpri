@@ -43,7 +43,7 @@ description: ""
 </tr>
 <tr>
 <td><img src="/images/Mdm%20Neo%20Hwee%20Hwee.jpg" /></td>
-<td><img src="/images/Mr%20Edmung%20Liang.jpg" /></td>
+<td><img style ="width: 78%;" src="/images/Ms%20Goh%20Ling%20Li.png" /></td>
 <td><img src="/images/Mr%20Eric%20Lee.jpg" /></td>
 </tr>
 <tr>
