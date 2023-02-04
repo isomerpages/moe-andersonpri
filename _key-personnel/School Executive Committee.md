@@ -68,12 +68,12 @@ description: ""
 <tr>
 <td><img src="/images/Mrs%20Sharon%20Yeo.jpg" /></td>
 <td><img style ="width: 78%;" src="/images/Mdm%20Er%20Siew%20Shin.jpg" /></td>
-<td><img src="/images/Mdm%20Er%20Siew%20Shin.jpg" /></td>
+<td><img style ="width: 85%;"  src="/images/Mr%20Ivan%20Ng.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mrs Sharon Yeo<br />Level Head (Mathematics)<br /><a href="mailto:yeo_sharon@moe.edu.sg" target="">yeo_sharon@moe.edu.sg</a></td>
 <td style="text-align: center;">Mdm Er Siew Shin<br />HOD (Science)<br /><a href="mailto:er_siew_shin@moe.edu.sg" target="">er_siew_shin@moe.edu.sg</a></td>
-<td style="text-align: center;">Mdm Er Siew Shin<br />&nbsp;HOD (Science)&nbsp;<br /><a href="mailto:er_siew_shin@moe.edu.sg" target="">er_siew_shin@moe.edu.sg</a></td>
+<td style="text-align: center;">Mr Ivan Ng<br />Level Head (Science)<br /><a href="mailto:ivan_ng_yong_leng@moe.edu.sg" target="">ivan_ng_yong_leng@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td><img src="/images/Mr%20Ivan%20Ng.jpg" /></td>
