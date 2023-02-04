@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Executive Committee.md
+      - Teachers/Primary 6 New.md
       - Teachers/Primary 1.md
       - Teachers/Primary 2.md
       - Teachers/Primary 3.md
