@@ -36,7 +36,6 @@ third_nav_title: Performing Arts
 <ul>
 <li>Miss Gracia Lim (Overall Teacher-in-charge)</li>
 <li>Mdm Shahrulbariah M A</li>
-<li>Mrs Shereen Chan</li>
 <li>Mrs Eileen Lin</li>
 <li>Ms Nur Shamilah</li>
 </ul>
