@@ -22,6 +22,12 @@ third_nav_title: Teachers
 </td>
 <td><a href="mailto:poh_chee_peng@moe.edu.sg" target="">poh_chee_peng@moe.edu.sg</a></td>
 </tr>
+	<tr style="text-align: center;">
+<td>
+<div> Ms Jessie Nah</div>
+</td>
+<td><a href="mailto:jessie_nah_min_li@moe.edu.sg" target="">jessie_nah_min_li@moe.edu.sg</a></td>
+</tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 5.2</strong></td>
 </tr>
