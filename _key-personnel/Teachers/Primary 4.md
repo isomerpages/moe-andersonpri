@@ -48,9 +48,9 @@ third_nav_title: Teachers
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Ms Stephanie Lim</div>
+<div>Ms Gracia Lim</div>
 </td>
-<td><a href="mailto:lim_ruoh_wen@moe.edu.sg" target="">lim_ruoh_wen@moe.edu.sg</a></td>
+<td><a href="mailto:lim_gek_hia@moe.edu.sg" target="">lim_gek_hia@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 4.4</strong></td>
