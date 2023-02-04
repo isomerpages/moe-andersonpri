@@ -91,8 +91,8 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mr Edmund Liang<br /><br />P6 Level Executive Officer</td>
-<td><a href="mailto:liang_shiau_ping@moe.edu.sg" target="">liang_shiau_ping@moe.edu.sg</a><br /><br /></td>
+<td>Mr Edmund Liang<br />P6 Level Executive Officer</td>
+	<td><a href="mailto:liang_shiau_ping@moe.edu.sg" target="">liang_shiau_ping@moe.edu.sg</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
 <td>Ms Tan Soo Kheng</td>
