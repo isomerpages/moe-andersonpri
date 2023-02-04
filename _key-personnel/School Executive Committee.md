@@ -20,7 +20,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><img src="/images/Mr%20Leow%20Kor%20Ming.jpg" /></td>
+<td><img src="/images/Ms Jasmine Tan.jpg" /></td>
 <td><img style ="width: 78%;" src="/images/Mr%20Leow%20Kor%20Ming.jpg"  /></td>
 <td><img src="/images/Mrs%20Vimala%20Ratnaraja.jpg" /></td>
 </tr>
