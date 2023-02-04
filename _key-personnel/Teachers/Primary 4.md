@@ -33,8 +33,8 @@ third_nav_title: Teachers
 <td><a href="mailto:tay_shao_pin@moe.edu.sg" target="">tay_shao_pin@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>&nbsp;Ms Lio Jen Yun</td>
-<td><a href="mailto:lio_jen_yun@moe.edu.sg" target="">&nbsp;lio_jen_yun@moe.edu.sg</a></td>
+<td>Ms Nur Shamilah Abd Hamid</td>
+<td><a href="mailto:nur_shamilah_abdul_hamid@moe.edu.sg" target="">nur_shamilah_abdul_hamid@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 4.3</strong></td>
