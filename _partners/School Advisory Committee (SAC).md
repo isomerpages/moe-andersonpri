@@ -26,30 +26,22 @@ description: ""
 <td style="text-align: center;">Mr Siva <br>Govindasamy<br />Member</td>
 </tr>
 <tr>
+<td><img style="width: 90%;" src="/images/SAC/Dr%20Low%20Wing%20Li%20Gary.jpg" /></td>
+<td><img src="/images/SAC/Dr%20Marie.jpg" /></td>
+<td><img style="width: 83%;" src="/images/SAC/Dr%20Neo%20Peng%20Fu.jpg" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Dr Low Wing Li Gary<br />Member</td>
+<td style="text-align: center;">Dr Marie De Visse<br />Member</td>
+<td style="text-align: center;">Dr Neo Peng Fu<br />Member</td>
+</tr>
+<tr>
 <td><img style="width: 90%;" src="/images/SAC/Dr%20Teo%20Tang%20Wee.jpg" /></td>
 <td><img src="/images/9a%20Ken%20Wang.jpg" /></td>
 <td><img src="/images/Dr%20Teo%20Tang%20Wee%20.jpg" /></td>
-</tr>
-<tr>
-<td style="text-align: center;">Dr Marie De Visse<br />Member</td>
-<td style="text-align: center;">Dr Neo Peng Fu<br />Member</td>
-<td style="text-align: center;">Dr Pulickal Geoiphy George<br />Member</td>
-</tr>
-<tr>
-<td><img style="width: 83%;" src="/images/SAC/Dr%20Teo%20Tang%20Wee.jpg" /></td>
-<td><img src="/images/Dr%20Marie%20De%20Visser.jpg" /></td>
-<td><img src="/images/Dr%20Neo%20Peng%20Fu%20V21.jpg" /></td>
-</tr>
-<tr>
+</tr><td style="text-align: center;">Dr Pulickal Geoiphy George<br />Member</td>
 <td style="text-align: center;">Dr Teo Tang Wee<br />Member</td>
-<td style="text-align: center;">Dr Marie De Visser<br />Member</td>
-<td style="text-align: center;">Dr Neo Peng Fu<br />Member</td>
 </tr>
-<tr>
-<td><img style="width: 83%;" src="/images/Dr%20Geoiphy.jpg" /></td>
-</tr>
-<tr>
-<td style="text-align: center;">Dr Pulickal Geoiphy George<br />Member</td>
-</tr>
+
 </tbody>
 </table>
