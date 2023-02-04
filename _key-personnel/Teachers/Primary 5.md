@@ -54,12 +54,9 @@ third_nav_title: Teachers
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mr Anuar Adam</div>
-<div>
-<div>Senior Teacher (Art)</div>
-</div>
+<div>Mr Salim Fong</div>
 </td>
-<td><a href="mailto:anuar_adam@moe.edu.sg" target="">anuar_adam@moe.edu.sg</a></td>
+<td><a href="mailto:salim_fong@moe.edu.sg" target="">salim_fong@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 5.4</strong></td>
