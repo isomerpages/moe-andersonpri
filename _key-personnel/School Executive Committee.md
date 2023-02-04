@@ -53,8 +53,8 @@ description: ""
 </tr>
 <tr>
 <td><img src="/images/Mdm%20Sabariah%20Abdullah.jpg" /></td>
-<td><img src="/images/Mrs%20Sornamangai%20Mohan.jpg" /></td>
-<td><img src="/images/Ms%20Goh%20Ling%20Li.png" /></td>
+<td><img style ="width: 78%;" src="/images/Mdm%20Sabariah%20Abdullah.jpg" /></td>
+<td><img style ="width: 98%;" src="/images/Mrs%20Sornamangai%20Mohan.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mdm Sabariah Abdullah&nbsp;<br />Subject Head (Malay Language)&nbsp;<br /><a href="mailto:sabariah_abdullah@moe.edu.sg" target="">sabariah_abdullah@moe.edu.sg</a></td>
