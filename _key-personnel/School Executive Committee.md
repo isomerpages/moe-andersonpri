@@ -8,7 +8,7 @@ description: ""
 <tr>
 <td><img src="/images/Mdm%20Delia%20Hoo.jpg" /></td>
 <td><img style ="width: 78%;" src="/images/Mrs%20Jane%20Chng.jpg" /></td>
-<td><img style ="width: 98%;" src="/images/Mr Thomas Boh ii.jpg" /></td>
+<td><img style ="width: 85%;" src="/images/Mr Thomas Boh ii.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mdm Delia Hoo<br />Principal&nbsp;<br /><a href="mailto:Delia_Hoo@schools.gov.sg" target="">Delia_Hoo@schools.gov.sg</a></td>
@@ -22,7 +22,7 @@ description: ""
 <tr>
 <td><img src="/images/Ms Jasmine Tan.jpg" /></td>
 <td><img style ="width: 78%;" src="/images/Mr%20Leow%20Kor%20Ming.jpg"  /></td>
-<td><img style ="width: 98%;" src="/images/Mrs%20Vimala%20Ratnaraja.jpg" /></td>
+<td><img style ="width: 85%;" src="/images/Mrs%20Vimala%20Ratnaraja.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">
@@ -44,7 +44,7 @@ description: ""
 <tr>
 <td><img src="/images/Mdm%20Neo%20Hwee%20Hwee.jpg" /></td>
 <td><img style ="width: 78%;" src="/images/Ms%20Goh%20Ling%20Li.png" /></td>
-<td><img style ="width: 98%;" src="/images/Mr%20Eric%20Lee.jpg" /></td>
+<td><img style ="width: 85%;" src="/images/Mr%20Eric%20Lee.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mdm Neo Hwee Hwee&nbsp;<br />Year Head (Lower Primary)<br /><a href="mailto:neo_hwee_hwee@moe.edu.sg" target="">neo_hwee_hwee@moe.edu.sg</a></td>
