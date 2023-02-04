@@ -87,12 +87,12 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mr Ivan Ng<br />Level Head (Science)</td>
-<td><a href="mailto:ivan_ng_yong_leng@moe.edu.sg" target="">ivan_ng_yong_leng@moe.edu.sg</a><br /><br /></td>
+<td>Mr Soh Wei Xuan</td>
+<td><a href="mailto:soh_wei_xuan@moe.edu.sg" target="">soh_wei_xuan@moe.edu.sg</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mrs Maefrize Khoo</td>
-<td><a href="mailto:lim_meng_hui@moe.edu.sg" target="">lim_meng_hui@moe.edu.sg</a></td>
+<td>Mrs Jenevieve Seeh</td>
+<td><a href="mailto:jenevieve_seeh@moe.edu.sg" target="">jenevieve_seeh@moe.edu.sg</a></td>
 </tr>
 </tbody>
 </table>
