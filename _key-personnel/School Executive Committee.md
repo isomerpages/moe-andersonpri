@@ -67,7 +67,7 @@ description: ""
 </tr>
 <tr>
 <td><img src="/images/Mrs%20Sharon%20Yeo.jpg" /></td>
-<td><img src="/images/Mdm%20Er%20Siew%20Shin.jpg" /></td>
+<td><img style ="width: 78%;" src="/images/Mdm%20Er%20Siew%20Shin.jpg" /></td>
 <td><img src="/images/Mdm%20Er%20Siew%20Shin.jpg" /></td>
 </tr>
 <tr>
