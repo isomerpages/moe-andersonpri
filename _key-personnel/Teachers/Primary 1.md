@@ -68,10 +68,10 @@ third_nav_title: Teachers
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Ms Lim Swee Yee</div>
+<div>Mrs Janet Saw</div>
 </td>
 <td>
-<div><a target="" href="mailto:lim_swee_yee_a@moe.edu.sg">lim_swee_yee_a@moe.edu.sg</a></div>
+<div><a target="" href="mailto:tan_lay_tin@moe.edu.sg">tan_lay_tin@moe.edu.sg</a></div>
 </td>
 </tr>
 <tr style="text-align: center;">
