@@ -79,8 +79,8 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Ms Tan Yin Jia Erica</td>
-<td><a href="mailto:tan_yin_jia_erica@moe.edu.sg" target="">tan_yin_jia_erica@moe.edu.sg</a></td>
+<td>Mrs Haslinda Azhar<br>Lead Teacher (English Language)</td>
+<td><a href="mailto:haslinda_hashim@moe.edu.sg" target="">haslinda_hashim@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>Mrs Vimaladevi Steven<br />Senior Teacher (Tamil Language)</td>
