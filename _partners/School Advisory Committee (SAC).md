@@ -7,13 +7,13 @@ description: ""
 <tbody>
 <tr>
 <td><img style="width: 90%;" src="/images/SAC/Mr%20Lim%20Chiow%20Giap%20Chairman.jpg" /></td>
-<td><img src="/images/2a%20Ms%20Amina%20Hu.jpg" /></td>
-<td><img src="/images/8b%20Ms%20Lorina%20Law.jpg" /></td>
+<td><img src="/images/SAC/Mdm%20Hoo%20Honorary%20Secretary.jpg" /></td>
+<td><img style="width: 200%;"  src="/images/SAC/Mr%20Tan%20Kian%20Shen%20Aison.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mr Lim Chiow Giap<br />Chairman</td>
-<td style="text-align: center;">Ms Amina Hu<br />Vice Chairman</td>
-<td style="text-align: center;">Ms Lorina Law<br />Treasurer</td>
+<td style="text-align: center;">Mdm Delia Hoo<br /> Honorary Secretary</td>
+<td style="text-align: center;">Mr Aison Tan<br />Member</td>
 </tr>
 <tr>
 <td><img style="width: 83%;" src="/images/Mdm%20Delia%20Hoo.jpg" /></td>
