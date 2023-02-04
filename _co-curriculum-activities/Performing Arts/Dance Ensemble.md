@@ -18,13 +18,13 @@ third_nav_title: Performing Arts
 <td style="text-align: center;" width="76">Thursday</td>
 <td style="text-align: center;" width="68">P2</td>
 <td style="text-align: center;" width="139">1.30 pm to 3.30 pm</td>
-<td style="text-align: center;" width="156">PAL Room 1 and 2</td>
+<td style="text-align: center;" width="156">Dance Studio</td>
 </tr>
 <tr>
 <td style="text-align: center;" width="76">Friday</td>
 <td style="text-align: center;" width="68">P3 - P6</td>
 <td style="text-align: center;" width="139">1.30 pm to 3.30 pm</td>
-<td style="text-align: center;" width="156">PAL Room 1 and 2/ Dance Studio</td>
+<td style="text-align: center;" width="156">PAL Room 1 and 2</td>
 </tr>
 </tbody>
 </table>
@@ -33,6 +33,5 @@ third_nav_title: Performing Arts
 <li>Miss Serena Goh (Overall Teacher-in-charge)</li>
 <li>Mrs Rachael Goh (Overall Teacher-in-charge)</li>
 <li>Mdm Xia Shanna</li>
-<li>Ms Low Li Lin</li>
-<li>Ms Aretha Cheong</li>
+<li>Mdm Linda Tiang</li>
 </ul>
