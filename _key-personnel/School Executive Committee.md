@@ -63,7 +63,7 @@ description: ""
 <div>Subject Head (Tamil Language)</div>
 <div><a href="mailto:sornamangai_arumugam@moe.edu.sg" target="">sornamangai_arumugam@moe.edu.sg</a></div>
 </td>
-<td style="text-align: center;">Mdm Goh Ling Li<br />&nbsp;HOD (English Language)&nbsp;<br /><a href="mailto:goh_ling_li@moe.edu.sg" target="">goh_ling_li@moe.edu.sg</a></td>
+<td style="text-align: center;">Mrs Sornamangai Mohan<br />Subject Head (Tamil Language)<br /><a href="mailto:sornamangai_arumugam@moe.edu.sg" target="">sornamangai_arumugam@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td><img src="/images/mdmjanhu.jpg" /></td>
