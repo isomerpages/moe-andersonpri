@@ -16,12 +16,10 @@ description: ""
 <td style="text-align: center;">Miss Agnes Chang Tze Hsien<br />Senior AED (LBS)<br /><a href="mailto:Chang_tze_hsien_agnes@moe.edu.sg" target="">Chang_tze_hsien_agnes@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td><img src="/images/Mrs%20Jeanette%20Liang.jpg" /></td>
-<td><img style="width: 98%;" src="/images/Mr%20Tye%20Kim%20Hoe.jpg" /></td>
+<td><img src="/images/Mr%20Tye%20Kim%20Hoe.jpg" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mrs Jeanette Liang<br />Senior AED (T&amp;L)<br /><a href="mailto:jeanette_kweh@moe.edu.sg" target="">jeanette_kweh@moe.edu.sg</a></td>
-<td style="text-align: center;">Mr. Tye Kim Hoe<br />School Counsellor (PTSC)</td>
+<td style="text-align: center;">Mr. Tye Kim Hoe<br />School Counsellor (PTSC)<br /></td>
 </tr>
 </tbody>
 </table>
