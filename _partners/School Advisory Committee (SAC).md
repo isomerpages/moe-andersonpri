@@ -6,8 +6,8 @@ description: ""
 <table cellspacing="1" cellpadding="1">
 <tbody>
 <tr>
-<td><img style="width: 90%;" src="/images/SAC/Mr%20Lim%20Chiow%20Giap%20Chairman.jpg" /></td>
-<td><img style="width: 50%;" src="/images/SAC/Mdm%20Hoo%20Honorary%20Secretary.jpg" /></td>
+<td><img style="width: 85%;" src="/images/SAC/Mr%20Lim%20Chiow%20Giap%20Chairman.jpg" /></td>
+<td><img style="width: 95%;" src="/images/SAC/Mdm%20Hoo%20Honorary%20Secretary.jpg" /></td>
 <td><img style="width: 600%;" src="/images/SAC/Mr%20Tan%20Kian%20Shen%20Aison.jpg" /></td>
 </tr>
 <tr>
@@ -17,13 +17,13 @@ description: ""
 </tr>
 <tr>
 <td><img style="width: 90%;" src="/images/15b%20Lau%20Yan%20Hong.jpg" /></td>
-<td><img style="width: 90%;" src="/images/Mr%20Ken%20Wang.jpg" /></td>
-<td><img src="/images/14a%20Aison%20Tan.jpg" /></td>
+<td><img style="width: 100%;" src="/images/SAC/Mr%20Ken%20Wang.jpg" /></td>
+<td><img style="width: 83%;" src="/images/SAC/Mr%20Siva%20Govindasamy.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mr Dicky Lau<br />Member</td>
-<td style="text-align: center;">Mr Dicky Lau<br />Member</td>
-<td style="text-align: center;">Mr Aison Tan<br />Member</td>
+<td style="text-align: center;">Mr Ken Wang<br />Member</td>
+<td style="text-align: center;">Mr Siva <br>Govindasamy<br />Member</td>
 </tr>
 <tr>
 <td><img style="width: 83%;" src="/images/12a%20Wee%20Kiat%20Cheng.jpg" /></td>
