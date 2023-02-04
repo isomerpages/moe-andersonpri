@@ -59,8 +59,8 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Mdm Aatiyah Tan</td>
-<td width="50%"><a href="mailto:tan_xiao_shi@moe.edu.sg" target="">tan_xiao_shi@moe.edu.sg</a></td>
+<td width="50%">Ms Stephanie Lim</td>
+<td width="50%"><a href="mailto:lim_ruoh_wen@moe.edu.sg" target="">lim_ruoh_wen@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>&nbsp;Mdm Esther Chuah</td>
