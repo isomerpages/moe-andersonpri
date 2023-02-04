@@ -4,6 +4,5 @@ permalink: /about/school-history/20th-anniversary/
 description: ""
 third_nav_title: School History
 ---
-<p><a href="/files/Anderson%20Primary%20School%20e-Newsletter%202020.pdf">Anderson Primary School e-Newsletter 2020.pdf</a></p>
-
-<img style="width: 45%;" src="/images/2023%20Images/Principal's%20Message%20for%202023.jpg" align = "left" />
+<img style="width: %;" src="/images/2023%20Images/Encompass 20th Anniversary.jpg" align = "centre" />
+ <center><a href="https://go.gov.sg/andpsencompass2020">ENCOMPASS Magazine -20th Anniversary Issue </a></p> </center>
