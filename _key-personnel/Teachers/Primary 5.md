@@ -83,8 +83,8 @@ third_nav_title: Teachers
 <td><a href="mailto:haslinda_hashim@moe.edu.sg" target="">haslinda_hashim@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mrs Vimaladevi Steven<br />Senior Teacher (Tamil Language)</td>
-<td><a href="mailto:v_vimaladevi@moe.edu.sg" target="">v_vimaladevi@moe.edu.sg</a></td>
+<td>Mr Ben Choo Chee Keong<br />Subject Head (CCA & Data Management)</td>
+<td><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg&nbsp;</a><br /><br /></td>
 </tr>
 
 <tr style="text-align: center;">
