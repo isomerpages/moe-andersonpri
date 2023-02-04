@@ -76,13 +76,13 @@ description: ""
 <td style="text-align: center;">Mr Ivan Ng<br />Level Head (Science)<br /><a href="mailto:ivan_ng_yong_leng@moe.edu.sg" target="">ivan_ng_yong_leng@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td><img src="/images/Mr%20Ivan%20Ng.jpg" /></td>
+<td><img src="/images/Mdm%20Suzanah%20Saparwan.jpg" /></td>
 <td><img src="/images/Mdm%20Suzanah%20Saparwan.jpg" /></td>
 <td><img src="/images/Mrs%20Fion%20Ho.png" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">
-<div>Mr Ivan Ng&nbsp;<br />Level Head (Science)&nbsp;<br /><a href="mailto:ivan_ng_yong_leng@moe.edu.sg" target="">ivan_ng_yong_leng@moe.edu.sg</a></div>
+<div>Mdm Suzanah Saparwan<br />>HOD (Information &amp; Communication Technology)<br /><a href="mailto:suzanah_saparwan@moe.edu.sg" target="">suzanah_saparwan@moe.edu.sg</a></div>
 </td>
 <td style="text-align: center;">Mdm Suzanah Saparwan&nbsp;<br />HOD (Information &amp; Communication Technology)&nbsp;<br /><a href="mailto:suzanah_saparwan@moe.edu.sg" target="">suzanah_saparwan@moe.edu.sg</a></td>
 <td style="text-align: center;">Mrs Fion Ho&nbsp;<br />HOD (Character &amp; Citizenship Education)&nbsp;<br /><a href="mailto:lim_ser_yee@moe.edu.sg" target="">lim_ser_yee@moe.edu.sg</a></td>
