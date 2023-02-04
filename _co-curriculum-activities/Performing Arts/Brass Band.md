@@ -17,23 +17,18 @@ third_nav_title: Performing Arts
 <td style="text-align: center;" width="139"><strong>Time</strong></td>
 <td style="text-align: center;" width="156"><strong>Venue</strong></td>
 </tr>
-<tr>
-<td style="text-align: center;" width="76">Tuesday</td>
-<td style="text-align: center;" width="68">Percussion<br />P3 - P6</td>
-<td style="text-align: center;" width="139">1.30 pm to 3.30 pm</td>
-<td style="text-align: center;" width="156">Band Room</td>
-</tr>
+
 <tr>
 <td style="text-align: center;" width="76">Thursday</td>
-<td style="text-align: center;" width="68">Percussion<br />P2 - P6</td>
-<td style="text-align: center;" width="139">1.30 pm to 3.30 pm</td>
-<td style="text-align: center;" width="156">Band Room/<br />Aesthetics Room 1/<br />Health &amp; Fitness Room</td>
+<td style="text-align: center;" width="68">P2 - P6</td>
+<td style="text-align: center;" width="139">1.45 pm to 3.45 pm</td>
+<td style="text-align: center;" width="156">Band Room/<br />Aesthetics Room 1<br/>DAS Rooms/<br /></td>
 </tr>
 <tr>
 <td style="text-align: center;" width="76">Friday</td>
 <td style="text-align: center;" width="68">P3 - P6</td>
-<td style="text-align: center;" width="139">1.30 pm to 3.30 pm</td>
-<td style="text-align: center;" width="156">Band Room/<br />Aesthetics Room 1/<br />Health &amp; Fitness Room</td>
+<td style="text-align: center;" width="139">1.45 pm to 3.45 pm</td>
+<td style="text-align: center;" width="156">Band Room/<br />Aesthetics Room 1/<br />DAS Rooms</td>
 </tr>
 </tbody>
 </table>
