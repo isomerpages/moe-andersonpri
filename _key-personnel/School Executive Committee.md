@@ -44,7 +44,7 @@ description: ""
 <tr>
 <td><img src="/images/Mdm%20Neo%20Hwee%20Hwee.jpg" /></td>
 <td><img style ="width: 78%;" src="/images/Ms%20Goh%20Ling%20Li.png" /></td>
-<td><img src="/images/Mr%20Eric%20Lee.jpg" /></td>
+<td><img style ="width: 98%;" src="/images/Mr%20Eric%20Lee.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mdm Neo Hwee Hwee&nbsp;<br />Year Head (Lower Primary)<br /><a href="mailto:neo_hwee_hwee@moe.edu.sg" target="">neo_hwee_hwee@moe.edu.sg</a></td>
