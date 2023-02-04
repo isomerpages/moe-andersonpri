@@ -37,7 +37,7 @@ description: ""
 </tr>
 <tr>
 <td><img style="width: 90%;" src="/images/SAC/Dr%20Teo%20Tang%20Wee.jpg" /></td>
-<td><img src="/images/9a%20Ken%20Wang.jpg" /></td>
+<td><img src="/images/SAC/Dr%20Teo%20Tang%20Wee.jpg" /></td>
 <td><img src="/images/Dr%20Teo%20Tang%20Wee%20.jpg" /></td>
 </tr><td style="text-align: center;">Dr Pulickal Geoiphy George<br />Member</td>
 <td style="text-align: center;">Dr Teo Tang Wee<br />Member</td>
