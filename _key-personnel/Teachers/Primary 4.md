@@ -78,7 +78,7 @@ third_nav_title: Teachers
 </tr>
 <tr style="text-align: center;">
 <td>Ms Jan Hu Wen Ying<br>HOD (PE CCA & Aesthetics)</td>
-<td><a href="mailto:tan_li_ling_linda@moe.edu.sg" target="">tan_li_ling_linda@moe.edu.sg</a></td>
+<td><a href="mailto:jan_hu_wen_ying@moe.edu.sg" target="">jan_hu_wen_ying@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 4.6</strong></td>
