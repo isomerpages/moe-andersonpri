@@ -57,7 +57,7 @@ description: ""
 <td><img style ="width: 85%;" src="/images/Mrs%20Sornamangai%20Mohan.jpg" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mdm Sabariah Abdullah&nbsp;<br />Subject Head (Malay Language)&nbsp;<br /><a href="mailto:sabariah_abdullah@moe.edu.sg" target="">sabariah_abdullah@moe.edu.sg</a></td>
+<td style="text-align: center;">Mdm Cheong Mei Yuan<br />Level Head (Chinese Language)&nbsp;<br /><a href="mailto:cheong_mei_yuan@moe.edu.sg" target="">cheong_mei_yuan@moe.edu.sg</a></td>
 <td style="text-align: center;">
 <div>Mrs Sornamangai Mohan</div>
 <div>Subject Head (Tamil Language)</div>
