@@ -106,5 +106,3 @@ description: ""
 	
 	
 	
-</tbody>
-</table>
