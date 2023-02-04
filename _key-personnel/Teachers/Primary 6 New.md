@@ -80,8 +80,8 @@ third_nav_title: Teachers
 <td><a href="mailto:cheong_mei_yuan@moe.edu.sg" target="">cheong_mei_yuan@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mr Ben Choo Chee Keong<br />Subject Head (CCA &amp; Data Management)</td>
-<td><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg</a></td>
+<td>Mdm Sarabjeet Kaur<br />Senior Teacher (Science)</td>
+<td><a href="mailto:kaur_sarabjeet@moe.edu.sg" target="">kaur_sarabjeet@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>&nbsp;Ms Wong Jing Yi</td>
