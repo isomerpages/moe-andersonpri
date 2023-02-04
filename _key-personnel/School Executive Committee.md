@@ -97,8 +97,7 @@ description: ""
 <td style="text-align: center;">Ms Jan Hu Wen Ying;<br />HOD (PE & CCA)<br /><a href="mailto:jan_hu_wen_ying@moe.edu.sg" target="">jan_hu_wen_ying@moe.edu.sg</a></td>
 </tr>
 	
-	
-	<tr>
+
 <td><img src="/images/Mr%20Ben%20Choo.jpg" /></td>
 
 </tr>
