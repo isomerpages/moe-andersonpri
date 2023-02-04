@@ -77,8 +77,8 @@ description: ""
 </tr>
 <tr>
 <td><img style ="width: 150%;" src="/images/Mdm%20Suzanah%20Saparwan.jpg" /></td>
-<td><img src="/images/Mdm%20Suzanah%20Saparwan.jpg" /></td>
-<td><img src="/images/Mrs%20Fion%20Ho.png" /></td>
+<td><img style ="width: 78%;" src="/images/Mdm%20Sheena%20Toh.jpg" /></td>
+<td><img style ="width: 85%;" src="/images/Mrs%20Fion%20Ho.png" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">
