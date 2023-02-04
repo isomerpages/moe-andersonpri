@@ -13,12 +13,12 @@ sections:
         - title: Digital Showcase
           description: 20th Anniversary Art Exhibition
           url: https://o2.samwize.com/anderson-digital-exhibition/
-        - title: Quick Links
-          description: For Parents
-          url: /connect/quick-links
         - title: Calendar
           description: School's Google Calendar
           url: /connect/quick-links/school-calendar
+        - title: Quick Links
+          description: For Parents
+          url: /connect/quick-links
   - resources:
       title: Announcements
       button: More announcements
