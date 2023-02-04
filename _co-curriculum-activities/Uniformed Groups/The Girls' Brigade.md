@@ -21,12 +21,12 @@ third_nav_title: Uniformed Groups
 <td style="text-align: center;" width="76">Friday</td>
 <td style="text-align: center;" width="68">P3 - P6</td>
 <td style="text-align: center;" width="139">1.30 pm to 3.30 pm</td>
-<td style="text-align: center;" width="156">Outside Art Room/ 5.5 Classroom</td>
+<td style="text-align: center;" width="156">Library Stage/ Classroom<br> Courtyard outside Art Rooms</td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
 <li>Mrs Vimaladevi Steven (Overall Teacher-in-charge)</li>
-<li>Miss Lio Jen Yun</li>
+<li>Ms Loke Mei Yen</li>
 </ul>
