@@ -83,13 +83,10 @@ third_nav_title: Teachers
 <td><a href="mailto:tan_yin_jia_erica@moe.edu.sg" target="">tan_yin_jia_erica@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mr Ben Choo Chee Keong<br />Subject Head (CCA &amp; Data Management)</td>
-<td><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg</a></td>
+<td>Mrs Vimaladevi Steven<br />Senior Teacher (Tamil Language)</td>
+<td><a href="mailto:v_vimaladevi@moe.edu.sg" target="">v_vimaladevi@moe.edu.sg</a></td>
 </tr>
-<tr style="text-align: center;">
-<td>&nbsp;Ms Wong Jing Yi</td>
-<td>&nbsp;<a href="mailto:wong_jing_yi@moe.edu.sg" target="">wong_jing_yi@moe.edu.sg</a></td>
-</tr>
+
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 5.6</strong></td>
 </tr>
@@ -97,12 +94,12 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mr Edmund Liang<br />&nbsp;Assistant Year Head&nbsp;</td>
-<td><a href="mailto:liang_shiau_ping@moe.edu.sg" target="">liang_shiau_ping@moe.edu.sg</a><br /><br /></td>
+<td>Ms Tan Yin Jia Erica</td>
+<td><a href="mailto:tan_yin_jia_erica@moe.edu.sg" target="">tan_yin_jia_erica@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>Ms Tan Soo Kheng</td>
-<td><a href="mailto:tan_soo_kheng@moe.edu.sg" target="">tan_soo_kheng@moe.edu.sg</a></td>
+<td>Mrs Vimaladevi Steven<br />Senior Teacher (Tamil Language)</td>
+<td><a href="mailto:v_vimaladevi@moe.edu.sg" target="">v_vimaladevi@moe.edu.sg</a></td>
 </tr>
 </tbody>
 </table>
