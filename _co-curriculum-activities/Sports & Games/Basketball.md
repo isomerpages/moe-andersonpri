@@ -33,5 +33,5 @@ third_nav_title: Sports & Games
 <li>Mdm Jumiati Mohd Sidek (Overall Teacher-in-charge)</li>
 <li>Mdm Cheong Hwee Hua</li>
 <li>Mr Peter Toh</li>
-<li>Ms Chan Si Zhen</li>
+<li>Mr Ramesh</li>
 </ul>
