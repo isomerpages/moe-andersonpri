@@ -37,8 +37,8 @@ third_nav_title: Teachers
 <td style="text-align: center;"><a href="mailto:yu_dan_yun@moe.edu.sg" target="">yu_dan_yun@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mrs Rebecca Chan</td>
-<td style="text-align: center;"><a href="mailto:poh_pei_yun_rebecca@moe.edu.sg" target="">poh_pei_yun_rebecca@moe.edu.sg</a></td>
+<td style="text-align: center;"> Ms Cindy Leong Wah Jin</td>
+<td style="text-align: center;"><a href="mailto:leong_wah_jin@moe.edu.sg" target=""> leong_wah_jin@moe.edu.sg</a></td>
 </tr>
 </tbody>
 </table>
