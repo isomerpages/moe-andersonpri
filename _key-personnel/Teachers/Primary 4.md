@@ -43,8 +43,8 @@ third_nav_title: Teachers
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Ms Inoue Ikuyo</td>
-<td><a href="mailto:inoue_ikuyo@moe.edu.sg" target="">inoue_ikuyo@moe.edu.sg</a></td>
+<td>Mr Ramesh Sivakadacham<br>Subject Head (Student Management)</td>
+<td><a href="mailto:ramesh_sivakadacham@moe.edu.sg" target="">ramesh_sivakadacham@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
