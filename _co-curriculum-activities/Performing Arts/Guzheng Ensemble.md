@@ -14,23 +14,18 @@ third_nav_title: Performing Arts
 <td style="text-align: center;" width="139"><strong>Time</strong></td>
 <td style="text-align: center;" width="156"><strong>Venue</strong></td>
 </tr>
-<tr>
-<td style="text-align: center;" width="76">Thursday</td>
-<td style="text-align: center;" width="68">P2</td>
-<td style="text-align: center;" width="139">1.30 pm to 3.30 pm</td>
-<td style="text-align: center;" width="156">Aesthetics Rm 3</td>
-</tr>
+
 <tr>
 <td style="text-align: center;" width="76">Friday</td>
 <td style="text-align: center;" width="68">P3 - P6</td>
-<td style="text-align: center;" width="139">1.30 pm to 3.30 pm</td>
+<td style="text-align: center;" width="139">1.30 pm to 4.30 pm</td>
 <td style="text-align: center;" width="156">Aesthetics Rm 3</td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
-<li>Mr Chong Wee Tit (Overall Teacher-in-charge)</li>
-<li>Ms Fiona Tan</li>
+<li>Ms Fiona Tan (Overall Teacher-in-charge)</li>
+<li>Mrs Angeline Poh</li>
 <li>Ms Tan Soo Kheng</li>
 </ul>
