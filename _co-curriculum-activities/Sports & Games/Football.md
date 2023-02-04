@@ -9,28 +9,23 @@ third_nav_title: Sports & Games
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" width="76"><strong>Day</strong></td>
-<td style="text-align: center;" width="68"><strong>Level</strong></td>
-<td style="text-align: center;" width="139"><strong>Time</strong></td>
-<td style="text-align: center;" width="156"><strong>Venue</strong></td>
+<td style="text-align: center;" width="240"><strong>Day</strong></td>
+<td style="text-align: center;" width="270"><strong>Time</strong></td>
+<td style="text-align: center;" width="270"><strong>Venue</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;" width="76">Thursday</td>
-<td style="text-align: center;" width="68">Boys</td>
-<td style="text-align: center;" width="139">3.30 pm to 5.30 pm</td>
+<td style="text-align: center;" width="76">Thursday & Friday</td>
+<td style="text-align: center;" width="139">2.30 pm to 5.00 pm</td>
 <td style="text-align: center;" width="156">Field</td>
 </tr>
-<tr>
-<td style="text-align: center;" width="76">Friday</td>
-<td style="text-align: center;" width="68">Boys</td>
-<td style="text-align: center;" width="139">3.30 pm to 5.30 pm</td>
-<td style="text-align: center;" width="156">Field</td>
+
 </tr>
 </tbody>
 </table>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
 <li>Mr Ferdinand Ma (Overall Teacher-in-charge)</li>
-<li>Mr Muhd Hafeez Hassan</li>
 <li>Miss Divyashree</li>
+<li>Mr Edmund Liang</li>
+<li>Mdm Siti Suraidah</li>
 </ul>
