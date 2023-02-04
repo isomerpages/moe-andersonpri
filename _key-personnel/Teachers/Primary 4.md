@@ -77,7 +77,7 @@ third_nav_title: Teachers
 <td><a href="mailto:teo_puay_leng@moe.edu.sg" target="">teo_puay_leng@moe.edu.sg</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mdm Tan Li Ling Linda</td>
+<td>Ms Jan Hu Wen Ying<br>HOD (PE CCA & Aesthetics)</td>
 <td><a href="mailto:tan_li_ling_linda@moe.edu.sg" target="">tan_li_ling_linda@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
