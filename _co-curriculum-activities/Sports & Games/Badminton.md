@@ -30,7 +30,7 @@ third_nav_title: Sports & Games
 </table>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
-<li>Mr Deng Li Qiang (Overall Teacher-in-charge)</li>
+<li>Mrs Serene Soh (Overall Teacher-in-charge)</li>
+<li>Mr Deng Li Qiang</li>
 <li>Mdm Rachel Cheng</li>
-<li>Ms Wong Jingyi</li>
 </ul>
