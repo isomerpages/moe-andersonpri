@@ -29,8 +29,8 @@ third_nav_title: Teachers
 <td style="text-align: center;"><a href="mailto:yeo_sharon@moe.edu.sg" target="">yeo_sharon@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Dr Tan Lee Siang</td>
-<td style="text-align: center;"><a href="mailto:tan_lee_siang@moe.edu.sg" target="">tan_lee_siang@moe.edu.sg</a></td>
+<td style="text-align: center;">Mdm Wong Mei Ting<br>Senior Teacher (Chinese Language)</td>
+<td style="text-align: center;"><a href="mailto:wong_mei_ting@moe.edu.sg" target=""> wong_mei_ting@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">Ms Yu Dan Yun</td>
