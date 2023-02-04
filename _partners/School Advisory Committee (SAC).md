@@ -6,7 +6,7 @@ description: ""
 <table cellspacing="1" cellpadding="1">
 <tbody>
 <tr>
-<td><img style="width: 83%;" src="/images/7a%20Mr%20Lim%20Chiow%20Giap.jpg" /></td>
+<td><img style="width: 90%;" src="/images/SAC/Mr%20Lim%20Chiow%20Giap%20Chairman.jpg" /></td>
 <td><img src="/images/2a%20Ms%20Amina%20Hu.jpg" /></td>
 <td><img src="/images/8b%20Ms%20Lorina%20Law.jpg" /></td>
 </tr>
