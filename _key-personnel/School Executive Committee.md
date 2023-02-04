@@ -52,7 +52,7 @@ description: ""
 <td style="text-align: center;">Mr Eric Lee&nbsp;<br />HOD (Mother Tongue Language)<br /><a href="mailto:lee_seh_lat@moe.edu.sg" target="">lee_seh_lat@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td><img src="/images/Mdm%20Sabariah%20Abdullah.jpg" /></td>
+<td><img src="/images/Cheong Mei Yuan.jpg" /></td>
 <td><img style ="width: 78%;" src="/images/Mdm%20Sabariah%20Abdullah.jpg" /></td>
 <td><img style ="width: 85%;" src="/images/Mrs%20Sornamangai%20Mohan.jpg" /></td>
 </tr>
