@@ -9,7 +9,7 @@ description: ""
     <label for="accordion1">January</label>
     <div>
 <ul>
-<li><a href="/sites/resourceRoom/announcements/resourceCategory/pdfs/editPageSettings/2023-01-01-file-2023%20Sch%20Reopening%20Letter%20(P1%20Parents).md" target="_blank" rel="noopener">2023 Sch Reopening Letter to P1 Parents</a></li>
+<li><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" target="_blank" rel="noopener">2023 Sch Reopening Letter to P1 Parents</a></li>
 <li><a href="/files/2022%20CNY%20LETTER%20TO%20PARENTS.pdf" target="_blank" rel="noopener">2022 Chinese New Year Celebrations</a></li>
 <li><a href="/curriculum/departments/character-n-citizenship-education/sexuality-education" target="">Sexuality Education Programme</a></li>
 <li><a href="/files/Consent%20for%20Use%20of%20Photography%20and%20Video-recording%202022.pdf" target="_blank" rel="noopener">Consent for Use of Photography and Video Recording</a></li>
