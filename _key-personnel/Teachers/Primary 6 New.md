@@ -37,7 +37,7 @@ third_nav_title: Teachers
 <td><a href="mailto:lee_seh_lat@moe.edu.sg" target="">lee_seh_lat@moe.edu.sg</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 5.3</strong></td>
+<td colspan="2" height="41"><strong>Class 6.3</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
@@ -56,7 +56,7 @@ third_nav_title: Teachers
 <td><a href="mailto:anuar_adam@moe.edu.sg" target="">anuar_adam@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 5.4</strong></td>
+<td colspan="2" height="41"><strong>Class 6.4</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
@@ -70,7 +70,7 @@ third_nav_title: Teachers
 <td>&nbsp;<a href="mailto:sornamangai_arumugam@moe.edu.sg" target="">sornamangai_arumugam@moe.edu.sg&nbsp;</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 5.5</strong></td>
+<td colspan="2" height="41"><strong>Class 6.5</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
@@ -83,12 +83,9 @@ third_nav_title: Teachers
 <td>Mdm Sarabjeet Kaur<br />Senior Teacher (Science)</td>
 <td><a href="mailto:kaur_sarabjeet@moe.edu.sg" target="">kaur_sarabjeet@moe.edu.sg</a></td>
 </tr>
+
 <tr style="text-align: center;">
-<td>&nbsp;Ms Wong Jing Yi</td>
-<td>&nbsp;<a href="mailto:wong_jing_yi@moe.edu.sg" target="">wong_jing_yi@moe.edu.sg</a></td>
-</tr>
-<tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 5.6</strong></td>
+<td colspan="2" height="41"><strong>Class 6.6</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="25"><strong>Form Teachers</strong></td>
