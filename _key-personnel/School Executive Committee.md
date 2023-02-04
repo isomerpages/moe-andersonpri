@@ -16,7 +16,7 @@ description: ""
 <td style="text-align: center;">
 <div> Mr Thomas Boh</div>
 <div>Vice-Principal (Academic)</div>
-<div><a href="mailto:Low_Kah_Shen@schools.gov.sg" target="">Low_Kah_Shen@schools.gov.sg</a></div>
+<div><a href="mailto:Boh_Chek_Keow@schools.gov.sg" target="">Boh_Chek_Keow@schools.gov.sg</a></div>
 </td>
 </tr>
 <tr>
