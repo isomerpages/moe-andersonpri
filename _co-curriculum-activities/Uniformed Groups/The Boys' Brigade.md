@@ -4,7 +4,6 @@ permalink: /curriculum/co-curriculum-activities-cca/uniformed-groups/the-boys-br
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 <p>The 22J Boys&rsquo; Brigade (BB) Company started in Anderson Primary School in 2020. It offers a unique opportunity for boys to experience a programme designed for holistic development outside a classroom environment &ndash; with a strong emphasis on discipline and character development. It is also service oriented, grooming them to serve their families, our school and the community.</p>
 <p>These are the 5 reasons why BB is the CCA of choice for boys:</p>
 <ol>
@@ -30,7 +29,7 @@ third_nav_title: Uniformed Groups
 <td style="text-align: center;" width="76">Friday</td>
 <td style="text-align: center;" width="68">P3 - P6</td>
 <td style="text-align: center;" width="139">1.30 pm to 3.30 pm</td>
-<td style="text-align: center;" width="156">Outside Art Room/<br />5.6 Classroom</td>
+<td style="text-align: center;" width="156">Library Loft/<br />Courtyard outside Art Rooms</td>
 </tr>
 </tbody>
 </table>
