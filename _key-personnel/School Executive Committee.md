@@ -48,7 +48,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Mdm Neo Hwee Hwee&nbsp;<br />Year Head (Lower Primary)<br /><a href="mailto:neo_hwee_hwee@moe.edu.sg" target="">neo_hwee_hwee@moe.edu.sg</a></td>
-<td style="text-align: center;">Mr Edmund Liang<br />Assistant Year Head<br />(P4 &amp; P5)<br /><a href="mailto:liang_shiau_ping@moe.edu.sg" target="">liang_shiau_ping@moe.edu.sg</a></td>
+<td style="text-align: center;">Mdm Goh Ling Li<br />HOD (English Language<br /><a href="mailto:goh_ling_li@moe.edu.sg" target="">goh_ling_li@moe.edu.sg</a></td>
 <td style="text-align: center;">Mr Eric Lee&nbsp;<br />HOD (Mother Tongue Language)<br /><a href="mailto:lee_seh_lat@moe.edu.sg" target="">lee_seh_lat@moe.edu.sg</a></td>
 </tr>
 <tr>
