@@ -37,7 +37,7 @@ description: ""
 </td>
 <td style="text-align: center;">
 <div>Mrs Vimala Ratnaraja&nbsp;</div>
-<div>Year Head (Middle Primary)&nbsp;</div>
+<div>Year Head (Upper Primary)&nbsp;</div>
 <div><a href="mailto:vimala_ratnaraja@moe.edu.sg" target="">vimala_ratnaraja@moe.edu.sg</a></div>
 </td>
 </tr>
