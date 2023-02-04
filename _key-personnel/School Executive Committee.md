@@ -3,7 +3,7 @@ title: School Executive Committee
 permalink: /key-personnel/school-executive-committee/
 description: ""
 ---
-<table cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td><img src="/images/Mdm%20Delia%20Hoo.jpg" /></td>
