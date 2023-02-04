@@ -7,8 +7,8 @@ description: ""
 <tbody>
 <tr>
 <td><img style="width: 90%;" src="/images/SAC/Mr%20Lim%20Chiow%20Giap%20Chairman.jpg" /></td>
-<td><img src="/images/SAC/Mdm%20Hoo%20Honorary%20Secretary.jpg" /></td>
-<td><img style="width: 600%;"  src="/images/SAC/Mr%20Tan%20Kian%20Shen%20Aison.jpg" /></td>
+<td><img style="width: 50%;" src="/images/SAC/Mdm%20Hoo%20Honorary%20Secretary.jpg" /></td>
+<td><img style="width: 600%;" src="/images/SAC/Mr%20Tan%20Kian%20Shen%20Aison.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mr Lim Chiow Giap<br />Chairman</td>
@@ -16,12 +16,12 @@ description: ""
 <td style="text-align: center;">Mr Aison Tan<br />Member</td>
 </tr>
 <tr>
-<td><img style="width: 83%;" src="/images/Mdm%20Delia%20Hoo.jpg" /></td>
-<td><img src="/images/15b%20Lau%20Yan%20Hong.jpg" /></td>
+<td><img style="width: 90%;" src="/images/15b%20Lau%20Yan%20Hong.jpg" /></td>
+<td><img style="width: 90%;" src="/images/Mr%20Ken%20Wang.jpg" /></td>
 <td><img src="/images/14a%20Aison%20Tan.jpg" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mdm Delia Hoo<br />Secretary</td>
+<td style="text-align: center;">Mr Dicky Lau<br />Member</td>
 <td style="text-align: center;">Mr Dicky Lau<br />Member</td>
 <td style="text-align: center;">Mr Aison Tan<br />Member</td>
 </tr>
