@@ -18,12 +18,9 @@ third_nav_title: Teachers
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mdm Wong Mei Ting</div>
-<div>
-<div>Senior Teacher (Chinese Language)</div>
-</div>
+<div>Mdm Sabariah Abdullah <br>Subject Head (Malay Language)</div>
 </td>
-<td><a href="mailto:wong_mei_ting@moe.edu.sg" target="">wong_mei_ting@moe.edu.sg</a></td>
+<td><a href="mailto:sabariah_abdullah@moe.edu.sg" target="">sabariah_abdullah@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" height="41"><strong>Class 5.2</strong></td>
