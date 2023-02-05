@@ -17,7 +17,7 @@ description: ""
 # **School Links**
 * [School e-Resource Repository (SERR)](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 * [APS SPYDUS (Online Library)](https://schoolibrary.moe.edu.sg/andersonpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
-* [Homework Policy](/files/Anderson%20Primary%20Homework%20Policy.pdf)
+* [Homework Policy](https://go.gov.sg/andpshwpolicy)
 * [School Calendar](https://calendar.google.com/calendar/u/0/r?cid=andersonprischool@gmail.com&pli=1)
 * [Student Accident Protection Scheme](/files/Product%20Fact%20Sheet%20(Dec2018).pdf)
 
