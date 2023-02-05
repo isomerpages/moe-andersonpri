@@ -34,7 +34,8 @@ third_nav_title: Science
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2014.png" />
 
 <p><strong>(ii) </strong><strong>Singapore Science Centre</strong><br>Learning journeys to the Singapore Science Centre are organised for students to deepen and extend their learning. Primary 4 students attended the Heat and Temperature workshops where they worked in groups to apply concepts on heat and temperature to tackle the design challenge of using materials to reduce heat gain. 
-	
+
+<img style="width: 65%;" src="/images/2023 Images/2023 Sci Dept Pic7.jpg" />
 	
 	
 	of&nbsp;animals they see based on their similarities and differences using common observable characteristics. This trail also broadens students&rsquo; knowledge of examples of animals in the different animal groups they have learnt under the Diversity theme.&nbsp;</p>
