@@ -8,7 +8,7 @@ third_nav_title: Resources for Parents
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1"><h4><strong>Assessment Matters</strong></h4></label>
 <div>
 <ul>
-<li><a href="/files/2022%20P6%20Class%20Tests.pdf" target="_blank" rel="noopener">2022 P6 Common Test</a></li>
+<li><a href="https://go.gov.sg/andps2023p6ta1" target="_blank" rel="noopener">2023 P6 Termly Assessment</a></li>
 </ul>
 </div>
 </li>
