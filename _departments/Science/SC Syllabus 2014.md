@@ -9,7 +9,7 @@ third_nav_title: Science
      style="width:35%">
 <p>Central to the Science curriculum framework is the inculcation of the spirit of scientific inquiry - to nurture students as inquirers who are curious about the things around them. The conduct of inquiry is founded on three integral domains of (a) Knowledge, Understanding and Application, (b) Skills and Processes and (c) Ethics and Attitudes. Inquiry is grounded in knowledge, issues and questions that relate to the roles played by science in daily life, society and the environment.</p>
 <p>We endeavour to nurture students who enjoy science and value science as an important tool in helping them explore their natural and physical world, are equipped with ethics and attitudes to engage in science-related issues as a reflective citizen, and be able to function and contribute to a dynamic and digital world.</p>
-<p><strong>Sequence of Topics for Year 2021</strong></p>
+<p><strong>Sequence of Topics for Year 2023</strong></p>
 <table width="0">
 <tbody>
 <tr>
