@@ -39,7 +39,7 @@ third_nav_title: Science
 	
 <p>Primary  5 students attended the 'Diversity of Cells' laboratory-based workshop to learn about the classification of living things as well as explore, observe adn identify cells through a microscope.</p>
 
-
+<img style="width: 65%;" src="/images/2023 Images/2023 Sci Dept Pic8.jpg" />
 
 
 
