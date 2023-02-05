@@ -7,11 +7,11 @@ third_nav_title: Teachers
 <table style="margin-left: auto; margin-right: auto;" border="0" width="100%" cellspacing="0">
 <tbody>
 <tr>
-<td style="text-align: center;" colspan="2" height="41"><strong>Class 3.1</strong></td>
+<td style="text-align: center;" colspan="2" style="text-align: center;" height="41"><strong>Class 3.1</strong></td>
 </tr>
 	
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 
 <tr style="text-align: center;">
@@ -27,11 +27,11 @@ third_nav_title: Teachers
 </tr>
 
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 3.2</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 3.2</strong></td>
 </tr>
 
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 
 <tr style="text-align: center;">
@@ -45,11 +45,11 @@ third_nav_title: Teachers
 </tr>
 
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 3.3</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 3.3</strong></td>
 </tr>
 	
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 	
 <tr style="text-align: center;">
@@ -65,11 +65,11 @@ third_nav_title: Teachers
 </tr>
 	
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 3.4</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 3.4</strong></td>
 </tr>
 	
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 	
 <tr style="text-align: center;">
@@ -83,11 +83,11 @@ third_nav_title: Teachers
 </tr>
 	
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 3.5</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 3.5</strong></td>
 </tr>
 	
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 	
 <tr style="text-align: center;">
@@ -104,11 +104,11 @@ HOD (Information & Communication Technology)</td>
 </tr>
 	
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 3.6</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 3.6</strong></td>
 </tr>
 	
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td>Ms Inoue Ikuyo</td>
