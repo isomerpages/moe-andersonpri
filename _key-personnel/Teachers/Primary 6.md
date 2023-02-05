@@ -10,7 +10,7 @@ third_nav_title: Teachers
 <td style="text-align: center;" colspan="2" height="41"><strong>Class 6.1</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td width="50%">Mr Peter Toh</td>
@@ -23,10 +23,10 @@ third_nav_title: Teachers
 <td><a href="mailto:sabariah_abdullah@moe.edu.sg" target="">sabariah_abdullah@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 6.2</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 6.2</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td width="50%">Ms Angela Lee<br />Subject Head (Citizenship &amp; Character Education)</td>
@@ -37,10 +37,10 @@ third_nav_title: Teachers
 <td><a href="mailto:lee_seh_lat@moe.edu.sg" target="">lee_seh_lat@moe.edu.sg</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 6.3</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 6.3</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td>Mdm Danielle Tan<br />Senior Teacher (Mathematics)</td>
@@ -56,10 +56,10 @@ third_nav_title: Teachers
 <td><a href="mailto:anuar_adam@moe.edu.sg" target="">anuar_adam@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 6.4</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 6.4</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td width="50%">Mdm Er Siew Shin<br />HOD (Science)</td>
@@ -70,10 +70,10 @@ third_nav_title: Teachers
 <td>&nbsp;<a href="mailto:sornamangai_arumugam@moe.edu.sg" target="">sornamangai_arumugam@moe.edu.sg&nbsp;</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 6.5</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 6.5</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td>Mdm Cheong Mei Yuan <br>Level Head (Chinese Language)</td>
@@ -85,10 +85,10 @@ third_nav_title: Teachers
 </tr>
 
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 6.6</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 6.6</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td>Mr Edmund Liang<br />P6 Level Executive Officer</td>
