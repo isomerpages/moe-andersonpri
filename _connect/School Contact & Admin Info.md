@@ -175,6 +175,8 @@ description: ""
 <table>
 <tbody>
 <tr>
+
+
 </td>
 </tr>
 <tr>
@@ -234,12 +236,11 @@ description: ""
 </tbody>
 </table>
 <h4><strong>School Uniform / PE Attire</strong></h4>
+<p><strong>Jeep Sing Fashion</strong></p>
 <table>
 <tbody>
 <tr>
-<td colspan="2">Jeep Sing Fashion</td>
-</tr>
-<td width="60px">
+<td width="150px">
 <div>Tel</div>
 </td>
 <td>
@@ -297,7 +298,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-
 <h4><strong>School Student Care (SSC)</strong></h4>
 <table>
 <tbody>
