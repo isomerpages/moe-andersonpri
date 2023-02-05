@@ -42,7 +42,7 @@ third_nav_title: Quick Links
 <p><strong>School Links</strong></p>
 <ul>
 <li><a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank" rel="noopener">School e-Resource Repository (SERR)</a></li>
-<li><a href="https://schoolibrary.spydus.com.sg/andersonpri" target="_blank" rel="noopener">APS SPYDUS (online library)</a></li>
+<li><a href="https://schoolibrary.moe.edu.sg/andersonpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank" rel="noopener">APS SPYDUS (online library)</a></li>
 <li><a href="/files/Anderson%20Primary%20Homework%20Policy.pdf" target="_blank" rel="noopener">Homework Policy</a></li>
 <li><a href="/connect-us/quick-links/school-calendar" target="">School Calendar</a></li>
 <li><a href="/files/Product%20Fact%20Sheet%20(Dec2018).pdf" target="_blank" rel="noopener">Student Accident Protection Scheme</a></li>
