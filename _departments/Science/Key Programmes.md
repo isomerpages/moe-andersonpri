@@ -60,6 +60,15 @@ third_nav_title: Science
 </tr>
 <tr>
 <td width="66">
+<p>P1</p>
+</td>
+<td width="234">
+<p>Eureka!</p>
+</td>
+<td width="204">
+	<p>ALP STEM Eureka!</p></td>
+<tr>
+<td width="66">
 <p>P2</p>
 </td>
 <td width="234">
@@ -91,7 +100,7 @@ third_nav_title: Science
 <p>Science</p>
 </td>
 </tr>
-<tr>
+	<tr>
 <td width="66">
 <p>P4</p>
 </td>
@@ -99,9 +108,7 @@ third_nav_title: Science
 <p>I am a Young Environmentalist</p>
 </td>
 <td width="204">
-<p>Science</p>
-</td>
-</tr>
+	<p>ALP STEM Eureka!</p></td>
 <tr>
 <td width="66">
 <p>P4</p>
