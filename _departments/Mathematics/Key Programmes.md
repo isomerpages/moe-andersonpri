@@ -22,15 +22,15 @@ third_nav_title: Mathematics
 <p><strong>Improving Confidence and Achievement in Numeracy (ICAN)<br /></strong>In P4, the support in the learning of Mathematics continues in the form of ICAN Programme. This programme aims to strengthen students&rsquo; conceptual understanding and procedural fluency.&nbsp;ICAN emphasises the importance of concrete learning to enable pupils to make better sense of&nbsp;
 their learning. Students have lots of fun in their mathematics learning as they gain confidence and motivation in learning the subject.&nbsp;&nbsp;Lessons are conducted by ICAN Teacher in a small group during curriculum hours.&nbsp;</p>
 <img style="width: 70%;" src="/images/tnmultply.jpg">
-<p><strong>Spatial Visualisation Skills Programme (P1 to P3)<br /></strong>The Spatial Visualisation Skills Programme aims to enhance our lower primary students&rsquo; visual and spatial awareness. The use of Tangram Puzzle not only keeps our young minds engaged but also deepens their interest and understanding in topics which require visual-spatial skills as they move up the levels.</p>
+<p><strong>Spatial Visualisation Skills Programme (P1)<br /></strong>The Spatial Visualisation Skills Programme aims to enhance our lower primary students&rsquo; visual and spatial awareness. The use of Tangram Puzzle not only keeps our young minds engaged but also deepens their interest and understanding in topics which require visual-spatial skills as they move up the levels.</p>
 <img style="width: 70%;" src="/images/tnspatial.jpg">
 <p><strong>Excellence 2000 (E2K) Programme (P5 &amp; 6) <br /></strong>The E2K Mathematics Programme aims to develop in students mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.</p>
 <p>Students will have opportunities to collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematics explorations which are specially designed for the programme. The rich learning experiences offered by the programme serve to help students to develop the habits, attitudes and dispositions mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.</p>
 <img style="width: 70%;" src="/images/tncubes.jpg">
 <p><strong>ICT-infused lessons, Model-Eliciting Activities (MEA), Topical &amp; Heuristics Worksheets&nbsp;</strong>
 <br>ICT infused lessons are designed to provide opportunities for students to work collaboratively, deepen their understanding of mathematical concepts and be self-directed Mathematics Learner.&nbsp;</p>
-<p>Model-Eliciting Activities (MEAs) consists of a series of lessons to provide students with opportunities to develop creative and applied mathematical thinking through real-world problem or situation and attempting to find solutions to the problems.</p>
-<p>Topical worksheets are developed for all levels to provide a formative assessment on their learning and reinforce concepts learnt in Mathematics lessons. A structured set of heuristics worksheets is designed to develop and strengthen students&rsquo; problem-solving skills through the use of various heuristics and thinking skills.&nbsp;</p>
+
+<p>Topical worksheets are developed for all levels as formative assessments and reinforcement of concepts learnt in Mathematics lessons. A structured set of heuristics worksheets is designed to develop and strengthen students&rsquo; problem-solving skills.</p>
 <p></p>
 <p><strong>Competitions</strong><br>P4 to P6 students who have shown aptitude in Mathematics will be selected to take&nbsp;part in the following Mathematics competitions:</p>
 <ul>
