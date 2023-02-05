@@ -235,8 +235,60 @@ third_nav_title: Science
 
 <img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic16.jpg" />
 
+<p><strong><u>Science Assembly Programme</u></strong><strong><br /></strong>The Science Assembly Programme is planned with the following objectives:</p>
+<ul>
+<li>To arouse and ignite Andersonians interest in the learning of Science.</li>
+<li>To equip Andersonians with the ethics and attitudes to engage in science-related issues as a reflective citizen.</li>
+<li>To help Andersonians appreciate how science influences people and the environment.</li>
+</ul>
+<p>Some of the shows and talks organised include:</p>
+<ul>
+<li>The Amazing World of Animals Talk</li>
+<li>Author&rsquo;s Talk on the World of Dinosaur by local author Andy Chua</li>
+<li>Air-Amazing Science Show</li>
+<li>No! to Plastic Talk</li>
+<li>Marine Wildlife Talk &amp; Marine Tank Interaction</li>
+<li>Incredible Edibles &ndash; The Chemistry of Cookies Science Show by the Singapore Science Centre</li>
+<li>Singapore Wildlife and Trashbusters Talks by the Singapore Zoo</li>
+<li>Seeds Plastics Talk by Keppel Land Limited, in partnership with Conservation International and Ayer Ayer Project</li>
+<li>Beyond Just Food Digitized Drama Show by The Voice Production</li>
+	<li>HSBC Marine Protection Programme Virtual Assembly Talk by Lee Khong Chian Natural History Museum in collaboration with HSBC
+</li>
+	<li>Forest Talk by Singapore Botanic Gardens / NParks (part of the Biodiversity Week)</li>
+	<li>We Beelong! Together by NParks</li>
+	<li>Sustainability in Fashion by Singapore Fashion Council</li>
+</ul>
+<img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2018.jpg" />
+<img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2019.jpg" />
+<p><strong><u>Additional Enrichment Programmes</u></strong></p>
+<ul>
+<li>E2K Science Enrichment Programme</li>
+<li>Singapore Youth Science Fair&nbsp;</li>
+<li>Elementz Science Project Competition and Exhibition&nbsp;</li>
+<li>Singapore Primary Science Olympiad</li>
+<li>Raffles Science Olympiad</li>
+</ul>
 
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 
 
