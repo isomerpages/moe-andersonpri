@@ -21,7 +21,7 @@ third_nav_title: Mathematics
 <img style="width: 80%;" src="/images/tnLSMrooms.jpg">
 <p><strong>Improving Confidence and Achievement in Numeracy (ICAN)<br /></strong>In P4, the support in the learning of Mathematics continues in the form of ICAN Programme. This programme aims to strengthen students&rsquo; conceptual understanding and procedural fluency.&nbsp;ICAN emphasises the importance of concrete learning to enable pupils to make better sense of&nbsp;
 their learning. Students have lots of fun in their mathematics learning as they gain confidence and motivation in learning the subject.&nbsp;&nbsp;Lessons are conducted by ICAN Teacher in a small group during curriculum hours.&nbsp;</p>
-<img style="width: 70%;" src="/images/tnmultply.jpg">
+<img style="width: 70%;" src="/images/2023 Images/2023 Math ICAN.jpg">
 <p><strong>Spatial Visualisation Skills Programme (P1)<br /></strong>The Spatial Visualisation Skills Programme aims to enhance our lower primary students&rsquo; visual and spatial awareness. The use of Tangram Puzzle not only keeps our young minds engaged but also deepens their interest and understanding in topics which require visual-spatial skills as they move up the levels.</p>
 <img style="width: 70%;" src="/images/tnspatial.jpg">
 <p><strong>Excellence 2000 (E2K) Programme (P5 &amp; 6) <br /></strong>The E2K Mathematics Programme aims to develop in students mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.</p>
