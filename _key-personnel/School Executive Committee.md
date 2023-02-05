@@ -17,7 +17,7 @@ description: ""
 <div>Vice-Principal (Academic)</div>
 <div><a href="mailto:Boh_Chek_Keow@schools.gov.sg" target="">Boh_Chek_Keow@schools.gov.sg</a></div>
 </td>
-</tr>
+
 <tr>
 <td><img src="/images/Ms Jasmine Tan.jpg" /></td>
 <td><img style ="width: 78%;" src="/images/Mr%20Leow%20Kor%20Ming.jpg"  /></td>
