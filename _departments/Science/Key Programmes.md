@@ -8,6 +8,11 @@ third_nav_title: Science
 <img style="width: 65%;" src="/images/2023 Images/2023 Sci Pic1.jpg" />
 <img style="width: 65%;" src="/images/2023 Images/2023 Sci Pic2.jpg" />
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%204.jpg" />
+
+<p><strong><u>Learning through Games</u></strong><br>In addition to reviewing concepts learnt during lessons, playing games also teach important soft skills like teamwork, decision-making, and learning to communicate and interact with one another. Learning through games not only encourages thinking but also cultivates a joy and motivation in the learning of Science.</p>
+<p></p>
+
+
 <p><strong><u>Outdoor Learning</u></strong><br>To nurture a sense of appreciation for nature and encourage Andersonians to do their part for the environment, various science enrichment modules have been designed to provide outdoor learning experiences and opportunities for self-discovery through hands-on doing.</p>
 <p></p>
 <p><strong>(i)&nbsp;Friend or Foe Workshop</strong><br>Friend or Foe is a Biodiversity Learning Experience focused on drawing awareness and appreciation for the diverse range of bugs and insects that live in small green urban spaces around us. Conducted by&nbsp;trainers from an environmental social enterprise, Cultivate Central, students learnt about the special characteristics of different bugs and the different roles they play.</p>
