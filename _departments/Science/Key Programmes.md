@@ -189,6 +189,58 @@ third_nav_title: Science
 <img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic14.jpg" /> <br>
 <img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic15.jpg" />
 
+<p class=""><strong class=""><u class=""><span class="">Integration of Science</span></u></strong></p>
+<p class=""><strong class=""><span class="">(i)&nbsp;</span></strong><strong class=""><span class="">Lower Primary English</span></strong><br>Simple science concepts such as life cycle of butterfly and magnets are integrated into the EL STELLAR Programme to stimulate scientific thinking in our young learners.</p>
+<img style="width: 50%;" src="/images/2021%20SCI%20-%20pic%2017.jpg" />
+<p><strong>(ii)&nbsp;</strong><strong>Lower Primary PAL &ndash; Outdoor Education (OE) Module</strong><br>Core ideas, practices and the values of curiosity and responsibility are integrated into the lower primary PAL &ndash; OE module to complement and broaden their perspectives as they explore the diversity of animals and plants around them.</p>
+<table>
+<tbody>
+<tr>
+<td width="192">
+<p><strong>Big Ideas in Science</strong></p>
+</td>
+<td width="192">
+<p><strong>Practices of Science</strong></p>
+</td>
+<td width="192">
+<p><strong>Values, Ethics &amp; Attitudes</strong></p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>There is a&nbsp;<u>diversity</u>&nbsp;of living and non-living things.</p>
+</td>
+<td width="192">
+<p>We can make sense of the world by organising its diversity through&nbsp;<u>classification</u></p>
+</td>
+<td width="192">
+<p><u>Curiosity</u>&nbsp;&ndash; desiring to explore the environment &amp; question what is found</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p><u>Cycles&nbsp;</u>of living things has a repeated&nbsp;<u>pattern</u>. This allows us to make predictions.</p>
+</td>
+<td width="192">
+<p>We have to&nbsp;<u>make informed decisions</u>&nbsp;and take actions to use resources in nature responsibly and sustainably.</p>
+</td>
+<td width="192">
+<p><u>Responsibility</u>&nbsp;&ndash; showing care &amp; concern for living things</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p>In addition, hands-on learning experiences such as the include rhizome growing activity encouraged students to learn how to grow ginger in fabric pouches made 100% from recycled plastic. Students also examined the components of sustainable growing materials such as cocopeat and vermicast made from recycled food waste. <p>
+
+
+
+
+
+
+
+
+
 <p class="">Primary 5 students took on the role of a Young Energy Saver Scientist to investigate the efficiency of light conversion from electrical energy from different bulb sources at the &lsquo;Bulb in a Box&rsquo; Interaction Activity Booth. At the &lsquo;Food for Thought&rsquo; Interaction Activity Booth, students had the opportunity to generate electricity using food and investigate which types of food generate a higher amount of electricity. Throughout the week, students also carried out the various activities under the &lsquo;I am a Young Energy Saver&rsquo; Badge Scheme to learn more about Energy Conservation.</p>
 <p class=""><span class="" lang="EN-SG">Through the Science Activity Booths and the Young Energy Saver Activity Book, we hope to develop in Andersonians an appreciation for energy resources, for them to understand the rationale behind the need to conserve electrical energy and learn ways to do their part in the responsible use and conservation of electricity for sustainable living.</span></p>
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2012.jpg" />
