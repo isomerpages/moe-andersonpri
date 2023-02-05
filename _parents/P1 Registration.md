@@ -7,9 +7,11 @@ description: ""
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1"><h4><strong>Parent Volunteer Programme</strong></h4></label>
 <div>
 <p><strong>Parent Volunteer Scheme</strong></p>
-<p>The Parent Volunteer (PV) Scheme is open to parents of children who are Singapore Citizens/Singapore Permanent Residents due for the P1 Registration Exercise. The school selects PV applicants who are generally able to contribute in areas which are aligned to the school&rsquo;s direction, programmes and desired outcomes for both staff and students.</p>
-<p>Registration for our PV Scheme (for 2024 P1 Intake in Phase 2B) will commence on Feb 2022 and will close on 29 Apr 2022. Our school will shortlist 20 PVs and only shortlisted PV applicant will be informed by 10 Jun 2022.</p>
-<p>PVs&nbsp;<u>must</u>&nbsp;fulfill at least 40 hours of acceptable PV service by 31 May 2023, which is before the commencement of 2024 P1 Registration Exercise. We seek all successful applicants&rsquo; understanding that being on the PV scheme&nbsp;<u>does not</u>&nbsp;guarantee your child a place in the school for 2024 P1 Admission.</p>
+<p> The Parent Volunteer (PV) Scheme is open to parents of children who are Singapore Citizens/Singapore Permanent Residents due for the P1 Registration Exercise. The school selects PV applicants who are generally able to contribute in areas which are aligned to the school’s direction, programmes and desired outcomes for both staff and students.
+</p>
+	
+<p>Registration for our PV Scheme (for 2025 P1 Intake in Phase 2B) will commence on 6 Feb 2022 and will close on 28 Apr 2023. Our school will shortlist 20 PVs and only shortlisted PV applicant will be informed by 9 Jun 2023.</p>
+<p>PVs&nbsp;<u>must</u>&nbsp;fulfill at least 40 hours of acceptable PV service by 31 May 2024, which is before the commencement of 2024 P1 Registration Exercise. We seek all successful applicants&rsquo; understanding that being on the PV scheme&nbsp;<u>does not</u>&nbsp;guarantee your child a place in the school for 2025 P1 Admission.</p>
 <p>In summary:</p>
 <table>
 <tbody>
@@ -21,11 +23,11 @@ description: ""
 <td style="text-align: center;" width="144">Duration of Parent Volunteer Services</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="90">2017</td>
-<td style="text-align: center;" width="109">2024</td>
-<td style="text-align: center;" width="181">9 February 2022</td>
-<td style="text-align: center;" width="156">29 April 2022</td>
-<td style="text-align: center;" width="144">27 June 2022<br />to<br />31 May 2023</td>
+<td style="text-align: center;" width="90">2018</td>
+<td style="text-align: center;" width="109">2025</td>
+<td style="text-align: center;" width="181">6 February 2023</td>
+<td style="text-align: center;" width="156">28 April 2023</td>
+<td style="text-align: center;" width="144">26 June 2022<br />to<br />31 May 2023</td>
 </tr>
 </tbody>
 </table>
