@@ -38,7 +38,7 @@ their learning. Students have lots of fun in their mathematics learning as they 
 <li>Annual Mathlympics</li>
 <li>Singapore Mathematical Olympiad for Primary School (SMOPS)</li>
 <li>Raffles Institution Primary Mathematics World Contest (RIPMWC)</li>
-<li>NUS High School National Mathematical Olympiad of Singapore (NMOPS)</li>
+<li>NUS High School National Mathematical Olympiad of Singapore (NMOS)</li>
 </ul>
 <img style="width: 80%;" src="/images/tnmoknan.jpg">
 <img src="/images/tnmoremoknan.jpg" 
