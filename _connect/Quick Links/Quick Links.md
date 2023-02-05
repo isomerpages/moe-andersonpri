@@ -14,7 +14,7 @@ third_nav_title: Quick Links
 <li><a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener">Student iCON</a></li>
 <li><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">Singapore Student Learning Space (SLS)</a></li>
 <li><a href="/files/SLS%20Annex%20-%20Website%201%20Feb%202019.pdf" target="_blank" rel="noopener">SLS - Quick Guide</a></li>
-<li><a href="/files/SLS%20Familiarisation%20Exercise%202019%20For%20Students%20-%20website.pdf" target="_blank" rel="noopener">SLS - Reset Password/ Unlock Account</a></li>
+<li><a href="https://go.gov.sg/2023slsguide" target="_blank" rel="noopener">SLS - Reset Password/ Unlock Account</a></li>
 <li><a href="http://schoolibrary.moe.edu.sg/eresourcespri" target="_blank" rel="noopener">School e-Resource Repository(SERR)</a></li>
 <li><a href="https://schoolibrary.moe.edu.sg/andersonpri" target="_blank" rel="noopener">APS SPYDUS (online library)</a></li>
 <li><a href="https://lms.asknlearn.com/LMS/LMSSSO_new.aspx" target="_blank" rel="noopener">Learning Management System (LMS)</a></li>
