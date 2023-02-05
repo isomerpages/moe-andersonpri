@@ -27,11 +27,12 @@ description: ""
 <td style="text-align: center;" width="109">2025</td>
 <td style="text-align: center;" width="181">6 February 2023</td>
 <td style="text-align: center;" width="156">28 April 2023</td>
-<td style="text-align: center;" width="144">26 June 2022<br />to<br />31 May 2023</td>
+<td style="text-align: center;" width="144">26 June 2023<br />to<br />31 May 2024</td>
 </tr>
 </tbody>
 </table>
-<p>Applications for Parent Volunteer is closed.</p>
+<p>Please submit your application via&nbsp;<a href="https://go.gov.sg/aps-pv" target="_blank" rel="noopener">https://go.gov.sg/aps-pv</a>&nbsp; from 6 February 2023 to 28 April 2023.</p>
+	
 <p>Please visit the MOE website&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank" rel="noopener">https://www.moe.gov.sg/primary/p1-registration</a>&nbsp;for more information on P1 Registration.</p>
 
 </div>
