@@ -55,14 +55,11 @@ third_nav_title: Quick Links
 </ul>
 <p><strong>Health Promotion Board (HPB)</strong></p>
 <ul>
-<li><strong>Healthy Meals in Schools Programme</strong>
-<div>Please click&nbsp;<a href="/files/HPB%20HM%20Parents%20Booklet_School_Generic_30%20Mar.pdf" target="_blank" rel="noopener">here</a> for PDF version</div>
-</li>
 <li>
 <div><a href="/parents/resources-for-parents/resources/easy-snacks-for-break-time" target="">Easy Snacks for Break Time</a></div>
 </li>
 </ul>
-<p>School C</p>
+
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3"><h4><strong>Staff</strong></h4></label>
