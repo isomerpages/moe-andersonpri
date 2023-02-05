@@ -4,7 +4,7 @@ permalink: /curriculum/departments/science/sc-syllabus-2014/
 description: ""
 third_nav_title: Science
 ---
-<p>The Science Syllabus 2014 is based on the&nbsp;<em class="">Science Curriculum Framework as shown below.</em></p>
+<p>The Science Syllabus 2014 (for Primary 4 - Primary  6) is based on the&nbsp;<em class="">Science Curriculum Framework as shown below.</em></p>
 <img src="/images/2021%20SCI%20-%20pic%201.png" 
      style="width:35%">
 <p>Central to the Science curriculum framework is the inculcation of the spirit of scientific inquiry - to nurture students as inquirers who are curious about the things around them. The conduct of inquiry is founded on three integral domains of (a) Knowledge, Understanding and Application, (b) Skills and Processes and (c) Ethics and Attitudes. Inquiry is grounded in knowledge, issues and questions that relate to the roles played by science in daily life, society and the environment.</p>
