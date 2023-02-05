@@ -38,7 +38,7 @@ third_nav_title: Resources for Parents
 <li>Abrupt left turns into the school from the outer lanes of the road</li>
 <li>Making illegal U-turn along AMK Ave 9</li>
 </ol>
-<li>Time your arrivals to avoid forming traffic queues along AMK Ave 9. Take note that vehicles will only be allowed into the school compound about 20 minutes after the 1st dismissal. Currently, this is normally about 1.50pm on Mondays and Wednesdays, and about 1.20pm on Tuesdays, Thursdays, and Fridays.</li>
+<li>Time your arrivals to avoid forming traffic queues along AMK Ave 9. Take note that vehicles will only be allowed into the school compound about 20 minutes after the 1st dismissal. Currently, this is normally about 1.50pm on Mondays, Tuesdays and Wednesdays, and about 1.20pm on Thursdays and Fridays.</li>
 </ol>
 </ol>
 <ol start="2">
