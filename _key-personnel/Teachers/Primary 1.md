@@ -26,7 +26,7 @@ third_nav_title: Teachers
 <td height="41" colspan="2" style="text-align: center;"><strong>Class 1.2</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td height="25" colspan="2"style="text-align: center;"><strong>Form Teachers</strong></td>
+<td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td width="50%">Ms Kavitha Balakrishna</td>
@@ -44,7 +44,7 @@ third_nav_title: Teachers
 <td height="41" colspan="2" style="text-align: center;"><strong>Class 1.3</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td height="25" colspan="2"style="text-align: center;"><strong>Form Teachers</strong></td>
+<td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td>Ms Tiang May Lin Linda</td>
@@ -57,7 +57,7 @@ third_nav_title: Teachers
 <td><a target="" href="mailto:jumiati_mohd_sidek@moe.edu.sg">jumiati_mohd_sidek@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td height="41" colspan="2"style="text-align: center;"><strong>Class 1.4</strong></td>
+<td height="41" colspan="2" style="text-align: center;"><strong>Class 1.4</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
@@ -75,7 +75,7 @@ third_nav_title: Teachers
 </td>
 </tr>
 <tr style="text-align: center;">
-<td height="41" colspan="2"style="text-align: center;"><strong>Class 1.5</strong></td>
+<td height="41" colspan="2" style="text-align: center;"><strong>Class 1.5</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
@@ -111,7 +111,7 @@ third_nav_title: Teachers
 <td height="41" colspan="2" style="text-align: center;"><strong>Class 1.7</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td height="25" colspan="2"style="text-align: center;"><strong>Form Teachers</strong></td>
+<td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td width="50%">Mdm Kavitha Kunnasegaran <br>
