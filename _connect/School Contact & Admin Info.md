@@ -242,7 +242,6 @@ description: ""
 <td colspan="2">Jeep Sing Fashion</td>
 </tr>
 <td width="60px">
-
 <div>Tel</div>
 </td>
 <td>
