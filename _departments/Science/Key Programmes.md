@@ -273,6 +273,10 @@ third_nav_title: Science
 	<li>NUS High Programme – Da Vinci, Mcurie2 and Summer/Winter workshops</li>
 </ul>
 
+<img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic18.jpg" />
+<img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic19.jpg" />
+
+
 
 	
 	
