@@ -237,11 +237,13 @@ description: ""
 </table>
 
 <h4><strong>School Uniform / PE Attire</strong></h4>
-<p><strong>Jeep Sing Fashion</strong></p>
 <table>
 <tbody>
 <tr>
-<td width="150px">
+<td colspan="2">Jeep Sing Fashion</td>
+</tr>
+<td width="60px">
+
 <div>Tel</div>
 </td>
 <td>
