@@ -3,7 +3,7 @@ title: The Anderson Promise
 permalink: /curriculum/the-anderson-promise/
 description: ""
 ---
-<img style="width: 80%;" src="/images/prom1.png" />
+<img style="width: 50%;" src="/images/prom1.png" />
 <p>At Anderson Primary School, we bequeath our students with a Compass and a Torch, each symbolising the necessary values and skills to lead and light the way as they forge ahead in the 21st century.</p>
 <h4><strong>The Anderson COMPASS</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
