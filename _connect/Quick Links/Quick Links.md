@@ -45,12 +45,12 @@ third_nav_title: Quick Links
 <li><a href="https://schoolibrary.moe.edu.sg/andersonpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank" rel="noopener">APS SPYDUS (online library)</a></li>
 <li><a href="https://go.gov.sg/andpshwpolicy" target="_blank" rel="noopener">Homework Policy</a></li>
 <li><a href="/connect-us/quick-links/school-calendar" target="">School Calendar</a></li>
-<li><a href="/files/Product%20Fact%20Sheet%20(Dec2018).pdf" target="_blank" rel="noopener">Student Accident Protection Scheme</a></li>
+
 </ul>
 <p><strong>Academic Links</strong></p>
 <ul>
 <li><a href="/files/Student%20Annexes%20(Instructions%20and%20FAQs%20updated%2029%20Mar).pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS)</a></li>
-<li><a href="https://lms.asknlearn.com/LMS/LMSSSO_new.aspx" target="_blank" rel="noopener">Learning Management System (LMS)</a></li>
+
 <li><a href="https://www.seab.gov.sg/home/examinations/psle" target="_blank" rel="noopener">SEAB website</a></li>
 </ul>
 <p><strong>Health Promotion Board (HPB)</strong></p>
