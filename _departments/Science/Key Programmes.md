@@ -260,6 +260,10 @@ third_nav_title: Science
 </ul>
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2018.jpg" />
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2019.jpg" />
+
+
+
+
 <p><strong><u>Additional Enrichment Programmes</u></strong></p>
 <ul>
 <li>E2K Science Enrichment Programme</li>
