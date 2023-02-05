@@ -180,6 +180,7 @@ third_nav_title: Science
 
 <img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic12.jpg" />
 
+<p>To extend students’ learning in the topic of Electrical Systems, students participated in the Electric Carnival to explore concepts such as parallel circuits, series circuits, short circuits, electrical connections, electrical conductors, electrical insulators, and how common electrical components like fuses and LEDs work.</p>
 
 
 
