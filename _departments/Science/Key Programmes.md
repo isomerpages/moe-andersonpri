@@ -29,7 +29,16 @@ third_nav_title: Science
 <img style="width: 80%;" src="/images/2021%20SCI%20-%20pic%2010.jpg" />
 <img style="width: 65%;" src="/images/2023 Images/2023 Sci Dept Pic6.jpg" />
 
-<p class=""><strong class=""><span class="">(iv)&nbsp;</span></strong><strong class=""><span class="" lang="EN-SG">Reduce &amp; Upcycle towards Sustainability &ndash; Trash into Treasure Module</span></strong><br>Reduce &amp; Upcycle towards Sustainability module aims to raise awareness of the issue of waste generation in modern day living and the importance of refusing, reducing, repurposing and recycling efforts. In this module, activities have been designed for Primary 4 students to research and understand about the concept of upcycling. Student then work in groups to create an upcycled product that is useful for the classroom before culminating with an authentic, hands-on values-in-action experience through the &ldquo;Trashwalk &amp; Sustainability&rdquo; Programme at the Singapore Zoo. We hope that Andersonians are empowered to take positive actions for the environment through this module.</span></p>
+<p><strong><u>Learning Journeys</u></strong></p>
+<p><strong>(i) </strong><strong>Singapore Zoo</strong><br>Primary 3 students visit the Singapore Zoo to learn about the body coverings of different animal groups and its functions. In addition, students get to complete a Zoo trail that is designed by our teachers to encourage students to classify a variety of&nbsp;animals they see based on their similarities and differences using common observable characteristics. This trail also broadens students&rsquo; knowledge of examples of animals in the different animal groups they have learnt under the Diversity theme.&nbsp;</p>
+<img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2014.png" />
+
+
+
+
+
+
+
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2011.jpg" />
 <p class=""><strong class=""><u class=""><span class="" lang="EN-SG">Science Experiential Day/Week</span></u></strong><br>Science Experiential Day/Week aims to raise awareness and empower Andersonians to be Environment Stewards of Sustainability. Under the theme of Sustainable Energy, upper primary students will learn more about green energy sources and concepts on energy efficiency while reflecting on how they can do their part to conserve energy.<br class="" /></span></strong></p>
 <p class=""><strong class=""><span class="" lang="EN-SG">(i) Energy Conservation Week</span></strong><br>Aligned to the topic of Electricity and the Anderson vision of nurturing every Andersonian to be a responsible Environment Steward, the Energy Conservation Week aims to create hands-on opportunities for students to learn about real-world phenomena and issues in electricity use and conservation.</span></p>
@@ -38,9 +47,7 @@ third_nav_title: Science
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2012.jpg" />
 <p class=""><strong class=""><span class="" lang="EN-SG">(ii) Wind Turbine Making Day</span></strong><br>At the Science Experiential Day conducted by Singapore Science Centre, Primary 6 students made their own wind turbine by making a pinwheel to attach to a motor. Students were encouraged to be creative in testing out various pinwheel designs that will be efficient in collecting wind so as to enable the LED that is attached to the motor, to light up steadily. Through this experiential day, students learnt to apply concepts of energy conversion to explain how their wind turbine works and appreciated how wind is a green energy source to generate electricity</span><span class="" lang="EN-SG">.</span></p>
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2013.jpg" />
-<p><strong><u>Learning Journeys</u></strong></p>
-<p><strong>(i) </strong><strong>Singapore Zoo</strong><br>Primary 3 students visit the Singapore Zoo to learn about the body coverings of different animal groups and its functions. In addition, students get to complete a Zoo trail that is designed by our teachers to encourage students to classify a variety of&nbsp;animals they see based on their similarities and differences using common observable characteristics. This trail also broadens students&rsquo; knowledge of examples of animals in the different animal groups they have learnt under the Diversity theme.&nbsp;</p>
-<img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2014.png" />
+
 <p class=""><strong class=""><span class="">(ii)&nbsp;</span></strong><strong class=""><span class="">Singapore Science Centre</span></strong><br>Learning journeys to the Singapore Science Centre are organised for students to deepen and extend their learning. Primary 5 students attend &ldquo;Diversity of Cells&rdquo; laboratory-based workshop to learn about the classification of livings things as well as explore, observe and identify cells through a microscope. Primary 6 students are taught field techniques to catch and observe a variety of aquatic organisms which make up the pond community in the &ldquo;Aquatic Plants and Animals&rdquo; workshop, and in the process, learn about relationships between organisms in the pond ecosystem.</span></p>
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%206.jpg" />
 <p class=""><strong class=""><span class="">(iii)&nbsp;</span></strong><strong class=""><span class="" lang="EN-SG">Sungei Buloh Wetland Reserve</span></strong><br>Primary 6 students had the opportunity to explore biodiversity in our own backyard and understand its importance during the mangrove walk at the Sungei Buloh Wetland Reserve. During this learning journey, students learnt eye-opening facts about fauna and flora in mangrove habitats, relationships between organisms and appreciate the importance of protecting our Mother Nature.</span></p>
