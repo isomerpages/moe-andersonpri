@@ -17,6 +17,9 @@ third_nav_title: Quick Links
 <li><a href="https://go.gov.sg/slsresetting" target="_blank" rel="noopener">SLS - Reset Password/ Unlock Account</a></li>
 <li><a href="http://schoolibrary.moe.edu.sg/eresourcespri" target="_blank" rel="noopener">School e-Resource Repository(SERR)</a></li>
 <li><a href="https://schoolibrary.moe.edu.sg/andersonpri" target="_blank" rel="noopener">APS SPYDUS (online library)</a></li>
+<li><a href="http://schoolibrary.moe.edu.sg/eresourcespri" target="_blank" rel="noopener">School e-Resource Repository(SERR)</a></li>
+<li><a href="https://member.koobits.com" target="_blank" rel="noopener">KooBits</a></li>
+<li><a href="https://www.ezhishi.net" target="_blank" rel="noopener">eZhishi</a></li>
 
 </ul>
 </div>
