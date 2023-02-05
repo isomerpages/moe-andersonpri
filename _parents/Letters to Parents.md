@@ -10,10 +10,14 @@ description: ""
     <div>
 <ul>
 <li><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" target="_blank" rel="noopener">2023 Sch Reopening Letter to P1 Parents</a></li>
+	
 <li><a href="/files/2023%20Sch%20Reopening%20Letter%20to%20Parents%20P2%20-%20P6.pdf" target="_blank" rel="noopener">2023 Sch Reopening Letter to P2 to P6 Parents</a></li>
+	
 <li><a href="/curriculum/departments/character-n-citizenship-education/sexuality-education" target="">Sexuality Education Programme</a></li>
-<li><a href="/files/Consent%20for%20Use%20of%20Photography%20and%20Video-recording%202022.pdf" target="_blank" rel="noopener">Consent for Use of Photography and Video Recording</a></li>
-<li><a href="/parents/resources-for-parents/resources" target="">2022 P1 to P6 Booklists</a></li>
+	
+<li><a href="/announcements/sites/photography/" target="">Consent for Use of Photography and Video Recording</a></li>
+	
+
 </ul>
     </div>
 </li>
