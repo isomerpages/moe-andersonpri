@@ -21,5 +21,10 @@ third_nav_title: Science
 
 <img style="width: 65%;" src="/images/2023 images/2023 Sci Dept Pic20.jpg"/>
 
+<p> The ‘Brown space’ at the _Community Vermicomposting Station_ aims to raise awareness on how to recycle organic food waste into vermicast (an organic fertilizer) for the school gardens using worms. Through this closed-loop community food waste system, our Green Ambassadors are empowered to set up a composting hub in the school, while our Primary 1 and 2 students learnt about worm farming ecosystems through their PAL- Outdoor Education module.</p>
+
+<img style="width: 65%;" src="/images/2023 images/2023 Sci Dept Pic21.jpg"/>
+
+
 <p></p>
 <p><strong>(i)&nbsp;Friend or Foe Workshop</strong><br>Friend or Foe is a Biodiversity Learning Experience focused on drawing awareness and appreciation for the diverse range of bugs and insects that live in small green urban spaces around us. Conducted by&nbsp;trainers from an environmental social enterprise, Cultivate Central, students learnt about the special characteristics of different bugs and the different roles they play.</p>
