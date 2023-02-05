@@ -27,7 +27,7 @@ description: ""
 </tr>
 <tr>
 <td><img style="width: 75%;" src="/images/SAC/Dr%20Low%20Wing%20Li%20Gary.jpg" /></td>
-<td><img src="/images/SAC/Dr%20Marie.jpg" /></td>
+<td><img style="width: 83%;"  src="/images/SAC/Dr%20Marie.jpg" /></td>
 <td><img style="width: 83%;" src="/images/SAC/Dr%20Neo%20Peng%20Fu.jpg" /></td>
 </tr>
 <tr>
