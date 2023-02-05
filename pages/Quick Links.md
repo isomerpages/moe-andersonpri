@@ -24,8 +24,7 @@ description: ""
 # **Academic Links**
 * [Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 * [SLS - Quick Guide](https://go.gov.sg/2023slsguide)
-* [SLS - Reset Password / Unlock Account](/files/SLS%20Familiarisation%20Exercise%202019%20(For%20Students)%20-%20website.pdf)
-* [Learning Management System](https://lms.wizlearn.com/LMS/Login_main.aspx)
+* [SLS - Reset Password / Unlock Account](https://go.gov.sg/slsresetting)
 * [SEAB Website](https://www.seab.gov.sg/home/examinations/psle)
 
 # **Health Promotion Board (HPB)**
