@@ -25,6 +25,14 @@ third_nav_title: Science
 
 <img style="width: 65%;" src="/images/2023 images/2023 Sci Dept Pic21.jpg"/>
 
+<p> Roving Exhibitions are also featured at Anderson Primary School at various times of the year as outreach progrmmes to promote Sustainbility Education and Environment Stewardship. These include:</p>
 
-<p></p>
+<ul>
+	<li>‘Natural Heritage’ Exhibits from NParks and Singapore Botanic Gardens (SBG) for students to learn about and appreciate the rich biodiversity in the nature parks, the significance of SBG as a UNESCO World Heritage Site and our gardens’ efforts at environmental sustainability.</li>
+<li>‘R.I.S.E to the Challenge’ Exhibit to engage Andersonians on the issue of Climate Change and the challenge of the rising sea levels. </li>
+<li>‘Energy Heroes!’ Exhibit comprised five game exhibits for Andersonians to appreciate the importance of energy and what we can do to conserve energy.</li>
+<li>‘The Inflatable Lung’ exhibition allowed Andersonians to take a step into one of the largest organs in our body that keeps us alive and breathing. Students also had an opportunity to participate in a challenge where they find out how “powerful” their lungs are.</li>
+<li> ‘Marine Tank’ Interaction Booth where students learnt about ecosystems, habitats, adaptations and had the opportunity to ‘touch’ various marine organisms. </li>
+	
+	
 <p><strong>(i)&nbsp;Friend or Foe Workshop</strong><br>Friend or Foe is a Biodiversity Learning Experience focused on drawing awareness and appreciation for the diverse range of bugs and insects that live in small green urban spaces around us. Conducted by&nbsp;trainers from an environmental social enterprise, Cultivate Central, students learnt about the special characteristics of different bugs and the different roles they play.</p>
