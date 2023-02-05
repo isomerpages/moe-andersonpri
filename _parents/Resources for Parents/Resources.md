@@ -26,7 +26,7 @@ third_nav_title: Resources for Parents
 <li><a href="https://go.gov.sg/2023p1booklist" target="_blank" rel="noopener">Primary 1 Booklist</a></li>
 <li><a href="https://go.gov.sg/2023form1nmtl" target="_blank" rel="noopener">Form 1 - NMT</a></li>
 <li><a href="https://go.gov.sg/2023form3ntil" target="_blank" rel="noopener">Form 3 - NTIL</a></li>
-<li><a href="https://go.gov.sg/2023moefasapply" target="_blank" rel="noopener">MOE FAS Brochure</a></li>
+<li><a href="https://go.gov.sg/2023moefasapply" target="_blank" rel="noopener">MOE FAS Application Form</a></li>
 
 <li><a href="/files/AndPS%202021%20Bookshop%20Schedule.pdf" target="_blank" rel="noopener">AndPS Bookshop Schedule</a></li>
 <li><a href="/files/AndPS%202021%20Uniform%20Sale%20Schedule.pdf" target="_blank" rel="noopener">AndPS School Uniform</a></li>
