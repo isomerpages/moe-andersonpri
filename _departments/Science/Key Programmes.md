@@ -55,7 +55,7 @@ third_nav_title: Science
 <p><strong>Badge</strong></p>
 </td>
 <td width="204">
-<p><strong>Curricula Subject</strong></p>
+<p><strong>Curricula Subject/Programme</strong></p>
 </td>
 </tr>
 <tr>
@@ -82,10 +82,32 @@ third_nav_title: Science
 </tr>
 <tr>
 <td width="66">
+<p>P3</p>
+</td>
+<td width="234">
+<p>I am a Young Entomologist</p>
+</td>
+<td width="204">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td width="66">
 <p>P4</p>
 </td>
 <td width="234">
 <p>I am a Young Environmentalist</p>
+</td>
+<td width="204">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td width="66">
+<p>P4</p>
+</td>
+<td width="234">
+<p>I am a Young Physicist</p>
 </td>
 <td width="204">
 <p>Science</p>
@@ -99,29 +121,29 @@ third_nav_title: Science
 <p>I am a Young Energy Saver</p>
 </td>
 <td width="204">
-<p>Science</p>
-</td>
-</tr>
-<tr>
+	<p>Science</p></td>
+	<tr>
 <td width="66">
-<p>P5</p>
+<p>P5/6</p>
 </td>
 <td width="234">
 <p>I am a Young Mathematician</p>
 </td>
 <td width="204">
-<p>Mathematics</p>
-</td>
-</tr>
-<tr>
+	<p>Mathematics</p></td>
+		<tr>
 <td width="66">
-<p>P6</p>
+<p>P5/6</p>
 </td>
 <td width="234">
-<p>I am a Young Water Ambassador</p>
+<p>I am a Water Ambassador</p>
 </td>
 <td width="204">
-<p>Science</p>
+	<p>Science</p></td>
+	
+	
+	
+	
 </td>
 </tr>
 </tbody>
