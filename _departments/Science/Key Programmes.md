@@ -161,6 +161,7 @@ third_nav_title: Science
 
 <img style="width: 65%;" src="/images/2023 Images/2023 Sci Dept Pic9.jpg" />
 
+<p>During our 2022 Finish Strong! Programme, we awarded the ‘Young Botanist’, ‘Young Engineer’, ‘Young Zoologist’, ‘Young Entomologist’, ‘Young Environmentalist’, ‘Young Physicist’, ‘Young Energy Saver’, ‘Young Mathematician’, ‘Young Marie Curie’ and ‘Young Margaret Fountaine’ badges to all student participants. </p>
 
 
 
