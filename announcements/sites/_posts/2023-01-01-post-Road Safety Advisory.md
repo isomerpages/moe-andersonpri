@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-	Dear parents/guardians
+Dear parents/guardians
 
 	We would like to seek your cooperation to work with the school to ensure the road safety for all our students. 
 
