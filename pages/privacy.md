@@ -39,10 +39,10 @@ g. To consider your employment application.  *
 
 8.  If you provide us with personally identifiable data,
 
-> a. We may share necessary data with Government agencies, so as to serve you in the most efficient and effective way unless such sharing is prohibited by law.  
-> b. We will NOT share your personal data with non-government entities, except where such entities have been authorised to carry out specific government services.  
-> c. For your convenience, we may also display to you data you had previously supplied us or other government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.  
->   
+a. We may share necessary data with Government agencies, so as to serve you in the most efficient and effective way unless such sharing is prohibited by law.  
+b. We will NOT share your personal data with non-government entities, except where such entities have been authorised to carry out specific government services.  
+c. For your convenience, we may also display to you data you had previously supplied us or other government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.  
+  
 
 9.  To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies. However, no method of electronic storage and transmission is totally secure and we cannot guarantee absolute data security.  
     
