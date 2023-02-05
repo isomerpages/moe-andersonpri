@@ -43,8 +43,8 @@ contacts:
     title: School Uniform / PE Attire
   - content:
       - phone: +65 8028 1456
-      - email: goh_kim_poh@commitlearning.com.sg
-      - other: "Contact person: Mr Sunny Goh. Alternatively, you could visit website at
-          https://www.commitlearning.com.sg/home for more information"
+      - email: enquiries@commitlearning.com.sg
+      - other: Visit website at https://www.commitlearning.com.sg/home for more
+          information
     title: School Student Care (SSC)
 ---
