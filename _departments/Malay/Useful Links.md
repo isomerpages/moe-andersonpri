@@ -24,5 +24,10 @@ third_nav_title: Malay
 <li><a href="https://www.mtl.moe.edu.sg/ecekap/index.html" target="_blank" rel="noopener">e-cekap</a>
 <div>For Primary ML students with a wide range of multimedia content and online activities</div>
 </li>
+	
+<li><a href="https://www.mllpc.sg/agab-publications.html" target="_blank" rel="noopener">Young Readers Series, Nabil and Nabilah</a>
+<div> For young readers to develop their ML reading proficiency. Developed by the Malay Language Learning and Promotion Committee.</div>
+</li>
 </ul>
 </ul>
+
