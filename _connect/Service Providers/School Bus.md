@@ -13,7 +13,7 @@ third_nav_title: Service Providers
 </td>
 <td>
 <div><a href="tel:9831 5851" target="">9831 5851</a>&nbsp;(Mr Tan)</div>
-<div><a href="tel:9621 6653" target="">9621 6653</a>&nbsp;(Mui Mui)</div>
+<div><a href="tel:9621 6653" target="">9621 6653</a>&nbsp;(Iris)</div>
 </td>
 </tr>
 <tr>
