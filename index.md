@@ -17,7 +17,7 @@ sections:
           description: School's Google Calendar
           url: /connect/quick-links/school-calendar
         - title: Quick Links
-          description: For Parents
+          description: For Students, Parents & Staff
           url: /connect/quick-links
   - resources:
       title: Announcements
