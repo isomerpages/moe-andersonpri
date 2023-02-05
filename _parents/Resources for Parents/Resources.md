@@ -32,6 +32,8 @@ third_nav_title: Resources for Parents
 <li><a href="https://go.gov.sg/2023pgfaq" target="_blank" rel="noopener">Parents Gateway - FAQs for Parents</a></li>
 <li><a href="https://go.gov.sg/2022eoybkshop" target="_blank" rel="noopener">Anderson Pri - Bookshop Year End Sale Schedule 2022</a></li>
 <li><a href="https://go.gov.sg/2022eoyuniform" target="_blank" rel="noopener">Anderson Pri - Uniform Year End Sale Schedule 2022</a></li>
+<li><a href="https://go.gov.sg/2022eoyuniform" target="_blank" rel="noopener">Anderson Pri - Uniform Year End Sale Schedule 2022</a></li>
+	<li><a href="https://go.gov.sg/2022eoyuniform" target="_blank" rel="noopener">Anderson Pri - Uniform Year End Sale Schedule 2022</a></li>
 </ol>
 </div>
 </li>
