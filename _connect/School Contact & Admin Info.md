@@ -175,11 +175,8 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td width="150px">
-<div>Tel</div>
-</td>
-<td>
-<div><a href="tel:8518 6936" target="">8518 6936</a></div>
+
+
 </td>
 </tr>
 <tr>
@@ -187,8 +184,8 @@ description: ""
 <div>Opening Day/Hours</div>
 </td>
 <td>
-<div>Mondays: 8.00 am to 5:00 pm</div>
-<div>Tuesday: 8.00 am to 5:00 pm</div>
+<div>Mon - Thu : 8.00 am to 5:30 pm</div>
+<div>Fri: 8.00 am to 5:00 pm</div>
 <div>(Open on alternate week)</div>
 </td>
 </tr>
@@ -198,7 +195,10 @@ description: ""
 </td>
 <td>
 <div>1 pm to 2 pm</div><br />
-<div>For emergencies such as dental trauma, facial/gum swellings or toothaches, please call Health Promotion Board, School Dental Centre Call Centre at Tel:&nbsp;<a href="tel:6435 3782" target="">6435 3782</a>.</div>
+	<div>In case of emergency, please call Palmview Primary School Clinic at Tel: 
+	&nbsp;<a href="tel:8764 1250" target="">8764 1250</a>.</div>
+<p>
+<div>Health Promotion Board, School Dental Centre Call Centre at Tel:&nbsp;<a href="tel:6435 3782" target="">6435 3782</a>.</div></p>
 </td>
 </tr>
 </tbody>
