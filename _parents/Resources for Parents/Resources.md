@@ -20,10 +20,10 @@ third_nav_title: Resources for Parents
 </ul>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3"><h4><strong>P1/2022 Pre-Entry Info Kit</strong></h4></label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3"><h4><strong>P1/2023 Pre-Entry Info Kit</strong></h4></label>
 <div>
 <ol>
-<li><a href="/files/P1%202022%20Booklist.pdf" target="_blank" rel="noopener">Primary 1 Booklist</a></li>
+<li><a href="https://go.gov.sg/2023p1booklist" target="_blank" rel="noopener">Primary 1 Booklist</a></li>
 <li><a href="/files/Form%201%20-%20NMT.pdf" target="_blank" rel="noopener">Form 1 - NMT</a></li>
 <li><a href="/files/Form%203%20-%20NTIL.pdf" target="_blank" rel="noopener">Form 3 - NTIL</a></li>
 <li><a href="/files/MOE%20FAS%20Brochure%202022.pdf" target="_blank" rel="noopener">MOE FAS Brochure</a></li>
