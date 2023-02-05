@@ -62,7 +62,7 @@ description: ""
 <tbody>
 <tr>
 <td width="180px">
-<div><strong>Monday &amp; Wednesday</strong></div>
+<div><strong>Monday, Tuesday <br>&amp; Wednesday</strong></div>
 </td>
 <td>
 <div>*7.30 am to 1.30 pm</div>
@@ -70,7 +70,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<div><strong>Tuesday, Thursday, Friday</strong></div>
+<div><strong>Thursday, Friday</strong></div>
 </td>
 <td>
 <div>*7.30 am to 1.00 pm</div>
@@ -85,12 +85,12 @@ description: ""
 <td rowspan="2"><br /><br /><strong>Levels</strong></td>
 <td style="text-align: center;" colspan="2">
 <div><strong>Staggered Dismissal Time</strong></div>
-<div><strong>(wef 27 Jun 2022)</strong></div>
+<div><strong>(wef 2 Jan 2023)</strong></div>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Monday, Wednesday</strong></td>
-<td style="text-align: center;"><strong>Tuesday, Thursday, Friday</strong></td>
+<td style="text-align: center;"><strong>Monday, Tuesday & Wednesday</strong></td>
+<td style="text-align: center;"><strong> Thursday, Friday</strong></td>
 </tr>
 <tr>
 <td width="180px"><strong>Primary 1 and 2*</strong></td>
