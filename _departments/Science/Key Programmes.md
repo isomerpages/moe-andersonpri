@@ -182,7 +182,7 @@ third_nav_title: Science
 
 <p>To extend students’ learning in the topic of Electrical Systems, students participated in the Electric Carnival to explore concepts such as parallel circuits, series circuits, short circuits, electrical connections, electrical conductors, electrical insulators, and how common electrical components like fuses and LEDs work.</p>
 
-
+<img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic13.jpg" />
 
 <p class="">Primary 5 students took on the role of a Young Energy Saver Scientist to investigate the efficiency of light conversion from electrical energy from different bulb sources at the &lsquo;Bulb in a Box&rsquo; Interaction Activity Booth. At the &lsquo;Food for Thought&rsquo; Interaction Activity Booth, students had the opportunity to generate electricity using food and investigate which types of food generate a higher amount of electricity. Throughout the week, students also carried out the various activities under the &lsquo;I am a Young Energy Saver&rsquo; Badge Scheme to learn more about Energy Conservation.</p>
 <p class=""><span class="" lang="EN-SG">Through the Science Activity Booths and the Young Energy Saver Activity Book, we hope to develop in Andersonians an appreciation for energy resources, for them to understand the rationale behind the need to conserve electrical energy and learn ways to do their part in the responsible use and conservation of electricity for sustainable living.</span></p>
