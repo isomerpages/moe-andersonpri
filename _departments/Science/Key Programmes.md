@@ -172,6 +172,11 @@ third_nav_title: Science
 <p class=""><strong class=""><u class=""><span class="" lang="EN-SG">Science Experiential Day/Week</span></u></strong><br>Science Experiential Day/Week aims to raise awareness and empower Andersonians to be Environment Stewards of Sustainability. Under the theme of Sustainable Energy, upper primary students will learn more about green energy sources and concepts on energy efficiency while reflecting on how they can do their part to conserve energy.<br class="" /></span></strong></p>
 
 <p class=""><strong class=""><span class="" lang="EN-SG">(i) Energy Conservation Week</span></strong><br> To nurture every Andersonian to be a responsible Environment Steward, the Energy Conservation Week aims to raise awareness about issues in electricity use and conservation. Conducted in Term 2, Primary 5 students participated in two Young Energy Scientist Activity Booths to investigate the efficiency of various light bulbs and how food items can function as a battery. </span></p>
+
+<img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic11.jpg" />
+
+
+
 <p class="">Primary 5 students took on the role of a Young Energy Saver Scientist to investigate the efficiency of light conversion from electrical energy from different bulb sources at the &lsquo;Bulb in a Box&rsquo; Interaction Activity Booth. At the &lsquo;Food for Thought&rsquo; Interaction Activity Booth, students had the opportunity to generate electricity using food and investigate which types of food generate a higher amount of electricity. Throughout the week, students also carried out the various activities under the &lsquo;I am a Young Energy Saver&rsquo; Badge Scheme to learn more about Energy Conservation.</p>
 <p class=""><span class="" lang="EN-SG">Through the Science Activity Booths and the Young Energy Saver Activity Book, we hope to develop in Andersonians an appreciation for energy resources, for them to understand the rationale behind the need to conserve electrical energy and learn ways to do their part in the responsible use and conservation of electricity for sustainable living.</span></p>
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2012.jpg" />
