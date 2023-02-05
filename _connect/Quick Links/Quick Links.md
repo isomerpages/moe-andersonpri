@@ -50,6 +50,7 @@ third_nav_title: Quick Links
 <p><strong>Academic Links</strong></p>
 <ul>
 <li><a href="/files/Student%20Annexes%20(Instructions%20and%20FAQs%20updated%2029%20Mar).pdf" target="_blank" rel="noopener">Singapore Student Learning Space (SLS)</a></li>
+	<li><a href="https://schoolbag.sg/" target="_blank" rel="noopener">SchoolBag</a></li>
 
 <li><a href="https://www.seab.gov.sg/home/examinations/psle" target="_blank" rel="noopener">SEAB website</a></li>
 </ul>
@@ -74,16 +75,14 @@ third_nav_title: Quick Links
 <li><a href="https://intranet.moe.gov.sg/hr_online/Pages/backup/redirect.aspx" target="_blank" rel="noopener">MOE HR Online</a></li>
 <li><a href="https://www.hrp.gov.sg/hrp/#/" target="_blank" rel="noopener">HRP</a></li>
 <li><a href="https://schools.gov.sg/owa/auth/logon.aspx" target="_blank" rel="noopener">CES Email</a></li>
-<li><a href="https://hrms.moe.gov.sg/" target="_blank" rel="noopener">HRMS</a></li>
-<li><a href="https://traisi.moe.gov.sg/AD/login.asp" target="_blank" rel="noopener">TRAISI</a></li>
+
 <li><a href="https://iexams.seab.gov.sg/" target="_blank" rel="noopener">iEXAMS2</a></li>
-<li><a href="https://pacgov.agd.gov.sg/ipac/html/faq/InternetPaC@Gov.htm" target="_blank" rel="noopener">Pac@Gov</a></li>
 <li><a href="https://pg.moe.edu.sg/" target="_blank" rel="noopener">Parents Gateway</a></li>
 <li><a href="https://ssoe2.moe.edu.sg/" target="_blank" rel="noopener">SSOE2 Portal</a></li>
 <li><a href="https://rbs.avero-tech.com/" target="_blank" rel="noopener">Resource Booking System</a></li>
-<li><a href="https://www.academyofsingaporeteachers.moe.gov.sg/" target="_blank" rel="noopener">Academy of Teachers</a></li>
-<li><a href="https://lms.asknlearn.com/LMS/LMSSSO_new.aspx" target="_blank" rel="noopener">Learning Management System (LMS)</a></li>
-<li><a href="https://schoolbag.sg/" target="_blank" rel="noopener">SchoolBag</a></li>
+
+
+
 </ul>
 </div>
 </li>
