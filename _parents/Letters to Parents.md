@@ -23,10 +23,7 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">February</label>
     <div>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=Xzjbbn3H3tg" target="_blank" rel="noopener">Student Leaders' Investiture 2022</a></li>
-<li><a href="/files/2022%20P6%20Class%20Tests.pdf" target="_blank" rel="noopener">2022 P6 Common Test</a></li>
-</ul>
+<p>Coming Soon!</p>
     </div>
 	</li>
   <li>
