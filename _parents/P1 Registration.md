@@ -149,7 +149,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Figures are correct as at 05/10/2021 14:11:00 PM</p>
+<p>Figures are correct as at 05/10/2022 14:11:00 PM</p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3"><h4><strong>FAQ</strong></h4></label>
