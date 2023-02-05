@@ -37,9 +37,9 @@ description: ""
 </tr>
 <tr>
 <td><img style="width: 90%;" src="/images/SAC/Dr%20Pulickal%20Geoiphy%20George.jpg" /></td>
-<td><img src="/images/SAC/Dr%20Teo%20Tang%20Wee.jpg" /></td>
+	<td><img src="/images/SAC/Dr%20Teo%20Tang%20Wee.jpg" /></td></tr>
 
-</tr><td style="text-align: center;">Dr Pulickal Geoiphy George<br />Member</td>
+<tr><td style="text-align: center;">Dr Pulickal Geoiphy George<br />Member</td>
 <td style="text-align: center;">Dr Teo Tang Wee<br />Member</td>
 </tr>
 
