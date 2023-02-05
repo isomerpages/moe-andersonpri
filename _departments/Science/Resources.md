@@ -18,7 +18,7 @@ third_nav_title: Science
 </li>
 </ul>
 
-<img style="width: 65%;" src="/images/2023 images/2023 Sci Pic20.jpg" />
+<img style="width: 65%;" src="/images/2023 images/2023 Sci Dept Pic20.jpg" />
 
 <p></p>
 <p><strong>(i)&nbsp;Friend or Foe Workshop</strong><br>Friend or Foe is a Biodiversity Learning Experience focused on drawing awareness and appreciation for the diverse range of bugs and insects that live in small green urban spaces around us. Conducted by&nbsp;trainers from an environmental social enterprise, Cultivate Central, students learnt about the special characteristics of different bugs and the different roles they play.</p>
