@@ -39,7 +39,7 @@ third_nav_title: Resources for Parents
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4"><h4><strong>Parental Talks and School Events</strong></h4></label>
 <div>
-<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/index.html" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - MOE Microsite</a><br /><a href="https://www.moe.gov.sg/schoolfinder" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - School Finder</a><br /><a href="https://www.moe.gov.sg/secondary/dsa" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - DSA</a><br /><a href="/files/New%20AL%20Infographic.pdf" target="_blank" rel="noopener">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a></p>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/index.html" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - MOE Microsite</a><br /><a href="https://www.moe.gov.sg/schoolfinder" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - School Finder</a><br /><a href="https://www.moe.gov.sg/secondary/dsa" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - DSA</a><br /><a href="https://go.gov.sg/pslealupdates" target="_blank" rel="noopener">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a></p>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5"><h4><strong>Tips and User Guides for Parents</strong></h4></label>
