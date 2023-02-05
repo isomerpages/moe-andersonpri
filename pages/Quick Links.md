@@ -36,6 +36,6 @@ description: ""
 # **Extra Links**
 * [SC Mobile](https://scmobile.moe.edu.sg/)
 *  [iEXAMS](https://iexams.seab.gov.sg/)
-* [Pac@Gov](https://www.hrp.gov.sg/hrp/#/)
+* [HR & Payroll System (HRP)](https://www.hrp.gov.sg/hrp/#/)
 * [Parents Gateway](https://pg.moe.edu.sg/)
 * [Schoolbag](https://www.schoolbag.edu.sg/)
