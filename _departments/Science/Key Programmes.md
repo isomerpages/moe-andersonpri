@@ -41,6 +41,17 @@ third_nav_title: Science
 
 <img style="width: 65%;" src="/images/2023 Images/2023 Sci Dept Pic8.jpg" />
 
+<p class=""><strong class=""><span class="">(iii)&nbsp;</span></strong><strong class=""><span class="" lang="EN-SG">Sungei Buloh Wetland Reserve</span></strong><br>Primary 6 students had the opportunity to explore biodiversity in our own backyard and understand its importance during the mangrove walk at the Sungei Buloh Wetland Reserve. During this learning journey, students learnt eye-opening facts about fauna and flora in mangrove habitats, relationships between organisms and appreciate the importance of protecting our Mother Nature.</span></p>
+<img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2015.jpg" />
+
+
+
+
+
+
+
+
+
 
 
 
