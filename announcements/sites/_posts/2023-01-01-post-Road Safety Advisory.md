@@ -8,9 +8,9 @@ image: ""
 ---
 Dear parents/guardians
 
-	We would like to seek your cooperation to work with the school to ensure the road safety for all our students. 
+We would like to seek your cooperation to work with the school to ensure the road safety for all our students. 
 
-	In particular, we seek your help by observing the following safety guidelines:
+In particular, we seek your help by observing the following safety guidelines:
 	
 	1.	Exercise consideration for other road users and pedestrians by;
 		a.	Cooperating with all traffic marshals to ensure overall safety and smooth traffic flow
@@ -40,8 +40,8 @@ Dear parents/guardians
 		f.	At road bends, entrances or exits of any access &
 		g.	Parking abreast to another vehicle;
 
-	Under the current Road Traffic Act/Rules, any of the above acts constitute to a traffic offence. Upon receiving feedback of such occurrences, the authorities will take necessary action against the errant drivers. 
+Under the current Road Traffic Act/Rules, any of the above acts constitute to a traffic offence. Upon receiving feedback of such occurrences, the authorities will take necessary action against the errant drivers. 
 
-	We would like to remind parents that any kind of waiting without immediate pick-up or drop-off activity, even with the driver in the vehicle or the engine and hazard lights on, is considered parking under the Road Traffic Act. As such, we strongly advise parents to arrive at school only when they are ready to perform the immediate pick-ups/drops offs. If there is a need to wait, we would advise you to park your vehicles at the nearby HDB car parks which gives a grace period to avoid getting unnecessary fines in future. 
+We would like to remind parents that any kind of waiting without immediate pick-up or drop-off activity, even with the driver in the vehicle or the engine and hazard lights on, is considered parking under the Road Traffic Act. As such, we strongly advise parents to arrive at school only when they are ready to perform the immediate pick-ups/drops offs. If there is a need to wait, we would advise you to park your vehicles at the nearby HDB car parks which gives a grace period to avoid getting unnecessary fines in future. 
 
-	We thank all parents and guardians for playing a part in keeping our roads safe for our children.
+We thank all parents and guardians for playing a part in keeping our roads safe for our children.
