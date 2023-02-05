@@ -163,6 +163,8 @@ third_nav_title: Science
 
 <p>During our 2022 Finish Strong! Programme, we awarded the ‘Young Botanist’, ‘Young Engineer’, ‘Young Zoologist’, ‘Young Entomologist’, ‘Young Environmentalist’, ‘Young Physicist’, ‘Young Energy Saver’, ‘Young Mathematician’, ‘Young Marie Curie’ and ‘Young Margaret Fountaine’ badges to all student participants. </p>
 
+<p>We have also created our own ‘Young Eureka Badge’ for the P1 students, in recognition of Eureka, our school’s STEM Applied Learning Programme.  The P1 students were given the badges for their participation in our school’s STEM programmes, such as the learning journey to Gardens by the Bay and in the making of the STEM Catapult during the Finish Strong! programme.</p>
+
 
 
 
