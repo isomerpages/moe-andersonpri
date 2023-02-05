@@ -270,6 +270,7 @@ third_nav_title: Science
 <li>Elementz Science Project Competition and Exhibition&nbsp;</li>
 <li>Singapore Primary Science Olympiad</li>
 <li>Raffles Science Olympiad</li>
+	<li>NUS High Programme – Da Vinci, Mcurie2 and Summer/Winter workshops</li>
 </ul>
 
 
