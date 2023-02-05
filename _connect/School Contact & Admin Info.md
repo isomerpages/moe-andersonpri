@@ -174,11 +174,7 @@ description: ""
 <h4><strong>School Dental Clinic</strong></h4>
 <table>
 <tbody>
-<tr>
 
-
-</td>
-</tr>
 <tr>
 <td>
 <div>Opening Day/Hours</div>
