@@ -146,18 +146,15 @@ third_nav_title: Science
 <p>I am a Water Ambassador</p>
 </td>
 <td width="204">
-	<p>Science</p></td>
-	
-	
-	
-	
+	<p>Science</p></td>	
+
 </td>
 </tr>
 </tbody>
 </table>
 <p>Besides stimulating interest in Science through activities, students have taken the initiative to be creative in their presentation and communication of learning.</p>
 
-
+<img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2016.jpg" />
 
 
 
