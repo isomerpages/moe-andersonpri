@@ -15,35 +15,36 @@ contacts:
   - content:
       - phone: +65 6456 0340
       - email: ""
-      - other: "During School Term: 7:00AM to 5:30 PM During School Holidays: 8:00AM to
-          5:00PM Mondays to Fridays"
+      - other: "Operating Hours during school term: 7:00 am to 5:30 pm. During the
+          school holidays: 8:00 am to 5:00 pm (Mondays to Fridays)"
     title: General Office
   - content:
       - phone: +65 9831 5851
       - email: andersonbus.services@outlook.sg
-      - other: Alternatively, contact +65 9621 6653
+      - other: "Alternative contact no:  +65 9621 6653"
     title: School Bus
   - content:
-      - phone: +65 6257 2783
+      - phone: +65 8764 1250
       - email: ""
-      - other: "Note: The dental clinic in our school will be closed until further
-          notice. For emergencies such as dental trauma, facial/gum swellings or
-          toothaches please call +65 6435 3782"
+      - other: "In case of emergency, please call Palmview Primary School Clinic at
+          Tel:  8764 1250. Alternatively, please call Health Promotion Board,
+          School Dental Centre Call Centre at Tel: 6435 3782 (strictly by
+          appointment only)."
     title: School Dental Clinic
   - content:
       - phone: +65 6252 1933
       - email: sales@pacificbookstores.com
-      - other: Under Pacific Bookstores Pte Ltd, https://www.pacificbookstores.com
+      - other: Visit website at https://www.pacificbookstores.com for more information
     title: School Bookshop
   - content:
       - phone: +65 6456 3198
       - email: sales@jeepsinguniform.com
-      - other: "Under Jee Sing Fashion, https://www.jeepsinguniform.com  "
+      - other: Visit website at https://www.jeepsinguniform.com for more information
     title: School Uniform / PE Attire
   - content:
       - phone: +65 8028 1456
-      - email: ""
-      - other: Led by Sally Tan, under Commit Learning,
-          ttps://www.commitlearning.com.sg/home
+      - email: goh_kim_poh@commitlearning.com.sg
+      - other: "Contact person: Mr Sunny Goh. Alternatively, you could visit website at
+          https://www.commitlearning.com.sg/home for more information"
     title: School Student Care (SSC)
 ---
