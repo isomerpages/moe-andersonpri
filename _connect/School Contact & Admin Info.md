@@ -198,7 +198,7 @@ description: ""
 	<div>In case of emergency, please call Palmview Primary School Clinic at Tel: 
 	&nbsp;<a href="tel:8764 1250" target="">8764 1250</a>.</div>
 <p>
-<div>Health Promotion Board, School Dental Centre Call Centre at Tel:&nbsp;<a href="tel:6435 3782" target="">6435 3782</a>.</div></p>
+<div>Alternatively, please call Health Promotion Board, School Dental Centre Call Centre at Tel:&nbsp;<a href="tel:6435 3782" target="">6435 3782</a> (strictly by appointment only).</div></p>
 </td>
 </tr>
 </tbody>
