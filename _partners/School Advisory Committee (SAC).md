@@ -6,9 +6,9 @@ description: ""
 <table cellspacing="1" cellpadding="1">
 <tbody>
 <tr>
-<td><img style="width: 60%;" src="/images/SAC/Mr%20Lim%20Chiow%20Giap%20Chairman.jpg" /></td>
-<td><img style="width: 95%;" src="/images/SAC/Mdm%20Hoo%20Honorary%20Secretary.jpg" /></td>
-<td><img style="width: 83%;" src="/images/SAC/Mr%20Tan%20Kian%20Shen%20Aison.jpg" /></td>
+<td><img style="width: 83%;" src="/images/SAC/Mr%20Lim%20Chiow%20Giap%20Chairman.jpg" /></td>
+<td><img style="width: 90%;" src="/images/SAC/Mdm%20Hoo%20Honorary%20Secretary.jpg" /></td>
+<td><img style="width: 75%;" src="/images/SAC/Mr%20Tan%20Kian%20Shen%20Aison.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mr Lim Chiow Giap<br />Chairman</td>
