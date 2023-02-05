@@ -167,10 +167,6 @@ third_nav_title: Science
 
 <img style="width: 65%;" src="/images/2023 Images/2023 Sci Dept Pic10.jpg" />
 
-
-
-
-<img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2011.jpg" />
 <p class=""><strong class=""><u class=""><span class="" lang="EN-SG">Science Experiential Day/Week</span></u></strong><br>Science Experiential Day/Week aims to raise awareness and empower Andersonians to be Environment Stewards of Sustainability. Under the theme of Sustainable Energy, upper primary students will learn more about green energy sources and concepts on energy efficiency while reflecting on how they can do their part to conserve energy.<br class="" /></span></strong></p>
 <p class=""><strong class=""><span class="" lang="EN-SG">(i) Energy Conservation Week</span></strong><br>Aligned to the topic of Electricity and the Anderson vision of nurturing every Andersonian to be a responsible Environment Steward, the Energy Conservation Week aims to create hands-on opportunities for students to learn about real-world phenomena and issues in electricity use and conservation.</span></p>
 <p class="">Primary 5 students took on the role of a Young Energy Saver Scientist to investigate the efficiency of light conversion from electrical energy from different bulb sources at the &lsquo;Bulb in a Box&rsquo; Interaction Activity Booth. At the &lsquo;Food for Thought&rsquo; Interaction Activity Booth, students had the opportunity to generate electricity using food and investigate which types of food generate a higher amount of electricity. Throughout the week, students also carried out the various activities under the &lsquo;I am a Young Energy Saver&rsquo; Badge Scheme to learn more about Energy Conservation.</p>
@@ -335,3 +331,7 @@ third_nav_title: Science
 <li>Singapore Primary Science Olympiad</li>
 <li>Raffles Science Olympiad</li>
 </ul>
+
+
+
+<img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2011.jpg" />
