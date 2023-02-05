@@ -87,10 +87,10 @@ third_nav_title: Service Providers
 <h4><strong>CLS Fees at Anderson Primary School</strong></h4>
 <ul>
 <li>One-time registration fee: $30</li>
-<li>Monthly SCC fees: $230</li>
+<li>Monthly SCC fees: $240</li>
 <li>CLS T-shirt: $10; CLS shorts: $15</li>
 <li>School holiday/ school closure surcharge: $6/day</li>
-<li>One month deposit fee: $230</li>
+<li>One month deposit fee: $240</li>
 </ul>
 <h4><strong>Contact Details</strong></h4>
 <p>Tel:&nbsp;<a href="tel:8028 1456" target="">8028 1456</a>&nbsp;(preferably through SMS between 2.30pm to 5.30pm)<br />Email:&nbsp;<a href="mailto:sallytan@commitlearning.com.sg" target="">sallytan@commitlearning.com.sg</a><br />Website:&nbsp;<a href="https://www.commitlearning.com.sg/home" target="_blank" rel="noopener">https://www.commitlearning.com.sg/home</a><br />For any general feedback or enquiries, please email CLS at&nbsp;<a href="mailto:enquiries@commitlearning.com.sg" target="">enquiries@commitlearning.com.sg</a></p>
