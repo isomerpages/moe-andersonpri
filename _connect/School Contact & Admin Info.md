@@ -131,7 +131,7 @@ description: ""
 </td>
 <td>
 <div>Mondays to Fridays</div>
-<div>7.00 am to 6.00 pm</div>
+<div>7.00 am to 5.30 pm</div>
 </td>
 </tr>
 <tr>
