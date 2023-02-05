@@ -10,7 +10,7 @@ third_nav_title: Teachers
 <td style="text-align: center;" colspan="2" height="41"><strong>Class 2.1</strong></td>
 </tr>
 	
-<tr style="text-align: center;"><td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<tr style="text-align: center;"><td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 	
 <tr style="text-align: center;"><td width="50%">Mrs Lena Ho<br />P2 Level Executive Officer</td>
