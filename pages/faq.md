@@ -6,11 +6,11 @@ permalink: /faq/
 <table>
 <tbody>
 <tr>
-<td>Monday &amp; Wednesday</td>
+<td>Monday, Tuesday &amp; Wednesday</td>
 <td>*7.30 am to 1.30 pm</td>
 </tr>
 <tr>
-<td>Tuesday, Thursday, Friday</td>
+<td>Thursday, Friday</td>
 <td>*7.30 am to 1.00 pm</td>
 </tr>
 </tbody>
@@ -20,11 +20,11 @@ permalink: /faq/
 <tbody>
 <tr>
 <td rowspan="2" width="179"><strong>Levels</strong></td>
-<td colspan="2" width="342"><strong>Staggered Dismissal Time&nbsp;</strong><strong>(W.E.F 4 Jan 2022)</strong></td>
+<td colspan="2" width="342"><strong>Staggered Dismissal Time&nbsp;</strong><strong>(w.e.f. 2 Jan 2023)</strong></td>
 </tr>
 <tr>
-<td width="180"><strong>Monday, Wednesday</strong></td>
-<td width="162"><strong>Tuesday, Thursday,&nbsp;</strong><strong>Friday</strong></td>
+<td width="180"><strong>Monday, Tuesday & Wednesday</strong></td>
+<td width="162"><strong>Thursday,&nbsp;</strong><strong>Friday</strong></td>
 </tr>
 <tr>
 <td width="179">
@@ -91,7 +91,7 @@ permalink: /faq/
 <p><span style="font-size: small;">During School Term</span></p>
 </td>
 <td style="height: 37px; width: 353.281px;">
-<p><span style="font-size: small;">Mondays to Fridays<br />7.00 am to 6.00 pm</span></p>
+<p><span style="font-size: small;">Mondays to Fridays<br />7.00 am to 5.30 pm</span></p>
 </td>
 </tr>
 <tr style="height: 56px;">
@@ -130,7 +130,7 @@ permalink: /faq/
 <p><span style="font-size: small;">Tel</span></p>
 </td>
 <td style="width: 205.797px;">
-<p><span style="font-size: small;"><a href="tel:98315851" target="">9831 5851&nbsp;</a>(Mr Tan)<br /></span><span style="font-size: small;"><a href="tel:96216653" target="">9621 6653&nbsp;</a>(Mui Mui)</span><span style="font-size: small;"><br /></span></p>
+<p><span style="font-size: small;"><a href="tel:98315851" target="">9831 5851&nbsp;</a>(Mr Tan)<br /></span><span style="font-size: small;"><a href="tel:96216653" target="">9621 6653&nbsp;</a>(Iris)</span><span style="font-size: small;"><br /></span></p>
 </td>
 </tr>
 </tbody>
@@ -141,19 +141,13 @@ permalink: /faq/
 <table style="width: 543px;" border="0" cellspacing="0" cellpadding="5">
 <tbody>
 <tr>
-<td style="width: 75.5398px;">
-<p><span style="font-size: small;">Tel</span></p>
-</td>
-<td style="width: 441.491px;">
-<p><span style="font-size: small;"><a href="tel:62572783" target="">6257 2783</a></span></p>
-</td>
 </tr>
 <tr>
 <td style="width: 75.5398px;">
 <p><span style="font-size: small;">Opening Day/Hours</span></p>
 </td>
 <td style="width: 441.491px;">
-<p><span style="font-size: small;">Mondays:&nbsp;8.00 am to 5:00 pm<br />Fridays: 8.00 am to 5:00 pm.<br /></span></p>
+<p><span style="font-size: small;">Mon - Thu: 8.00 am to 5:00 pm<br />Fri: 8.00 am to 5:00 pm.<br /></span></p>
 </td>
 </tr>
 <tr>
