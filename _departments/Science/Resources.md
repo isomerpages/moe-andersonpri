@@ -33,6 +33,7 @@ third_nav_title: Science
 <li>‘Energy Heroes!’ Exhibit comprised five game exhibits for Andersonians to appreciate the importance of energy and what we can do to conserve energy.</li>
 <li>‘The Inflatable Lung’ exhibition allowed Andersonians to take a step into one of the largest organs in our body that keeps us alive and breathing. Students also had an opportunity to participate in a challenge where they find out how “powerful” their lungs are.</li>
 <li> ‘Marine Tank’ Interaction Booth where students learnt about ecosystems, habitats, adaptations and had the opportunity to ‘touch’ various marine organisms. </li>
-	
+
 <img style="width: 65%;" src="/images/2023 images/2023 Sci Dept Pic22.jpg"/>
-	<img style="width: 65%;" src="/images/2023 images/2023 Sci Dept Pic23.jpg"/>
+<br>
+<img style="width: 65%;" src="/images/2023 images/2023 Sci Dept Pic23.jpg"/>
