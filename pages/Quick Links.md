@@ -27,6 +27,7 @@ description: ""
 * [SLS - Quick Guide](https://go.gov.sg/2023slsguide)
 * [SLS - Reset Password / Unlock Account](https://go.gov.sg/slsresetting)
 * [Student iCON](https://workspace.google.com/dashboard)
+* [KooBits](https://member.koobits.com)
 
 # **Health Promotion Board (HPB)**
 * [Healthy Meals in Schools Programme](/files/HPB%20HM%20Parents%20Booklet_School_Generic_30%20Mar.pdf)
