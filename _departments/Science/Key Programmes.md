@@ -233,6 +233,7 @@ third_nav_title: Science
 
 <p>In addition, hands-on learning experiences such as the include rhizome growing activity encouraged students to learn how to grow ginger in fabric pouches made 100% from recycled plastic. Students also examined the components of sustainable growing materials such as cocopeat and vermicast made from recycled food waste. <p>
 
+<img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic16.jpg" />
 
 
 
