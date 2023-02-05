@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Science
 ---
 <p><strong>Inquiry-based Active Learning with Technology</strong><br>Students learn Science using the inquiry approach via a variety of ICT tools and experiential hands-on experiments. This ensures that the learning of Science is not confined to the textbook and the classrooms, but is seamlessly integrated into the students&rsquo; lives.</p>
-<img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%202.jpg" />
 <img style="width: 65%;" src="/images/2023 Images/2023 Sci Pic1.jpg" />
+<img style="width: 65%;" src="/images/2023 Images/2023 Sci Pic2.jpg" />
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%204.jpg" />
 <p><strong><u>Outdoor Learning</u></strong><br>To nurture a sense of appreciation for nature and encourage Andersonians to do their part for the environment, various science enrichment modules have been designed to provide outdoor learning experiences and opportunities for self-discovery through hands-on doing.</p>
 <p></p>
