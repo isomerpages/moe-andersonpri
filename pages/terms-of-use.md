@@ -2,45 +2,76 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### Agreement – Terms
+Thank you for visiting Anderson Primary School website. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
 
-1.  Thank you for visiting this Website (“The Website”). The Website is owned and maintained by the Ministry of Education, Singapore (hereinafter “MOE”).
-2.  All access of any area of The Website is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms.
-3.  In these Terms, the words “we,” “our” and “us” refer to MOE.
-4.  MOE reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.
+#### General
 
-### Access to The Website
+These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
 
-1.  The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of The Website.
+#### Proprietary Rights
 
-### Relying on Information
+This Web Site is maintained by Anderson Primary School. It is owned by Anderson Primary School. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Anderson Primary School.
 
-1.  The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.
-2.  The materials located on The Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by MOE.
+#### Privacy Policy
 
-### Security
+This is Anderson Primary School website. Thank you for examining our privacy statement.
 
-1.  Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.
-2.  Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.
+If you are only browsing this website, we do not capture data that allows us to identify you individually.
 
-### Hyperlinks
+If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
 
-1.  We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other site is at your own risk.
-2.  If you create a link or frame to The Website you do so at your own risk.
-3.  Private entities who wish to have their websites hyperlinked on The Website can write to The Webmaster at [contact@moe.gov.sg](mailto:contact@moe.gov.sg), with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.
-4.  We reserve the right to object to, or disable any link or frame to or from The Website.
-5.  We reserve the right to change the URL of The Website.
+For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.
 
-### Intellectual Property
+To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
 
-1.  Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us. All rights reserved (© Ministry of Education, Government of Singapore)
-2.  Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted by law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on The Website is prohibited.
+This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-### Disclaimer of Warranties and Liability
+**Consent for Photography and Videos**
 
-1.  We will not be liable for any loss or damage:
-    1.  that you may incur on account of using, visiting or relying on any statement, opinion, representation or information in The Website;
-    2.  resulting from any delay in the operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software; or
-    3.  the conduct or the views of any person who accesses or uses The Website.
+Photograph(s) or video image(s) of students and their parents/guardians may be captured during school activities and events such as classroom lessons, CCA, school camps and school concerts. The school may use and publish such photographs and/or video recordings in school publications, website, social media channels, and other communication channels. Please notify the school in writing if you do not wish to grant such permission.
 
+#### Restriction on Use of Materials
+
+Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Anderson Primary School. To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
+
+Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Anderson Primary School’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Anderson Primary School.
+
+#### Right of Access
+
+Anderson Primary School reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.
+
+#### Disclaimer of Warranties and Liability
+
+The Contents of this Web Site are provided on an “as is” basis without warranties of any kind. To the fullest extent permitted by law, Anderson Primary School does not warrant and hereby disclaims any warranty:
+
+1.  as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site.  
+      
+    
+2.  that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.
+
+Anderson Primary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
+
+#### Links from this Web Site to other Web Sites
+
+This Web Site contains hyperlinks to websites which are not maintained by Anderson Primary School. Anderson Primary School is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
+
+Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Anderson Primary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
+
+#### Links to this Web Site from other Web Sites
+
+Except as set forth below, caching and links to, and the framing of this Web Site or any of the Contents are prohibited.
+
+You must secure permission from Anderson Primary School prior to hyperlinking to, or framing, this Web Site or any of the Contents, or engaging in similar activities. Anderson Primary School reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Web Site or any of the Contents.
+
+Your linking to, or framing any part of this Web Site or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Web Site or any of the Contents.
+
+In no circumstances shall Anderson Primary School be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents.
+
+Anderson Primary School reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+
+Anderson Primary School reserves the right to disable any unauthorized links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.
+
+#### Governing Law
+
+These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
 
