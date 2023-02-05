@@ -30,7 +30,7 @@ description: ""
 * [KooBits](https://member.koobits.com)
 * [eZhishi](https://www.ezhishi.net)
 # **Health Promotion Board (HPB)**
-* [Easy Snacks for Break Time](/easy-snacks-for-break-time)
+* [Easy Snacks for Break Time](/parents/resources-for-parents/resources/easy-snacks-for-break-time/)
 
 # **Extra Links**
 * [SC Mobile](https://scmobile.moe.edu.sg/)
