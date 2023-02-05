@@ -157,7 +157,7 @@ third_nav_title: Science
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2016.jpg" />
 
 
-
+<p>We were also honoured to be invited by the Singapore Science Centre to the 40th Anniversary Young Scientist Ceremony on 21 September 2022 to receive the 'Top Achievers Award' for our high student participation of the Young Scientist Programme between 2020 to 2022. Our school was honoured to receive the award from our Minister for Education, Mr Chan Chun Sing.</p>
 
 
 
