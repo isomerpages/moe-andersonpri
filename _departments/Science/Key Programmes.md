@@ -44,6 +44,90 @@ third_nav_title: Science
 <p class=""><strong class=""><span class="">(iii)&nbsp;</span></strong><strong class=""><span class="" lang="EN-SG">Sungei Buloh Wetland Reserve</span></strong><br>Primary 6 students had the opportunity to explore biodiversity in our own backyard and understand its importance during the mangrove walk at the Sungei Buloh Wetland Reserve. During this learning journey, students learnt eye-opening facts about fauna and flora in mangrove habitats, relationships between organisms and appreciate the importance of protecting our Mother Nature.</span></p>
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2015.jpg" />
 
+<p><strong><u>Young Scientist Badge Programme</u></strong><br>To encourage the application of learning to the real world and provide opportunities for students to carry out self-directed activities in the various disciplines of Science and Mathematics, the following Young Scientist Badges are offered to Primary 2 to 5 students.</p>
+<table>
+<tbody>
+<tr>
+<td width="66">
+<p><strong>Level</strong></p>
+</td>
+<td width="234">
+<p><strong>Badge</strong></p>
+</td>
+<td width="204">
+<p><strong>Curricula Subject</strong></p>
+</td>
+</tr>
+<tr>
+<td width="66">
+<p>P2</p>
+</td>
+<td width="234">
+<p>I am a Young Botanist</p>
+</td>
+<td width="204">
+<p>P2 PAL &ndash; Outdoor Education</p>
+</td>
+</tr>
+<tr>
+<td width="66">
+<p>P3</p>
+</td>
+<td width="234">
+<p>I am a Young Zoologist</p>
+</td>
+<td width="204">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td width="66">
+<p>P4</p>
+</td>
+<td width="234">
+<p>I am a Young Environmentalist</p>
+</td>
+<td width="204">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td width="66">
+<p>P5</p>
+</td>
+<td width="234">
+<p>I am a Young Energy Saver</p>
+</td>
+<td width="204">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td width="66">
+<p>P5</p>
+</td>
+<td width="234">
+<p>I am a Young Mathematician</p>
+</td>
+<td width="204">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td width="66">
+<p>P6</p>
+</td>
+<td width="234">
+<p>I am a Young Water Ambassador</p>
+</td>
+<td width="204">
+<p>Science</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Besides stimulating interest in Science through activities, students have taken the initiative to be creative in their presentation and communication of learning.</p>
+
 
 
 
