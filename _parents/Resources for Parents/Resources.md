@@ -28,7 +28,7 @@ third_nav_title: Resources for Parents
 <li><a href="https://go.gov.sg/2023form3ntil" target="_blank" rel="noopener">Form 3 - NTIL</a></li>
 <li><a href="https://go.gov.sg/2023moefasapply" target="_blank" rel="noopener">MOE FAS Application Form</a></li>
 
-<li><a href="/files/AndPS%202021%20Bookshop%20Schedule.pdf" target="_blank" rel="noopener">AndPS Bookshop Schedule</a></li>
+<li><a href="https://go.gov.sg/2023pgboarding" target="_blank" rel="noopener">Parents Gateway - One Time Onboarding Guide</a></li>
 <li><a href="/files/AndPS%202021%20Uniform%20Sale%20Schedule.pdf" target="_blank" rel="noopener">AndPS School Uniform</a></li>
 <li><a href="/files/202021%20PCAB%20Tip%201%20-%20Tip%204.pdf" target="_blank" rel="noopener">PCAB Tip 1 to Tip 4</a></li>
 <li><a href="/files/2021%20PCAB%20Tip%205%20-%20Tip%2010.pdf" target="_blank" rel="noopener">PCAB Tip 5 to Tip 10</a></li>
