@@ -175,6 +175,12 @@ third_nav_title: Science
 
 <img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic11.jpg" />
 
+<p>Through the various Young Energy Saver Badge activities, students also identified ways of using electricity wisely and actions to conserve electrical energy. </p>
+
+
+<img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic12.jpg" />
+
+
 
 
 <p class="">Primary 5 students took on the role of a Young Energy Saver Scientist to investigate the efficiency of light conversion from electrical energy from different bulb sources at the &lsquo;Bulb in a Box&rsquo; Interaction Activity Booth. At the &lsquo;Food for Thought&rsquo; Interaction Activity Booth, students had the opportunity to generate electricity using food and investigate which types of food generate a higher amount of electricity. Throughout the week, students also carried out the various activities under the &lsquo;I am a Young Energy Saver&rsquo; Badge Scheme to learn more about Energy Conservation.</p>
