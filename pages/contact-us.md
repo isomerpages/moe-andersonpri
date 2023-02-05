@@ -15,13 +15,13 @@ contacts:
   - content:
       - phone: +65 6456 0340
       - email: ""
-      - other: "During School Term: 7:00AM to 6:00PM During School Holidays: 8:00AM to
+      - other: "During School Term: 7:00AM to 5:30 PM During School Holidays: 8:00AM to
           5:00PM Mondays to Fridays"
     title: General Office
   - content:
       - phone: +65 9831 5851
       - email: andersonbus.services@outlook.sg
-      - other: Also available, +65 9621 6653
+      - other: Alternatively, contact +65 9621 6653
     title: School Bus
   - content:
       - phone: +65 6257 2783
