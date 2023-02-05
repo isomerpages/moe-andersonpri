@@ -260,8 +260,7 @@ third_nav_title: Science
 </ul>
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2018.jpg" />
 <img style="width: 65%;" src="/images/2021%20SCI%20-%20pic%2019.jpg" />
-
-
+<img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic17.jpg" />
 
 
 <p><strong><u>Additional Enrichment Programmes</u></strong></p>
