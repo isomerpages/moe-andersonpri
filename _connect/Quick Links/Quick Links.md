@@ -30,7 +30,7 @@ third_nav_title: Quick Links
 <ul>
 <li><a href="http://www.moe.gov.sg/" target="_blank" rel="noopener">MOE Website</a></li>
 <li><a href="https://go.gov.sg/moe-sexuality-education" target="_blank" rel="noopener">MOE P5-P6 Sexuality Education Programme</a></li>
-<li><a href="/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf" target="_blank" rel="noopener">Information on Student Vaccination Exercise</a></li>
+<li><a href="https://go.gov.sg/studentcovidvaccination" target="_blank" rel="noopener">Information on Student Vaccination Exercise</a></li>
 <li><a href="https://www.moe.gov.sg/microsites/psle-fsbb/index.html" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - MOE Microsite</a></li>
 <li><a href="https://www.moe.gov.sg/schoolfinder" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - School Finder</a></li>
 <li><a href="https://www.moe.gov.sg/secondary/dsa" target="_blank" rel="noopener">Principal&rsquo;s Briefing on Changes to PSLE Scoring System - DSA</a></li>
