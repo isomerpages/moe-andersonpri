@@ -186,7 +186,8 @@ third_nav_title: Science
 
 <p class=""><strong class=""><span class="" lang="EN-SG">(ii) Wind Turbine Making Day</span></strong><br>At the Science Experiential Day conducted by Singapore Science Centre, Primary 6 students made their own wind turbine by making a pinwheel to attach to a motor. Students were encouraged to be creative in testing out various pinwheel designs that will be efficient in collecting wind so as to enable the LED that is attached to the motor, to light up steadily. Through this experiential day, students learnt to apply concepts of energy conversion to explain how their wind turbine works and appreciated how wind is a green energy source to generate electricity</span><span class="" lang="EN-SG">.</span></p>
 
-
+<img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic14.jpg" /> <br>
+<img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic15.jpg" />
 
 <p class="">Primary 5 students took on the role of a Young Energy Saver Scientist to investigate the efficiency of light conversion from electrical energy from different bulb sources at the &lsquo;Bulb in a Box&rsquo; Interaction Activity Booth. At the &lsquo;Food for Thought&rsquo; Interaction Activity Booth, students had the opportunity to generate electricity using food and investigate which types of food generate a higher amount of electricity. Throughout the week, students also carried out the various activities under the &lsquo;I am a Young Energy Saver&rsquo; Badge Scheme to learn more about Energy Conservation.</p>
 <p class=""><span class="" lang="EN-SG">Through the Science Activity Booths and the Young Energy Saver Activity Book, we hope to develop in Andersonians an appreciation for energy resources, for them to understand the rationale behind the need to conserve electrical energy and learn ways to do their part in the responsible use and conservation of electricity for sustainable living.</span></p>
