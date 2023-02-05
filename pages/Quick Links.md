@@ -19,7 +19,7 @@ description: ""
 * [APS SPYDUS (Online Library)](https://schoolibrary.moe.edu.sg/andersonpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 * [Homework Policy](https://go.gov.sg/andpshwpolicy)
 * [School Calendar](https://calendar.google.com/calendar/u/0/r?cid=andersonprischool@gmail.com&pli=1)
-* [Student Accident Protection Scheme](/files/Product%20Fact%20Sheet%20(Dec2018).pdf)
+
 
 # **Academic Links**
 * [Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
