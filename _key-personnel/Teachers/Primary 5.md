@@ -10,7 +10,7 @@ third_nav_title: Teachers
 <td style="text-align: center;" colspan="2" height="41"><strong>Class 5.1</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td width="50%">Mrs Serene Soh</td>
@@ -29,10 +29,10 @@ third_nav_title: Teachers
 <td><a href="mailto:jessie_nah_min_li@moe.edu.sg" target="">jessie_nah_min_li@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 5.2</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 5.2</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td width="50%">Ms Adelene Guo</td>
@@ -43,10 +43,10 @@ third_nav_title: Teachers
 <td><a href="mailto:siti_suraidah_rahim@moe.edu.sg" target="">siti_suraidah_rahim@moe.edu.sg</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 5.3</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 5.3</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td>Mr Leow Kor Ming<br />School Staff Developer</td>
@@ -59,10 +59,10 @@ third_nav_title: Teachers
 <td><a href="mailto:salim_fong@moe.edu.sg" target="">salim_fong@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 5.4</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 5.4</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td width="50%">Mr Alan Tan Eng Leong<br />Senior Teacher (Mathematics)</td>
@@ -73,10 +73,10 @@ third_nav_title: Teachers
 <td><a href="mailto:seet_chia_song@moe.edu.sg" target="">seet_chia_song@moe.edu.sg</a><br /><br /></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 5.5</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 5.5</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td>Mrs Haslinda Azhar<br>Lead Teacher (English Language)</td>
@@ -88,10 +88,10 @@ third_nav_title: Teachers
 </tr>
 
 <tr style="text-align: center;">
-<td colspan="2" height="41"><strong>Class 5.6</strong></td>
+<td colspan="2" style="text-align: center;" height="41"><strong>Class 5.6</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td colspan="2" height="25"><strong>Form Teachers</strong></td>
+<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
 <td>Ms Tan Yin Jia Erica</td>
