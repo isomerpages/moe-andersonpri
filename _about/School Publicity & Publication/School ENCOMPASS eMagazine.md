@@ -11,5 +11,5 @@ third_nav_title: School Publicity & Publication
  <center><a href="https://go.gov.sg/andpsencompass20211">ENCOMPASS Magazine -2021 (1st Issue) </a></center>
  
  
- <img style="width: %;" src="/images/2023%20Images/Encompass 20th Anniversary.jpg" align = "centre" />
+ <img style="width: %;" src="/images/2023%20Images/Encompass 2021 2nd Issue.jpg" align = "centre" />
  <center><a href="https://go.gov.sg/andpsencompass20212">ENCOMPASS Magazine -2021 (2nd Issue)</a></center>
