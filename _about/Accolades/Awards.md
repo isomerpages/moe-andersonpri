@@ -13,8 +13,10 @@ third_nav_title: Accolades
 <p>We would like to thank all our stakeholders for their partnership and support in building a strong arts culture in Anderson!</p>
 <p>This award is valid for four years till 2019 and with pride, we will continue to strive and build a more vibrant and engaging environment in and through the arts for all Andersonians!</p>
 <img style="width: 50%;" src="/images/awards2.jpg">
-<h4><strong>Other Awards</strong></h4>
+
+
+<h4><strong> <font style="color:#FFFFFF"> Other Awards</strong></h4>
 <ul>
-<li><a href="/about/accolades/curriculum">Curriculum</a></li>
-<li><a href="/about/accolades/co-curriculum">Co-Curriculum</a></li>
-</ul>
+<li><a href="/about/accolades/curriculum"><font style="color:#FFFFFF">Curriculum</a></li>
+<li><a href="/about/accolades/co-curriculum"><font style="color:#FFFFFF">Co-Curriculum</a></li> 
+</ul></p>
