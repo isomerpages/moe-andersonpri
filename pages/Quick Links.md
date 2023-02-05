@@ -6,7 +6,7 @@ description: ""
 # **MOE Links**
 * [MOE Website](https://moe.gov.sg)
 * [MOE P5-P6 Sexuality Education Programme](https://go.gov.sg/moe-sexuality-education)
-* [Information on Student Vaccination Exercise](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise%20(1).pdf)
+* [Information on Student Vaccination Exercise](https://go.gov.sg/studentcovidvaccination)
 * [Principal's Briefing on changes to PSLE Scoring System - MOE Microsite](https://www.moe.gov.sg/microsites/psle-fsbb/index.html)
 * [Principal's Briefing on changes to PSLE Scoring System - School Finder](https://www.moe.gov.sg/schoolfinder)
 * [Principal's Briefing on changes to PSLE Scoring System - DSA](https://www.moe.gov.sg/secondary/dsa)
