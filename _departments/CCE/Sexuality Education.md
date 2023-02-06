@@ -50,10 +50,12 @@ You may click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/moe
 <ol start="6">
 <li>The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media other resources. </li>
 </ol>
+<br>
 <ol start="7">
 <li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</li>
 </ol>
-<p><strong>At Anderson Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2022</u>:</strong></p>
+<br>
+<strong>At Anderson Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</strong></p>
 <p width="99" style="text-align: c 
 <tr>
 <td style="><strong>UNIT</strong>
