@@ -49,109 +49,16 @@ You may click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/moe
 <ol start="6">
 <li>The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media other resources. </li>
 </ol>
-<br>
 <ol start="7">
 <li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</li>
 </ol>
 <br>
 <strong><div>At Anderson Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</strong></div>
 
-	
-<p width="99" style="text-align: c 
-<tr>
-<td style="><strong>UNIT</strong>
-<strong>LESSONS / DURATION</strong>
-<strong>Lesson Objectives<br>At the end of the lesson, pupils will be able to:</strong>
-<strong>TIME PERIOD</strong>
+<strong><div>2023 Sexuality Education Lesson in CCE 2021
+	Primary 5 </strong></div>
 
-
-Gosh! I Am Changing
-What Is Happening To Me?<br>(30 min)
-
-</p><ul>
-<li>know what puberty is</li>
-<li>identify the physical changes during puberty</li>
-</ul>
-
-Term 2
-
-
-What Can I Do?<br>(Part 1)<br>(30 min)
-
-<ul>
-<li>identify the stresses caused by physical and emotional changes during puberty</li>
-<li>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</li>
-<li>describe the emotions caused by physical changes during puberty</li>
-<li>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</li>
-</ul>
-
-Term 2
-
-
-What Can I Do?<br>(Part 2)<br>(30 min)
-
-<ul>
-<li>identify the stresses caused by physical and emotional changes during puberty</li>
-<li>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty</li>
-<li>describe the emotions caused by physical changes during puberty</li>
-<li>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</li>
-</ul>
-
-Term 2
-
-
-Main Task<br>(30 min)
-
-<p>Description of the Main Task:<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</p>
-
-Term 2
-
-
-Where I Belong
-What Are Families?<br>(30 min)
-
-<ul>
-<li>know that there are different types of family structures</li>
-<li>know that every family is unique</li>
-<li>state that the three basic functions of families are to provide love, protection and guidance</li>
-<li>identify the right sources of help to turn to when in need</li>
-</ul>
-
-Term 3
-
-
-Where I Belong
-What is My Role?<br>(30 min)
-
-<ul>
-<li>know that gender is about being male or female</li>
-<li>choose not to stereotype by gender</li>
-</ul>
-
-Term 3
-
-
-How Do I Keep Myself Safe?
-What is Safety?<br>(30 min)
-
-<ul>
-<li>know what sexual abuse is</li>
-<li>know that there are laws in Singapore that can protect them from sexual abuse</li>
-<li>know their rights in keeping themselves safe from sexual abuse</li>
-</ul>
-
-Term 3
-
-
-Stop It! Run! Tell!<br>(30 min)
-
-<ul>
-<li>protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult</li>
-<li>know their responsibilities in minimising the risk of sexual harm</li>
-</ul>
-
-Term 3
-
+<strong> <div> Primary 5 </strong></div>
 
 
 <p style="text-align: center;"><strong>Primary 6</strong></p>
