@@ -110,6 +110,7 @@ In this lesson, students will learn about sexual abuse, how it can happen during
 </table>
 <br> 
 <strong> <u> Please Note:</strong></u>
+<strong> *For 2023, the Primary 5 lessons "Did You Know?" will also conducted for the Primary 6 cohort. </strong> 
 
 
 
