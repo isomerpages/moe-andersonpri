@@ -2,11 +2,55 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
+Privacy Statement
+=================
 
-### **Government Agency Privacy Statement**
+1.  This is MOE School website. It is the policy of Anderson Primary School to respect your privacy regarding any information we may collect from you across our website.
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+2.  We may use “cookies”, a small data file that is sent to your browser to store and track information about you when you enter our website. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+3.  You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+4.  We may ask for personal information (depending on the nature of your interaction with us), such as your:
+
+*a. Name  
+b. Email  
+c. Date of Birth  
+d. Phone/Mobile Number  
+e. Home/Mailing Address * 
+
+
+5.  Your personal data may be collected, used, disclosed and/or processed by us for the following purposes:
+
+*a. To enable you to customise or personalise your experience of our website.  
+b. To enable you to access and use our website, associated applications and associated social media platforms.  
+c. To contact and communicate with you.  
+d. For internal record keeping and administrative purposes.  
+e. For analytics, market research and business development, including to operate and improve our website, associated applications and associated social media platforms.  
+f. To comply with our legal obligations and resolve any disputes that we may have.  
+g. To consider your employment application.  *
+   
+
+6.  By interacting with us and submitting your personal data to us, you consent to our collection, use, disclosure and/or processing of your personal data for the purposes described above in clause 5.  
+   
+
+7.  If you provide us with any personal data relating to a third party, by submitting such information to us, you represent to us that you have obtained the consent of the third party to provide us with their personal data for the respective purposes.  
+    
+
+8.  If you provide us with personally identifiable data,
+
+a. We may share necessary data with Government agencies, so as to serve you in the most efficient and effective way unless such sharing is prohibited by law.  
+b. We will NOT share your personal data with non-government entities, except where such entities have been authorised to carry out specific government services.  
+c. For your convenience, we may also display to you data you had previously supplied us or other government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.  
+  
+
+9.  To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies. However, no method of electronic storage and transmission is totally secure and we cannot guarantee absolute data security.  
+    
+
+10.  If you would like to withdraw your consent to any use of your personal data as set out in this privacy statement, please refer to the contact details at the end of this privacy statement. If you withdraw your consent to any or all use of your personal data, depending on the nature of your request, we may not be in a position to continue to provide our services to you, administer any contractual relationship in place, and this may also result in the termination of any agreements with you, and our legal rights and remedies in such event are expressly reserved.
+
+11.  This site may contain links to external sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites. 
+
+12.  At our discretion, we may update our privacy statement to reflect current acceptable practices. You agree to be bound by the prevailing terms of our privacy statement as updated from time to time on our website. 
+
+13.  If you have questions about our privacy statement or practices, you can contact us at [anderson_ps@moe.edu.sg](mailto:anderson_ps@moe.edu.sg).

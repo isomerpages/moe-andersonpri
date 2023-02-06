@@ -1,32 +1,25 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Anderson Primary School
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Website School Banner 3.gif
+      url: /contact-us/
+      key_highlights:
+        - title: Digital Showcase
+          description: 20th Anniversary Art Exhibition
+          url: https://o2.samwize.com/anderson-digital-exhibition/
+        - title: Calendar
+          description: School's Google Calendar
+          url: /connect/quick-links/school-calendar
+        - title: Quick Links
+          description: For Students, Parents & Staff
+          url: /connect/quick-links
+  - resources:
+      title: Announcements
+      button: More announcements
 ---
-

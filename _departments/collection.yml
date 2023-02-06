@@ -1,0 +1,50 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English/.keep
+      - English/Vision & Mission.md
+      - English/Key Programmes.md
+      - English/Useful Links.md
+      - Chinese/.keep
+      - Chinese/Vision & Mission.md
+      - Chinese/Key Programmes.md
+      - Chinese/Useful Links.md
+      - Chinese/Chinese Dept – Announcement.md
+      - Malay/.keep
+      - Malay/Vision & Mission.md
+      - Malay/Key Programmes.md
+      - Malay/Useful Links.md
+      - Tamil/.keep
+      - Tamil/Vision & Mission.md
+      - Tamil/Key Programmes.md
+      - Tamil/Useful Links.md
+      - Mathematics/.keep
+      - Mathematics/Vision & Mission.md
+      - Mathematics/4R Learning Dispositions.md
+      - Mathematics/Key Programmes.md
+      - Mathematics/Useful Links.md
+      - Science/.keep
+      - Science/SC Syllabus 2014.md
+      - Science/Vision & Mission.md
+      - Science/Key Programmes.md
+      - Science/Resources.md
+      - Science/Useful Links.md
+      - I&C Technology/.keep
+      - I&C Technology/Vision & Mission.md
+      - I&C Technology/Key Programmes.md
+      - I&C Technology/Useful Links.md
+      - C&C Education/.keep
+      - C&C Education/Our Mission in CCE.md
+      - C&C Education/Our Programmes.md
+      - C&C Education/Student Leadership.md
+      - C&C Education/Sexuality Education.md
+      - Physical Education/.keep
+      - Physical Education/Vision & Mission.md
+      - Physical Education/Key Programmes.md
+      - Physical Education/Useful Links.md
+      - Physical Education/Programme for Active Learning (PAL).md
+      - Aesthetics/.keep
+      - Aesthetics/Vision & Mission.md
+      - Aesthetics/Our Arts Programme.md
+      - Aesthetics/Living Arts Gallery.md

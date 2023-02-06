@@ -1,0 +1,18 @@
+collections:
+  unused-pages:
+    output: true
+    order:
+      - Waiting List for Transfer & Admission Form.md
+      - Programme for Active Learning (PAL).md
+      - Sexuality Education Programme.md
+      - Gallery/2021.md
+      - Gallery/2020.md
+      - Gallery/2019.md
+      - Gallery/2018.md
+      - Gallery/.keep
+      - 2016.md
+      - 2017.md
+      - 2018.md
+      - 2019.md
+      - 2020.md
+      - 2021.md

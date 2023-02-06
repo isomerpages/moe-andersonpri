@@ -1,0 +1,8 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - The Anderson Promise.md
+      - Distinctive Programmes.md
+      - Departments.md
+      - Co–Curriculum Activities (CCA).md

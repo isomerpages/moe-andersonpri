@@ -2,31 +2,49 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Anderson Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - Anderson Primary School
+      - 19 Ang Mo Kio Avenue 9
+      - Singapore 569785
+    operating_hours: []
+    maps_link: https://goo.gl/maps/RURcjvLaWWjbmp5e9
+    title: Our Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6456 0340
+      - email: ""
+      - other: "Operating Hours during school term: 7:00 am to 5:30 pm. During the
+          school holidays: 8:00 am to 5:00 pm (Mondays to Fridays)"
+    title: General Office
+  - content:
+      - phone: +65 9831 5851
+      - email: andersonbus.services@outlook.sg
+      - other: "Alternative contact no:  +65 9621 6653"
+    title: School Bus
+  - content:
+      - phone: +65 8764 1250
+      - email: ""
+      - other: "In case of emergency, please call Palmview Primary School Clinic at
+          Tel:  8764 1250. Alternatively, please call Health Promotion Board,
+          School Dental Centre Call Centre at Tel: 6435 3782 (strictly by
+          appointment only)."
+    title: School Dental Clinic
+  - content:
+      - phone: +65 6252 1933
+      - email: sales@pacificbookstores.com
+      - other: Visit website at https://www.pacificbookstores.com for more information
+    title: School Bookshop
+  - content:
+      - phone: +65 6456 3198
+      - email: sales@jeepsinguniform.com
+      - other: Visit website at https://www.jeepsinguniform.com for more information
+    title: School Uniform / PE Attire
+  - content:
+      - phone: +65 8028 1456
+      - email: enquiries@commitlearning.com.sg
+      - other: Visit website at https://www.commitlearning.com.sg/home for more
+          information
+    title: School Student Care (SSC)
 ---

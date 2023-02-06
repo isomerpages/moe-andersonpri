@@ -1,0 +1,18 @@
+collections:
+  connect:
+    output: true
+    order:
+      - School Contact & Admin Info.md
+      - Quick Links/Quick Links.md
+      - Quick Links/School Calendar.md
+      - Quick Links/.keep
+      - Admission & Forms/Waiting List (Admission).md
+      - Admission & Forms/Parent Volunteers.md
+      - Admission & Forms/FAS.md
+      - Admission & Forms/Alumni (Online Form).md
+      - Admission & Forms/.keep
+      - Service Providers/School Student Care.md
+      - Service Providers/School Bus.md
+      - Service Providers/School Uniform.md
+      - Service Providers/.keep
+      - Family Matters @ School.md

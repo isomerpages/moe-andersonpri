@@ -1,10 +1,5 @@
-contact_us: /contact-us/
-show_reach: true
-feedback: 
-faq: /faq/
+show_reach: false
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+  facebook: https://www.facebook.com/Anderson-Primary-School-Official-248457555191296/
+  youtube: https://www.youtube.com/channel/UCnpIK-gOve__51w0k5v6Pkg/videos
+  instagram: https://www.instagram.com/anderson_primary_sch/

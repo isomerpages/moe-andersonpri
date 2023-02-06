@@ -1,0 +1,27 @@
+collections:
+  co-curriculum-activities:
+    output: true
+    order:
+      - Performing Arts/.keep
+      - Performing Arts/Angklung & Kulintang Ensemble.md
+      - Performing Arts/Brass Band.md
+      - Performing Arts/Dance Ensemble.md
+      - Performing Arts/English Drama.md
+      - Performing Arts/Guitar.md
+      - Performing Arts/Guzheng Ensemble.md
+      - Sports & Games/.keep
+      - Sports & Games/Basketball.md
+      - Sports & Games/Badminton.md
+      - Sports & Games/Football.md
+      - Sports & Games/Volleyball.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/GAIA CLUB (Green Activists in Anderson).md
+      - Clubs & Societies/Infocomm Club.md
+      - Clubs & Societies/Robotics Club.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/The Boys' Brigade.md
+      - Uniformed Groups/Boys' Brigade Key Events.md
+      - Uniformed Groups/The Girls' Brigade.md
+      - CCA Withdrawal Form.md
