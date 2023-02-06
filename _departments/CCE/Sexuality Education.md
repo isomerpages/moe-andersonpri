@@ -98,6 +98,8 @@ This lesson focuses on helping students know what pornography is and how it can 
 <td width="125" style="text-align: center;">Keeping Myself Safe<br>(60 min)</td>
 <td width="298">
 <ul>
+<br>
+<br>
 In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be sage and how to seek help for themselves and their friends. 
 <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </ul>
