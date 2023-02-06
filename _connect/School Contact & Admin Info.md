@@ -310,7 +310,7 @@ description: ""
 <div>Email</div>
 </td>
 <td>
-<div>Ms Qystina</div>
+
 <div><a href="mailto:enquiries@commitlearning.com.sg" target="">enquiries@commitlearning.com.sg</a></div>
 </td>
 </tr>
