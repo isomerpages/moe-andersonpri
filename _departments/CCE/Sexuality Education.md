@@ -57,10 +57,10 @@ You may click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/moe
 <br>
 <div><strong>At Anderson Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</strong></div>
 
-<strong><div>2023 Sexuality Education Lesson in CCE 2021
-	Primary 5 </strong></div>
+<strong>2023 Sexuality Education Lesson in CCE 2021
+	Primary 5 </strong>
 
-<strong> <div> Primary 5 </strong></div>
+<strong> Primary 5 </strong>
 
 
 <p style="text-align: center;"><strong>Primary 6</strong></p>
