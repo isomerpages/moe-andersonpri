@@ -23,23 +23,26 @@ third_nav_title: CCE
 </ol>
 <ol>
 <ol type="i">
-<li>Love and respect yourself as you love and respect others;</li>
-<li>Build positive relationships based on love and respect (which are the foundation for strong families);</li>
-<li>Make responsible decisions for yourself, your family and society; and</li>
-<li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
+(a)  Love and respect yourself as you love and respect others;<br>
+(b)  Build positive relationships based on love and respect (which are the foundation for strong families);<br>
+(c)  Make responsible decisions for yourself, your family and society; and<br>
+(d)  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
 </ol>
 </ol>
-<p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_blank" rel="noopener">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
+You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_blank" rel="noopener">here</a>&nbsp;for more information on MOE Sexuality Education.
+
 
 <h4><strong>Overview of Anderson Primary School&rsquo;s Sexuality Education Programme for 2022</strong></h4>
 <ol start="4">
-<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank" rel="noopener">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.The subjects that incorporate topics on sexuality include:</li>
+<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank" rel="noopener">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</li>
+
+<li>The subjects that incorporate topics on sexuality include:</li>
 </ol>
 <ol>
 <ol type="a">
-<li>Science</li>
-<li>Form Teacher Guidance Period (FTGP)</li>
-<li>Character and Citizenship Education (CCE)</li>
+(a) Science</li><br>
+(b) Form Teacher Guidance Period (FTGP)</li><br>
+(c)  Character and Citizenship Education (CCE)</li><br>
 </ol>
 </ol>
 <p><strong><u>Sexuality Education</u></strong>: &ldquo;Curious Minds (2<sup>nd</sup>&nbsp;Edition)&rdquo; (Primary 5 &amp; 6) Teaching &amp; Learning resource package</p>
