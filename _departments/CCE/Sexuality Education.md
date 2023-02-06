@@ -59,11 +59,8 @@ You may click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/moe
 
 <p style="text-align: center;"><strong>2023 Sexuality Education Lesson in CCE 2021</strong>
 
-<p style="text-align: center;"><strong> Primary 5 </strong>
+<p style="text-align: center;"><strong> Primary 5 </strong></p>
 
-
-
-<p style="text-align: center;"><strong>Primary 6</strong></p>
 <table>
 <tbody>
 <tr>
