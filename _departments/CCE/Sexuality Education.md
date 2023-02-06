@@ -29,7 +29,7 @@ third_nav_title: CCE
 (d)  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 </ol>
 </ol>
-<br>
+
 You may click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/moe-sexuality-education">here</a>&nbsp;for more information on MOE Sexuality Education.
 
 
