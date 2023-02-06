@@ -35,7 +35,7 @@ You may click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/moe
 
 <h4><strong>Overview of Anderson Primary School’s Sexuality Education Programme for 2022</strong></h4>
 <ol start="4">
-<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/moe-sexuality-education-scope">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</li>
+<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/moe-sexuality-education-scope">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</li><br>
 
 <li>The subjects that incorporate topics on sexuality include:</li>
 </ol>
@@ -45,10 +45,12 @@ You may click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/moe
 (b) Character and Citizenship Education (CCE)<br>
 </ol>
 </ol>
+<br>
 <strong><u>Sexuality Education Lessons</u></strong>:
 <ol start="6">
 <li>The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media other resources. </li>
 </ol>
+<br>
 <ol start="7">
 <li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</li>
 </ol>
