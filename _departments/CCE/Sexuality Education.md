@@ -55,12 +55,22 @@ You may click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/moe
 <li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</li>
 </ol>
 <br>
-<div><strong>At Anderson Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</strong></div>
+<p style="text-align: center;"><strong>At Anderson Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</strong></p style="text-align: center;">
 
-<strong>2023 Sexuality Education Lesson in CCE 2021
-	Primary 5 </strong>
+<p style="text-align: center;"><strong>2023 Sexuality Education Lesson in CCE 2021
+	Primary 5 </strong></p style="text-align: center;">
 
-<strong> Primary 5 </strong>
+<p style="text-align: center;"><strong> Primary 5 </strong></p style="text-align: center;">
+
+
+
+
+
+
+
+
+
+
 
 
 <p style="text-align: center;"><strong>Primary 6</strong></p>
