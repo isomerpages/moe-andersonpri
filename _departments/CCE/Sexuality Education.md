@@ -119,7 +119,7 @@ In this lesson, students will learn about sexual abuse, how it can happen during
 <li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
 </ol>
 <ol start="9">
-<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a rel="noopener" target="_blank" href="/files/Parent%20Opt%20Out%20Form%202022%20Pri.pdf">here</a>. The completed opt-out form is to be submitted by 21/01/2022.</li>
+<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/optoutsexed">here</a>. The completed opt-out form is to be submitted by 20/01/2023.</li>
 </ol>
 <ol start="10">
 <li>Parents can contact the school at&nbsp;<a target="" href="mailto:anderson_ps@moe.edu.sg">anderson_ps@moe.edu.sg</a>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</li>
