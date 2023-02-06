@@ -89,73 +89,25 @@ This lesson focuses on helping students identify the emotions and stress caused 
 <td width="298">
 <ul>
 This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>'Stop-Think-Do'</b>.
-<br>recognise the importance of developing in oneself the qualities of a good friend
+<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. 
 </ul>
 </td>
-<td width="146" style="text-align: center;">Term 4<br>Post PSLE</td>
+<td width="146" style="text-align: center;">Term 2</td>
 </tr>
 <tr>
-<td width="125" style="text-align: center;">What is Love?<br>(30 min)</td>
+<td width="125" style="text-align: center;">Keeping Myself Safe<br>(60 min)</td>
 <td width="298">
 <ul>
-<li>identify the characteristics of love and infatuation</li>
-<li>distinguish between the characteristics of love versus infatuation</li>
-<li>identify strong feelings arising from infatuation</li>
+In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be sage and how to seek help for themselves and their friends. 
+<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </ul>
 </td>
-<td width="146" style="text-align: center;">Term 4<br>Post PSLE</td>
-</tr>
-<tr>
-<td width="125" style="text-align: center;">Am I Falling In Love?<br>(30 min)</td>
-<td width="298">
-<ul>
-<li>manage strong feelings arising from infatuation</li>
-<li>identify ways to manage and cope with teasing from peers</li>
-</ul>
-</td>
-<td width="146" style="text-align: center;">Term 4<br>Post PSLE</td>
-</tr>
-<tr>
-<td width="125" style="text-align: center;">Main Task<br>(30 min)</td>
-<td width="298">
-<p>Description of the Main Task:<br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</p>
-</td>
-<td width="146" style="text-align: center;">
-<div>Term 4</div>
-Post PSLE</td>
-</tr>
-<tr>
-<td width="99" rowspan="3" style="text-align: center;">Friends or Foes?</td>
-<td width="125" style="text-align: center;">Are You Really My Friend?<br>(30 min)</td>
-<td width="298">
-<ul>
-<li>identify the pros and cons of forming relationships through social networking websites</li>
-<li>know ways to keep themselves safe when using social networking websites</li>
-</ul>
-</td>
-<td width="146" style="text-align: center;">Term 4<br>Post PSLE</td>
-</tr>
-<tr>
-<td width="125" style="text-align: center;">Is It All Safe?<br>(30 min)</td>
-<td width="298">
-<ul>
-<li>know that some information (like pornography) received through the Internet may be harmful</li>
-<li>know ways to keep themselves safe when using social networking websites or the Internet</li>
-</ul>
-</td>
-<td width="146" style="text-align: center;">Term 4<br>Post PSLE</td>
-</tr>
-<tr>
-<td width="125" style="text-align: center;">Main Task<br>(30 min)</td>
-<td width="298">
-<p>Description of the Main Task:<br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</p>
-</td>
-<td width="146" style="text-align: center;">
-<div>Term 4</div>
-Post PSLE</td>
+<td width="146" style="text-align: center;">Term 2</td>
 </tr>
 </tbody>
 </table>
+
+
 <h4><strong>Information for Parents</strong></h4>
 <ol start="8">
 <li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
