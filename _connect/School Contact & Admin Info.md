@@ -310,8 +310,8 @@ description: ""
 <div>Email</div>
 </td>
 <td>
-<div>Mr Sunny Goh</div>
-<div><a href="mailto:goh_kim_poh@commitlearning.com.sg" target="">goh_kim_poh@commitlearning.com.sg</a></div>
+<div>Ms Qystina</div>
+<div><a href="mailto:enquiries@commitlearning.com.sg" target="">enquiries@commitlearning.com.sg</a></div>
 </td>
 </tr>
 <tr>
