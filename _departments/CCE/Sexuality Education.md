@@ -84,11 +84,11 @@ This lesson focuses on helping students identify the emotions and stress caused 
 <td width="146" style="text-align: center;">Term 2</td>
 </tr>
 <tr>
-<td width="125" style="text-align: center;">Am I A Good Friend?<br>(30 min)</td>
+<td width="125" style="text-align: center;">Did You Know?<br>(60 min)</td>
 <td width="298">
 <ul>
-<li>identify the qualities that they have as a friend</li>
-<li>recognise the importance of developing in oneself the qualities of a good friend</li>
+This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>'Stop-Think-Do'</b>.
+<br>recognise the importance of developing in oneself the qualities of a good friend
 </ul>
 </td>
 <td width="146" style="text-align: center;">Term 4<br>Post PSLE</td>
