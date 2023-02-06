@@ -108,6 +108,9 @@ In this lesson, students will learn about sexual abuse, how it can happen during
 </tr>
 </tbody>
 </table>
+<br> 
+<strong> <u> Please Note:</strong></u>
+
 
 
 <h4><strong>Information for Parents</strong></h4>
