@@ -74,6 +74,7 @@ You may click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/moe
 <td width="125" style="text-align: center;">The Changes in Me<br>(60 min)</td>
 <td width="298">
 <ul>
+<p style="text-align: center;">
 This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one's identity need not be negatively affected, even when one's body is experiencing changes due to puberty.
 <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </ul>
