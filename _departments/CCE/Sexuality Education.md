@@ -110,7 +110,7 @@ In this lesson, students will learn about sexual abuse, how it can happen during
 </table>
 
 
-<p style="text-align: center;"><strong>2023 Sexuality Education Lesson in CCE 2021</strong>
+<p style="text-align: center;"><strong>2023 Sexuality Education Lesson in CCE 2021</strong></p>
 
 <p style="text-align: center;"><strong> Primary 6 </strong></p>
 
