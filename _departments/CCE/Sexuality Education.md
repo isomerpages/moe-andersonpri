@@ -108,25 +108,11 @@ In this lesson, students will learn about sexual abuse, how it can happen during
 </tr>
 </tbody>
 </table>
-<br> 
-<strong> <u> Please Note:</strong></u>
-<strong> *For 2023, the Primary 5 lessons<i><font color="black"> "Did You Know?"</font color="black"> </i>will also conducted for the Primary 6 cohort. </strong> 
 
-
-
-
-
-
-
-
-
-
-
-<p style="text-align: center;"><strong>At Anderson Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</strong>
 
 <p style="text-align: center;"><strong>2023 Sexuality Education Lesson in CCE 2021</strong>
 
-<p style="text-align: center;"><strong> Primary 5 </strong></p>
+<p style="text-align: center;"><strong> Primary 6 </strong></p>
 
 <table>
 <tbody>
@@ -138,37 +124,35 @@ In this lesson, students will learn about sexual abuse, how it can happen during
 </tr>
 <tr>
 <td width="99" rowspan="5" style="text-align: center;">Growing Years</td>
-<td width="125" style="text-align: center;">The Changes in Me<br>(60 min)</td>
+<td width="125" style="text-align: center;">Are We More than Friends?<br> Lesson 1<br>(60 min)</td>
 <td width="298">
 <ul>
 <p style="text-align: center;">
-This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one's identity need not be negatively affected, even when one's body is experiencing changes due to puberty.
-<br>
-<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+This lesson focuses on helping students distinguish between the characteristics of love an infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.
+
 </ul>
 </td>
-<td width="146" style="text-align: center;">Term 2</td>
+<td width="146" style="text-align: center;">Term 1</td>
 </tr>
 <tr>
-<td width="125" style="text-align: center;">Did You Know?<br>(60 min)</td>
+<td width="125" style="text-align: center;">Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
 <td width="298">
 <ul>
 <p style="text-align: center;">
+In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</ul>
+</td>
+<td width="146" style="text-align: center;">Term 1</td>
+</tr>
+<tr>
+<td width="125" style="text-align: center;">Did You Know?*<br>(60 min)</td>
+<td width="298">
+<ul>
+<br>
+<br>
+<td width="125" style="text-align: center;">
 This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>'Stop-Think-Do'</b>.
 <br>
-<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. 
-</ul>
-</td>
-<td width="146" style="text-align: center;">Term 2</td>
-</tr>
-<tr>
-<td width="125" style="text-align: center;">Keeping Myself Safe<br>(60 min)</td>
-<td width="298">
-<ul>
-<br>
-<br>
-In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be sage and how to seek help for themselves and their friends. 
-<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. 	
 </ul>
 </td>
 <td width="146" style="text-align: center;">Term 2</td>
@@ -176,6 +160,7 @@ In this lesson, students will learn about sexual abuse, how it can happen during
 </tbody>
 </table>
 <br> 
+
 <strong> <u> Please Note:</strong></u>
 <strong> *For 2023, the Primary 5 lessons<i><font color="black"> "Did You Know?"</font color="black"> </i>will also conducted for the Primary 6 cohort. </strong> 
 
