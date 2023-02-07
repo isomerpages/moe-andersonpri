@@ -114,6 +114,81 @@ In this lesson, students will learn about sexual abuse, how it can happen during
 
 
 
+
+
+
+
+
+
+
+
+<p style="text-align: center;"><strong>At Anderson Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</strong>
+
+<p style="text-align: center;"><strong>2023 Sexuality Education Lesson in CCE 2021</strong>
+
+<p style="text-align: center;"><strong> Primary 5 </strong></p>
+
+<table>
+<tbody>
+<tr>
+<td width="99" style="text-align: center;"><strong>CCE (FTGP) THEME</strong></td>
+<td width="125" style="text-align: center;"><strong>LESSON TITLE / DURATION</strong></td>
+<td width="298" style="text-align: center;"><strong>Lesson <br>OVERVIEW</strong></td>
+<td width="146" style="text-align: center;"><strong>TIME PERIOD<br>(e.g. Term 1 Week 2)</strong></td>
+</tr>
+<tr>
+<td width="99" rowspan="5" style="text-align: center;">Growing Years</td>
+<td width="125" style="text-align: center;">The Changes in Me<br>(60 min)</td>
+<td width="298">
+<ul>
+<p style="text-align: center;">
+This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one's identity need not be negatively affected, even when one's body is experiencing changes due to puberty.
+<br>
+<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+</ul>
+</td>
+<td width="146" style="text-align: center;">Term 2</td>
+</tr>
+<tr>
+<td width="125" style="text-align: center;">Did You Know?<br>(60 min)</td>
+<td width="298">
+<ul>
+<p style="text-align: center;">
+This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>'Stop-Think-Do'</b>.
+<br>
+<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. 
+</ul>
+</td>
+<td width="146" style="text-align: center;">Term 2</td>
+</tr>
+<tr>
+<td width="125" style="text-align: center;">Keeping Myself Safe<br>(60 min)</td>
+<td width="298">
+<ul>
+<br>
+<br>
+In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be sage and how to seek help for themselves and their friends. 
+<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+</ul>
+</td>
+<td width="146" style="text-align: center;">Term 2</td>
+</tr>
+</tbody>
+</table>
+<br> 
+<strong> <u> Please Note:</strong></u>
+<strong> *For 2023, the Primary 5 lessons<i><font color="black"> "Did You Know?"</font color="black"> </i>will also conducted for the Primary 6 cohort. </strong> 
+
+
+
+
+
+
+
+
+
+
+
 <h4><strong>Information for Parents</strong></h4>
 <ol start="8">
 <li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
