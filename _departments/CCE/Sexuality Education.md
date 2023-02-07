@@ -19,7 +19,7 @@ third_nav_title: CCE
 </ol>
 </ol>
 <ol start="3">
-	<li><font color="blue">The <b>Key Messages </b> of Sexuality Education are:</font></li>
+<li><font color="blue">The <b>Key Messages </b> of Sexuality Education are:</font></li>
 </ol>
 <ol>
 <ol type="i">
@@ -30,7 +30,7 @@ third_nav_title: CCE
 </ol>
 </ol>
 
-You may click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/moe-sexuality-education">here</a>&nbsp;for more information on MOE Sexuality Education.
+<p>You may click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/moe-sexuality-education">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
 
 
 <h4><strong>Overview of Anderson Primary School’s Sexuality Education Programme for 2023</strong></h4>
