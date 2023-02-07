@@ -162,7 +162,7 @@ This lesson focuses on helping students know what pornography is and how it can 
 <br> 
 
 <strong> <u> Please Note:</strong></u>
-<strong> *For 2023, the Primary 5 lessons<i><font color="black"> "Did You Know?"</font color="black"> </i>will also conducted for the Primary 6 cohort. </strong> 
+<strong> *For 2023, the Primary 5 lessons<i>"Did You Know?"</i>will also conducted for the Primary 6 cohort. </strong> 
 
 
 
