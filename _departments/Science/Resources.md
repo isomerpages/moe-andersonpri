@@ -4,7 +4,7 @@ permalink: /departments/Science/resources/
 description: ""
 third_nav_title: Science
 ---
-<p><strong><u>Outdoor Learning Spaces</u></strong><br>‘Green spaces’ at the <i> <font color="black"> Biodiversity Garden, Regenerative Garden, Urban Farming Towers and the Hydroponics Stations </i>aim to inculcate a love for nature among Andersonians and make the learning of Science more authentic through various experiential activities. Accompanying resources have been designed to encourage outdoor hands-on learning about:</p>
+<p><strong><u>Outdoor Learning Spaces</u></strong><br>‘Green spaces’ at the <i> <font color="black"> Biodiversity Garden, Regenerative Garden, Urban Farming Towers and the Hydroponics Stations </i>aim to inculcate a love for nature among Andersonians and make the learning of Science more authentic through various experiential activities. Accompanying resources have been designed to encourage outdoor hands-on learning about: </p>
 <p>
 <ul>
 <li>urban farming and the issue of food security,</li>
