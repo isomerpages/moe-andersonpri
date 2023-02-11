@@ -75,7 +75,12 @@ In collaboration with the CCE department through the Citizen Science Integrated 
 
 | **P3 Eureka! Module**|  |  |
 | -------- | -------- | -------- |
-| Taking on the role of a Zero Waste Ambassador, students were tasked to create a stationery prototype for the teachers using recycled materials. The Engineering Design Process was sued to facilitate this mini project where students applied what they have learnt in the topic of Materials to imagine and research for a useful classroom stationery item.     | ![](/images/ALP/2023%20ALP%20Pic%207a.jpg)  | Text     |
+| Taking on the role of a Zero Waste Ambassador, students were tasked to create a stationery prototype for the teachers using recycled materials. The Engineering Design Process was sued to facilitate this mini project where students applied what they have learnt in the topic of Materials to imagine and research for a useful classroom stationery item. 
+![](/images/ALP/2023%20ALP%20Pic%205.jpg)
+![](/images/ALP/2023%20ALP%20Pic%205.jpg)
+
+| Taking on the role of a Zero Waste Ambassador, students were tasked to create a stationery prototype for the teachers using recycled materials. The Engineering Design Process was sued to facilitate this mini project where students applied what they have learnt in the topic of Materials to imagine and research for a useful classroom stationery item. 
+
 | **P5 *Eureka!* Module**     |     |      |
 | Taking on the role of a Food Security Ambassador, students experienced being an urban farmer who grows food using a high-technology farming system. Students also went on a thrilling journey as a Young Engineer to explore the use of micro:bits in the automation of processes in a mini-farm prototype. Indeed, there were many Eureka! moments for students in this journey towards fostering food resilience.    | Text     | Text     |
 
