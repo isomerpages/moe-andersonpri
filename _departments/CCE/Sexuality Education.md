@@ -4,7 +4,6 @@ permalink: /curriculum/departments/character-n-citizenship-education/sexuality-e
 description: ""
 third_nav_title: CCE
 ---
-        
 <h4><strong>MOE Sexuality Education in Schools</strong></h4>
 
 <ol>
