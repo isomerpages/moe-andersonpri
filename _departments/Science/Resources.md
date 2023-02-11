@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Science
 ---
 #### Outdoor Learning Spaces
-#### 
 
 'Green spaces' at the *Biodiversity Garden, Regenerative Garden, Urban Farming Towers* and the *Hydroponics Stations* aims to inculcate a love for nature among Andersonians and make the learning of Science more authentic through various experiential activities. Accompanying resources have been designed to encourage outdoor hands-on learning about:
 
