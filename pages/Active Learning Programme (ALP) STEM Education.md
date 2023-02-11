@@ -63,3 +63,22 @@ Insect pic
 
 **(v) Ecobricks - Upcycling Plastic Waste into useful Products**
 
+In this programme, Primary 4 students learnt about properties of different plastics used in bottles and gained insights into the great amount of plastic waste generated in Singapore and its environmental impact on our country. In the creation of an upcycled product using recycled materials, students were introduced to the concept of Ecobricks and experienced a hands-on session making an Ecobrick from plastic bottles and disused soft plastics. These Ecobricks were then combined to make a stool, illustrating how plastics can be upcycled meaningfully.
+
+Through this programme, the environmental message of giving plastic waste a second lease of life was instilled amongst the students where they learnt to see plastic waste and their properties in a different light. 
+
+Insert Pic
+
+In collaboration with the CCE department through the Citizen Science Integrated Project Work initiation, Primary 3 and 5 students explored the various disciplines of STEM through the issues of waste management and food security.
+
+
+
+| **P3 Eureka! Module**|  |  |
+| -------- | -------- | -------- |
+| Taking on the role of a Zero Waste Ambassador, students were tasked to create a stationery prototype for the teachers using recycled materials. The Engineering Design Process was sued to facilitate this mini project where students applied what they have learnt in the topic of Materials to imagine and research for a useful classroom stationery item.     | Text     | Text     |
+| **P5 *Eureka!* Module**     |     |      |
+| Taking on the role of a Food Security Ambassador, students experienced being an urban farmer who grows food using a high-technology farming system. Students also went on a thrilling journey as a Young Engineer to explore the use of micro:bits in the automation of processes in a mini-farm prototype. Indeed, there were many Eureka! moments for students in this journey towards fostering food resilience.    | Text     | Text     |
+
+
+
+
