@@ -4,7 +4,6 @@ permalink: /about/school-history/digital-showcase/
 description: ""
 third_nav_title: School History
 ---
-
 #### ANDERSON 20TH ANNIVERSARY ART EXHIBITION AND DIGITAL SHOWCASE
 #### 
 
@@ -14,4 +13,4 @@ For the first time, we venture into the digital space to present this art exhibi
 
 Enjoy this labor of love put together by the teachers and students of Anderson Primary.
 
-Click[here](https://o2.samwize.com/anderson-digital-exhibition/) to view Anderson 20th Anniversary Art Exhibiton and digital showcase.
+Click [here](https://o2.samwize.com/anderson-digital-exhibition/)  to view Anderson 20th Anniversary Art Exhibiton and digital showcase.
