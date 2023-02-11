@@ -4,12 +4,11 @@ permalink: /about/principals-message/principals-message-for-2023/
 description: ""
 third_nav_title: Principal's Message
 ---
-
 <img style="width: 45%;" src="/images/2023%20Images/Principal's%20Message%20for%202023.jpg" align = "left" />
 <p><u><em>Our POTF Journey Thus Far<br /></em></u>
 
 2023 is the third year of Pioneers of the Future (POTF) implementation, a running theme since 2021, in the midst of Covid-19. It was meant to be a swift response to the unprecedented nature and extent of change happening around us. As educators, we recognised the accelerating pace of transformation in our operating environment, and how it was incumbent on us to make the necessary shifts fast. We have envisioned our Andersonians to be ever-more future-ready. We want to empower them with essential skills and learning dispositions to thrive in this _VUCA_ world. We desire to nurture our students to love learning, think out-of-the-box, remain indomitable in the face of setbacks, and always ready to learn from and serve others. In short, we envision our Andersonians to have a pioneering mindset as they grow up in a generation where opportunities are boundless and borderless.
-
+<br>
 <u><em>How we operationalize POTF  <br /></em></u>
 
 To operationalise POTF, we take reference from our School Vision. We focus on each tenet _Learners with Passion, Leaders with Heart, Citizens of Character_ – one year at a time. This has, so far, given us a helpful and practical lens to plan and scope our school programmes. We flesh out the school theme further by adopting a more child-accessible, child-friendly language. In 2021, our school theme was POTF: _Reimagining Learning_, with the tagline of ‘Seeing New Possibilities’, thanks to a plethora of e-Pedagogy tools, virtual learning and engagement platforms as well as new and exciting partnerships forged to promote rich learning. In 2022, it was POTF: _Redefining Leadership_, accompanied by the tagline ‘It Starts With Me’. This aligned well with our educator’s beliefs: that the learner’s sense of ownership is of paramount importance in sustaining passionate, lifelong learning. They lead themselves, first. They initiate and create the positive change they wish to see. In other words, they learn to take charge – it starts with them individually.
