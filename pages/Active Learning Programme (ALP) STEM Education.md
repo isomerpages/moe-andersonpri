@@ -79,6 +79,10 @@ In collaboration with the CCE department through the Citizen Science Integrated 
 | **P5 *Eureka!* Module**     |     |      |
 | Taking on the role of a Food Security Ambassador, students experienced being an urban farmer who grows food using a high-technology farming system. Students also went on a thrilling journey as a Young Engineer to explore the use of micro:bits in the automation of processes in a mini-farm prototype. Indeed, there were many Eureka! moments for students in this journey towards fostering food resilience.    | Text     | Text     |
 
+###### Integrated STEM with Computational Thinking, Textiles and Sewing (iSTEM-CT2S) module
 
+The _iSTEM-CT2S_ pilot module is a human-centric STEM Curriculum designed by STEM@ NIE Singapore in collaboration with The University of Vaud Canton of Education, Switzerland, and supported by BERNINA (Singapore) Pte. Ltd. 
 
+In this module, selected Primary 5 students experienced inter-disciplinary learning through the applications of concepts from different subject disciplines such as Textile Science and TurtleStitch Coding skills to solve real-world problems. Students acquired computational thinking skills and understood how technology could be harnessed to improve the lives of humans.
 
+Through this module, students had the rare opportunity to programme a sewing machine to stitch their coded pattern and sewed their own face mask using a high-technology Swiss-engineered BERNINA sewing machine.
