@@ -23,7 +23,7 @@ Core ideas and practices of Science are integrated into the lower primary PAL - 
 
 Primary 2 students also attended an online enrichment workshop to learn how to recycle organic food waste into Vermicast (an organic fertiliser) using worms. Students then harvested Vermicast from our worms bins and created a potting mix using sustainable materials for growing various seeds at home. 
 
-Insert pic
+![](/images/ALP/2023%20ALP%20Pic%202.jpg)
 
 We believe that every Andersonian can become responsible and reflective citizens, and Environment Stewards of Sustainability. Together, we can build a resilient future in food security by growing crops at home using sustainable soil materials. 
 
