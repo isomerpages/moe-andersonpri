@@ -39,7 +39,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
  
  (b) Character and Citizenship Education (CE)
  
-#####  <style font color: "black >Sexuality Education Lessons: </style font color: "black >
+#####  <style font color: "black"><u>Sexuality Education Lessons: </style font color: "black"> </u>
 
 6. The upper  
 7.   
