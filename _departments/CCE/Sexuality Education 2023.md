@@ -29,15 +29,26 @@ third_nav_title: CCE
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
+#### Overview of Anderson Primary School's Sexuality Education Programme
 
-4.
-5.   
-6. The  
-7. The
-8. Se
+4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+
+5. The subject that incorporate topics on sexuality include:
+
+ (a) Science
+ 
+ (b) Character and Citizenship Education (CE)
+ 
+#####  <style font color: "black >Sexuality Education Lessons: </style font color: "black >
+
+6. The upper  
+7.   
+8. The  
 9. The
-10. The
-11. Se
-12. parent
-13. pare
+10. Se
+11. The
+12. The
+13. Se
 14. parent
+15. pare
+16. parent
