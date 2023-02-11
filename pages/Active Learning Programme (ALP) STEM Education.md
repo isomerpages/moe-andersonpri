@@ -46,7 +46,7 @@ Primary 3 students participated in the Young Engineer Amazing Virtual Race facil
 * *build a bridge using A4 paper that is at least 20 cm long and can hold a 1/2 litre full water bottle*
 * *make a poster to help us understand about our energy options, how Panem can generate electricity and how we can make our buildings greener*
 
-Insert pic 4 
+![](/images/ALP/2023%20ALP%20Pic%204.jpg)
 
 **(iv) The UNTAME SURVIVER**
 
