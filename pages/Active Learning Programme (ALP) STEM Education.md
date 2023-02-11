@@ -59,7 +59,7 @@ Primary 3 students embarked on a refreshing blended learning journey to spark th
 
 The UNTAME SURVIVE Programmer aims to inculcate the spirit of scientific inquiry, grounded in knowledge, issues and questions related to the roles of Science in daily life, society and the environment. The hands-on activities challenge the students' investigative and exploration skills, seeking to fuel their spirit of curiosity for their environment, and empowering them to be positive agents of change by leading a sustainable lifestyle.
 
-Insect pic
+![](/images/ALP/2023%20ALP%20Pic%205.jpg)
 
 **(v) Ecobricks - Upcycling Plastic Waste into useful Products**
 
