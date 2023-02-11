@@ -31,7 +31,7 @@ We believe that every Andersonian can become responsible and reflective citizens
 
 The  *Anderson STEM Box* is gifted to each Primary 3 student to inspire them to have the sense of adventure that a Scientist seeks, and the adventure of the mind to experiment, tinker and discover about the everyday phenomena happening around them. Found within the box are activity kits such as the DIY STEM Bristlebot and Magnetism Kit; and resource cards such as the Flexagon, to connect, complement and extend what they will be learning in Primary 3 Science.
 
-insert pic 3
+![](/images/ALP/2023%20ALP%20Pic%203.jpg)
 
 **(iii) Young Engineer Amazing Race**
 
