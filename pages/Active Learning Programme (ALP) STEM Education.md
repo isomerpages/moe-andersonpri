@@ -15,8 +15,7 @@ Through purposeful **multi-disciplinary learning experiences**, Andersonians wil
 
 #### Disciplinary Learning Experiences  
 
-**(i) Eureka goes outdoor with PAL - Transforming Food Waste into Sustainable Soil
-**
+**(i) Eureka goes outdoor with PAL - Transforming Food Waste into Sustainable Soil**
 
 Core ideas and practices of Science are integrated into the lower primary PAL - Outdoor Education module to complement and broaden Andersonians' perspectives as they explore the diversity of plants around them. As budding Young Botanists, students identified leaves of different shapes and sizes and used their creativity to make various leaf art pieces.
 
@@ -31,4 +30,36 @@ We believe that every Andersonian can become responsible and reflective citizens
 **ii) The Anderson STEM Box**
 
 The  *Anderson STEM Box* is gifted to each Primary 3 student to inspire them to have the sense of adventure that a Scientist seeks, and the adventure of the mind to experiment, tinker and discover about the everyday phenomena happening around them. Found within the box are activity kits such as the DIY STEM Bristlebot and Magnetism Kit; and resource cards such as the Flexagon, to connect, complement and extend what they will be learning in Primary 3 Science.
+
+insert pic 3
+
+**(iii) Young Engineer Amazing Race**
+
+Primary 3 students participated in the Young Engineer Amazing Virtual Race facilitated by the Singapore Science Centre during the End-of-Year Finish Strong! Programme. Through the Articulate Rise online platform, students are brought to Panem where there is no electricity, increasing food shortage and collapsed bridges due to rising sea levels. Students worked as engineers to solve the problems of Panem by building bridges, propose ways of producing food and generate electricity, and brainstorm ways for Panem to be sustainable.
+
+*Tetrapaks and bottles float... can we use trash to solve the problem?*
+
+*Biophilic buildings*
+
+*Students were tasked to*
+* *design a structure that can float to grow crops and make a prototype of a floating farm to grow food in water*
+* *build a bridge using A4 paper that is at least 20 cm long and can hold a 1/2 litre full water bottle*
+* *make a poster to help us understand about our energy options, how Panem can generate electricity and how we can make our buildings greener*
+
+Insert pic 4 
+
+**(iv) The UNTAME SURVIVER**
+
+Primary 3 students embarked on a refreshing blended learning journey to spark their curiosity and creativity from 1 Nov to 28 Nov 2021. This learning journey includes
+
+* 25 thrilling online games and missions
+* Exclusive virtual interactive sessions with sustainability champions from the Singapore Science Centre to learn about STEM and Sustainability 
+* a hands-on 'Build a Solar Lamp' 1-hour Zoom Workshop during the End-of-Year Finish Strong! Programme
+* 2 other self-guided hands-on activities on creating a natural repellent (and designing a hypothetical experiment to test its effectiveness) and cultivating mushrooms
+
+The UNTAME SURVIVE Programmer aims to inculcate the spirit of scientific inquiry, grounded in knowledge, issues and questions related to the roles of Science in daily life, society and the environment. The hands-on activities challenge the students' investigative and exploration skills, seeking to fuel their spirit of curiosity for their environment, and empowering them to be positive agents of change by leading a sustainable lifestyle.
+
+Insect pic
+
+**(v) Ecobricks - Upcycling Plastic Waste into useful Products**
 
