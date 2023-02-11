@@ -68,21 +68,23 @@ In this programme, Primary 4 students learnt about properties of different plast
 Through this programme, the environmental message of giving plastic waste a second lease of life was instilled amongst the students where they learnt to see plastic waste and their properties in a different light. 
 
 ![](/images/ALP/2023%20ALP%20Pic%206.jpg)
+![](/images/ALP/2023%20ALP%20Pic%207.jpg)
 
 In collaboration with the CCE department through the Citizen Science Integrated Project Work initiation, Primary 3 and 5 students explored the various disciplines of STEM through the issues of waste management and food security.
-
 
 
 | **P3 Eureka! Module**|  |  |
 | -------- | -------- | -------- |
 | Taking on the role of a Zero Waste Ambassador, students were tasked to create a stationery prototype for the teachers using recycled materials. The Engineering Design Process was sued to facilitate this mini project where students applied what they have learnt in the topic of Materials to imagine and research for a useful classroom stationery item. 
-![](/images/ALP/2023%20ALP%20Pic%205.jpg)
-![](/images/ALP/2023%20ALP%20Pic%205.jpg)
+![](/images/ALP/2023%20ALP%20Pic%208a.jpg)
+![](/images/ALP/2023%20ALP%20Pic%208b.jpg)
 
-| Taking on the role of a Zero Waste Ambassador, students were tasked to create a stationery prototype for the teachers using recycled materials. The Engineering Design Process was sued to facilitate this mini project where students applied what they have learnt in the topic of Materials to imagine and research for a useful classroom stationery item. 
 
-| **P5 *Eureka!* Module**     |     |      |
-| Taking on the role of a Food Security Ambassador, students experienced being an urban farmer who grows food using a high-technology farming system. Students also went on a thrilling journey as a Young Engineer to explore the use of micro:bits in the automation of processes in a mini-farm prototype. Indeed, there were many Eureka! moments for students in this journey towards fostering food resilience.    | Text     | Text     |
+| **P5 *Eureka!* Module** |  |  |
+| -------- | -------- | -------- |
+| Taking on the role of a Food Security Ambassador, students experienced being an urban farmer who grows food using a high-technology farming system. Students also went on a thrilling journey as a Young Engineer to explore the use of micro:bits in the automation of processes in a mini-farm prototype. Indeed, there were many Eureka! moments for students in this journey towards fostering food resilience.     |     |      |
+![](/images/ALP/2023%20ALP%20Pic%209a.jpg)
+![](/images/ALP/2023%20ALP%20Pic%209b.jpg)
 
 ###### Integrated STEM with Computational Thinking, Textiles and Sewing (iSTEM-CT2S) module
 
@@ -91,3 +93,5 @@ The _iSTEM-CT2S_ pilot module is a human-centric STEM Curriculum designed by S
 In this module, selected Primary 5 students experienced inter-disciplinary learning through the applications of concepts from different subject disciplines such as Textile Science and TurtleStitch Coding skills to solve real-world problems. Students acquired computational thinking skills and understood how technology could be harnessed to improve the lives of humans.
 
 Through this module, students had the rare opportunity to programme a sewing machine to stitch their coded pattern and sewed their own face mask using a high-technology Swiss-engineered BERNINA sewing machine.
+
+![](/images/ALP/2023%20ALP%20Pic%2010.jpg)
