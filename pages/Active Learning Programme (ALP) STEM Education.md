@@ -67,7 +67,7 @@ In this programme, Primary 4 students learnt about properties of different plast
 
 Through this programme, the environmental message of giving plastic waste a second lease of life was instilled amongst the students where they learnt to see plastic waste and their properties in a different light. 
 
-Insert Pic
+![](/images/ALP/2023%20ALP%20Pic%206.jpg)
 
 In collaboration with the CCE department through the Citizen Science Integrated Project Work initiation, Primary 3 and 5 students explored the various disciplines of STEM through the issues of waste management and food security.
 
