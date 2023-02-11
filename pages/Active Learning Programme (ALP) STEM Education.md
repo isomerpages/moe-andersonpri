@@ -19,7 +19,7 @@ Through purposeful **multi-disciplinary learning experiences**, Andersonians wil
 
 Core ideas and practices of Science are integrated into the lower primary PAL - Outdoor Education module to complement and broaden Andersonians' perspectives as they explore the diversity of plants around them. As budding Young Botanists, students identified leaves of different shapes and sizes and used their creativity to make various leaf art pieces.
 
-Insert pic
+![](/images/ALP/2023%20ALP%20Pic%201.jpg)
 
 Primary 2 students also attended an online enrichment workshop to learn how to recycle organic food waste into Vermicast (an organic fertiliser) using worms. Students then harvested Vermicast from our worms bins and created a potting mix using sustainable materials for growing various seeds at home. 
 
