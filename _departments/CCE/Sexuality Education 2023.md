@@ -39,9 +39,9 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
  
  (b) Character and Citizenship Education (CE)
  
-#####  <style font color: "black"><u>Sexuality Education Lessons: </style font color: "black"> </u>
+<h6><strong><u>Sexuality Education Lessons: </u></strong></h6>
 
-6. The upper  
+6. The upper primary 
 7.   
 8. The  
 9. The
