@@ -62,7 +62,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 | -------- | -------- | -------- |
 | Growing Years    | **<u>Term 2</u>** <br><br>The Changes in Me <br><br> (60 min)<br><br>   | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one's identity need be negatively affected, even when one's body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. ) |     |
 | Growing Years     | **<u>Term 2</u>** <br><br>Did You Know? <br><br> (60 min)<br><br>     | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **'Stop-Think-Do'**.  <br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.     |
-| Growing Years     | **<u>Term 2</u>** <br><br>c<br>Keeping Myself Safe <br> (60 min)<br><br>     | In this lesson, students will learn about sexual abuse, how it can happen online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.     |
+| Growing Years     | **<u>Term 2</u>** <br><br>Keeping Myself Safe <br> (60 min)<br><br>     | In this lesson, students will learn about sexual abuse, how it can happen online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.     |
 
 
 **2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**
@@ -84,7 +84,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 8.   Parents may opt out their children out of Sexuality Education, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
 
-9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form with be distributed to parents at the start of the year and is also downloadable <u> [here](https://go.gov.sg/optoutsexed)</u>. The completed opt-out form is to be submitted by 20/1/2023.
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form with be distributed to parents at the start of the year and is also downloadable [here](https://go.gov.sg/optoutsexed). The completed opt-out form is to be submitted by 20/1/2023.
 
 
 10. Parents can contact the school at anderson_ps@moe.edu.sg for discussion or to seek clarification about the school's Sexuality Education programme.
