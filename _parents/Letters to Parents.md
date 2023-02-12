@@ -24,7 +24,8 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">February</label>
     <div>
-<p>Coming Soon!</p>
+<ul>
+<li><a href="/departments/CCE/sexualityeducation2023/" target="_blank" rel="noopener">Sexuality Education 2023</a></li>
     </div>
 	</li>
   <li>
