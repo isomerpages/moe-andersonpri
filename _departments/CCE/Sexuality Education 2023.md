@@ -25,8 +25,8 @@ third_nav_title: CCE
 	(c) Make responsible decisions for yourself, your family and society; and
 	
 	(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones. 
-
-You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
+<br>
+You may click [here](http://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
 #### Overview of Anderson Primary School's Sexuality Education Programme
 
@@ -128,7 +128,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 **<u>Please Note:</u>**<br>
 <b>* For parents <u>2023</u>, the Primary 5 lesson *'Did You Know?'* will also be conducted for the Primary 6 cohort. 
 
-#### Information for Parents
+Information for Parents
 
 8.   Parents may opt out their children out of Sexuality Education, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
