@@ -139,6 +139,6 @@ You may click [here](http://go.gov.sg/moe-sexuality-education) for more informat
 8.    Parents may opt out their children out of Sexuality Education, and/or supplementary Sexuality Education programmes by MOE-approved external providers.		
 <br>
 
-9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form with be distributed to parents at the start of the year and is also downloadable&nbsp;<a rel="noopener" target="_blank" href=[https://go.gov.sg/optoutsexed](https://go.gov.sg/optoutsexed)\>here</a>. The completed opt-out form is to be submitted by 20/1/2023. 
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form with be distributed to parents at the start of the year and is also downloadable [here](https://go.gov.sg/optoutsexed). The completed opt-out form is to be submitted by 20/1/2023. 
 <br>
 10. Parents can contact the school at anderson_ps@moe.edu.sg for discussion or to seek clarification about the school's Sexuality Education programme.</ol>
