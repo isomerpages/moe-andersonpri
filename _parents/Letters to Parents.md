@@ -26,6 +26,7 @@ description: ""
     <div>
 <ul>
 <li><a href="/departments/CCE/sexualityeducation2023/" target="_blank" rel="noopener">Sexuality Education 2023</a></li>
+<li><a href="/departments/CCE/sexualityeducation2023/" target="_blank" rel="noopener">Sexuality Education 2023</a></li>
     </div>
 	</li>
   <li>
