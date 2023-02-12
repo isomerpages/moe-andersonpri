@@ -51,6 +51,28 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 **PRIMARY 5**
 
+
+
+| Column 1 | Column 2 | Column 3 |Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |Text     |
+| Text     | Text     | Text     |Text     |
+| Text     | Text     | Text     |Text     |
+
+**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**
+
+**PRIMARY 6**
+
+
+| Column 1 | Column 2 | Column 3 |Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |Text     |
+| Text     | Text     | Text     |Text     |
+| Text     | Text     | Text     |Text     |
+
+**<u>Please Note:</u>**<br>
+<b>* For parents <u>2023</u>, the Primary 5 lesson *'Did You Know?'* will also be conducted for the Primary 6 cohort. 
+
 #### Information for Parents
 
 8.   Parents may opt out their children out of Sexuality Education, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
