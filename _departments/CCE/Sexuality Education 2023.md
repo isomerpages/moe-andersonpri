@@ -52,17 +52,81 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 <p style="text-align: center;"><strong>PRIMARY 5</strong>
 
 
+	
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="76"><strong>CCE (FTGP) THEME</strong></td>
+<td style="text-align: center;" width="68"><strong>LESSON TITLE/ <br>DURATION</strong></td>
+<td style="text-align: center;" width="139"><strong>LESSON OVERVIEW</strong></td>
+<td style="text-align: center;" width="156"><strong>TIME PERIOD<br>(e.g. Term 1 Week 2)</strong></td>
+</tr>
+	
+<tr>
+<td style="text-align: center;" width="76">Growing Years</td>
+<td style="text-align: center;" width="68">The Changes in Me <br><br> (60 min)<br><br></td>
+<td style="text-align: center;" width="139">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one's identity need be negatively affected, even when one's body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. </td>
+<td style="text-align: center;" width="156">Term 2</td>
+</tr>
 
-| **CCE (FTGP) THEME** | **LESSON TITLE/** <br>**DURATION** |  **LESSON OVERVIEW** | 
-| -------- | -------- | -------- |
-| Growing Years    | **<u>Term 2</u>** <br><br>The Changes in Me <br><br> (60 min)<br><br>   | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one's identity need be negatively affected, even when one's body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. ) |     |
-| Growing Years     | **<u>Term 2</u>** <br><br>Did You Know? <br><br> (60 min)<br><br>     | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **'Stop-Think-Do'**.  <br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.     |
-| Growing Years     | **<u>Term 2</u>** <br><br>Keeping Myself Safe <br> (60 min)<br><br>     | In this lesson, students will learn about sexual abuse, how it can happen online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.     |
+<tr>
+<td style="text-align: center;" width="76">Growing Years</td>
+<td style="text-align: center;" width="68">Did You Know? <br><br> (60 min)</td>
+<td style="text-align: center;" width="139">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>'Stop-Think-Do'</b>.  <br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  </td>
+<td style="text-align: center;" width="156">Term 2</td>
+</tr>
+
+<tr>
+<td style="text-align: center;" width="76">Growing Years</td>
+<td style="text-align: center;" width="68">Keeping Myself Safe <br><br>(60 min)</td>
+<td style="text-align: center;" width="139">In this lesson, students will learn about sexual abuse, how it can happen online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  </td>
+<td style="text-align: center;" width="156">Term 2</td>
+</tr>
+	
+</tbody>
+</table>
+	
 
 <p style="text-align: center;"><strong>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong>
 
 <p style="text-align: center;"><strong>PRIMARY 6</strong>
 
+
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="76"><strong>CCE (FTGP) THEME</strong></td>
+<td style="text-align: center;" width="68"><strong>LESSON TITLE/ <br>DURATION</strong></td>
+<td style="text-align: center;" width="139"><strong>LESSON OVERVIEW</strong></td>
+<td style="text-align: center;" width="156"><strong>TIME PERIOD<br>(e.g. Term 1 Week 2)</strong></td>
+</tr>
+	
+<tr>
+<td style="text-align: center;" width="76">Growing Years</td>
+<td style="text-align: center;" width="68">Are We More than Friends?<br> <br>Lesson 1 <br><br> (60 min)</td>
+<td style="text-align: center;" width="139">In this lesson, students will learn to distinguish between the characteristics of love and infatuation. They will recognise that experiencing the feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
+<td style="text-align: center;" width="156">Term 1</td>
+</tr>
+
+<tr>
+<td style="text-align: center;" width="76">Growing Years</td>
+<td style="text-align: center;" width="68">Did You Know? <br><br> (60 min)</td>
+<td style="text-align: center;" width="139">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>'Stop-Think-Do'</b>.  <br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  </td>
+<td style="text-align: center;" width="156">Term 2</td>
+</tr>
+
+<tr>
+<td style="text-align: center;" width="76">Growing Years</td>
+<td style="text-align: center;" width="68">Keeping Myself Safe <br><br>(60 min)</td>
+<td style="text-align: center;" width="139">In this lesson, students will learn about sexual abuse, how it can happen online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  </td>
+<td style="text-align: center;" width="156">Term 2</td>
+</tr>
+	
+</tbody>
+</table>
+	
+	
+	
 | **CCE (FTGP) THEME** | **LESSON TITLE/** <br>**DURATION** |  **LESSON OVERVIEW** | 
 | -------- | -------- | -------- |
 | Growing Years    | **<u>Term 1</u>** <br><br>Are We More than Friends?<br> <br>Lesson 1 <br><br> (60 min)<br><br>   | In this lesson, students will learn to distinguish between the characteristics of love and infatuation. They will recognise that experiencing the feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.  |     |
