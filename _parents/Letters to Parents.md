@@ -31,7 +31,7 @@ description: ""
 <li><a href="https://go.gov.sg/andps2023p6ta1" target="_blank" rel="noopener">2023 P6 Term Assessment 1</a></li>
 <li><a href="https://go.gov.sg/andpsencompass2022" target="_blank" rel="noopener">2022 ENCOMPASS e-Magazine</a></li>
 
-    </div>
+ </div>
 	</li>
   <li>
     <input type="checkbox" id="accordion3">
