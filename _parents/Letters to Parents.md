@@ -26,7 +26,7 @@ description: ""
     <div>
 <ul>
 <li><a href="/departments/CCE/sexualityeducation2023/" target="_blank" rel="noopener">Sexuality Education 2023</a></li>
-<li><a href="go.gov.sg/andpsencompass2022" target="_blank" rel="noopener">2022 ENCOMPASS e-Magazine</a></li>
+<li><a href="https://go.gov.sg/andpsencompass2022" target="_blank" rel="noopener">2022 ENCOMPASS e-Magazine</a></li>
     </div>
 	</li>
   <li>
