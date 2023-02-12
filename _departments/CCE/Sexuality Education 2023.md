@@ -45,6 +45,12 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexually matters.
 
+**At Anderson Primary School, the following Sexuality Education lessons are taught in <u>2023</u>:**
+
+**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**
+
+**PRIMARY 5**
+
 #### Information for Parents
 
 8.   Parents may opt out their children out of Sexuality Education, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
