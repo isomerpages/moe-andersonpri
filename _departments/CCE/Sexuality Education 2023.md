@@ -128,7 +128,7 @@ You may click [here](http://go.gov.sg/moe-sexuality-education) for more informat
 </tbody>
 </table>
 
-**<u>Please Note:</u>**<br>
+<u>Please Note:</u><br>
 <b>* For parents <u>2023</u>, the Primary 5 lesson <i>'Did You Know?'</i> will also be conducted for the Primary 6 cohort. 
 <br>
 	
