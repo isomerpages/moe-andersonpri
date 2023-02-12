@@ -69,6 +69,14 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 **PRIMARY 6**
 
+
+| **CCE (FTGP) THEME** | **LESSON TITLE/** <br>**DURATION** |  **LESSON OVERVIEW** | 
+| -------- | -------- | -------- |
+| Growing Years    | **<u>Term 1</u>** <br><br>Are We More than Friends?<br> <br>Lesson 1 <br><br> (60 min)<br><br>   | In this lesson, students will learn to distinguish between the characteristics of love and infatuation. They will recognise that experiencing the feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.  |     |
+| Growing Years     | **<u>Term 1</u>** <br><br>Are We More than Friends?<br> <br>Lesson 2 <br><br> (60 min)<br><br>     | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **'Stop-Think-Do'**.  <br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.     |
+| Growing Years     | **<u>Term 2</u>** <br><br>Did You Know? <br><br> (60 min)     | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **'Stop-Think-Do'**.  <br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.      |
+
+
 | **CCE (FTGP) THEME** | **LESSON TITLE/** <br>**DURATION** |  **LESSON OVERVIEW** | 
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
