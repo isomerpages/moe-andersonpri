@@ -80,6 +80,7 @@ third_nav_title: Quick Links
 <li><a href="https://pg.moe.edu.sg/" target="_blank" rel="noopener">Parents Gateway</a></li>
 <li><a href="https://ssoe2.moe.edu.sg/" target="_blank" rel="noopener">SSOE2 Portal</a></li>
 <li><a href="https://rbs.avero-tech.com/" target="_blank" rel="noopener">Resource Booking System</a></li>
+<li><a href="https://go.gov.sg/apsictfaultreporting/" target="_blank" rel="noopener">ICT Fault Reporting Form</a></li>
 
 
 
