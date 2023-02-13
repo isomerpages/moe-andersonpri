@@ -2,8 +2,9 @@
 title: Our Programmes
 permalink: /curriculum/departments/character-n-citizenship-education/our-programmes/
 description: ""
-third_nav_title: C&C Education
+third_nav_title: CCE
 ---
+
 
 <p><strong>Learners with Passion, Leaders with Heart, Citizens of Character.</strong></p>
 <p>Every Andersonian can learn for life and even excel in life. They can achieve this when they are anchored in the core values of&nbsp;<strong>Respect, Responsibility, Resilience, Integrity, Care and Harmony (R3ICH)</strong>, and are equipped with the right skills and competencies to become citizens of good character. With a strong sense of responsibility and a heart to lead and serve,</p>

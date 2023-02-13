@@ -2,8 +2,9 @@
 title: Our Mission in CCE
 permalink: /curriculum/departments/character-n-citizenship-education/our-mission-in-cce/
 description: ""
-third_nav_title: C&C Education
+third_nav_title: CCE
 ---
+
 
 <p><strong>Character &amp; Citizenship Education @ Anderson</strong></p>
 <p>We are Learners with Passion, Leaders with Heart, Citizens of Character. In Anderson, we believe that every Andersonian can learn for life and even excel in life. To this end, we are committed to providing different opportunities to support our students' holistic development through a total curriculum, which encompasses both curricular and co-curricular learning experiences in the following domains: Moral, Cognitive, Physical, Social and Aesthetics.</p>
