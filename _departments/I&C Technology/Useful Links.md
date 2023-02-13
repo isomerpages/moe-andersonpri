@@ -2,9 +2,8 @@
 title: Useful Links
 permalink: /curriculum/departments/information-n-communication-technology/useful-links/
 description: ""
-third_nav_title: InfoComm Technology
+third_nav_title: I&C Technology
 ---
-
 <ul>
 <li>School Student Learning Space (SLS)</li>
 <ul>

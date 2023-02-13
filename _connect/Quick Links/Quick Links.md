@@ -72,7 +72,7 @@ third_nav_title: Quick Links
 <li><a href="https://www.opal2.moe.edu.sg/app/learner" target="_blank" rel="noopener">OPAL 2.0</a></li>
 <li><a href="https://schoolcockpit.moe.gov.sg/" target="_blank" rel="noopener">School Cockpit Plus</a></li>
 <li><a href="https://scmobile.moe.edu.sg/" target="_blank" rel="noopener">SC Mobile</a></li>
-
+<li><a href="https://intranet.moe.gov.sg/hr_online/Pages/backup/redirect.aspx" target="_blank" rel="noopener">MOE HR Online</a></li>
 <li><a href="https://www.hrp.gov.sg/hrp/#/" target="_blank" rel="noopener">HRP</a></li>
 <li><a href="https://schools.gov.sg/owa/auth/logon.aspx" target="_blank" rel="noopener">CES Email</a></li>
 
@@ -80,7 +80,6 @@ third_nav_title: Quick Links
 <li><a href="https://pg.moe.edu.sg/" target="_blank" rel="noopener">Parents Gateway</a></li>
 <li><a href="https://ssoe2.moe.edu.sg/" target="_blank" rel="noopener">SSOE2 Portal</a></li>
 <li><a href="https://rbs.avero-tech.com/" target="_blank" rel="noopener">Resource Booking System</a></li>
-<li><a href="https://go.gov.sg/apsictfaultreporting/" target="_blank" rel="noopener">ICT Fault Reporting Form</a></li>
 
 
 

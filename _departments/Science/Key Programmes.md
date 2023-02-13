@@ -275,3 +275,29 @@ third_nav_title: Science
 
 <img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic18.jpg" />
 <img style="width: 85%;" src="/images/2023 Images/2023 Sci Dept Pic19.jpg" />
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+

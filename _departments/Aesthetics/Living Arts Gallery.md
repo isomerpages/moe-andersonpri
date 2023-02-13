@@ -4,6 +4,7 @@ permalink: /curriculum/departments/aesthetics/living-arts-gallery/
 description: ""
 third_nav_title: Aesthetics
 ---
+
 <p class="">Launched in 2017, Anderson's first Living Arts Gallery is an active learning space that encourages creative and collaborative play through the arts. Inspired by the Reggio Emilia approach, the Gallery is designed as an environment where pupils can explore their inner creativity, and connect with their senses to see, listen, touch, feel and wonder. Serving as both an exhibitive and interactive space, the Gallery also provides opportunities for pupils to view, experience and appreciate the various art forms.<br /><br /><strong>Principles of Reggio Emilia Approach adopted by the Living Arts Gallery<br /></strong></p>
 <ul>
 <li>Children are competent in constructing their own learning. Being naturally curious about the environment they are in, children learn through experiences of touching, moving, listening, seeing and hearing.</li>
@@ -22,6 +23,8 @@ third_nav_title: Aesthetics
 <li>Restrained iPads with arts-based educational apps</li>
 <li>Projector and sound system</li>
 </ol>
+<p><strong>Daily opening hours:</strong></p>
+<p class="">&nbsp;&nbsp;P1:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 9.05 a.m. - 9.35 a.m.<br />&nbsp;&nbsp;P2 &amp; P4:&nbsp; &nbsp;9.35 a.m. - 10.05 a.m.<br />&nbsp;&nbsp;P3 &amp; P5:&nbsp; &nbsp;10.05 a.m. - 10.35 a.m.<br />&nbsp;&nbsp;P6:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10.35 a.m. - 11.05 a.m.</p>
 <p><strong>All users can help care for the Living Arts Gallery by practicing the following Gallery Etiquette:</strong></p>
 <ul>
 <li>No consumption of any food and drinks is allowed in the Gallery</li>

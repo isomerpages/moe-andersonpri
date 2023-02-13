@@ -2,9 +2,8 @@
 title: Vision & Mission
 permalink: /curriculum/departments/information-n-communication-technology/vision-n-mission/
 description: ""
-third_nav_title: InfoComm Technology
+third_nav_title: I&C Technology
 ---
-
 <p><strong>Vision</strong><br>To build a community of ethical, self-directed and collaborative IT-empowered learners.</p>
 <p><strong>Mission</strong></p>
 <ul>
