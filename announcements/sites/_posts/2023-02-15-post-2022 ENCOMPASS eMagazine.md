@@ -6,4 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
-
+ <img style="width: %;" src="/images/2023%20Images/andpsencompass2022.jpg" align = "centre" />
+ <center><a href="https://online.flipbuilder.com/zlpi/qjbi/">ENCOMPASS Magazine -2022 Issue </a></center>
