@@ -10,9 +10,9 @@ sections:
       background: /images/Website School Banner 3.gif
       url: /contact-us/
       key_highlights:
-        - title: Digital Showcase
-          description: 20th Anniversary Art Exhibition
-          url: https://o2.samwize.com/anderson-digital-exhibition/
+        - title: ENCOMPASS e-Magazine
+          description: 2022 Issue
+          url: https://https://online.flipbuilder.com/zlpi/qjbi/
         - title: Calendar
           description: School's Google Calendar
           url: /connect/quick-links/school-calendar
