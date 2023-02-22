@@ -12,7 +12,7 @@ third_nav_title: Service Providers
 <div><strong>Tel:</strong></div>
 </td>
 <td>
-<div><a href="tel:3163 6074" target="">3163 6074</a>&nbsp;/&nbsp;<a href="tel:6456 3198" target="">6456 3198</a></div>
+<div><a href="tel:6456 3198" target="">6456 3198</a></div>
 </td>
 </tr>
 <tr>
