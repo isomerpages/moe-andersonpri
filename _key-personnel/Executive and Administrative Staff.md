@@ -32,7 +32,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">Ms Shasha<br />MSO<br /><a href="mailto:Shasha_siti_noraini_maon@moe.edu.sg" target="">Shasha_siti_noraini_maon@moe.edu.sg</a></td>
-<td style="width: 33.3333%; text-align: center;">Mdm Chew Poh Choo<br />CSO<br /><a href="mailto:Chew_poh_choo_a@moe.edu.sg" target="">Chew_poh_choo_a@moe.edu.sg</a></td>
+<td style="width: 33.3333%; text-align: center;">Mdm Chew Poh Choo<br />MSO<br /><a href="mailto:Chew_poh_choo_a@moe.edu.sg" target="">Chew_poh_choo_a@moe.edu.sg</a></td>
 <td style="width: 33.3333%; text-align: center;">Mdm Phua Mei Yean, Jennifer<br />OSO</td>
 </tr>
 <tr>
