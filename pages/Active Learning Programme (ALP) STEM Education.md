@@ -74,6 +74,7 @@ In collaboration with the CCE department through the Citizen Science Integrated 
 
 
 **P3 Eureka! Module**
+
 Taking on the role of a Zero Waste Ambassador, students were tasked to create a stationery prototype for the teachers using recycled materials. The Engineering Design Process was sued to facilitate this mini project where students applied what they have learnt in the topic of Materials to imagine and research for a useful classroom stationery item. 
 ![](/images/ALP/2023%20ALP%20Pic%208a.jpg)
 ![](/images/ALP/2023%20ALP%20Pic%208b.jpg)
