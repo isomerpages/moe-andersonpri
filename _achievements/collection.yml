@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - National Arts Education Award (NAEA) 2015.md
       - Curriculum/.keep
       - Curriculum/2020 Achievements.md
       - Curriculum/2019 Achievements.md
