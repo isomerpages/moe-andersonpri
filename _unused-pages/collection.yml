@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - National Arts Education Award (NAEA) 2015.md
       - Awards.md
       - Waiting List for Transfer & Admission Form.md
       - Programme for Active Learning (PAL).md
