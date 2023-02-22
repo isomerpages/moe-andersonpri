@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Awards.md
       - Waiting List for Transfer & Admission Form.md
       - Programme for Active Learning (PAL).md
       - Sexuality Education Programme.md
