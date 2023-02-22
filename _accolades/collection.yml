@@ -1,6 +1,0 @@
-collections:
-  accolades:
-    output: true
-    order:
-      - Curriculum/.keep
-      - Co Curriculum/.keep
