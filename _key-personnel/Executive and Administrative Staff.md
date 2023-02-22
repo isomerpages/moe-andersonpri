@@ -18,7 +18,7 @@ description: ""
 <tr>
 <td style="width: 33.3333%;"><img style="width: 73%;" src="/images/eas4.jpg"></td>
 <td style="width: 33.3333%;"><img style="width: 75%;" src="/images/eas5.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/eas7.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/eas6.jpg"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">Ms Seah Chu Hwei<br />Admin Executive<br /><a href="mailto:seah_chu_hwei@moe.edu.sg" target="">seah_chu_hwei@moe.edu.sg</a></td>
@@ -26,7 +26,7 @@ description: ""
 <td style="width: 33.3333%; text-align: center;">Ms Lim Yee Leng<br />MSO<br /><a href="mailto:lim_yee_leng@moe.edu.sg" target="">lim_yee_leng@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 73%;" src="/images/eas6.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 73%;" src="/images/eas7.jpg"></td>
 <td style="width: 33.3333%;"><img style="width: 75%;" src="/images/eas8.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/eas9.jpg"></td>
 </tr>
