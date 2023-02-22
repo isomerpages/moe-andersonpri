@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Curriculum/.keep
-      - Curriculum/2020 Achievements.md
       - Curriculum/2019 Achievements.md
       - Curriculum/2018 Achievements.md
       - Co Curriculum/.keep
