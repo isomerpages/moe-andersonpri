@@ -15,7 +15,12 @@ third_nav_title: Resources for Parents
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2"><h4><strong>2023 Booklists</strong></h4></label>
 <div>
 <ul>
-<li><a href="https://go.gov.sg/2023p1booklist" target="_blank" rel="noopener">2023 Booklist</a></li>
+<li><a href="https://go.gov.sg/2023andpsp1booklist" target="_blank" rel="noopener">2023 P1 Booklist</a></li>
+<li><a href="https://go.gov.sg/2023andpsp2booklist" target="_blank" rel="noopener">2023 P2 Booklist</a></li>
+<li><a href="https://go.gov.sg/2023andpsp3booklist" target="_blank" rel="noopener">2023 P3 Booklist</a></li>
+<li><a href="https://go.gov.sg/2023andpsp4booklist" target="_blank" rel="noopener">2023 P4 Booklist</a></li>
+<li><a href="https://go.gov.sg/2023andpsp5booklist" target="_blank" rel="noopener">2023 P5 Booklist</a></li>
+<li><a href="https://go.gov.sg/2023andpsp6booklist" target="_blank" rel="noopener">2023 P6 Booklist</a></li>
 
 </ul>
 </div>
