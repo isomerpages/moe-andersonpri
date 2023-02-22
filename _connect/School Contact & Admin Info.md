@@ -331,9 +331,6 @@ description: ""
       </td>
       <td>
         <div>
-          <a href="tel:3163%206074" target="">3163 6074</a>
-        </div>
-        <div>
           <a href="tel:6456%203198" target="">6456 3198</a>
         </div>
       </td>
