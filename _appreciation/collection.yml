@@ -1,0 +1,4 @@
+collections:
+  appreciation:
+    output: true
+    order: []
