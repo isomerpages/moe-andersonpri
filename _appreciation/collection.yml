@@ -1,4 +1,5 @@
 collections:
   appreciation:
     output: true
-    order: []
+    order:
+      - Affirmation.md
