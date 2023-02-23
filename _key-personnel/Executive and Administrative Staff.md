@@ -18,17 +18,17 @@ description: ""
 <tr>
 <td style="width: 33.3333%;"><img style="width: 73%;" src="/images/eas3.jpg"></td>
 <td style="width: 33.3333%;"><img style="width: 75%;" src="/images/eas5.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/eas6.jpg"></td>
+<td style="width: 25%;"><img src="/images/eas6.jpg"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">Ms Seah Chu Hwei<br />Admin Executive<br /><a href="mailto:seah_chu_hwei@moe.edu.sg" target="">seah_chu_hwei@moe.edu.sg</a></td>
 <td style="width: 33.3333%; text-align: center;">Ms Nur Atiqah Abdul Razak<br />Admin Executive<br /><a href="mailto:Nur_atiqah_abdul_razak@moe.edu.sg" target="">Nur_atiqah_abdul_razak@moe.edu.sg</a></td>
-<td style="width: 33.3333%; text-align: center;">Ms Lim Yee Leng<br />MSO<br /><a href="mailto:lim_yee_leng@moe.edu.sg" target="">lim_yee_leng@moe.edu.sg</a></td>
+<td style="width: 25%; text-align: center;">Ms Lim Yee Leng<br />MSO<br /><a href="mailto:lim_yee_leng@moe.edu.sg" target="">lim_yee_leng@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><img style="width: 73%;" src="/images/eas7.jpg"></td>
 <td style="width: 33.3333%;"><img style="width: 75%;" src="/images/eas8.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/eas9.jpg"></td>
+<td style="width: 25%;"><img src="/images/eas9.jpg"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">Ms Shasha<br />MSO<br /><a href="mailto:Shasha_siti_noraini_maon@moe.edu.sg" target="">Shasha_siti_noraini_maon@moe.edu.sg</a></td>
@@ -38,7 +38,7 @@ description: ""
 <tr>
 <td style="width: 33.3333%;"><img style="width: 73%;" src="/images/eas10.jpg"></td>
 <td style="width: 33.3333%;"><img style="width: 75%;" src="/images/eas11.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/eas12.jpg"></td>
+<td style="width: 25%;"><img src="/images/eas12.jpg"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">Mr Chan Kim Chye<br />OSO</td>
@@ -48,7 +48,7 @@ description: ""
 <tr>
 <td style="width: 33.3333%;"><img style="width: 73%;" src="/images/eas13.jpg"></td>
 <td style="width: 33.3333%;"><img style="width: 75%;" src="/images/eas14.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/eas15.jpg"></td>
+<td style="width: 25%;"><img src="/images/eas15.jpg"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">Mdm Malar<br />OSO</td>
