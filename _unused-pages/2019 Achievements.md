@@ -2,8 +2,8 @@
 title: 2019 Achievements
 permalink: /achievements/curriculum/2019/
 description: ""
-third_nav_title: Curriculum
 ---
+
 <table border="1" cellspacing="0" cellpadding="10">
 <thead>
 <tr>

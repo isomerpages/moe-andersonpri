@@ -1,9 +1,10 @@
 ---
-title: "2019"
+title: Accolades Curriculum 2019
 permalink: /about/accolades/curriculum/2019/
 description: ""
-third_nav_title: Curriculum
 ---
+
+
 <p style="text-align: center;"><strong>2019 Achievements</strong></p>
 <table>
 <tbody>

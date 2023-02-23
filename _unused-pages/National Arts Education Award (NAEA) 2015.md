@@ -3,6 +3,7 @@ title: National Arts Education Award (NAEA) 2015
 permalink: /achievements/national-arts-education-award-naea-2015/
 description: ""
 ---
+
 <p><strong><u>National Arts Education Award (NAEA) 2015</u></strong></p>
 <p>Congratulations to Anderson Primary for achieving the NAEA Glow Award!</p>
 <p>The&nbsp;<strong>National Arts Education Award (NAEA)</strong>&nbsp;is a national arts award for Ministry of Education (MOE) schools.&nbsp;There are three award categories of Spark, Glow and Blaze, to recognise schools at different stages of arts education development and to&nbsp;affirm schools that develop holistic arts education for their students.&nbsp;The assessment of NAEA is conducted by officers from NAC and MOE, and arts experts and educators appointed by the NAC.&nbsp;</p>

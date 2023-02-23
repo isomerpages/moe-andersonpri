@@ -1,9 +1,10 @@
 ---
-title: 2019 Achievements
+title: 2019 Co Curriculum Achievements
 permalink: /achievements/co-curriculum/2019/
 description: ""
-third_nav_title: Co Curriculum
 ---
+
+
 <table border="1" cellspacing="0" cellpadding="10">
 <thead>
 <tr>

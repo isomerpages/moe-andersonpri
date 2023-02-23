@@ -1,9 +1,10 @@
 ---
-title: "2020"
+title: Accolades Co Curriculum 2020
 permalink: /about/accolades/co-curriculum/2020/
 description: ""
-third_nav_title: Co Curriculum
 ---
+
+
 <table>
 <tbody>
 <tr>
