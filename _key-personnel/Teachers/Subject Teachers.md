@@ -47,8 +47,8 @@ third_nav_title: Teachers
 	
 	
 <tr>
-<td style="text-align: center;">   Ms Lim Swee Yee</td>
-<td style="text-align: center;"><a href="mailto:lim_swee_yee_a@moe.edu.sg" target="">lim_swee_yee_a@moe.edu.sg</a></td>
+<td style="text-align: center;">   Ms Lim Siew Yee</td>
+<td style="text-align: center;"><a href="mailto:lim_siew_yee_a@moe.edu.sg" target="">lim_siew_yee_a@moe.edu.sg</a></td>
 </tr>
 </tbody>
 </table>
