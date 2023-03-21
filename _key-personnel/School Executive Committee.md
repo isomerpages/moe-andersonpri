@@ -62,11 +62,11 @@ description: ""
 <div>Subject Head (Tamil Language)</div>
 <div><a href="mailto:sornamangai_arumugam@moe.edu.sg" target="">sornamangai_arumugam@moe.edu.sg</a></div>
 </td>
-<td style="text-align: center;">Mrs Sornamangai Mohan<br />Subject Head (Tamil Language)<br /><a href="mailto:sornamangai_arumugam@moe.edu.sg" target="">sornamangai_arumugam@moe.edu.sg</a></td>
+<td style="text-align: center;">Mrs Sharon Yeo<br />Subject Head (Mathematics)<br /><a href="mailto:yeo_sharon@moe.edu.sg" target="">yeo_sharon@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td><img src="/images/Mrs%20Sharon%20Yeo.jpg" /></td>
-<td><img style ="width: 78%;" src="/images/Mdm%20Er%20Siew%20Shin.jpg" /></td>
+<td><img src="/images/Mdm%20Er%20Siew%20Shin.jpg" /></td>
+<td><img style ="width: 78%;" src="/images/Mr%20Ivan%20Ng.jpg" /></td>
 <td><img style ="width: 85%;"  src="/images/Mr%20Ivan%20Ng.jpg" /></td>
 </tr>
 <tr>
