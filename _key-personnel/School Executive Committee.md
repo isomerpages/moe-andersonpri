@@ -7,11 +7,11 @@ description: ""
 <tbody>
 <tr>
 <td><img src="/images/Mdm%20Delia%20Hoo.jpg" /></td>
-<td><img style ="width: 78%;" src="/images/Mrs%20Jane%20Chng.jpg" /></td>
+<td><img style ="width: 78%;" src="/images/Mr Thomas Boh ii.jpg" /></td>
 <td><img style ="width: 85%;" src="/images/Mr Thomas Boh ii.jpg" /></td>
 </tr>
  <td style="text-align: center;">Mdm Delia Hoo<br />Principal&nbsp;<br /><a href="mailto:Delia_Hoo@schools.gov.sg" target="">Delia_Hoo@schools.gov.sg</a></td>
-<td style="text-align: center;">Mrs Jane Chng <br />Vice-Principal (Academic)&nbsp;<br /><a href="mailto:Jane_Ngoh@schools.gov.sg" target="">Jane_Ngoh@schools.gov.sg</a></td>
+<td style="text-align: center;">Mr Thomas Boh <br />Vice-Principal (Academic)&nbsp;<br /><a href="mailto:Boh_Chek_Keow@schools.gov.sg" target="">Boh_Chek_Kwek@schools.gov.sg</a></td>
 <td style="text-align: center;">
 <div> Mr Thomas Boh</div>
 <div>Vice-Principal (Academic)</div>
