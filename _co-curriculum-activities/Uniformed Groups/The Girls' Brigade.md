@@ -28,5 +28,5 @@ third_nav_title: Uniformed Groups
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
 <li>Mrs Vimaladevi Steven (Overall Teacher-in-charge)</li>
-<li>Ms Loke Mei Yen</li>
+<li>Ms Stephanie Lim</li>
 </ul>
