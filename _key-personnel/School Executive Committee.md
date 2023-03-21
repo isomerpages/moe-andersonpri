@@ -72,7 +72,7 @@ description: ""
 <tr>
 <td style="text-align: center;">Mdm Er Siew Shin<br />HOD (Science)<br /><a href="mailto:er_siew_shin@moe.edu.sg" target="">er_siew_shin@moe.edu.sg</a></td>
 <td style="text-align: center;">Mr Ivan Ng<br />Level Head (Science)<br /><a href="mailto:ivan_ng_yong_leng@moe.edu.sg" target="">ivan_ng_yong_leng@moe.edu.sg</a></td>
-<td style="text-align: center;">Mr Ivan Ng<br />Level Head (Science)<br /><a href="mailto:ivan_ng_yong_leng@moe.edu.sg" target="">ivan_ng_yong_leng@moe.edu.sg</a></td>
+<td style="text-align: center;">Ms Jan Hu Wen Ying<br />HOD (PE & CCA)<br /><a href="mailto:jan_hu_wen_ying@moe.edu.sg" target="">jan_hu_wen_ying@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td><img style ="width: 150%;" src="/images/Mdm%20Suzanah%20Saparwan.jpg" /></td>
