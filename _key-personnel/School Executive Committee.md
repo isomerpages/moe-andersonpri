@@ -21,7 +21,7 @@ description: ""
 <tr>
 <td><img src="/images/Mr%20Leow%20Kor%20Ming.jpg" /></td>
 <td><img style ="width: 78%;" src="/images/Mrs%20Vimala%20Ratnaraja.jpg"  /></td>
-<td><img style ="width: 85%;" src="/images/Mrs%20Vimala%20Ratnaraja.jpg" /></td>
+<td><img style ="width: 85%;" src="/images/Mdm%20Neo%20Hwee%20Hwee.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">
@@ -35,9 +35,9 @@ description: ""
 <div><a href="mailto:vimala_ratnaramoe.edu.sg@moe.edu.sg" target="">vimala_ratnaraja@moe.edu.sg</a></div>
 </td>
 <td style="text-align: center;">
-<div>Mrs Vimala Ratnaraja&nbsp;</div>
-<div>Year Head (Upper Primary)&nbsp;</div>
-<div><a href="mailto:vimala_ratnaraja@moe.edu.sg" target="">vimala_ratnaraja@moe.edu.sg</a></div>
+<div>Ms Neo Hwee Hwee&nbsp;</div>
+<div>Year Head (Lower Primary)&nbsp;</div>
+<div><a href="mailto:neo_hwee_hwee@moe.edu.sg" target="">neo_hwee_hwee@moe.edu.sg</a></div>
 </td>
 </tr>
 <tr>
