@@ -42,7 +42,7 @@ description: ""
 </tr>
 <tr>
 <td><img src="/images/Ms%20Goh%20Ling%20Li.png" /></td>
-<td><img style ="width: 78%;" src="/images/Ms%20Goh%20Ling%20Li.png" /></td>
+<td><img style ="width: 78%;" src="/images/Mr%20Eric%20Lee.jpg" /></td>
 <td><img style ="width: 85%;" src="/images/Mr%20Eric%20Lee.jpg" /></td>
 </tr>
 <tr>
