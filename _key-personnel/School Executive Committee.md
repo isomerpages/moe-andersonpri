@@ -27,12 +27,12 @@ description: ""
 <td style="text-align: center;">
 <div>Mr Leow Kor Ming</div>
 <div>School Staff  Developer</div>
-<div><a href="mailto:leow_kor_ming@moe.edu.sg" target="">Leow_Kor_Ming@moe.edu.sg</a></div>
+<div><a href="mailto:leow_kor_ming@moe.edu.sg" target="">leow_kor_ming@moe.edu.sg</a></div>
 </td>
 <td style="text-align: center;">
-<div>Mrs Vimala Ratnaraja</div>
+<div>Mrs Vimala Ratnaraja&nbsp</div>
 <div>Year Head (Upper Primary)</div>
-<div><a href="mailto:vimala_ratnaramoe.edu.sg@moe.edu.sg" target="">Vimala_Ratnaraja@moe.edu.sg</a></div>
+<div><a href="mailto:vimala_ratnaramoe.edu.sg@moe.edu.sg" target="">vimala_ratnaraja@moe.edu.sg</a></div>
 </td>
 <td style="text-align: center;">
 <div>Mrs Vimala Ratnaraja&nbsp;</div>
