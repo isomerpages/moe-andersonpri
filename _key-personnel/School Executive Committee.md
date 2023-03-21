@@ -20,7 +20,7 @@ description: ""
 
 <tr>
 <td><img src="/images/Mr%20Leow%20Kor%20Ming.jpg" /></td>
-<td><img style ="width: 78%;" src="/images/Mr%20Leow%20Kor%20Ming.jpg"  /></td>
+<td><img style ="width: 78%;" src="/images/Mrs%20Vimala%20Ratnaraja.jpg"  /></td>
 <td><img style ="width: 85%;" src="/images/Mrs%20Vimala%20Ratnaraja.jpg" /></td>
 </tr>
 <tr>
@@ -30,9 +30,9 @@ description: ""
 <div><a href="mailto:leow_kor_ming@moe.edu.sg" target="">Leow_Kor_Ming@moe.edu.sg</a></div>
 </td>
 <td style="text-align: center;">
-<div>Mr Leow Kor Ming</div>
-<div>School Staff Developer</div>
-<div><a href="mailto:leow_kor_ming@moe.edu.sg@moe.edu.sg" target="">leow_kor_ming@moe.edu.sg@moe.edu.sg</a></div>
+<div>Mrs Vimala Ratnaraja</div>
+<div>Year Head (Upper Primary)</div>
+<div><a href="mailto:vimala_ratnaramoe.edu.sg@moe.edu.sg" target="">Vimala_Ratnaraja@moe.edu.sg</a></div>
 </td>
 <td style="text-align: center;">
 <div>Mrs Vimala Ratnaraja&nbsp;</div>
