@@ -96,7 +96,3 @@ description: ""
 <td style="text-align: center;">Mr Ramesh Sivadakacham&nbsp;<br />Subject Head&nbsp;<br />(Student Management)&nbsp;<br /><a href="mailto:ramesh_sivakadacham@moe.edu.sg" target="">ramesh_sivakadacham@moe.edu.sg</a></td>
 <td style="text-align: center;">Mr Ben Cho<br />Subject Head (CCA & Data Management)<br /><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg</a></td>
 </tr>
-	
-
-
-
