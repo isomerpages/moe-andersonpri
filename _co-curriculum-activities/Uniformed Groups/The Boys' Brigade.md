@@ -36,5 +36,6 @@ third_nav_title: Uniformed Groups
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
 <li>Mr William Ho (Overall Teacher-in-charge)</li>
-<li>Ms Stephanie Lim</li>
+<li>Mr Soh Wei Xuan</li>
+<li>Ms Danielle Tan</li>
 </ul>
