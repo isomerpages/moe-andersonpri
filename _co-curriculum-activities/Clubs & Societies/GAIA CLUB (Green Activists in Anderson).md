@@ -26,5 +26,6 @@ third_nav_title: Clubs & Societies
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
 <li>Mr Ivan Ng (Overall Teacher-in-charge)</li>
+<li>Ms Loke Mei Yen</li>
 
 </ul>
