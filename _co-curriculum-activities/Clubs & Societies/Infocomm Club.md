@@ -25,5 +25,5 @@ third_nav_title: Clubs & Societies
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
 <li>Mdm Linda Tan (Overall Teacher-in-charge)</li>
-<li>Mr Soh Wei Xuan</li>
+<li>Mr Alan Tan</li>
 </ul>
