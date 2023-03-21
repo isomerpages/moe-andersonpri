@@ -53,10 +53,10 @@ description: ""
 <tr>
 <td><img src="/images/Mdm%20Sabariah%20Abdullah.jpg" /></td>
 <td><img style ="width: 78%;" src="/images/Mrs%20Sornamangai%20Mohan.jpg" /></td>
-<td><img style ="width: 85%;" src="/images/Mrs%20Sornamangai%20Mohan.jpg" /></td>
+<td><img style ="width: 85%;" src="/images/Mrs%20Sharon%20Yeo.jpg" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mdm Sabariah Abdullah<br />Level Head (Malay Language)&nbsp;<br /><a href="mailto:sabariah_abdullah@moe.edu.sg" target="">sabariah_abdullah@moe.edu.sg</a></td>
+<td style="text-align: center;">Mdm Sabariah Abdullah<br />Subject Head (Malay Language)&nbsp;<br /><a href="mailto:sabariah_abdullah@moe.edu.sg" target="">sabariah_abdullah@moe.edu.sg</a></td>
 <td style="text-align: center;">
 <div>Mrs Sornamangai Mohan</div>
 <div>Subject Head (Tamil Language)</div>
