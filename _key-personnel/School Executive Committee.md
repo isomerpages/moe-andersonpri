@@ -41,7 +41,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><img src="/images/Mdm%20Neo%20Hwee%20Hwee.jpg" /></td>
+<td><img src="/images/Ms%20Goh%20Ling%20Li.png" /></td>
 <td><img style ="width: 78%;" src="/images/Ms%20Goh%20Ling%20Li.png" /></td>
 <td><img style ="width: 85%;" src="/images/Mr%20Eric%20Lee.jpg" /></td>
 </tr>
