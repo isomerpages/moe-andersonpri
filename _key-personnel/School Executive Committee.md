@@ -81,7 +81,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<div>Mdm Suzanah Saparwan<br />>HOD (Information &amp; Communication Technology)<br /><a href="mailto:suzanah_saparwan@moe.edu.sg" target="">suzanah_saparwan@moe.edu.sg</a></div>
+<div>Mdm Suzanah Saparwan<br />HOD (Information &amp; Communication Technology)<br /><a href="mailto:suzanah_saparwan@moe.edu.sg" target="">suzanah_saparwan@moe.edu.sg</a></div>
 </td>
 <td style="text-align: center;">Mdm Sheena Toh<br />HOD (Aesthetics)<br /><a href="mailto:sheena_toh@moe.edu.sg" target="">sheena_toh@moe.edu.sg</a></td>
 <td style="text-align: center;">Mrs Fion Ho&nbsp;<br />HOD (Character &amp; Citizenship Education)&nbsp;<br /><a href="mailto:lim_ser_yee@moe.edu.sg" target="">lim_ser_yee@moe.edu.sg</a></td>
