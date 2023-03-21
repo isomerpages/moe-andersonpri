@@ -2,8 +2,8 @@
 title: Affirmation
 permalink: /about/appreciation/affirmation/
 description: ""
-third_nav_title: Appreciation
 ---
+
 <h4><strong>2021</strong></h4>
 <p><strong><em><u>Compliments from parents and students</u></em></strong></p>
 <p style="text-align: right;">2 July 2021</p>

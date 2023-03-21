@@ -2,8 +2,8 @@
 title: Awards
 permalink: /about/accolades/awards/
 description: ""
-third_nav_title: Accolades
 ---
+
 <h4><strong>2016 Achievement Award</strong></h4>
 <img style="width: 80%;" src="/images/awards1.png">
 <h4><strong>National Arts Education Award (NAEA) 2015</strong></h4>

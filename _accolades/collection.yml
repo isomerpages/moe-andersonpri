@@ -1,0 +1,5 @@
+collections:
+  accolades:
+    output: true
+    order:
+      - Awards.md
