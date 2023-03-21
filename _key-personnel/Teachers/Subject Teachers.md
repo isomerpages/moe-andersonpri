@@ -46,10 +46,6 @@ third_nav_title: Teachers
 </tr>
 	
 	
-<tr>
-<td style="text-align: center;">   Ms Lim Siew Yee</td>
-<td style="text-align: center;"><a href="mailto:lim_siew_yee_a@moe.edu.sg" target="">lim_siew_yee_a@moe.edu.sg</a></td>
-</tr>
 
 <tr>
 <td style="text-align: center;">   Mr Muhammad Izzuddin Mohd Azmi</td>
