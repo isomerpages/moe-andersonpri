@@ -98,8 +98,5 @@ description: ""
 </tr>
 	
 
-<td><img src="/images/Mr%20Ben%20Choo.jpg" /></td>
 
 
-<tr>
-<td style="text-align: center;">Mr Ben Choo<br />Subject Head (CCA &amp;<br />Data Management)<br /><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg</a></td>
