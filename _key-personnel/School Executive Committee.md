@@ -43,10 +43,10 @@ description: ""
 <tr>
 <td><img src="/images/Ms%20Goh%20Ling%20Li.png" /></td>
 <td><img style ="width: 78%;" src="/images/Mr%20Eric%20Lee.jpg" /></td>
-<td><img style ="width: 85%;" src="/images/Mr%20Eric%20Lee.jpg" /></td>
+<td><img style ="width: 85%;" src="/images/Cheong Mei Yuan.jpg" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mdm Neo Hwee Hwee&nbsp;<br />Year Head (Lower Primary)<br /><a href="mailto:neo_hwee_hwee@moe.edu.sg" target="">neo_hwee_hwee@moe.edu.sg</a></td>
+<td style="text-align: center;">Mdm Goh Ling Li&nbsp;<br />HOD (English Language)<br /><a href="mailto:goh_ling_li@moe.edu.sg" target="">goh_ling_li@moe.edu.sg</a></td>
 <td style="text-align: center;">Mdm Goh Ling Li<br />HOD (English Language<br /><a href="mailto:goh_ling_li@moe.edu.sg" target="">goh_ling_li@moe.edu.sg</a></td>
 <td style="text-align: center;">Mr Eric Lee&nbsp;<br />HOD (Mother Tongue Language)<br /><a href="mailto:lee_seh_lat@moe.edu.sg" target="">lee_seh_lat@moe.edu.sg</a></td>
 </tr>
