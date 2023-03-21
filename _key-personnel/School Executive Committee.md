@@ -67,7 +67,7 @@ description: ""
 <tr>
 <td><img src="/images/Mdm%20Er%20Siew%20Shin.jpg" /></td>
 <td><img style ="width: 78%;" src="/images/Mr%20Ivan%20Ng.jpg" /></td>
-<td><img style ="width: 85%;"  src="/images/Mr%20Ivan%20Ng.jpg" /></td>
+<td><img style ="width: 85%;"  src="/images/Jan%20Hu.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mdm Er Siew Shin<br />HOD (Science)<br /><a href="mailto:er_siew_shin@moe.edu.sg" target="">er_siew_shin@moe.edu.sg</a></td>
