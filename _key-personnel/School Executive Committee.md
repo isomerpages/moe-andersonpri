@@ -89,12 +89,12 @@ description: ""
 <tr>
 <td><img src="/images/Miss%20Angela%20Lee.jpg" /></td>
 <td><img style ="width: 78%;" src="/images/Mr%20Ramesh%20Sivakadacham.jpg" /></td>
-<td><img style ="width: 87%;"  src="/images/Jan%20Hu.jpg" /></td>
+<td><img style ="width: 87%;"  src="/images/Mr%20Ben%20Choo.jpg" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Miss Angela Lee&nbsp;<br />Subject Head (Character &amp; Citizenship Education)&nbsp;<br /><a href="mailto:lee_yueling_angela@moe.edu.sg" target="">lee_yueling_angela@moe.edu.sg</a></td>
 <td style="text-align: center;">Mr Ramesh Sivadakacham&nbsp;<br />Subject Head&nbsp;<br />(Student Management)&nbsp;<br /><a href="mailto:ramesh_sivakadacham@moe.edu.sg" target="">ramesh_sivakadacham@moe.edu.sg</a></td>
-<td style="text-align: center;">Ms Jan Hu Wen Ying;<br />HOD (PE & CCA)<br /><a href="mailto:jan_hu_wen_ying@moe.edu.sg" target="">jan_hu_wen_ying@moe.edu.sg</a></td>
+<td style="text-align: center;">Mr Ben Cho<br />Subject Head (CCA & Data Management)<br /><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg</a></td>
 </tr>
 	
 
