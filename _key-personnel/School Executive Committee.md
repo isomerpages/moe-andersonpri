@@ -25,9 +25,9 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<div>Ms Jasmine Tan</div>
-<div>Vice-Principal (Administration)</div>
-<div><a href="mailto:Tan_Ai_Choo@schools.gov.sg" target="">Tan_Ai_Choo@schools.gov.sg</a></div>
+<div>Mr Leow Kor Ming</div>
+<div>School Staff  Developer</div>
+<div><a href="mailto:leow_kor_ming@moe.edu.sg" target="">Leow_Kor_Ming@moe.edu.sg</a></div>
 </td>
 <td style="text-align: center;">
 <div>Mr Leow Kor Ming</div>
