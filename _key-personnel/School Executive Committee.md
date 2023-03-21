@@ -47,8 +47,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Mdm Goh Ling Li&nbsp;<br />HOD (English Language)<br /><a href="mailto:goh_ling_li@moe.edu.sg" target="">goh_ling_li@moe.edu.sg</a></td>
-<td style="text-align: center;">Mr Eric Lee<br />HOD (Mother Tongue Language)<br /><a href="mailto:goh_ling_li@moe.edu.sg" target="">goh_ling_li@moe.edu.sg</a></td>
-<td style="text-align: center;">Mr Eric Lee&nbsp;<br />HOD (Mother Tongue Language)<br /><a href="mailto:lee_seh_lat@moe.edu.sg" target="">lee_seh_lat@moe.edu.sg</a></td>
+<td style="text-align: center;">Mr Eric Lee<br />HOD (Mother Tongue Language)<br /><a href="mailto:lee_seh_lat@moe.edu.sg" target="">lee_seh_lat@moe.edu.sg</a></td>
+<td style="text-align: center;">Mdm Cheong Mei Yuan&nbsp;<br />Level Head (Chinese Language)<br /><a href="mailto:lee_seh_lat@moe.edu.sg" target="">lee_seh_lat@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td><img src="/images/Cheong Mei Yuan.jpg" /></td>
