@@ -89,8 +89,8 @@ third_nav_title: Teachers
 </tr>
 	
 <tr style="text-align: center;">
-<td>TBA</td>
-<td><a href="mailto:TBA@moe.edu.sg" target="">TBA</a></td>
+<td>Ms Dionne Teo</td>
+<td><a href="mailto:teo_lien_dionne@moe.edu.sg" target="">teo_lien_dionne@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
