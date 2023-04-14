@@ -7,8 +7,8 @@ description: ""
 <tbody>
 <tr>
 <td><img src="/images/Mdm%20Delia%20Hoo.jpg"></td>
-<td><img style="width: 78%;" src="/images/Mr Thomas Boh ii.jpg"></td>
-<td><img style="width: 85%;" src="/images/Ms Jasmine Tan.jpg"></td>
+<td><img style="width: 86%;" src="/images/Mr Thomas Boh ii.jpg"></td>
+<td><img style="width: %;" src="/images/Ms Jasmine Tan.jpg"></td>
 </tr>
  <tr><td style="text-align: center;">Mdm Delia Hoo<br>Principal&nbsp;<br><a href="mailto:Delia_Hoo@schools.gov.sg" target="">Delia_Hoo@schools.gov.sg</a></td>
 <td style="text-align: center;">Mr Thomas Boh <br>Vice-Principal (Academic)&nbsp;<br><a href="mailto:Boh_Chek_Keow@schools.gov.sg" target="">Boh_Chek_Keow@schools.gov.sg</a></td>
