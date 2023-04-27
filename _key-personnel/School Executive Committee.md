@@ -65,8 +65,8 @@ description: ""
 <td style="text-align: center;">Mrs Sharon Yeo<br>Subject Head (Mathematics)<br><a href="mailto:yeo_sharon@moe.edu.sg" target="">yeo_sharon@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td><img src="/images/Mdm%20Er%20Siew%20Shin.jpg"></td>
-<td><img style="width: 85%;" src="/images/Mr%20Ivan%20Ng.jpg"></td>
+<td><img style="width: 80%;" src="/images/Mdm%20Er%20Siew%20Shin.jpg"></td>
+<td><img style="width: 90%;" src="/images/Mr%20Ivan%20Ng.jpg"></td>
 <td><img style="width: %;" src="/images/Jan%20Hu.jpg"></td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ description: ""
 <td style="text-align: center;">Ms Jan Hu Wen Ying<br>HOD (PE &amp; CCA)<br><a href="mailto:jan_hu_wen_ying@moe.edu.sg" target="">jan_hu_wen_ying@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td><img style="width: 150%;" src="/images/Mdm%20Suzanah%20Saparwan.jpg"></td>
+<td><img style="width: 90%;" src="/images/Mdm%20Suzanah%20Saparwan.jpg"></td>
 <td><img style="width: 85%;" src="/images/Mdm%20Sheena%20Toh.jpg"></td>
 <td><img style="width: %;" src="/images/Mrs%20Fion%20Ho.png"></td>
 </tr>
@@ -96,4 +96,3 @@ description: ""
 <td style="text-align: center;">Mr Ramesh Sivadakacham&nbsp;<br>Subject Head&nbsp;<br>(Student Management)&nbsp;<br><a href="mailto:ramesh_sivakadacham@moe.edu.sg" target="">ramesh_sivakadacham@moe.edu.sg</a></td>
 <td style="text-align: center;">Mr Ben Cho<br>Subject Head (CCA &amp; Data Management)<br><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg</a></td>
 </tr></tbody></table>
-
