@@ -51,7 +51,7 @@ description: ""
 <td style="text-align: center;">Mdm Cheong Mei Yuan&nbsp;<br>Level Head (Chinese Language)<br><a href="mailto:cheong_mei_yuan@moe.edu.sg" target="">cheong_mei_yuan@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td><img style="width: 90%;" src="/images/Mdm%20Sabariah%20Abdullah.jpg"></td>
+<td><img style="width: 75%;" src="/images/Mdm%20Sabariah%20Abdullah.jpg"></td>
 <td><img style="width: 85%;" src="/images/Mrs%20Sornamangai%20Mohan.jpg"></td>
 <td><img style="width: 85%;" src="/images/Mrs%20Sharon%20Yeo.jpg"></td>
 </tr>
