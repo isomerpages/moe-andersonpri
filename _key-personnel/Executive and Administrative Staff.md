@@ -16,8 +16,8 @@ description: ""
 <td style="width: 33.3333%; text-align: center;">Ms Ang Yann Yann <br>Operation Manager<br><a href="mailto:ang_yann_yann@moe.edu.sg" target="">ang_yann_yann@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 73%;" src="/images/eas3.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 75%;" src="/images/eas5.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 80%;" src="/images/eas3.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 90%;" src="/images/eas5.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas6.jpg"></td>
 </tr>
 <tr>
@@ -26,8 +26,8 @@ description: ""
 <td style="width: 25%; text-align: center;">Ms Lim Yee Leng<br>MSO<br><a href="mailto:lim_yee_leng@moe.edu.sg" target="">lim_yee_leng@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 73%;" src="/images/eas7.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 75%;" src="/images/eas8.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 90%;" src="/images/eas7.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 90%;" src="/images/eas8.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas9.jpg"></td>
 </tr>
 <tr>
@@ -36,8 +36,8 @@ description: ""
 <td style="width: 33.3333%; text-align: center;">Mdm Phua Mei Yean, Jennifer<br>OSO</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 73%;" src="/images/eas10.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 75%;" src="/images/eas11.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 85%;" src="/images/eas10.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 85%;" src="/images/eas11.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas12.jpg"></td>
 </tr>
 <tr>
@@ -46,8 +46,8 @@ description: ""
 <td style="width: 33.3333%; text-align: center;">Mr Juraimi (Remy)<br>OSO</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 73%;" src="/images/eas13.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 75%;" src="/images/eas14.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 90%;" src="/images/eas13.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 90%;" src="/images/eas14.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas15.jpg"></td>
 </tr>
 <tr>
