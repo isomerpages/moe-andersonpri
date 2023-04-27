@@ -51,8 +51,8 @@ description: ""
 <td style="text-align: center;">Mdm Cheong Mei Yuan&nbsp;<br>Level Head (Chinese Language)<br><a href="mailto:cheong_mei_yuan@moe.edu.sg" target="">cheong_mei_yuan@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td><img src="/images/Mdm%20Sabariah%20Abdullah.jpg"></td>
-<td><img style="width: 85%;" src="/images/Mrs%20Sornamangai%20Mohan.jpg"></td>
+<td><img style="width: 80%;" src="/images/Mdm%20Sabariah%20Abdullah.jpg"></td>
+<td><img style="width: 90%;" src="/images/Mrs%20Sornamangai%20Mohan.jpg"></td>
 <td><img style="width: %;" src="/images/Mrs%20Sharon%20Yeo.jpg"></td>
 </tr>
 <tr>
@@ -97,8 +97,3 @@ description: ""
 <td style="text-align: center;">Mr Ben Cho<br>Subject Head (CCA &amp; Data Management)<br><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg</a></td>
 </tr></tbody></table>
 
-<img align="left" style="width:30%;margin-right:15px;" src="/images/Mdm%20Delia%20Hoo.jpg">
-<img align="left" style="width:30%;margin-right:15px;" src="/images/Mr Thomas Boh ii.jpg">
-<img align="left" style="width:30%;margin-right:15px;" src="/images/Ms Jasmine Tan.jpg">
-
-<br clear="left">
