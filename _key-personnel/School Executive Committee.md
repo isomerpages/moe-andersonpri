@@ -41,9 +41,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><img src="/images/Ms%20Goh%20Ling%20Li.png"></td>
+<td><img style="width: 75%;" src="/images/Ms%20Goh%20Ling%20Li.png"></td>
 <td><img style="width: 85%;" src="/images/Mr%20Eric%20Lee.jpg"></td>
-<td><img style="width: %;" src="/images/Cheong Mei Yuan.jpg"></td>
+<td><img style="width: 80%;" src="/images/Cheong Mei Yuan.jpg"></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mdm Goh Ling Li&nbsp;<br>HOD (English Language)<br><a href="mailto:goh_ling_li@moe.edu.sg" target="">goh_ling_li@moe.edu.sg</a></td>
