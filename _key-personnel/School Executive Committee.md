@@ -87,7 +87,7 @@ description: ""
 <td style="text-align: center;">Mrs Fion Ho&nbsp;<br>HOD (Character &amp; Citizenship Education)&nbsp;<br><a href="mailto:lim_ser_yee@moe.edu.sg" target="">lim_ser_yee@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td><img src="/images/Miss%20Angela%20Lee.jpg"></td>
+<td><img style="width: 90%;" src="/images/Miss%20Angela%20Lee.jpg"></td>
 <td><img style="width: 85%;" src="/images/Mr%20Ramesh%20Sivakadacham.jpg"></td>
 <td><img style="width: %;" src="/images/Mr%20Ben%20Choo.jpg"></td>
 </tr>
