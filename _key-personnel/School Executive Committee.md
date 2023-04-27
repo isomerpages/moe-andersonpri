@@ -6,8 +6,8 @@ description: ""
 <table border="1" cellspacing="0">
 <tbody>
 <tr>
-<td><img src="/images/Mdm%20Delia%20Hoo.jpg"></td>
-<td><img style="width: 100%;" src="/images/Mr Thomas Boh ii.jpg"></td>
+<td><img style="width: 80%;" src="/images/Mdm%20Delia%20Hoo.jpg"></td>
+<td><img style="width: 80%;" src="/images/Mr Thomas Boh ii.jpg"></td>
 <td><img style="width: 100%;" src="/images/Ms Jasmine Tan.jpg"></td>
 </tr>
  <tr><td style="text-align: center;">Mdm Delia Hoo<br>Principal&nbsp;<br><a href="mailto:Delia_Hoo@schools.gov.sg" target="">Delia_Hoo@schools.gov.sg</a></td>
@@ -19,8 +19,8 @@ description: ""
 </td>
 
 </tr><tr>
-<td><img src="/images/Mr%20Leow%20Kor%20Ming.jpg"></td>
-<td><img src="/images/Mrs%20Vimala%20Ratnaraja.jpg"></td>
+<td><img style="width: 90%;" src="/images/Mr%20Leow%20Kor%20Ming.jpg"></td>
+<td><img style="width: 90%;" src="/images/Mrs%20Vimala%20Ratnaraja.jpg"></td>
 <td><img style="width: 100%;" src="/images/Mdm%20Neo%20Hwee%20Hwee.jpg"></td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ description: ""
 </tr>
 <tr>
 <td><img style="width: 75%;" src="/images/Ms%20Goh%20Ling%20Li.png"></td>
-<td><img style="width: 85%;" src="/images/Mr%20Eric%20Lee.jpg"></td>
+<td><img style="width: 80%;" src="/images/Mr%20Eric%20Lee.jpg"></td>
 <td><img style="width: 80%;" src="/images/Cheong Mei Yuan.jpg"></td>
 </tr>
 <tr>
