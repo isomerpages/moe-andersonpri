@@ -20,8 +20,8 @@ description: ""
 
 </tr><tr>
 <td><img src="/images/Mr%20Leow%20Kor%20Ming.jpg"></td>
-<td><img style="width: 85%;" src="/images/Mrs%20Vimala%20Ratnaraja.jpg"></td>
-<td><img style="width: %;" src="/images/Mdm%20Neo%20Hwee%20Hwee.jpg"></td>
+<td><img src="/images/Mrs%20Vimala%20Ratnaraja.jpg"></td>
+<td><img src="/images/Mdm%20Neo%20Hwee%20Hwee.jpg"></td>
 </tr>
 <tr>
 <td style="text-align: center;">
