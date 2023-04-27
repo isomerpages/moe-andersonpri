@@ -51,9 +51,9 @@ description: ""
 <td style="text-align: center;">Mdm Cheong Mei Yuan&nbsp;<br>Level Head (Chinese Language)<br><a href="mailto:cheong_mei_yuan@moe.edu.sg" target="">cheong_mei_yuan@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td><img style="width: 80%;" src="/images/Mdm%20Sabariah%20Abdullah.jpg"></td>
-<td><img style="width: 90%;" src="/images/Mrs%20Sornamangai%20Mohan.jpg"></td>
-<td><img style="width: %;" src="/images/Mrs%20Sharon%20Yeo.jpg"></td>
+<td><img style="width: 90%;" src="/images/Mdm%20Sabariah%20Abdullah.jpg"></td>
+<td><img style="width: 85%;" src="/images/Mrs%20Sornamangai%20Mohan.jpg"></td>
+<td><img style="width: 85%;" src="/images/Mrs%20Sharon%20Yeo.jpg"></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mdm Sabariah Abdullah<br>Subject Head (Malay Language)&nbsp;<br><a href="mailto:sabariah_abdullah@moe.edu.sg" target="">sabariah_abdullah@moe.edu.sg</a></td>
@@ -65,7 +65,7 @@ description: ""
 <td style="text-align: center;">Mrs Sharon Yeo<br>Subject Head (Mathematics)<br><a href="mailto:yeo_sharon@moe.edu.sg" target="">yeo_sharon@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td><img style="width: 80%;" src="/images/Mdm%20Er%20Siew%20Shin.jpg"></td>
+<td><img style="width: 90%;" src="/images/Mdm%20Er%20Siew%20Shin.jpg"></td>
 <td><img style="width: 90%;" src="/images/Mr%20Ivan%20Ng.jpg"></td>
 <td><img style="width: %;" src="/images/Jan%20Hu.jpg"></td>
 </tr>
@@ -76,7 +76,7 @@ description: ""
 </tr>
 <tr>
 <td><img style="width: 90%;" src="/images/Mdm%20Suzanah%20Saparwan.jpg"></td>
-<td><img style="width: 85%;" src="/images/Mdm%20Sheena%20Toh.jpg"></td>
+<td><img style="width: 90%;" src="/images/Mdm%20Sheena%20Toh.jpg"></td>
 <td><img style="width: %;" src="/images/Mrs%20Fion%20Ho.png"></td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ description: ""
 </tr>
 <tr>
 <td><img style="width: 90%;" src="/images/Miss%20Angela%20Lee.jpg"></td>
-<td><img style="width: 85%;" src="/images/Mr%20Ramesh%20Sivakadacham.jpg"></td>
+<td><img style="width: 90%;" src="/images/Mr%20Ramesh%20Sivakadacham.jpg"></td>
 <td><img style="width: %;" src="/images/Mr%20Ben%20Choo.jpg"></td>
 </tr>
 <tr>
