@@ -197,7 +197,8 @@ description: ""
 
 <br><br><br><br>
 
-<table style="table-layout: fixed; width: 100%;" class="tg">
+
+<table border="1" cellspacing="0" style="table-layout: fixed; width: 100%;" class="tg">
   <tbody>
     <tr>
       <td class="tg-0lax"><img alt="Mdm%20Delia%20Hoo" style="width: 100%;" src="/images/Mdm%20Delia%20Hoo.jpg"></td>
