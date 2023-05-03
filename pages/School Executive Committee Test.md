@@ -230,8 +230,8 @@ description: ""
   </tbody>
   <tbody>
     <tr>
-      <td><img alt="Mr%20Leow%20Kor%20Ming" style="width: 90%;" src="/images/Mr%20Leow%20Kor%20Ming.jpg"></td>
-      <td><img alt="Mrs%20Vimala%20Ratnaraja" style="width: 90%;" src="/images/Mrs%20Vimala%20Ratnaraja.jpg"></td>
+      <td><img alt="Mr%20Leow%20Kor%20Ming" style="width: 100%;" src="/images/Mr%20Leow%20Kor%20Ming.jpg"></td>
+      <td><img alt="Mrs%20Vimala%20Ratnaraja" style="width: 100%;" src="/images/Mrs%20Vimala%20Ratnaraja.jpg"></td>
       <td><img alt="Mdm%20Neo%20Hwee%20Hwee" style="width: 100%;" src="/images/Mdm%20Neo%20Hwee%20Hwee.jpg"></td>
     </tr>
     <tr>
