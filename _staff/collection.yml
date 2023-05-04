@@ -1,5 +1,5 @@
 collections:
-  key-personnel:
+  staff:
     output: true
     order:
       - School Executive Committee.md
