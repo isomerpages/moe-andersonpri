@@ -6,17 +6,6 @@ description: ""
 <table border="1" cellspacing="0">
 <tbody>
 <tr>
-<td><img style="width: 90%;" src="/images/Mdm%20Delia%20Hoo.jpg"></td>
-<td><img style="width: 90%;" src="/images/Mr Thomas Boh ii.jpg"></td>
-<td><img style="width: 100%;" src="/images/Ms Jasmine Tan.jpg"></td>
-</tr>
- <tr><td style="text-align: center;">Mdm Delia Hoo<br>Principal&nbsp;<br><a href="mailto:Delia_Hoo@schools.gov.sg" target="">Delia_Hoo@schools.gov.sg</a></td>
-<td style="text-align: center;">Mr Thomas Boh <br>Vice-Principal (Academic)&nbsp;<br><a href="mailto:Boh_Chek_Keow@schools.gov.sg" target="">Boh_Chek_Keow@schools.gov.sg</a></td>
-<td style="text-align: center;">
-<div>&nbsp;Ms Jasmine Tan</div>
-<div>Vice-Principal (Administration)</div>
-<div><a href="mailto:tan_ai_choo@schools.gov.sg" target="">Tan_Ai_Choo@schools.gov.sg</a></div>
-</td>
 
 </tr><tr>
 <td><img style="width: 90%;" src="/images/Mr%20Leow%20Kor%20Ming.jpg"></td>
