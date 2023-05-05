@@ -5,31 +5,11 @@ description: ""
 third_nav_title: Service Providers
 ---
 <h4><strong>School Canteen Advertisement</strong></h4>
-<table>
-  <tbody>
-    <tr>
-      <td rowspan="2">
-      <br>
-      <strong>Type of Stall </strong></td>
-      <td colspan="2">
-        <div>
-          <strong></strong>
-        </div>
-				
-    </td></tr>
-    <tr>
-      <td><strong>Closing Date</strong></td>
-      <td style="text-align: center;"><strong>Requirements</strong></td>
-    </tr>
-    <tr>
-      <td width="250px">Halal Food Stall
 
-</td>
-      <td width="180px" style="text-align: center;">31 Aug 2023</td>
-      <td width="180px" style="text-align: center;">NIL</td>
-    </tr>
-  </tbody>
-</table>
+| Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
+| Halal Food Stall     | 31 August 2023     | NIL     |
+
 
 **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
