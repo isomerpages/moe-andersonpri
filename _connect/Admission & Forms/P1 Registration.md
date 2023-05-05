@@ -2,6 +2,7 @@
 title: P1 Registration
 permalink: /parents/p1-registration/
 description: ""
+third_nav_title: Admission & Forms
 ---
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>Parent Volunteer Programme</strong></h4></label>

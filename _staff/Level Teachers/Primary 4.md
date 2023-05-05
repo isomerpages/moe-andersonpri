@@ -2,7 +2,7 @@
 title: Primary 4
 permalink: /key-personnel/teachers/primary-4/
 description: ""
-third_nav_title: Teachers
+third_nav_title: Level Teachers
 ---
 <table style="margin-left: auto; margin-right: auto;" border="0" width="100%" cellspacing="0">
 <tbody>
@@ -91,11 +91,11 @@ third_nav_title: Teachers
 	
 <tr style="text-align: center;">
 <td>Ms Angeline Teo</td>
-<td><a href="mailto:teo_puay_leng@moe.edu.sg" target="">teo_puay_leng@moe.edu.sg</a><br /><br /></td>
+<td><a href="mailto:teo_puay_leng@moe.edu.sg" target="">teo_puay_leng@moe.edu.sg</a><br><br></td>
 </tr>
 	
 <tr style="text-align: center;">
-<td>Ms Jan Hu Wen Ying<br>HOD (PE CCA & Aesthetics)</td>
+<td>Ms Jan Hu Wen Ying<br>HOD (PE CCA &amp; Aesthetics)</td>
 <td><a href="mailto:jan_hu_wen_ying@moe.edu.sg" target="">jan_hu_wen_ying@moe.edu.sg</a></td>
 </tr>
 	
@@ -108,7 +108,7 @@ third_nav_title: Teachers
 	
 <tr style="text-align: center;">
 <td>Mr Soh Wei Xuan</td>
-<td><a href="mailto:soh_wei_xuan@moe.edu.sg" target="">soh_wei_xuan@moe.edu.sg</a><br /><br /></td>
+<td><a href="mailto:soh_wei_xuan@moe.edu.sg" target="">soh_wei_xuan@moe.edu.sg</a><br><br></td>
 </tr>
 	
 <tr style="text-align: center;">

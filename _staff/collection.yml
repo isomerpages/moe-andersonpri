@@ -1,0 +1,15 @@
+collections:
+  staff:
+    output: true
+    order:
+      - Key Personnel.md
+      - Level Teachers/Primary 1.md
+      - Level Teachers/Primary 2.md
+      - Level Teachers/Primary 3.md
+      - Level Teachers/Primary 4.md
+      - Level Teachers/Primary 5.md
+      - Level Teachers/Primary 6.md
+      - Level Teachers/Subject Teachers.md
+      - Level Teachers/.keep
+      - Allied Educators.md
+      - Executive and Administrative Staff.md

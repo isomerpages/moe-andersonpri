@@ -2,7 +2,7 @@
 title: Primary 1
 permalink: /key-personnel/teachers/primary-1/
 description: ""
-third_nav_title: Teachers
+third_nav_title: Level Teachers
 ---
 <table cellspacing="0" width="100%" border="0" style="margin-left: auto; margin-right: auto;">
 <tbody>

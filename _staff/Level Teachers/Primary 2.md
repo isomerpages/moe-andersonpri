@@ -2,7 +2,7 @@
 title: Primary 2
 permalink: /key-personnel/teachers/primary-2/
 description: ""
-third_nav_title: Teachers
+third_nav_title: Level Teachers
 ---
 <table style="margin-left: auto; margin-right: auto;" border="0" width="100%" cellspacing="0">
 <tbody>
@@ -13,7 +13,7 @@ third_nav_title: Teachers
 <tr style="text-align: center;"><td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 	
-<tr style="text-align: center;"><td width="50%">Mrs Lena Ho<br />P2 Level Executive Officer</td>
+<tr style="text-align: center;"><td width="50%">Mrs Lena Ho<br>P2 Level Executive Officer</td>
 <td width="50%"><a href="mailto:teo_mui_lin_lena@moe.edu.sg" target="">teo_mui_lin_lena@moe.edu.sg</a></td>
 </tr>
 	
@@ -32,7 +32,7 @@ third_nav_title: Teachers
 	
 <tr style="text-align: center;">
 <td>Mdm Maryati Mohamed</td>
-<td><a href="mailto:maryati_mohamed@moe.edu.sg" target="">maryati_mohamed@moe.edu.sg</a><br /><br /></td>
+<td><a href="mailto:maryati_mohamed@moe.edu.sg" target="">maryati_mohamed@moe.edu.sg</a><br><br></td>
 </tr>
 	
 <tr style="text-align: center;">
@@ -126,7 +126,7 @@ third_nav_title: Teachers
 
 <tr style="text-align: center;">
 <td>Ms Divyashree</td>
-<td><a href="mailto:divyashree_c_bala_krishnan@moe.edu.sg" target=""> divyashree_c_bala_krishnan@moe.edu.sg</a><br /><br /></td>
+<td><a href="mailto:divyashree_c_bala_krishnan@moe.edu.sg" target="">&nbsp;divyashree_c_bala_krishnan@moe.edu.sg</a><br><br></td>
 </tr>
 </tbody>
 </table>
