@@ -21,10 +21,10 @@ links:
         url: https://www.facebook.com/media/set/?set=a.1728858983817805&type=1&l=0237c3a584
       - title: School Publicity & Publication
         url: /about/school-publicity-n-publications/school-corporate-videos
-  - title: Key Personnel
+  - title: Staff
     url: /key-personnel/school-executive-committee
     sublinks:
-      - title: School Executive Committee
+      - title: Key Personnel
         url: /key-personnel/school-executive-committee
       - title: Teachers
         url: /key-personnel/teachers/primary-1
@@ -41,8 +41,6 @@ links:
         url: /parents/letters-to-parents
       - title: Resources for Parents
         url: /parents/resources-for-parents/road-safety
-      - title: P1 Registration
-        url: /parents/p1-registration
   - title: Partners
     url: /partners/school-advisory-committee-sac
     sublinks:

@@ -1,6 +1,6 @@
 ---
 title: Key Personnel
-permalink: /key-personnel/school-executive-committee/
+permalink: /key-personnel/key-personnel/
 description: ""
 ---
 <table border="1" cellspacing="0">
