@@ -3,7 +3,7 @@ title: School Leaders & Key Personnel
 permalink: /key-personnel/school-executive-committee/
 description: ""
 ---
-# **School Leaders**
+### **School Leaders**
 
 <table>
 <tbody>
@@ -29,31 +29,85 @@ description: ""
 </table>
 
 
-| Name: | Designation: | Email Address: |
-| -------- | -------- | -------- |
-| Mdm Delia Hoo    | Principal     |  Delia_HOO@schools.gov.sg    |
-| Mr Thomas Boh     | Vice-Principal (Academics)     | BOH_Chek_Keow@schools.gov.sg     |
-| Mdm Jasmine Tan     | Vice-Principal (Admin)     | TAN_Ai_Choo@schools.gov.sg     |
+### **Key Personnel**
+<table>
+<tbody>
 
-# **Key Personnel**
+<tr>
+<td style="text-align: left;">Mr Leow Kor Ming<br>School Staff Developer</td>
+<td style="text-align: left;"><a href="mailto:leow_kor_ming@moe.edu.sg" target="">leow_kor_ming@moe.edu.sg</a></td>
+</tr>
+	
+<tr>
+<td style="text-align: left;">Mrs Vimala Ratnaraja<br>Year Head (Upper Primary)</td>
+<td style="text-align: left;"><a href="mailto:vimala_ratnaraja@moe.edu.sg" target="">vimala_ratnaraja@moe.edu.sg</a></td>
+	
+	
+</tr><tr>
+</tr><tr>
+<td style="text-align: left;">Ms Neo Hwee Hwee<br>Year Head (Lower Primary)</td>
+<td style="text-align: left;"><a href="mailto:neo_hwee_hwee@moe.edu.sg" target="">neo_hwee_hwee@moe.edu.sg</a></td>
+</tr>
+	<tr>
+<td style="text-align: left;">Mdm Goh Ling Li<br>HOD (English Language)</td>
+<td style="text-align: left;"><a href="mailto:goh_ling_li@moe.edu.sg" target="">goh_ling_li@moe.edu.sg</a></td>
+</tr>
 
-| Name: | Designation: | Email Address: |
-| -------- | -------- | -------- |
-| Mr Leow Kor Ming    | School Staff  Developer     | leow_kor_ming@moe.edu.sg     |
-| Mrs Vimala Ratnaraja     | Year Head (Upper Primary)     | vimala_ratnaraja@moe.edu.sg     |
-| Ms Neo Hwee Hwee     | Year Head (Lower Primary)     | vimala_ratnaraja@moe.edu.sg     |
-| Mdm Goh Ling Li     | HOD (English Language)     | goh_ling_li@moe.edu.sg     |
-| Mr Eric Lee     | HOD (Mother Tongue Language)     | lee_seh_lat@moe.edu.sg     |
-| Mdm Cheong Mei Yuan     | Level Head (Chinese Language)     | cheong_mei_yuan@moe.edu.sg     |
-| Mdm Sabariah Abdullah     | Subject Head (Malay Language)     | sabariah_abdullah@moe.edu.sg    |
-| Mrs Sornamangai Mohan     | Subject Head (Tamil Language)     | sornamangai_arumugam@moe.edu.sg    |
-| Mrs Sharon Yeo     | Subject Head (Mathematics)     | yeo_sharon@moe.edu.sg   |
-| Mdm Er Siew Shin     | HOD (Science)     | er_siew_shin@moe.edu.sg  |
-| Mr Ivan Ng     | Level Head (Science)     | ivan_ng_yong_leng@moe.edu.sg  |
-| Ms Jan Hu Wen Ying    | HOD (PE &amp; CCA)     | jan_hu_wen_ying@moe.edu.sg  |
-| Mdm Suzanah Saparwan   | HOD (Information &amp; Communication Technology)     | suzanah_saparwan@moe.edu.sg  |
-| Mdm Sheena Toh   | HOD (Aesthetics)     | sheena_toh@moe.edu.sg  |
-| Mrs Fion Ho   | HOD (Character &amp; Citizenship Education)     | lim_ser_yee@moe.edu.sg  |
-| Miss Angela Lee   | Subject Head (Character &amp; Citizenship Education)     | lee_yueling_angela@moe.edu.sg  |
-| Mr Ramesh Sivadakacham   | Subject Head (Student Management)     | ramesh_sivakadacham@moe.edu.sg  |
-| Mr Ben Choo   | Subject Head (CCA &amp; Data Management)     | choo_chee_keong@moe.edu.sg  |
+	<tr><td style="text-align: left;">Mr Eric Lee<br>HOD (Mother Tongue Language)</td>
+<td style="text-align: left;"><a href="mailto:lee_seh_lat@moe.edu.sg" target="">lee_seh_lat@moe.edu.sg</a></td>
+</tr>
+	<tr>
+<td style="text-align: left;">Mdm Cheong Mei Yuan<br>Level Head (Chinese Language)</td>
+<td style="text-align: left;"><a href="mailto:cheong_mei_yuan@moe.edu.sg" target="">cheong_mei_yuan@moe.edu.sg</a></td>
+</tr>
+<tr><td style="text-align: left;">Mdm Sabariah Abdullah<br>Subject Head (Malay Language)</td>
+<td style="text-align: left;"><a href="mailto:sabariah_abdullah@moe.edu.sg" target="">sabariah_abdullah@moe.edu.sg</a></td>
+</tr>
+
+<tr><td style="text-align: left;">Mrs Sornamangai Mohan<br>Subject Head (Tamil Language)</td>
+<td style="text-align: left;"><a href="mailto:sornamangai_arumugam@moe.edu.sg" target="">sornamangai_arumugam@moe.edu.sg </a></td>
+</tr>
+
+<tr><td style="text-align: left;">Mrs Sharon Yeo<br>Subject Head (Mathematics)</td>
+<td style="text-align: left;"><a href="mailto:yeo_sharon@moe.edu.sg" target="">yeo_sharon@moe.edu.sg </a></td>
+</tr>
+
+<tr><td style="text-align: left;">Mdm Er Siew Shin<br>HOD (Science)</td>
+<td style="text-align: left;"><a href="mailto:er_siew_shin@moe.edu.sg" target="">er_siew_shin@moe.edu.sg </a></td>
+</tr>
+
+<tr><td style="text-align: left;">Mr Ivan Ng<br>Level Head (Science)</td>
+<td style="text-align: left;"><a href="mailto:ivan_ng_yong_leng@moe.edu.sg" target="">ivan_ng_yong_leng@moe.edu.sg </a></td>
+</tr>
+
+<tr><td style="text-align: left;">Ms Jan Hu<br>HOD  (PE &amp; CCA)</td>
+<td style="text-align: left;"><a href="mailto:jan_hu_wen_ying@moe.edu.sg" target="">jan_hu_wen_ying@moe.edu.sg </a></td>
+</tr>
+
+<tr><td style="text-align: left;">Mdm Suzanah Saparwan<br>HOD  (Information &amp; Communication Technology)</td>
+<td style="text-align: left;"><a href="mailto:suzanah_saparwan@moe.edu.sg" target="">suzanah_saparwan@moe.edu.sg </a></td>
+</tr>
+
+<tr><td style="text-align: left;">Mdm Sheena Toh <br>HOD (Aesthetics)</td>
+<td style="text-align: left;"><a href="mailto:sheena_toh@moe.edu.sg" target="">sheena_toh@moe.edu.sg </a></td>
+</tr>
+
+<tr><td style="text-align: left;">Mrs Fion Ho <br>HOD (Character &amp; Citizenship Education)</td>
+<td style="text-align: left;"><a href="mailto:lim_ser_yee@moe.edu.sg" target="">lim_ser_yee@moe.edu.sg </a></td>
+</tr>
+
+<tr><td style="text-align: left;">Miss Angela Lee <br>Subject Head (Character &amp; Citizenship Education)</td>
+<td style="text-align: left;"><a href="mailto:lee_yueling_angela@moe.edu.sg" target="">lee_yueling_angela@moe.edu.sg </a></td>
+</tr>
+
+<tr><td style="text-align: left;">Mr Ramesh Sivadakacham  <br>Subject Head (Student Management)</td>
+<td style="text-align: left;"><a href="mailto:lee_yueling_angela@moe.edu.sg" target="">ramesh_sivakadacham@moe.edu.sg </a></td>
+</tr>
+
+<tr><td style="text-align: left;">Mr Ben Choo  <br>Subject Head (CCA &amp; Data Management)</td>
+<td style="text-align: left;"><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg </a></td>
+</tr>
+
+
+</tbody>
+</table>
