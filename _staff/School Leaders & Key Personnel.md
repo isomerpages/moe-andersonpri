@@ -5,6 +5,29 @@ description: ""
 ---
 # **School Leaders**
 
+<table>
+<tbody>
+
+<tr>
+<td style="text-align: left;">Mdm Delia Hoo<br>Principal</td>
+<td style="text-align: left;"><a href="mailto:Delia_HOO@schools.gov.sg" target="">Delia_HOO@schools.gov.sg</a></td>
+</tr>
+	
+<tr>
+<td style="text-align: left;">Mr Thomas Boh<br>Vice-Principal (Academics)</td>
+<td style="text-align: left;"><a href="mailto:BOH_Chek_Keow@schools.gov.sg" target="">BOH_Chek_Keow@schools.gov.sg</a></td>
+</tr>
+	
+	
+<tr>
+<td style="text-align: left;">Mdm Jasmine Tan<br>Vice-Principal (Admin)</td>
+<td style="text-align: left;"><a href="mailto:TAN_Ai_Choo@schools.gov.sg" target="">TAN_Ai_Choo@schools.gov.sg</a></td>
+</tr>
+
+
+</tbody>
+</table>
+
 
 | Name: | Designation: | Email Address: |
 | -------- | -------- | -------- |
@@ -27,10 +50,10 @@ description: ""
 | Mrs Sharon Yeo     | Subject Head (Mathematics)     | yeo_sharon@moe.edu.sg   |
 | Mdm Er Siew Shin     | HOD (Science)     | er_siew_shin@moe.edu.sg  |
 | Mr Ivan Ng     | Level Head (Science)     | ivan_ng_yong_leng@moe.edu.sg  |
-| Ms Jan Hu Wen Ying    | HOD (PE & CCA)     | jan_hu_wen_ying@moe.edu.sg  |
+| Ms Jan Hu Wen Ying    | HOD (PE &amp; CCA)     | jan_hu_wen_ying@moe.edu.sg  |
 | Mdm Suzanah Saparwan   | HOD (Information &amp; Communication Technology)     | suzanah_saparwan@moe.edu.sg  |
 | Mdm Sheena Toh   | HOD (Aesthetics)     | sheena_toh@moe.edu.sg  |
-| Mrs Fion Ho   | HOD (Character & Citizenship Education)     | lim_ser_yee@moe.edu.sg  |
-| Miss Angela Lee   | Subject Head (Character & Citizenship Education)     | lee_yueling_angela@moe.edu.sg  |
+| Mrs Fion Ho   | HOD (Character &amp; Citizenship Education)     | lim_ser_yee@moe.edu.sg  |
+| Miss Angela Lee   | Subject Head (Character &amp; Citizenship Education)     | lee_yueling_angela@moe.edu.sg  |
 | Mr Ramesh Sivadakacham   | Subject Head (Student Management)     | ramesh_sivakadacham@moe.edu.sg  |
-| Mr Ben Choo   | Subject Head (CCA & Data Management)     | choo_chee_keong@moe.edu.sg  |
+| Mr Ben Choo   | Subject Head (CCA &amp; Data Management)     | choo_chee_keong@moe.edu.sg  |
