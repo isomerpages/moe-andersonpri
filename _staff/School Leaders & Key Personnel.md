@@ -8,7 +8,7 @@ description: ""
 
 | Name: | Designation: | Email Address: |
 | -------- | -------- | -------- |
-| Mdm Delia Hoo    | Principal     | [Delia_HOO@schools.gov.sg](Delia_HOO@schools.gov.sg)     |
+| Mdm Delia Hoo    | Principal     |  Delia_HOO@schools.gov.sg    |
 | Mr Thomas Boh     | Vice-Principal (Academics)     | BOH_Chek_Keow@schools.gov.sg     |
 | Mdm Jasmine Tan     | Vice-Principal (Admin)     | TAN_Ai_Choo@schools.gov.sg     |
 
