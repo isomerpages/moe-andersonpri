@@ -6,9 +6,9 @@ links:
       - title: Principal's Message
         url: /about/principals-message/principals-message-for-2023
       - title: Our Directional Statements
-        url: /about/mission-vision-and-values
+        url: /about/our-directional-statements/
       - title: School History
-        url: /about/school-history/20th-anniversary
+        url: /about/school-history
       - title: School Song
         url: /about/school-song
       - title: School Rules
@@ -16,7 +16,7 @@ links:
       - title: School Crest
         url: /about/school-crest
       - title: School Publications
-        url: /about/school-publicity-n-publications/school-corporate-videos
+        url: /about/school-publications
   - title: Staff
     url: /key-personnel/school-executive-committee
     sublinks:
