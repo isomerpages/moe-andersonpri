@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - School Contact & Admin Info.md
-      - Admissions/.keep
-      - Admissions/P1 Registration.md
-      - Admissions/Waiting List.md
       - Service Providers/.keep
       - Service Providers/School Student Care.md
       - Service Providers/School Bus.md
       - Service Providers/School Canteen.md
       - Service Providers/School Uniform.md
+      - Admissions/.keep
+      - Admissions/P1 Registration.md
+      - Admissions/Waiting List.md
       - Quick Links/.keep
       - Quick Links/Quick Links.md
       - Quick Links/School Calendar.md
