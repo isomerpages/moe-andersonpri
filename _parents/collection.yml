@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
-      - Parent Volunteer Programme.md
       - FAS Application.md
       - Letters to Parents.md
       - Resources for Parents/.keep
       - Resources for Parents/Road Safety.md
       - Resources for Parents/Resources.md
       - Resources for Parents/Easy Snacks for Break Time.md
+      - Parent Volunteer Programme.md
