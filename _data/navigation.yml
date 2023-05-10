@@ -57,9 +57,9 @@ links:
     sublinks:
       - title: School Contact & Admin Info
         url: /connect/school-contact-n-admin-info
-      - title: Quick Links
-        url: /connect/quick-links
-      - title: Admission & Forms
-        url: /connect/admission-n-forms/waiting-list-admission
+      - title: Admission
+        url: /connect/admission/waiting-list-admission
       - title: Service Providers
         url: /connect/service-providers/school-student-care
+      - title: Quick Links
+        url: /connect/quick-links
