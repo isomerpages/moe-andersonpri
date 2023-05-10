@@ -2,7 +2,7 @@ collections:
   partners:
     output: true
     order:
-      - Family Matters @ School.md
       - School Advisory Committee (SAC).md
       - Parent Support Group.md
       - Alumni.md
+      - Family Matters @ School.md
