@@ -92,11 +92,11 @@ description: ""
 <td style="text-align: left;"><a href="mailto:sheena_toh@moe.edu.sg" target="">sheena_toh@moe.edu.sg </a></td>
 </tr>
 
-<tr><td style="text-align: left;">Mrs Fion Ho <br>HOD (Character &amp; Citizenship Education)</td>
+<tr><td style="text-align: left;">Mrs Fion Ho <br>HOD (Character &amp; <br> Citizenship Education)</td>
 <td style="text-align: left;"><a href="mailto:lim_ser_yee@moe.edu.sg" target="">lim_ser_yee@moe.edu.sg </a></td>
 </tr>
 
-<tr><td style="text-align: left;">Miss Angela Lee <br>Subject Head (Character &amp; Citizenship Education)</td>
+<tr><td style="text-align: left;">Miss Angela Lee <br>Subject Head (Character &amp; <br> Citizenship Education)</td>
 <td style="text-align: left;"><a href="mailto:lee_yueling_angela@moe.edu.sg" target="">lee_yueling_angela@moe.edu.sg </a></td>
 </tr>
 
