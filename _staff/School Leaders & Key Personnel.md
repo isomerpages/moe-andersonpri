@@ -53,7 +53,7 @@ description: ""
 <td style="text-align: left;"><a href="mailto:goh_ling_li@moe.edu.sg" target="">goh_ling_li@moe.edu.sg</a></td>
 </tr>
 
-	<tr><td style="text-align: left;">Mr Eric Lee<br>HOD (Mother Tongue Language)</td>
+<tr><td style="text-align: left;">Mr Eric Lee<br>HOD (Mother Tongue Language)</td>
 <td style="text-align: left;"><a href="mailto:lee_seh_lat@moe.edu.sg" target="">lee_seh_lat@moe.edu.sg</a></td>
 </tr>
 	<tr>
