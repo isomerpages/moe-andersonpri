@@ -1,6 +1,6 @@
 ---
-title: School Contact & Admin Info
-permalink: /connect/school-contact-n-admin-info/
+title: Contact & Admin Info
+permalink: /connect/contact-n-admin-info/
 description: ""
 ---
 <h4><strong>Our Address</strong></h4>
@@ -53,7 +53,7 @@ description: ""
     </tr>
   </tbody>
 </table>
-<h4><strong>MRT & Bus Stop</strong></h4>
+<h4><strong>MRT &amp; Bus Stop</strong></h4>
 <table>
   <tbody>
     <tr>
@@ -80,7 +80,7 @@ description: ""
       <td width="180px">
         <div>
           <strong>Monday, Tuesday<br>
-          & Wednesday</strong>
+          &amp; Wednesday</strong>
         </div>
       </td>
       <td>
@@ -120,7 +120,7 @@ description: ""
       </td>
     </tr>
     <tr>
-      <td style="text-align: center;"><strong>Monday, Tuesday & Wednesday</strong></td>
+      <td style="text-align: center;"><strong>Monday, Tuesday &amp; Wednesday</strong></td>
       <td style="text-align: center;"><strong>Thursday, Friday</strong></td>
     </tr>
     <tr>

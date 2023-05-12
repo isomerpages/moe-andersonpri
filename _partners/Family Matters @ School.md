@@ -1,6 +1,6 @@
 ---
 title: Family Matters @ School
-permalink: /connect/family-matters-at-school/
+permalink: /partners/family-matters-at-school/
 description: ""
 ---
 <h4><strong>Objective</strong></h4>
@@ -17,11 +17,11 @@ description: ""
 <img style="width: 60%;" src="/images/IMG_0008.jpg">
 <h4><strong>Upcoming Programmes</strong></h4>
 <img style="width: 50%;" src="/images/FamilyMatters%20Logo.jpg">
-<p>Upcoming Programme:<BR>Please keep a lookout for the upcoming FMS programme!</p>
+<p>Upcoming Programme:<br>Please keep a lookout for the upcoming FMS programme!</p>
 <h4><strong>Photo Gallery</strong></h4>
 <ul>
 <li><a href="https://www.facebook.com/Anderson-Primary-School-Official-248457555191296/photos/?tab=album&amp;album_id=1649615591742145" target="_blank" rel="noopener">Dad's Club @ Anderson</a></li>
 <li><a href="https://www.facebook.com/Anderson-Primary-School-Official-248457555191296/photos/?tab=album&amp;album_id=1677126662324371" target="_blank" rel="noopener">CyberWellness Talk - Be careful when accessing online content</a></li>
-<li><a href="https://www.facebook.com/Anderson-Primary-School-Official-248457555191296/photos/?tab=album&amp;album_id=1598746413495730" target="_blank" rel="noopener">CyberWellness Talk - Let&rsquo;s Be a Positive Peer Influence Online</a></li>
+<li><a href="https://www.facebook.com/Anderson-Primary-School-Official-248457555191296/photos/?tab=album&amp;album_id=1598746413495730" target="_blank" rel="noopener">CyberWellness Talk - Let’s Be a Positive Peer Influence Online</a></li>
 <li><a href="https://www.facebook.com/Anderson-Primary-School-Official-248457555191296/photos/?tab=album&amp;album_id=1559441810759524" target="_blank" rel="noopener">Flower Power</a></li>
 </ul>

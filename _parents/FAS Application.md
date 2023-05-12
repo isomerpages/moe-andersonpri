@@ -1,8 +1,7 @@
 ---
-title: FAS
-permalink: /connect/admission-n-forms/fas/
+title: FAS Application
+permalink: /parents/fas-application/
 description: ""
-third_nav_title: Admission & Forms
 ---
 <p>For more information about the Financial Assistance Scheme (FAS), please click on the link below.</p>
 <ul>

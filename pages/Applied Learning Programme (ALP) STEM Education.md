@@ -1,6 +1,6 @@
 ---
-title: Active Learning Programme (ALP) STEM Education
-permalink: /curriculum/distinctive-programmes/active-learning-programme-alp-stem-education2023/
+title: Applied Learning Programme (ALP) STEM Education
+permalink: /curriculum/distinctive-programmes/applied-learning-programme-alp-stem-education2023/
 description: ""
 ---
 ### Overview

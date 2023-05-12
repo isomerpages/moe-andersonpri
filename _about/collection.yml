@@ -2,22 +2,16 @@ collections:
   about:
     output: true
     order:
-      - Principal's Message/Principal's Message for 2023.md
       - Principal's Message/.keep
+      - Principal's Message/Principal's Message for 2023.md
       - Principal's Message/Principal's Message for 2022.md
       - Principal's Message/Principal's Message for 2021.md
       - Principal's Message/Principal's Message for 2020.md
       - Principal's Message/Principal's Message for 2019.md
-      - Mission, Vision and Values.md
-      - Our Strategic Plan (2021 to 2023).md
-      - School History/.keep
-      - School History/20th Anniversary.md
-      - School History/Digital Showcase.md
-      - School History/School History.md
+      - Our Directional Statements.md
+      - School History.md
       - School Song.md
       - School Rules.md
       - School Crest.md
-      - School Facilities.md
-      - School Publicity & Publication/.keep
-      - School Publicity & Publication/School Corporate Videos.md
-      - School Publicity & Publication/School ENCOMPASS eMagazine.md
+      - School Publications/.keep
+      - School Publications/School ENCOMPASS eMagazine.md

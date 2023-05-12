@@ -5,26 +5,22 @@ links:
     sublinks:
       - title: Principal's Message
         url: /about/principals-message/principals-message-for-2023
-      - title: Mission, Vision and Values
-        url: /about/mission-vision-and-values
-      - title: Our Strategic Plan
-        url: /about/our-strategic-plan-2021-to-2023
+      - title: Our Directional Statements
+        url: /about/our-directional-statements/
       - title: School History
-        url: /about/school-history/20th-anniversary
+        url: /about/school-history
       - title: School Song
         url: /about/school-song
       - title: School Rules
         url: /about/school-rules
       - title: School Crest
         url: /about/school-crest
-      - title: School Facilities
-        url: https://www.facebook.com/media/set/?set=a.1728858983817805&type=1&l=0237c3a584
-      - title: School Publicity & Publication
-        url: /about/school-publicity-n-publications/school-corporate-videos
+      - title: School Publications
+        url: /about/school-publication/encompass/
   - title: Staff
     url: /key-personnel/school-executive-committee
     sublinks:
-      - title: Key Personnel
+      - title: School Leaders & Key Personnel
         url: /key-personnel/school-executive-committee
       - title: Teachers
         url: /key-personnel/teachers/primary-1
@@ -41,6 +37,8 @@ links:
         url: /parents/letters-to-parents
       - title: Resources for Parents
         url: /parents/resources-for-parents/road-safety
+      - title: FAS Application
+        url: /parents/fas-application/
   - title: Partners
     url: /partners/school-advisory-committee-sac
     sublinks:
@@ -50,18 +48,16 @@ links:
         url: /partners/parent-support-group
       - title: Alumni
         url: /partners/alumni
-      - title: LENS
-        url: /partners/lens
+      - title: Family Matters @ School
+        url: /partners/family-matters-at-school
   - title: Connect
     url: /connect/school-contact-n-admin-info
     sublinks:
-      - title: School Contact & Admin Info
-        url: /connect/school-contact-n-admin-info
-      - title: Quick Links
-        url: /connect/quick-links
-      - title: Admission & Forms
-        url: /connect/admission-n-forms/waiting-list-admission
+      - title: Contact & Admin Info
+        url: /connect/contact-n-admin-info
       - title: Service Providers
         url: /connect/service-providers/school-student-care
-      - title: Family Matters @ School
-        url: /connect/family-matters-at-school
+      - title: Admission
+        url: /connect/admission/p1-registration/
+      - title: Quick Links
+        url: /connect/quick-links
