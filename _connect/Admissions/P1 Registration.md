@@ -9,7 +9,11 @@ third_nav_title: Admissions
 <div>
 	<p>Please visit the MOE website&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank" rel="noopener">https://www.moe.gov.sg/primary/p1-registration</a>&nbsp;for more information on P1 Registration.</p>
 	
-
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong> Phase 2B Parent Volunteer Scheme </strong></h4></label>
+<div>
+	<p>Please visit the MOE website&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank" rel="noopener">https://www.moe.gov.sg/primary/p1-registration</a>&nbsp;for more information on P1 Registration.</p>
+	
 </div>
 </li>
 <li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>FAQ</strong></h4></label>
@@ -24,4 +28,4 @@ third_nav_title: Admissions
 <p><strong>6. Can I join Anderson Primary School as a Parent Volunteer for priority registration in Phase 2B?<br></strong>In order to be eligible for the Registration in the Phase 2B in the Primary One Registration Exercise, parents must join the school as a Parent Volunteer (PV) at least 1 year before the Registration Exercise and fulfil at least 40 hours of PV service by 30 May before the P1 Registration starts.</p>
 </div>
 </li>
-</ul>
+</ul></div></li></ul>
