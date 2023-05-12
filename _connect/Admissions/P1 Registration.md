@@ -40,7 +40,7 @@ third_nav_title: Admissions
 <p> Our Parent Volunteer Programme application has closed.
 </p>
 
-	<ul class="jekyllcodex_accordion">
+<ul class="jekyllcodex_accordion">
 </ul></div></li><li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>FAQ</strong></h4></label>
 <div>
 <p><strong>1. Who can participate in the 2023 Primary One Registration Exercise?<br></strong>Children born between 2 January 2017 and 1 January 2018 (both dates inclusive) can participate in the 2023 Primary One Registration Exercise for admission to Primary One Classes in 2024.</p>
