@@ -84,7 +84,7 @@ description: ""
 <td style="text-align: left;"><a href="mailto:jan_hu_wen_ying@moe.edu.sg" target="">jan_hu_wen_ying@moe.edu.sg </a></td>
 </tr>
 
-<tr><td style="text-align: left;">Mdm Suzanah Saparwan<br>HOD  (Information &amp; Communication Technology)</td>
+<tr><td style="text-align: left;">Mdm Suzanah Saparwan<br>HOD  (Information <br>Communication Technology)</td>
 <td style="text-align: left;"><a href="mailto:suzanah_saparwan@moe.edu.sg" target="">suzanah_saparwan@moe.edu.sg </a></td>
 </tr>
 
