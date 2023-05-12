@@ -12,7 +12,7 @@ description: ""
 </tr>
 	
 <tr>
-<td style="text-align: left;">Mr Patrick Tho<br>Operation Manager</td>
+<td style="text-align: left;">Mr Patrick Tho<br>Operations Manager</td>
 <td style="text-align: left;"><a href="mailto:tho_choon_seng@moe.edu.sg" target="">tho_choon_seng@moe.edu.sg</a></td>
 </tr>
 	
@@ -35,7 +35,7 @@ description: ""
 </tr>
 		<tr>
 <td style="text-align: left;">Mdm Chew Poh Choo <br>MSO </td>
-<td style="text-align: left;"><a href="mailto:Chew_poh_choo_a@moe.edu.sg" target="">Chew_poh_choo_a@moe.edu.sg </a></td>
+<td style="text-align: left;"><a href="mailto:Chew_poh_choo_a@moe.edu.sg" target="">chew_poh_choo_a@moe.edu.sg </a></td>
 </tr>
 		<tr>
 <td style="text-align: left;">Mdm Phua Mei Yean, Jennifer <br>OSO </td>
@@ -55,18 +55,6 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: left;">Mdm Malar<br>OSO </td>
-<td style="text-align: left;"><a href="mailto:" target=""> </a></td>
-</tr>
-<tr>
-<td style="text-align: left;">Ms Audrey Chin Sook Fong <br>Library Assistant </td>
-<td style="text-align: left;"><a href="mailto:" target=""> </a></td>
-</tr>
-<tr>
-<td style="text-align: left;">Ms Nursyafiqah Athira  <br>Desktop Engineer</td>
-<td style="text-align: left;"><a href="mailto:" target=""> </a></td>
-</tr>
-<tr>
-<td style="text-align: left;">Mr Casper Loh <br>Desktop Engineer</td>
 <td style="text-align: left;"><a href="mailto:" target=""> </a></td>
 </tr>
 
