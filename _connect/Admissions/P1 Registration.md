@@ -8,11 +8,10 @@ third_nav_title: Admissions
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong> MOE P1 Registration Framework</strong></h4></label>
 <div>
 	<p>Please visit the MOE website&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank" rel="noopener">https://www.moe.gov.sg/primary/p1-registration</a>&nbsp;for more information on P1 Registration.</p>
-	
-</div></li><li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong> Phase 2B Parent Volunteer Scheme </strong></h4></label>
+
+</div></li><li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>Phase 2B Parent Volunteer Scheme</strong></h4></label>
 <div>
-	</div></li>
-	<p><strong>Parent Volunteer Scheme</strong></p>
+<p><strong>Parent Volunteer Scheme</strong></p>
 <p> The Parent Volunteer (PV) Scheme is open to parents of children who are Singapore Citizens/Singapore Permanent Residents due for the P1 Registration Exercise. The school selects PV applicants who are generally able to contribute in areas which are aligned to the school’s direction, programmes and desired outcomes for both staff and students.
 </p>
 	
@@ -39,11 +38,8 @@ third_nav_title: Admissions
 </table>
 <p> Our Parent Volunteer Programme application has closed.
 </p>
-	<p>Please visit the MOE website&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank" rel="noopener">https://www.moe.gov.sg/primary/p1-registration</a>&nbsp;for more information on P1 Registration.</p>
-	
 
-
-<li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>FAQ</strong></h4></label>
+</div></li><li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>FAQ</strong></h4></label>
 <div>
 <p><strong>1. Who can participate in the 2023 Primary One Registration Exercise?<br></strong>Children born between 2 January 2017 and 1 January 2018 (both dates inclusive) can participate in the 2023 Primary One Registration Exercise for admission to Primary One Classes in 2024.</p>
 <p><strong>2. When is the Primary One Registration Exercise conducted?<br></strong>The Primary One Registration Exercise is conducted from July to August.</p>
