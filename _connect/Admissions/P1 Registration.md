@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Admissions
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>P1 Registration Framework</strong></h4></label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong> MOE P1 Registration Framework</strong></h4></label>
 <div>
 	<p>Please visit the MOE website&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank" rel="noopener">https://www.moe.gov.sg/primary/p1-registration</a>&nbsp;for more information on P1 Registration.</p>
 	
