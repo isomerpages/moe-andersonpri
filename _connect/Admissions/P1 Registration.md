@@ -9,7 +9,7 @@ third_nav_title: Admissions
 <div>
 	<p>Please visit the MOE website&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank" rel="noopener">https://www.moe.gov.sg/primary/p1-registration</a>&nbsp;for more information on P1 Registration.</p>
 
-</div></li><li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>Phase 2B Parent Volunteer Scheme</strong></h4></label>
+</div></li><li><input id="accordion2" type="checkbox"> <label for="accordion2"><h4><strong>Phase 2B Parent Volunteer Scheme</strong></h4></label>
 <div>
 <p><strong>Parent Volunteer Scheme</strong></p>
 <p> The Parent Volunteer (PV) Scheme is open to parents of children who are Singapore Citizens/Singapore Permanent Residents due for the P1 Registration Exercise. The school selects PV applicants who are generally able to contribute in areas which are aligned to the school’s direction, programmes and desired outcomes for both staff and students.
