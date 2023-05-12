@@ -100,11 +100,11 @@ description: ""
 <td style="text-align: left;"><a href="mailto:lee_yueling_angela@moe.edu.sg" target="">lee_yueling_angela@moe.edu.sg </a></td>
 </tr>
 
-<tr><td style="text-align: left;">Mr Ramesh Sivadakacham  <br>Subject Head (Student Management)</td>
+<tr><td style="text-align: left;">Mr Ramesh Sivadakacham  <br> Subject Head <br>(Student Management)</td>
 <td style="text-align: left;"><a href="mailto:lee_yueling_angela@moe.edu.sg" target="">ramesh_sivakadacham@moe.edu.sg </a></td>
 </tr>
 
-<tr><td style="text-align: left;">Mr Ben Choo  <br>Subject Head (CCA &amp; Data Management)</td>
+<tr><td style="text-align: left;">Mr Ben Choo  <br>Subject Head (CCA &amp; <br> Data Management)</td>
 <td style="text-align: left;"><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg </a></td>
 </tr>
 
