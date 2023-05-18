@@ -12,7 +12,6 @@ description: ""
 <p><strong>Punctuality</strong></p>
 <ul>
 <li>Pupils must always be punctual for school and school activities.</li>
-<li>Pupils should be in school by 7.20 am.</li>
 <li>Pupils are to proceed to the assembly area for Silent Reading.</li>
 <li>Pupils who are not at the assembly area for Flag-raising or Pledge-taking ceremony are considered late for school.</li>
 </ul>
