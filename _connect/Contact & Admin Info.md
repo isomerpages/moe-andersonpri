@@ -85,7 +85,7 @@ description: ""
       </td>
       <td>
         <div>
-          *7.30 am to 1.30 pm
+          7.30 am to 1.30 pm
         </div>
       </td>
     </tr>
@@ -97,13 +97,14 @@ description: ""
       </td>
       <td>
         <div>
-          *7.30 am to 1.00 pm
+          7.30 am to 1.00 pm
         </div>
       </td>
     </tr>
   </tbody>
 </table>
-<p><strong>*Note:<br></strong>All students are to report to their respective assembly venue (e.g. classrooms) by 7.20 am</p>
+
+
 <table>
   <tbody>
     <tr>
