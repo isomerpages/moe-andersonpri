@@ -22,4 +22,11 @@ sections:
   - resources:
       title: Announcements
       button: More announcements
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: Have a question?
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/aps
+      image: /images/aps-askgov.png
+      alt: Image alt text
 ---
