@@ -21,7 +21,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <i>https://ask.gov.sg/aps</i>
+      - other: <p><a href="https://ask.gov.sg/aps">https://ask.gov.sg/aps</a></p>
     title: Have A Question?
   - content:
       - phone: +65 9831 5851
