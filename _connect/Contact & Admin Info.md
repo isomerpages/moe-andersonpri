@@ -90,9 +90,7 @@ description: ""
 
 | Level | Monday to Wednesday | Thursday and Friday |Dismissal Arrangement <br> for P1 &amp; P2 Students |
 | -------------- | -------------- | -------------- | -------------- |
-| P1 to P6     | 7.30 am to 1.30 pm     | 7.30 am to 1.00 pm     | P1 - dismissed from Gate B <br>(Gate A for wet weather)  <br> P2 - dismissed from Gate C <br>(Gate E for wet weather)
-
-
+| P1 to P6     | 7.30 am to 1.30 pm     | 7.30 am to 1.00 pm     | P1 - dismissed from Gate B <br>(Gate A for wet weather)  <br> P2 - dismissed from Gate C <br>(Gate E for wet weather) |
 
 
 <h4><strong>General Office Operating Hours</strong></h4>
