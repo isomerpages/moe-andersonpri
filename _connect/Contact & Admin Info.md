@@ -88,7 +88,7 @@ description: ""
 </table>
 <h4><strong>School Hours (wef 26 June 2023)</strong></h4>
 
-| Level | Monday to Wednesday | Thursday and Friday |Dismissal Arrangement for P1 &amp; P2 Students |
+| Level | Monday to Wednesday | Thursday and Friday |Dismissal Arrangement <br> for P1 &amp; P2 Students |
 | -------------- | -------------- | -------------- | -------------- |
 | P1 to P6     | 7.30 am to 1.30 pm     | 7.30 am to 1.00 pm     | P1 - dismissed from Gate B <br>(Gate A for wet weather)  <br> P2 - dismissed from Gate C <br>(Gate E for wet weather)
 
