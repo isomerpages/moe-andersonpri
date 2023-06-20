@@ -90,7 +90,7 @@ description: ""
 
 | Level | Monday to Wednesday | Thursday and Friday |Dismissal Arrangement for P1 &amp; P2 Students |
 | -------------- | -------------- | -------------- | -------------- |
-| P1 to P6     | 7.30 am to 1.30 pm     | 7.30 am to 1.00 pm     | P1 - dismissed from Gate B (Gate A for wet weather)  <div> P2 - dismissed from Gate C (Gate E for wet weather) <div>
+| P1 to P6     | 7.30 am to 1.30 pm     | 7.30 am to 1.00 pm     | P1 - dismissed from Gate B (Gate A for wet weather)  <div> P2 - dismissed from Gate C (Gate E for wet weather)
 
 
 
@@ -439,4 +439,4 @@ description: ""
       </td>
     </tr>
   </tbody>
-</table></div></div>
+</table></div>
