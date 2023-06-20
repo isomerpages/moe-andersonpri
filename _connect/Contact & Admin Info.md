@@ -86,73 +86,19 @@ description: ""
     </tr>
   </tbody>
 </table>
-<h4><strong>School Hours</strong></h4>
-<table>
-  <tbody>
-    <tr>
-      <td width="180px">
-        <div>
-          <strong>Monday, Tuesday<br>
-          &amp; Wednesday</strong>
-        </div>
-      </td>
-      <td>
-        <div>
-          7.30 am to 1.30 pm
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>
-          <strong>Thursday, Friday</strong>
-        </div>
-      </td>
-      <td>
-        <div>
-          7.30 am to 1.00 pm
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<h4><strong>School Hours (wef 26 June 2023)</strong></h4>
+
+| Level | Monday to Wednesday | Thursday and Friday |Dismissal Arrangement for P1 &amp; P2 Students |
+| -------------- | -------------- | -------------- | -------------- |
+| P1 to P6     | 7.30 am to 1.30 pm     | 7.30 am to 1.00 pm     | P1 - dismissed from Gate B (Gate A for wet weather) <div> P2 - dismissed from Gate C (Gate E for wet weather) |
 
 
-<table>
-  <tbody>
-    <tr>
-      <td rowspan="2"><br>
-      <br>
-      <strong>Levels</strong></td>
-      <td style="text-align: center;" colspan="2">
-        <div>
-          <strong>Staggered Dismissal Time</strong>
-        </div>
-        <div>
-          <strong>(wef 26 June 2023)</strong>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center;"><strong>Monday, Tuesday &amp; Wednesday</strong></td>
-      <td style="text-align: center;"><strong>Thursday, Friday</strong></td>
-    </tr>
-    <tr>
-      <td width="180px"><strong>Primary 1 and 2*</strong></td>
-      <td style="text-align: center;" width="180px">1.30 pm</td>
-      <td style="text-align: center;" width="180px">1.00 pm</td>
-    </tr>
-    <tr>
-      <td><strong>Primary 3 and 6</strong></td>
-      <td style="text-align: center;">1.30 pm</td>
-      <td style="text-align: center;">1.00 pm</td>
-    </tr>
-  </tbody>
-</table>
-<p><strong>*Note:<br></strong><em>All Primary 1 students will be dismissed from Gate B (use Gate A for wet weather)<br></em><em>All Primary 2 students will be dismissed from Gate C (use Gate E for wet weather)</em></p>
+
+
 <h4><strong>General Office Operating Hours</strong></h4>
 <p><strong>General Office</strong></p>
-<table>
+<div>
+    </div><table>
   <tbody>
     <tr>
       <td width="180px">
@@ -166,19 +112,7 @@ description: ""
         </div>
       </td>
     </tr>
-    <tr>
-      <td>
-        <div>
-          Fax
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="tel:6552%202310" target="">6552 2310</a>
-        </div>
-      </td>
-    </tr>
-    <tr>
+        <tr>
       <td>
         <div>
           During School Term
@@ -505,4 +439,4 @@ description: ""
       </td>
     </tr>
   </tbody>
-</table>
+</table></div>
