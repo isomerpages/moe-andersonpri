@@ -129,7 +129,7 @@ description: ""
           <strong>Staggered Dismissal Time</strong>
         </div>
         <div>
-          <strong>(wef 2 Jan 2023)</strong>
+          <strong>(wef 26 June 2023)</strong>
         </div>
       </td>
     </tr>
@@ -144,8 +144,8 @@ description: ""
     </tr>
     <tr>
       <td><strong>Primary 3 and 6</strong></td>
-      <td style="text-align: center;">1.40 pm</td>
-      <td style="text-align: center;">1.10 pm</td>
+      <td style="text-align: center;">1.30 pm</td>
+      <td style="text-align: center;">1.00 pm</td>
     </tr>
   </tbody>
 </table>
