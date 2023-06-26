@@ -133,18 +133,19 @@ Students are to report to school by 7.30 am for assembly.
       </td>
       <td>
         <div>
-          Mondays to Fridays
+          Mondays to Fridays: 8.00 am to 5.00 pm
         </div>
         <div>
-          8.00 am to 5.00 pm
         </div>
         <div>
-          (Except for eve of public holidays and public holidays)
         </div>
       </td>
     </tr>
   </tbody>
 </table>
+<br>
+Please avoid visiting the school during dismissal time from 1.30 pm to 2.00 pm. 
+
 <h4><strong>School Bus</strong></h4>
 <table>
   <tbody>
@@ -180,24 +181,23 @@ Students are to report to school by 7.30 am for assembly.
     </tr>
   </tbody>
 </table>
-<h4><strong>School Dental Clinic</strong></h4>
+<h4><strong>School Dental Clinic (Open on alternate week)</strong></h4>
 <table>
   <tbody>
     <tr>
       <td>
         <div>
-          Opening Day/Hours
+          Opening hours (School Term):
         </div>
       </td>
       <td>
         <div>
-          Mon - Thu : 8.00 am to 5:30 pm
+          Monday to Thursday : 8.00 am to 5.30 pm
         </div>
         <div>
-          Fri: 8.00 am to 5:00 pm
+          Friday : 8.00 am to 5.00 pm
         </div>
         <div>
-          (Open on alternate week)
         </div>
       </td>
     </tr>
@@ -212,15 +212,25 @@ Students are to report to school by 7.30 am for assembly.
           1 pm to 2 pm
         </div><br>
         <div>
-          In case of emergency, please call Palmview Primary School Clinic at Tel: &nbsp;<a href="tel:8764%201250" target="">8764 1250</a>.
         </div>
         <div>
-          Alternatively, please call Health Promotion Board, School Dental Centre Call Centre at Tel:&nbsp;<a href="tel:6435%203782" target="">6435 3782</a> (strictly by appointment only).
         </div>
       </td>
     </tr>
   </tbody>
 </table>
+<br>
+Tel: 85186936 
+<br>
+<br>
+In case of emergency, please contact: 
+<br>
+<br>
+*  Palm View Primary SDC: <a href="tel:8764%21250" target="">87641250 </a> / Teck Ghee Primary SDC: <a href="tel:8940%200152" target="">89400152</a>
+<br>
+* Health Promotion Board, School Dental Centre at <a href="tel:6435%23782" target="">64353782</a>
+
+
 <h4><strong>School Bookshop</strong></h4>
 <table>
   <tbody>
