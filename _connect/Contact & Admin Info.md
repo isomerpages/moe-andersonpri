@@ -141,7 +141,6 @@ description: ""
     </tr>
   </tbody>
 </table>
-<br>
 <p>Please avoid visiting the school during dismissal time from 1.30 pm to 2.00 pm. </p>
 
 <h4><strong>School Dental Clinic (Open on alternate week)</strong></h4>
