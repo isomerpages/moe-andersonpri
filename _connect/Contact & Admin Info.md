@@ -7,7 +7,7 @@ description: ""
 <table>
   <tbody>
     <tr>
-      <td colspan="2">Anderson Primary School</td>
+      <td colspan="2"><p><strong>Anderson Primary School</strong></p></td>
     </tr>
     <tr>
       <td colspan="2">
@@ -90,7 +90,7 @@ description: ""
 
 ![](/images/school%20hours%20.JPG)
 
-Students are to report to school by 7.30 am for assembly.
+<p>Students are to report to school by 7.30 am for assembly.</p>
 
 
 <h4><strong>General Office Operating Hours</strong></h4>
@@ -142,7 +142,7 @@ Students are to report to school by 7.30 am for assembly.
   </tbody>
 </table>
 <br>
-Please avoid visiting the school during dismissal time from 1.30 pm to 2.00 pm. 
+<p>Please avoid visiting the school during dismissal time from 1.30 pm to 2.00 pm. </p>
 
 <h4><strong>School Dental Clinic (Open on alternate week)</strong></h4>
 <table>
@@ -192,11 +192,11 @@ Please avoid visiting the school during dismissal time from 1.30 pm to 2.00 pm.
     </tr>
   </tbody>
 </table>
-In case of emergency, please contact: 
+<p></p>In case of emergency, please contact: 
 
 *  Palm View Primary SDC: <a href="tel:8764%21250" target="">87641250 </a> / Teck Ghee Primary SDC: <a href="tel:8940%200152" target="">89400152</a>
 <br>
-* Health Promotion Board, School Dental Centre at <a href="tel:6435%23782" target="">64353782</a>
+* Health Promotion Board, School Dental Centre at <a href="tel:6435%23782" target="">64353782</a><p></p>
 
 <h4><strong>School Student Care (SSC)</strong></h4>
 <table>
@@ -390,7 +390,7 @@ In case of emergency, please contact:
 </table>
 <h4><strong>School Uniform / PE Attire</strong></h4>
 <p><strong>Jeep Sing Fashion</strong></p>
-School uniforms can be purchased from Jeep Sing Fashion retail shop only.
+<p></p>School uniforms can be purchased from Jeep Sing Fashion retail shop only.<p></p>
 <br>
 <br>
 <table>
