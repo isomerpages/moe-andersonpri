@@ -93,7 +93,6 @@ description: ""
 Students are to report to school by 7.30 am for assembly.
 
 
-
 <h4><strong>General Office Operating Hours</strong></h4>
 <p><strong>General Office</strong></p>
 <div>
@@ -240,7 +239,49 @@ In case of emergency, please contact:
 <table>
   <tbody>
     <tr>
-      <td colspan="2">Pacific Bookstores Pte Ltd</td>
+      <td>
+        <div>
+          Opening hours (School Term):
+        </div>
+      </td>
+      <td>
+        <div>
+          Monday to Friday: 8.00 am to 3.00 pm
+        </div>
+        <div>
+        </div>
+        <div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
+          Lunch Time
+        </div>
+      </td>
+      <td>
+        <div>
+          11.30 am to 12.30 pm
+        </div><br>
+        </td></tr><tr>
+      <td>
+        <div>
+          Tel
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="tel:8518%26936" target="">85186936
+        </a></div><a href="tel:8518%26936" target=""><br>
+      </a></td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <td colspan="2"><p><strong>Pacific Bookstores Pte Ltd</strong></p></td>
     </tr>
     <tr>
       <td width="60px">
@@ -282,6 +323,9 @@ In case of emergency, please contact:
 </table>
 <h4><strong>School Uniform / PE Attire</strong></h4>
 <p><strong>Jeep Sing Fashion</strong></p>
+School uniforms can be purchased from Jeep Sing Fashion retail shop only.
+<br>
+<br>
 <table>
   <tbody>
     <tr>
@@ -343,19 +387,17 @@ In case of emergency, please contact:
       </td>
       <td>
         <div>
-          Mondays to Fridays:
+          Mondays to Fridays: 10.00 am to 6.00 pm
+        </div>
+				Lunch: 1.00 pm to 2.00 pm
+        <div>
         </div>
         <div>
-          10.00 am to 6.00 pm
         </div>
         <div>
-          <em>(Lunch break and Sanitising of Store - 1 pm to 2 pm)</em>
+          Saturdays: 10.00 am - 2.00 pm
         </div>
         <div>
-          Saturdays:
-        </div>
-        <div>
-          10.00 am - 2.00 pm
         </div>
         <div>
           Closed on Sundays and Public Holidays
@@ -363,27 +405,14 @@ In case of emergency, please contact:
       </td>
     </tr>
     <tr>
-      <td>Mode of Payment</td>
+      <td>Mode of Purchase</td>
       <td>
         <div>
-          Cash, Nets, PayNow, DBS Paylah!<br>
-          <br>
-        </div>
-        <div>
-          <strong><u>Please note:</u></strong>
-        </div>
-        <div>
-          With effect from Term 2 Week 1, 23 March 2020, school uniforms will no longer be sold in our school. Please contact the school uniform vendor for any enquiries.<br>
-          <br>
-        </div>
-        <div>
-          School uniform and P.E. attire are now available at Jeep Sing Fashion’s online store via the URL&nbsp;<a href="https://jeepsinguniform.com/collections/anderson-primary-school" target="_blank" rel="noopener">https://jeepsinguniform.com/collections/anderson-primary-school</a><br>
-          <br>
-        </div>
-        <div>
-          Walk-in purchase at retail outlet is strictly by Appointment only, please be reminded to book your time slots via this&nbsp;<a href="https://jeepsinguniform.com/pages/appointment-booking" target="_blank" rel="noopener">Appointment booking</a>&nbsp;link.
-        </div>
-      </td>
+          Online : https://jeepsinguniform.com/collections/anderson-primary-school
+					
+Walk-in Purchase at retail outlet
+<br>
+      </div></td>
     </tr>
   </tbody>
 </table>
