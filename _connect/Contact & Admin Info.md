@@ -211,21 +211,26 @@ Please avoid visiting the school during dismissal time from 1.30 pm to 2.00 pm.
         <div>
           1 pm to 2 pm
         </div><br>
+				</td></tr><tr>
+      <td>
         <div>
-        </div>
-        <div>
+          Tel
         </div>
       </td>
+      <td>
+        <div>
+          <a href="tel:8518%26936" target="">85186936
+        </a></div><a href="tel:8518%26936" target=""><br>
+        <div>
+        </div>
+        <div>
+        </div>
+      </a></td>
     </tr>
   </tbody>
 </table>
-<br>
-Tel: 85186936 
-<br>
-<br>
 In case of emergency, please contact: 
-<br>
-<br>
+
 *  Palm View Primary SDC: <a href="tel:8764%21250" target="">87641250 </a> / Teck Ghee Primary SDC: <a href="tel:8940%200152" target="">89400152</a>
 <br>
 * Health Promotion Board, School Dental Centre at <a href="tel:6435%23782" target="">64353782</a>
