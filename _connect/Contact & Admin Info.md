@@ -94,7 +94,6 @@ Students are to report to school by 7.30 am for assembly.
 
 
 <h4><strong>General Office Operating Hours</strong></h4>
-<p><strong>General Office</strong></p>
 <div>
     </div><table>
   <tbody>
@@ -145,41 +144,6 @@ Students are to report to school by 7.30 am for assembly.
 <br>
 Please avoid visiting the school during dismissal time from 1.30 pm to 2.00 pm. 
 
-<h4><strong>School Bus</strong></h4>
-<table>
-  <tbody>
-    <tr>
-      <td colspan="2">Anderson Bus Services</td>
-    </tr>
-    <tr>
-      <td width="60px">
-        <div>
-          Tel
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="tel:9831%205851" target="">9831 5851</a>&nbsp;(Mr Tan)
-        </div>
-        <div>
-          <a href="tel:9621%206653" target="">9621 6653</a>&nbsp;(Iris)
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>
-          Email:
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="mailto:andersonbus.services@outlook.sg" target="">andersonbus.services@outlook.sg</a>
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
 <h4><strong>School Dental Clinic (Open on alternate week)</strong></h4>
 <table>
   <tbody>
@@ -295,6 +259,43 @@ In case of emergency, please contact:
       <td>
         <div>
           7.00 am to 7.00 pm
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<h4><strong>School Bus</strong></h4>
+<table>
+  <tbody>
+    <tr>
+      <td colspan="2"><p><strong>Anderson Bus Services</strong></p></td>
+    </tr>
+    <tr>
+      <td width="60px">
+        <div>
+          Tel
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="tel:9831%205851" target="">9831 5851</a>&nbsp;(Mr Tan)
+        </div>
+        <div>
+          <a href="tel:9621%206653" target="">9621 6653</a>&nbsp;(Iris)
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
+          Email:
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="mailto:andersonbus.services@outlook.sg" target="">andersonbus.services@outlook.sg</a>
         </div>
       </td>
     </tr>
@@ -474,8 +475,9 @@ School uniforms can be purchased from Jeep Sing Fashion retail shop only.
       <td>Mode of Purchase</td>
       <td>
         <div>
-          Online : https://jeepsinguniform.com/collections/anderson-primary-school
-					
+          Online: 
+					          <a href="https://jeepsinguniform.com/collections/anderson-primary-school" target="blank">https://jeepsinguniform.com/collections/anderson-primary-school</a>
+					<br>
 Walk-in Purchase at retail outlet
 <br>
       </div></td>
