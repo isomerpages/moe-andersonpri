@@ -56,13 +56,7 @@ third_nav_title: Level Teachers
 <td>Mdm Ng Shin Ding</td>
 <td><a href="mailto:ng_shin_ding@moe.edu.sg" target="">ng_shin_ding@moe.edu.sg</a></td>
 </tr>
-	
-<tr style="text-align: center;">
-<td>
-<div>Mrs Subbrahmanyam</div>
-</td>
-<td><a href="mailto:s_k_t_subbrahmanyam@moe.edu.sg)@moe.edu.sg" target="">s_k_t_subbrahmanyam@moe.edu.sg</a></td>
-</tr>
+
 	
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 3.4</strong></td>
