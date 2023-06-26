@@ -7,11 +7,9 @@ description: ""
 | -------- | -------- | -------- |
 | Mr Lim Chiow Giap <br>Chairman     | Mdm Delia Hoo <br> Honorary Secretary     | Mr Aison Tan<br>Member     |
 
-
 | ![](/images/mr%20dicky%20lau.JPG) | ![](/images/9a%20Ken%20Wang.jpg)| ![](/images/SAC/Mr%20Siva%20Govindasamy.jpg) |
 | -------- | -------- | -------- |
 | Mr Dicky Lau <br>Member     | Mr Ken Wang<br>Member     | Mr Siva Govindasamy<br>Member     |
-
 
 
 | ![](/images/SAC/Dr%20Low%20Wing%20Li%20Gary.jpg) | ![](/images/SAC/Dr%20Marie.jpg) | ![](/images/SAC/Dr%20Neo%20Peng%20Fu.jpg) |
@@ -19,7 +17,6 @@ description: ""
 | Dr Low Wing Li Gary<br>Member     | Dr Marie De Visse<br>Member     | Dr Neo Peng Fu<br>Member     |
 
 
-
-| ![](/images/SAC/Dr%20Pulickal%20Geoiphy%20George.jpg) | ![](/images/SAC/Dr%20Teo%20Tang%20Wee.jpg) | ![](/images/mr%20chooake%20(3).JPG) |
+| ![](/images/SAC/Dr%20Pulickal%20Geoiphy%20George.jpg) | ![](/images/SAC/Dr%20Teo%20Tang%20Wee.jpg) | ![](/images/mr%20chooake%20(4).JPG)|
 | -------- | -------- | -------- |
 | Dr Pulickal Geoiphy George<br>Member     | Dr Teo Tang Wee<br>Member     | Mr Chooake Wongwattanasilpa<br>Member     |
