@@ -3,7 +3,6 @@ title: School Advisory Committee (SAC)
 permalink: /partners/school-advisory-committee-sac/
 description: ""
 ---
-
 | ![](/images/SAC/Mr%20Lim%20Chiow%20Giap%20Chairman.jpg) | ![](/images/SAC/Mdm%20Hoo%20Honorary%20Secretary.jpg) | ![](/images/SAC/Mr%20Tan%20Kian%20Shen%20Aison.jpg) |
 | -------- | -------- | -------- |
 | Mr Lim Chiow Giap <br>Chairman     | Mdm Delia Hoo <br> Honorary Secretary     | Mr Aison Tan<br>Member     |
@@ -21,11 +20,7 @@ description: ""
 
 
 
-| ![](/images/SAC/Dr%20Pulickal%20Geoiphy%20George.jpg) | ![](/images/SAC/Dr%20Teo%20Tang%20Wee.jpg) | ![](/images/mr%20chooake%20wongwattanasilpa.jpg) |
+| ![](/images/SAC/Dr%20Pulickal%20Geoiphy%20George.jpg) | ![](/images/SAC/Dr%20Teo%20Tang%20Wee.jpg) | ![](/images/mr%20chooake%20(2).JPG) |
 | -------- | -------- | -------- |
 | Dr Pulickal Geoiphy George<br>Member     | Dr Teo Tang Wee<br>Member     | Mr Chooake Wongwattanasilpa<br>Member     |
-
-
-
-
 
