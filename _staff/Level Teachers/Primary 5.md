@@ -88,10 +88,6 @@ third_nav_title: Level Teachers
 <td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Ms Tan Yin Jia Erica</td>
-<td><a href="mailto:tan_yin_jia_erica@moe.edu.sg" target="">tan_yin_jia_erica@moe.edu.sg</a></td>
-</tr>
-<tr style="text-align: center;">
 <td>Mrs Vimaladevi Steven<br>Senior Teacher (Tamil Language)</td>
 <td><a href="mailto:v_vimaladevi@moe.edu.sg" target="">v_vimaladevi@moe.edu.sg</a></td>
 </tr>
