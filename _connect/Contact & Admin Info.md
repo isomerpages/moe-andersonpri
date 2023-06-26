@@ -208,7 +208,7 @@ Please avoid visiting the school during dismissal time from 1.30 pm to 2.00 pm.
       </td>
       <td>
         <div>
-          1 pm to 2 pm
+          1.00 pm to 2.00 pm
         </div><br>
 				</td></tr><tr>
       <td>
@@ -234,6 +234,72 @@ In case of emergency, please contact:
 <br>
 * Health Promotion Board, School Dental Centre at <a href="tel:6435%23782" target="">64353782</a>
 
+<h4><strong>School Student Care (SSC)</strong></h4>
+<table>
+  <tbody>
+    <tr>
+      <td width="180px">
+        <div>
+          Tel
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="tel:8028%201456" target="">8028 1456</a>&nbsp;(preferably through SMS<br>
+          between 2.30 pm to 5.30 pm)
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
+          Email
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="mailto:enquiries@commitlearning.com.sg" target="">enquiries@commitlearning.com.sg</a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
+          Website
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://www.commitlearning.com.sg/home" target="_blank" rel="noopener">https://www.commitlearning.com.sg/home</a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
+          School Term
+        </div>
+      </td>
+      <td>
+        <div>
+           1.30 pm to 7.00 pm
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
+          School Holidays
+        </div>
+      </td>
+      <td>
+        <div>
+          7.00 am to 7.00 pm
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <h4><strong>School Bookshop</strong></h4>
 <table>
@@ -413,72 +479,6 @@ School uniforms can be purchased from Jeep Sing Fashion retail shop only.
 Walk-in Purchase at retail outlet
 <br>
       </div></td>
-    </tr>
-  </tbody>
-</table>
-<h4><strong>School Student Care (SSC)</strong></h4>
-<table>
-  <tbody>
-    <tr>
-      <td width="180px">
-        <div>
-          Tel
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="tel:8028%201456" target="">8028 1456</a>&nbsp;(preferably through SMS<br>
-          between 2.30pm to 5.30pm)
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>
-          Email
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="mailto:enquiries@commitlearning.com.sg" target="">enquiries@commitlearning.com.sg</a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>
-          Website
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="https://www.commitlearning.com.sg/home" target="_blank" rel="noopener">https://www.commitlearning.com.sg/home</a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>
-          During School Term
-        </div>
-      </td>
-      <td>
-        <div>
-          School Dismissal Time – 7.00 pm
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>
-          During School Holidays
-        </div>
-      </td>
-      <td>
-        <div>
-          7.00 am – 7.00 pm
-        </div>
-      </td>
     </tr>
   </tbody>
 </table>
