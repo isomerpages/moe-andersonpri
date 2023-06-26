@@ -88,9 +88,10 @@ description: ""
 </table>
 <h4><strong>School Hours (wef 26 June 2023)</strong></h4>
 
-| Level | Monday to Wednesday | Thursday and Friday |Dismissal Arrangement <br> for P1 &amp; P2 Students |
-| -------------- | -------------- | -------------- | -------------- |
-| P1 to P6     | 7.30 am to 1.30 pm     | 7.30 am to 1.00 pm     | P1 - dismissed from Gate B <br>(Gate A for wet weather)  <br> P2 - dismissed from Gate C <br>(Gate E for wet weather) |
+![](/images/school%20hours%20.JPG)
+
+Students are to report to school by 7.30 am for assembly.
+
 
 
 <h4><strong>General Office Operating Hours</strong></h4>
@@ -113,22 +114,21 @@ description: ""
         <tr>
       <td>
         <div>
-          During School Term
+          School Term
         </div>
       </td>
       <td>
         <div>
-          Mondays to Fridays
+          Mondays to Fridays: 7.00 am to 5.30 pm
         </div>
         <div>
-          7.00 am to 5.30 pm
         </div>
       </td>
     </tr>
     <tr>
       <td>
         <div>
-          During School Holidays
+          School Holidays
         </div>
       </td>
       <td>
