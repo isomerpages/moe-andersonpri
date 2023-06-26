@@ -17,6 +17,6 @@ description: ""
 | Dr Low Wing Li Gary<br>Member     | Dr Marie De Visse<br>Member     | Dr Neo Peng Fu<br>Member     |
 
 
-| ![](/images/mr%20chooake%20(4).JPG) | ![](/images/dr%20teo.JPG) | ![](/images/mr%20chooake%20(4).JPG)|
+| ![](/images/SAC/dr%20pulickal%20geoiphy%20george%20(2).JPG) | ![](/images/dr%20teo.JPG) | ![](/images/mr%20chooake%20(4).JPG)|
 | -------- | -------- | -------- |
 | Dr Pulickal Geoiphy George<br>Member   | Dr Teo Tang Wee<br>Member     | Mr Chooake Wongwattanasilpa<br>Member  |
