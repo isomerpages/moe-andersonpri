@@ -193,7 +193,7 @@ description: ""
 
 *  Palm View Primary SDC: <a href="tel:8764%21250" target="">87641250 </a> / Teck Ghee Primary SDC: <a href="tel:8940%200152" target="">89400152</a>
 <br>
-* Health Promotion Board, School Dental Centre at <a href="tel:6435%23782" target="">64353782</a><p></p>
+* Health Promotion Board, School Dental Centre at <a href="tel:6435%23782" target="">64353782</a>
 
 <h4><strong>School Student Care (SSC)</strong></h4>
 <table>
