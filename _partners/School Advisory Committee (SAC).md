@@ -19,4 +19,4 @@ description: ""
 
 | ![](/images/mr%20chooake%20(4).JPG) |![](/images/SAC/Dr%20Pulickal%20Geoiphy%20George.jpg) | ![](/images/dr%20teo.JPG)|
 | -------- | -------- | -------- |
-| Mr Chooake Wongwattanasilpa<br>Member   | Dr Pulickal Geoiphy George<br>Member     | Dr Teo Tang Wee<br>Member  |
+| Mr Chooake <br>Member   | Dr Pulickal Geoiphy George<br>Member     | Dr Teo Tang Wee<br>Member  |
