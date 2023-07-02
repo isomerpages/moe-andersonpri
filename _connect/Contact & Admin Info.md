@@ -105,7 +105,7 @@ description: ""
       </td>
       <td>
         <div>
-          <a href="tel:6456%200340" target="">6456 0340</a>
+          64560340
         </div>
       </td>
     </tr>
@@ -181,19 +181,19 @@ description: ""
       </td>
       <td>
         <div>
-          <a href="tel:8518%26936" target="">85186936
-        </a></div><a href="tel:8518%26936" target=""><br>
+          85186936
+						<br>
         <div>
         </div>
-      </a></td>
+      </div></td>
     </tr>
   </tbody>
 </table>
 <p></p>In case of emergency, please contact: 
 
-*  Palm View Primary SDC: <a href="tel:8764%21250" target="">87641250 </a> / Teck Ghee Primary SDC: <a href="tel:8940%200152" target="">89400152</a>
+*  Palm View Primary SDC: 87641250  / Teck Ghee Primary SDC: 89400152
 <br>
-* Health Promotion Board, School Dental Centre at <a href="tel:6435%23782" target="">64353782</a>
+* Health Promotion Board, School Dental Centre at 64353782
 
 <h4><strong>School Student Care (SSC)</strong></h4>
 <table>
@@ -206,8 +206,7 @@ description: ""
       </td>
       <td>
         <div>
-          <a href="tel:8028%201456" target="">8028 1456</a>&nbsp;(preferably through SMS<br>
-          between 2.30 pm to 5.30 pm)
+          80281456 <br>(preferably through SMS<br>between 2.30 pm to 5.30 pm)
         </div>
       </td>
     </tr>
@@ -277,10 +276,10 @@ description: ""
       </td>
       <td>
         <div>
-          <a href="tel:9831%205851" target="">9831 5851</a>&nbsp;(Mr Tan)
+          98315851 (Mr Tan)
         </div>
         <div>
-          <a href="tel:9621%206653" target="">9621 6653</a>&nbsp;(Iris)
+          96216653 (Iris)
         </div>
       </td>
     </tr>
@@ -336,9 +335,9 @@ description: ""
       </td>
       <td>
         <div>
-          <a href="tel:8518%26936" target="">85186936
-        </a></div><a href="tel:8518%26936" target=""><br>
-      </a></td>
+          85186936
+        <br>
+      </div></td>
     </tr>
   </tbody>
 </table>
@@ -355,7 +354,7 @@ description: ""
       </td>
       <td>
         <div>
-          <a href="tel:6252%201933" target="">6252 1933</a>
+          62521933
         </div>
       </td>
     </tr>
@@ -399,7 +398,7 @@ description: ""
       </td>
       <td>
         <div>
-          <a href="tel:6456%203198" target="">6456 3198</a>
+          64563198
         </div>
       </td>
     </tr>
