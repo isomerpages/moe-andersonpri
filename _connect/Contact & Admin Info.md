@@ -387,8 +387,7 @@ description: ""
 </table>
 <h4><strong>School Uniform / PE Attire</strong></h4>
 <p><strong>Jeep Sing Fashion</strong></p>
-<p></p>School uniforms can be purchased from Jeep Sing Fashion retail shop only.<p>
-<br>
+<p></p>School uniforms can be purchased from Jeep Sing Fashion retail shop only.
 <br>
 <table>
   <tbody>
@@ -480,4 +479,4 @@ Walk-in Purchase at retail outlet
       </div></td>
     </tr>
   </tbody>
-</table></p>
+</table>
