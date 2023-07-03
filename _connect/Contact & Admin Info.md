@@ -117,7 +117,7 @@ description: ""
       </td>
       <td>
         <div>
-          Mondays to Fridays: 7.00 am to 5.30 pm
+          Monday to Friday: 7.00 am to 5.30 pm
         </div>
         <div>
         </div>
@@ -131,7 +131,7 @@ description: ""
       </td>
       <td>
         <div>
-          Mondays to Fridays: 8.00 am to 5.00 pm
+          Monday to Friday: 8.00 am to 5.00 pm
         </div>
         <div>
         </div>
@@ -154,10 +154,10 @@ description: ""
       </td>
       <td>
         <div>
-          Monday to Thursday : 8.00 am to 5.30 pm
+          Monday to Thursday: 8.00 am to 5.30 pm
         </div>
         <div>
-          Friday : 8.00 am to 5.00 pm
+          Friday: 8.00 am to 5.00 pm
         </div>
         <div>
         </div>
@@ -206,7 +206,7 @@ description: ""
       </td>
       <td>
         <div>
-          80281456 <br>(preferably through SMS<br>between 2.30 pm to 5.30 pm)
+          80281456 <br>(Preferably through SMS between 2.30 pm to 5.30 pm)
         </div>
       </td>
     </tr>
@@ -449,7 +449,7 @@ description: ""
       </td>
       <td>
         <div>
-          Mondays to Fridays: 10.00 am to 6.00 pm
+          Monday to Friday: 10.00 am to 6.00 pm
         </div>
 				Lunch: 1.00 pm to 2.00 pm
         <div>
@@ -457,12 +457,12 @@ description: ""
         <div>
         </div>
         <div>
-          Saturdays: 10.00 am - 2.00 pm
+          Saturday: 10.00 am - 2.00 pm
         </div>
         <div>
         </div>
         <div>
-          Closed on Sundays and Public Holidays
+          Closed on Sunday and Public Holidays
         </div>
       </td>
     </tr>
