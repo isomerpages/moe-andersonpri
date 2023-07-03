@@ -457,7 +457,7 @@ description: ""
         <div>
         </div>
         <div>
-          Saturday: 10.00 am - 2.00 pm
+          Saturday: 10.00 am to 2.00 pm
         </div>
         <div>
         </div>
