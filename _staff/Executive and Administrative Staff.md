@@ -16,13 +16,18 @@ description: ""
 <td style="text-align: left;"><a href="mailto:tho_choon_seng@moe.edu.sg" target="">tho_choon_seng@moe.edu.sg</a></td>
 </tr>
 	
+<tr>
+<td style="text-align: left;">Mr Raymond S/O Lazar <br>Operations Manager</td>
+<td style="text-align: left;"><a href="mailto:raymond_lazar@moe.edu.sg" target="">raymond_lazar@moe.edu.sg</a></td>
+</tr>
+	
 	
 <tr>
 <td style="text-align: left;">Ms Seah Chu Hwei<br>Admin Executive</td>
 <td style="text-align: left;"><a href="mailto:seah_chu_hwei@moe.edu.sg" target="">seah_chu_hwei@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: left;">Ms Nur Atiqah Abdul Razak <br>Admin Executive </td>
+<td style="text-align: left;">Ms Nur Atiqah Abdul Razak <br>ICT Associate </td>
 <td style="text-align: left;"><a href="mailto:nur_atiqah_abdul_razak@moe.edu.sg" target="">nur_atiqah_abdul_razak@moe.edu.sg</a></td>
 </tr>
 	<tr>
@@ -36,6 +41,10 @@ description: ""
 		<tr>
 <td style="text-align: left;">Mdm Chew Poh Choo <br>MSO </td>
 <td style="text-align: left;"><a href="mailto:Chew_poh_choo_a@moe.edu.sg" target="">chew_poh_choo_a@moe.edu.sg </a></td>
+</tr>
+		<tr>
+<td style="text-align: left;">Ms Diana Neo Siew Hong <br>MSO </td>
+<td style="text-align: left;"><a href="mailto:NEO_SIEW_HONG@moe.edu.sg" target="">NEO_SIEW_HONG@moe.edu.sg </a></td>
 </tr>
 		<tr>
 <td style="text-align: left;">Mdm Phua Mei Yean, Jennifer <br>OSO </td>

@@ -22,12 +22,6 @@ third_nav_title: Level Teachers
 </td>
 <td><a href="mailto:poh_chee_peng@moe.edu.sg" target="">poh_chee_peng@moe.edu.sg</a></td>
 </tr>
-	<tr style="text-align: center;">
-<td>
-<div>&nbsp;Ms Jessie Nah</div>
-</td>
-<td><a href="mailto:jessie_nah_min_li@moe.edu.sg" target="">jessie_nah_min_li@moe.edu.sg</a></td>
-</tr>
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 5.2</strong></td>
 </tr>
@@ -92,10 +86,6 @@ third_nav_title: Level Teachers
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
-</tr>
-<tr style="text-align: center;">
-<td>Ms Tan Yin Jia Erica</td>
-<td><a href="mailto:tan_yin_jia_erica@moe.edu.sg" target="">tan_yin_jia_erica@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>Mrs Vimaladevi Steven<br>Senior Teacher (Tamil Language)</td>

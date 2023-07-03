@@ -7,7 +7,7 @@ description: ""
 <table>
   <tbody>
     <tr>
-      <td colspan="2">Anderson Primary School</td>
+      <td colspan="2"><p><strong>Anderson Primary School</strong></p></td>
     </tr>
     <tr>
       <td colspan="2">
@@ -88,13 +88,12 @@ description: ""
 </table>
 <h4><strong>School Hours (wef 26 June 2023)</strong></h4>
 
-| Level | Monday to Wednesday | Thursday and Friday |Dismissal Arrangement <br> for P1 &amp; P2 Students |
-| -------------- | -------------- | -------------- | -------------- |
-| P1 to P6     | 7.30 am to 1.30 pm     | 7.30 am to 1.00 pm     | P1 - dismissed from Gate B <br>(Gate A for wet weather)  <br> P2 - dismissed from Gate C <br>(Gate E for wet weather) |
+![](/images/school%20hours%20.JPG)
+
+<p>Students are to report to school by 7.30 am for assembly.</p>
 
 
 <h4><strong>General Office Operating Hours</strong></h4>
-<p><strong>General Office</strong></p>
 <div>
     </div><table>
   <tbody>
@@ -106,50 +105,168 @@ description: ""
       </td>
       <td>
         <div>
-          <a href="tel:6456%200340" target="">6456 0340</a>
+          64560340
         </div>
       </td>
     </tr>
         <tr>
       <td>
         <div>
-          During School Term
+          School Term
         </div>
       </td>
       <td>
         <div>
-          Mondays to Fridays
+          Monday to Friday: 7.00 am to 5.30 pm
         </div>
         <div>
-          7.00 am to 5.30 pm
         </div>
       </td>
     </tr>
     <tr>
       <td>
         <div>
-          During School Holidays
+          School Holidays
         </div>
       </td>
       <td>
         <div>
-          Mondays to Fridays
+          Monday to Friday: 8.00 am to 5.00 pm
         </div>
         <div>
-          8.00 am to 5.00 pm
         </div>
         <div>
-          (Except for eve of public holidays and public holidays)
         </div>
       </td>
     </tr>
   </tbody>
 </table>
+<p>Please avoid visiting the school during dismissal time from 1.30 pm to 2.00 pm. </p>
+
+<h4><strong>School Dental Clinic (Open on alternate week)</strong></h4>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <div>
+          Opening hours (School Term):
+        </div>
+      </td>
+      <td>
+        <div>
+          Monday to Thursday: 8.00 am to 5.30 pm
+        </div>
+        <div>
+          Friday: 8.00 am to 5.00 pm
+        </div>
+        <div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
+          Lunch Time
+        </div>
+      </td>
+      <td>
+        <div>
+          1.00 pm to 2.00 pm
+        </div><br>
+				</td></tr><tr>
+      <td>
+        <div>
+          Tel
+        </div>
+      </td>
+      <td>
+        <div>
+          85186936
+						<br>
+        <div>
+        </div>
+      </div></td>
+    </tr>
+  </tbody>
+</table>
+<p></p>In case of emergency, please contact: 
+
+*  Palm View Primary SDC: 87641250  / Teck Ghee Primary SDC: 89400152
+<br>
+* Health Promotion Board, School Dental Centre at 64353782
+
+<h4><strong>School Student Care (SSC)</strong></h4>
+<table>
+  <tbody>
+    <tr>
+      <td width="180px">
+        <div>
+          Tel
+        </div>
+      </td>
+      <td>
+        <div>
+          80281456 <br>(Preferably through SMS between 2.30 pm to 5.30 pm)
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
+          Email
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="mailto:enquiries@commitlearning.com.sg" target="">enquiries@commitlearning.com.sg</a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
+          Website
+        </div>
+      </td>
+      <td>
+        <div>
+          <a href="https://www.commitlearning.com.sg/home" target="_blank" rel="noopener">https://www.commitlearning.com.sg/home</a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
+          School Term
+        </div>
+      </td>
+      <td>
+        <div>
+           1.30 pm to 7.00 pm
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
+          School Holidays
+        </div>
+      </td>
+      <td>
+        <div>
+          7.00 am to 7.00 pm
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 <h4><strong>School Bus</strong></h4>
 <table>
   <tbody>
     <tr>
-      <td colspan="2">Anderson Bus Services</td>
+      <td colspan="2"><p><strong>Anderson Bus Services</strong></p></td>
     </tr>
     <tr>
       <td width="60px">
@@ -159,10 +276,10 @@ description: ""
       </td>
       <td>
         <div>
-          <a href="tel:9831%205851" target="">9831 5851</a>&nbsp;(Mr Tan)
+          98315851 (Mr Tan)
         </div>
         <div>
-          <a href="tel:9621%206653" target="">9621 6653</a>&nbsp;(Iris)
+          96216653 (Iris)
         </div>
       </td>
     </tr>
@@ -180,24 +297,23 @@ description: ""
     </tr>
   </tbody>
 </table>
-<h4><strong>School Dental Clinic</strong></h4>
+
+<h4><strong>School Bookshop</strong></h4>
 <table>
   <tbody>
     <tr>
       <td>
         <div>
-          Opening Day/Hours
+          Opening hours (School Term):
         </div>
       </td>
       <td>
         <div>
-          Mon - Thu : 8.00 am to 5:30 pm
+          Monday to Friday: 8.00 am to 3.00 pm
         </div>
         <div>
-          Fri: 8.00 am to 5:00 pm
         </div>
         <div>
-          (Open on alternate week)
         </div>
       </td>
     </tr>
@@ -209,23 +325,26 @@ description: ""
       </td>
       <td>
         <div>
-          1 pm to 2 pm
+          11.30 am to 12.30 pm
         </div><br>
+        </td></tr><tr>
+      <td>
         <div>
-          In case of emergency, please call Palmview Primary School Clinic at Tel: &nbsp;<a href="tel:8764%201250" target="">8764 1250</a>.
-        </div>
-        <div>
-          Alternatively, please call Health Promotion Board, School Dental Centre Call Centre at Tel:&nbsp;<a href="tel:6435%203782" target="">6435 3782</a> (strictly by appointment only).
+          Tel
         </div>
       </td>
+      <td>
+        <div>
+          85186936
+        <br>
+      </div></td>
     </tr>
   </tbody>
 </table>
-<h4><strong>School Bookshop</strong></h4>
 <table>
   <tbody>
     <tr>
-      <td colspan="2">Pacific Bookstores Pte Ltd</td>
+      <td colspan="2"><p><strong>Pacific Bookstores Pte Ltd</strong></p></td>
     </tr>
     <tr>
       <td width="60px">
@@ -235,7 +354,7 @@ description: ""
       </td>
       <td>
         <div>
-          <a href="tel:6252%201933" target="">6252 1933</a>
+          62521933
         </div>
       </td>
     </tr>
@@ -267,6 +386,8 @@ description: ""
 </table>
 <h4><strong>School Uniform / PE Attire</strong></h4>
 <p><strong>Jeep Sing Fashion</strong></p>
+<p></p>School uniforms can be purchased from Jeep Sing Fashion retail shop only.
+<br>
 <table>
   <tbody>
     <tr>
@@ -277,7 +398,7 @@ description: ""
       </td>
       <td>
         <div>
-          <a href="tel:6456%203198" target="">6456 3198</a>
+          64563198
         </div>
       </td>
     </tr>
@@ -328,113 +449,33 @@ description: ""
       </td>
       <td>
         <div>
-          Mondays to Fridays:
+          Monday to Friday: 10.00 am to 6.00 pm
+        </div>
+				Lunch: 1.00 pm to 2.00 pm
+        <div>
         </div>
         <div>
-          10.00 am to 6.00 pm
         </div>
         <div>
-          <em>(Lunch break and Sanitising of Store - 1 pm to 2 pm)</em>
+          Saturday: 10.00 am to 2.00 pm
         </div>
         <div>
-          Saturdays:
         </div>
         <div>
-          10.00 am - 2.00 pm
-        </div>
-        <div>
-          Closed on Sundays and Public Holidays
+          Closed on Sunday and Public Holidays
         </div>
       </td>
     </tr>
     <tr>
-      <td>Mode of Payment</td>
+      <td>Mode of Purchase</td>
       <td>
         <div>
-          Cash, Nets, PayNow, DBS Paylah!<br>
-          <br>
-        </div>
-        <div>
-          <strong><u>Please note:</u></strong>
-        </div>
-        <div>
-          With effect from Term 2 Week 1, 23 March 2020, school uniforms will no longer be sold in our school. Please contact the school uniform vendor for any enquiries.<br>
-          <br>
-        </div>
-        <div>
-          School uniform and P.E. attire are now available at Jeep Sing Fashion’s online store via the URL&nbsp;<a href="https://jeepsinguniform.com/collections/anderson-primary-school" target="_blank" rel="noopener">https://jeepsinguniform.com/collections/anderson-primary-school</a><br>
-          <br>
-        </div>
-        <div>
-          Walk-in purchase at retail outlet is strictly by Appointment only, please be reminded to book your time slots via this&nbsp;<a href="https://jeepsinguniform.com/pages/appointment-booking" target="_blank" rel="noopener">Appointment booking</a>&nbsp;link.
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<h4><strong>School Student Care (SSC)</strong></h4>
-<table>
-  <tbody>
-    <tr>
-      <td width="180px">
-        <div>
-          Tel
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="tel:8028%201456" target="">8028 1456</a>&nbsp;(preferably through SMS<br>
-          between 2.30pm to 5.30pm)
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>
-          Email
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="mailto:enquiries@commitlearning.com.sg" target="">enquiries@commitlearning.com.sg</a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>
-          Website
-        </div>
-      </td>
-      <td>
-        <div>
-          <a href="https://www.commitlearning.com.sg/home" target="_blank" rel="noopener">https://www.commitlearning.com.sg/home</a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>
-          During School Term
-        </div>
-      </td>
-      <td>
-        <div>
-          School Dismissal Time – 7.00 pm
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>
-          During School Holidays
-        </div>
-      </td>
-      <td>
-        <div>
-          7.00 am – 7.00 pm
-        </div>
-      </td>
+          Online: 
+					          <a href="https://jeepsinguniform.com/collections/anderson-primary-school" target="blank">https://jeepsinguniform.com/collections/anderson-primary-school</a>
+					<br>
+Walk-in Purchase at retail outlet
+<br>
+      </div></td>
     </tr>
   </tbody>
 </table>
