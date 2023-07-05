@@ -7,7 +7,7 @@ description: ""
 <tbody>
 
 <tr>
-<td style="text-align: left;">Miss Tan Mei Ling<br>Administration Manager</td>
+<td style="text-align: left;">Ms Tan Mei Ling<br>Administration Manager</td>
 <td style="text-align: left;"><a href="mailto:mei_ling_tan@schools.gov.sg" target="">mei_ling_tan@schools.gov.sg</a></td>
 </tr>
 	
@@ -44,7 +44,7 @@ description: ""
 </tr>
 		<tr>
 <td style="text-align: left;">Ms Diana Neo Siew Hong <br>MSO </td>
-<td style="text-align: left;"><a href="mailto:NEO_SIEW_HONG@moe.edu.sg" target="">NEO_SIEW_HONG@moe.edu.sg </a></td>
+<td style="text-align: left;"><a href="mailto:neo_siew_hong@moe.edu.sg" target="">neo_siew_hong@moe.edu.sg </a></td>
 </tr>
 		<tr>
 <td style="text-align: left;">Mdm Phua Mei Yean, Jennifer <br>OSO </td>
