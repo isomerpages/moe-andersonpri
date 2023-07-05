@@ -50,7 +50,7 @@ description: ""
 </tr>
 	
 <tr>
-<td style="text-align: left;">Miss Danz Tan Li Loo<br>Year Head (Middle Primary)</td>
+<td style="text-align: left;">Mrs Danz Ong<br>Year Head (Middle Primary)</td>
 <td style="text-align: left;"><a href="mailto:danz_tan_li_loo@moe.edu.sg" target="">danz_tan_li_loo@moe.edu.sg</a></td>
 </tr>
 
