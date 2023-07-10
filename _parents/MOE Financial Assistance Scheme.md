@@ -1,6 +1,6 @@
 ---
-title: FAS Application
-permalink: /parents/fas-application/
+title: MOE Financial Assistance Scheme
+permalink: /parents/moe-fas-application-scheme/
 description: ""
 ---
 <p>For more information about the Financial Assistance Scheme (FAS), please click on the link below.</p>
