@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
-      - DigitalAccess@Home.md
       - Letters to Parents.md
       - Resources for Parents/.keep
       - Resources for Parents/Road Safety.md
       - Resources for Parents/Resources.md
       - Resources for Parents/Easy Snacks for Break Time.md
+      - DigitalAccess@Home.md
       - FAS Application.md
