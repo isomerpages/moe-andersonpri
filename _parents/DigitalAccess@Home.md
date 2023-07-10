@@ -9,5 +9,5 @@ More information on DigitalAccess@Home is available from IMDA website [https://w
 
 Parents can also find out more by:
 1. Calling IMDA hotline at 6377 3800
-2. Email digitalaccess@imda.gov.sg
-3. Visiting SG Digital Community hubs at selected Community Clubs (CC) and public libraries listed on [https://go.gov.sg/sgdcommhub](https://go.gov.sg/sgdcommhub).
+2. Email [digitalaccess@imda.gov.sg](digitalaccess@imda.gov.sg)
+3. Visiting SG Digital Community hubs at selected Community Clubs (CC) and public libraries listed on [https://go.gov.sg/sgdcommhub](https://go.gov.sg/sgdcommhub)
