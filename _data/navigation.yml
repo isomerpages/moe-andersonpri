@@ -38,7 +38,9 @@ links:
       - title: Resources for Parents
         url: /parents/resources-for-parents/road-safety
       - title: FAS Application
-        url: /parents/fas-application/
+        url: /parents/moe-fas-application/
+      - title: DigitalAccess@Home
+        url: /parents/digital-access/
   - title: Partners
     url: /partners/school-advisory-committee-sac
     sublinks:
