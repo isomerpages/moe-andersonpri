@@ -9,7 +9,7 @@ third_nav_title: Service Providers
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Food Stall     | 31 August 2023     | -     |
+| Halal Food Stall     | 31 December 2023     | -     |
 
 
 **Application Procedure**
