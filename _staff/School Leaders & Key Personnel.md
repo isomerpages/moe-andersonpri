@@ -42,16 +42,16 @@ description: ""
 <td style="text-align: left;">Mrs Vimala Ratnaraja<br>Year Head (Upper Primary)</td>
 <td style="text-align: left;"><a href="mailto:vimala_ratnaraja@moe.edu.sg" target="">vimala_ratnaraja@moe.edu.sg</a></td>
 	
-	
 </tr><tr>
+<td style="text-align: left;">Mrs Danz Ong<br>Year Head (Middle Primary)</td>
+<td style="text-align: left;"><a href="mailto:danz_tan_li_loo@moe.edu.sg" target="">danz_tan_li_loo@moe.edu.sg</a></td>
+</tr>
+	
+	
+<tr>
 </tr><tr>
 <td style="text-align: left;">Ms Neo Hwee Hwee<br>Year Head (Lower Primary)</td>
 <td style="text-align: left;"><a href="mailto:neo_hwee_hwee@moe.edu.sg" target="">neo_hwee_hwee@moe.edu.sg</a></td>
-</tr>
-	
-<tr>
-<td style="text-align: left;">Mrs Danz Ong<br>Year Head (Middle Primary)</td>
-<td style="text-align: left;"><a href="mailto:danz_tan_li_loo@moe.edu.sg" target="">danz_tan_li_loo@moe.edu.sg</a></td>
 </tr>
 
 	<tr>
