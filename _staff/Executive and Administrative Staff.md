@@ -20,15 +20,14 @@ description: ""
 <td style="text-align: left;">Mr Raymond S/O Lazar <br>Operations Manager</td>
 <td style="text-align: left;"><a href="mailto:raymond_lazar@moe.edu.sg" target="">raymond_lazar@moe.edu.sg</a></td>
 </tr>
-	
+<tr>
+<td style="text-align: left;">Ms Nur Atiqah Abdul Razak <br>ICT Associate </td>
+<td style="text-align: left;"><a href="mailto:nur_atiqah_abdul_razak@moe.edu.sg" target="">nur_atiqah_abdul_razak@moe.edu.sg</a></td>
+</tr>
 	
 <tr>
 <td style="text-align: left;">Ms Seah Chu Hwei<br>Admin Executive</td>
 <td style="text-align: left;"><a href="mailto:seah_chu_hwei@moe.edu.sg" target="">seah_chu_hwei@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: left;">Ms Nur Atiqah Abdul Razak <br>ICT Associate </td>
-<td style="text-align: left;"><a href="mailto:nur_atiqah_abdul_razak@moe.edu.sg" target="">nur_atiqah_abdul_razak@moe.edu.sg</a></td>
 </tr>
 	<tr>
 <td style="text-align: left;">Ms Lim Yee Leng <br>MSO </td>
