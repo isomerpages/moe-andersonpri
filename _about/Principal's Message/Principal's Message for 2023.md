@@ -4,7 +4,6 @@ permalink: /about/principals-message/principals-message-for-2023/
 description: ""
 third_nav_title: Principal's Message
 ---
-<img style="width: 45%;" src="/images/mdm%20delia%20hoo%20(3).jpg" align="left">
 <p><u><em>Our POTF Journey Thus Far<br></em></u>
 
 2023 is the third year of Pioneers of the Future (POTF) implementation, a running theme since 2021, in the midst of Covid-19. It was meant to be a swift response to the unprecedented nature and extent of change happening around us. As educators, we recognised the accelerating pace of transformation in our operating environment, and how it was incumbent on us to make the necessary shifts fast. We have envisioned our Andersonians to be ever-more future-ready. We want to empower them with essential skills and learning dispositions to thrive in this&nbsp;_VUCA_&nbsp;world. We desire to nurture our students to love learning, think out-of-the-box, remain indomitable in the face of setbacks, and always ready to learn from and serve others. In short, we envision our Andersonians to have a pioneering mindset as they grow up in a generation where opportunities are boundless and borderless.
