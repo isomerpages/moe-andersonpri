@@ -5,6 +5,15 @@ description: ""
 third_nav_title: Sports & Games
 ---
 <p>Anderson Basketball Team provides opportunity for students to develop the fundamental skills of basketball playing and instill in them good values and values such as discipline, respect and sportsmanship. Our students are drawn from P3 to P6. They are trained by accredited basketball coaches. Over the years, we are able to achieve success at various competitions such as the North Zone Inter-Primary Schools Basketball Championship and the National Basketball Championship.</p>
+
+<h4><strong>Achievements</strong></h4>
+
+
+| 2023 | Basketball (Girls) | Basketball (Boys) |
+| -------- | -------- | -------- |
+| **Senior**     | Participated in the North Zone Senior Girls Basketball Competition     | Participated in the North Zone Senior Boys Basketball Competition     |
+| **Junior**     | 1st Runner Up of Tier 1     | Champion of Tier 2     |
+
 <h4><strong>Schedule</strong></h4>
 <table>
 <tbody>
