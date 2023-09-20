@@ -33,7 +33,7 @@ third_nav_title: Sports & Games
 </table>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
-<li>Mr Ferdinand Ma (Overall Teacher-in-charge)</li>
+<li>Mr Ferdinand Mar (Overall Teacher-in-charge)</li>
 <li>Miss Divyashree</li>
 <li>Mr Edmund Liang</li>
 <li>Mdm Siti Suraidah</li>
