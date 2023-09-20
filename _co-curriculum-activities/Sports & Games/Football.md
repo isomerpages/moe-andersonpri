@@ -9,7 +9,7 @@ third_nav_title: Sports & Games
 <h4><strong>Achievements</strong></h4>
 
 
-| 2023 | Football |
+|  | 2023 |
 | -------- | -------- |
 | **Senior**     | North Zone Top 8     |
 | **Junior**     | 1st Runner Up of Tier 1     |
