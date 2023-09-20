@@ -12,7 +12,7 @@ third_nav_title: Sports & Games
 | 2023 | Badminton (Girls) | Badminton (Boys) |
 | -------- | -------- | -------- |
 | **Senior**     | North Zone Top 8     | North Zone 3rd Placing     |
-| **Junior**     | Champion of Tier 4 Doubles Li Zi Qi (5.1) &amp; Tang Linxinyu (4.1)   | Champion of Tier 2 Singles: Ethan Lim Yi Jya (4.6)  Champion of   |
+| **Junior**     | Champion of Tier 4 Doubles: <br><br> o Li Zi Qi (5.1) <br> o Tang Linxinyu (4.1)   | Champion of Tier 2 Singles: Ethan Lim Yi Jya (4.6)  <br> <br>Champion of Tier 3 Doubles: <br><br> o	Fong Chan Yuen, Reagan (4.2) <br> o Tan Kah Shing, Lucas (5.4)    |
 
 
 <h4><strong>Schedule</strong></h4>
