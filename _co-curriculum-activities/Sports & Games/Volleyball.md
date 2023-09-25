@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Sports & Games
 ---
 <p>Our volleyball teams consist of P3 to P6 students. Our students are trained by our professional and well-accredited coaches to equip them to play at a competitive level to take part in various volleyball competitions such as the North Zone Inter-Primary Schools Volleyball Championship and National Volleyball Championship. Our coaches focus on teaching various aspects of volleyball skills so that the students are proficient in a wide repertoire of offensive and defensive skills. As a result of this methodical approach, our teams have done well over the years.</p>
+
+<h4><strong>Achievements</strong></h4>
+
+| 2023 | Volleyball (Girls) | Volleyball (Boys) |
+| -------- | -------- | -------- |
+| **Senior**    | -     | 2nd Runner Up of Tier 2     |
+| **Junior**     | Champion of Tier 2     | 1st Runner Up of Tier 2     |
+
 <h4><strong>Schedule</strong></h4>
 <table>
 <tbody>
