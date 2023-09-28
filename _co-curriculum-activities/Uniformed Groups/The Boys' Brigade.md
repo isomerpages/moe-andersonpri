@@ -9,10 +9,12 @@ The 22J Singapore Company was started on with 20 Boys and 2 officers and 2 teach
 Mr. Louis Seng is the Company Captain and Mr Li Wencong is the Chaplin. The first batch of 20
 Primary 3 Boys were enrolled in 2020. Currently, Mr William Ho is the teacher-in-charge assisted
 by Mr Soh Wei Xuan and Ms Danielle Tan.
+
 The 22J Boys’ Brigade Company offers a unique opportunity for Boys to experience a
 programme designed for holistic development outside a classroom environment – with a strong
 emphasis on discipline and character development. It is also service oriented, grooming them to
 serve their families, the school and the community.
+
 The highlights of 22J Company in Anderson Primary School are character building lessons,
 leadership adventures, parades, drills, games, badge work, learning journeys and camps. We
 also actively participate in HQ events such as BB Week, BB CARES, Adventure Quest and
