@@ -23,14 +23,14 @@ Character Quest.
 
 <h4><strong>Accolades</strong></h4>
 
-**2021:**
+**2021**
 * BB Week Gold Honours Roll
 
-**2022:** 
+**2022** 
 * Brigade President Commendation Award
 * BB Week Silver Honours Roll
 
-**2023:** 
+**2023** 
 * JM Fraser Award for Excellence (Excellent)
 * BB Week Silver Honours Roll
 * BB Character Quest (Juniors Programme) Gold Honour Roll
