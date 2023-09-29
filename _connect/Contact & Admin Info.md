@@ -329,15 +329,7 @@ description: ""
         </div><br>
         </td></tr><tr>
       <td>
-        <div>
-          Tel
-        </div>
       </td>
-      <td>
-        <div>
-          85186936
-        <br>
-      </div></td>
     </tr>
   </tbody>
 </table>
@@ -354,7 +346,7 @@ description: ""
       </td>
       <td>
         <div>
-          62521933
+          90919481
         </div>
       </td>
     </tr>
