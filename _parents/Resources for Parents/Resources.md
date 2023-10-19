@@ -28,7 +28,7 @@ third_nav_title: Resources for Parents
 <li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>P1/2024 Pre-Entry Resources</strong></h4></label>
 <div>
 <ol>
-<li><a href="https://go.gov.sg/2023p1booklist" target="_blank" rel="noopener">2024 Primary 1 Booklist</a></li>
+<li><a href="https://go.gov.sg/2024primary1booklist" target="_blank" rel="noopener">2024 Primary 1 Booklist</a></li>
 <li><a href="https://go.gov.sg/bookshopyearendsaleschedule2023" target="_blank" rel="noopener">Book Shop Year End Sale Schedule 2023</a></li>
 <li><a href="https://go.gov.sg/uniformyearendsaleschedule2023" target="_blank" rel="noopener">Uniform Year End Sale Schedule 2023</a></li>
 <li><a href="https://go.gov.sg/egirouserguide" target="_blank" rel="noopener">eGIRO User Guide</a></li>
