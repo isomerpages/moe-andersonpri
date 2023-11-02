@@ -13,7 +13,7 @@ variant: markdown
 ![](/images/ALP%202024/picture1.jpg)![](/images/ALP%202024/picture2.jpg)
 <p><strong>(ii)	P2 Eureka! goes outdoor with PAL – Transforming Food Waste into Sustainable Soil Materials</strong></p>
 <p>Core ideas and practices of science are integrated into the lower primary PAL – Outdoor Education module to complement and broaden Andersonians’ perspectives as they explore the diversity of plants around them. As budding Young Botanists, students identified leaves of different shapes and sizes and used their creativity to make various leaf art pieces.</p>
-
+![](/images/ALP%202024/picture3.jpg)![](/images/picture4_1.jpg)
 <p>Through this programme, the environmental message of giving plastic waste a second lease of life was instilled amongst the students where they learnt to see plastic waste and their properties in a different&nbsp;light.&nbsp;</p>
 <img style="width: 90%;" src="/images/2021-ALP-pic-2.jpg"><br>
 <img style="width: 90%;" src="/images/2021-ALP-pic-3.jpg">
