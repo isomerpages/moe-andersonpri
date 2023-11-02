@@ -10,7 +10,7 @@ variant: markdown
 <h4><strong>Multi-Disciplinary Eureka! Modules</strong></h4>
 <p><strong>(i)	P1 Eureka! with the Catapult</strong></p>
 <p>How can you knock down castle walls without being anywhere near them? Students explored why catapults were invented and how they work before making their very own catapult using recycled materials such as a bottle cap, ice cream sticks, tape and rubber bands. With a successful launch of an object from their self-constructed catapult, students earn their very own Eureka! badge..</p>
-<img style="width: 90%;" src="/images/2021-ALP-pic-1.jpg">
+![](/images/ALP%202024/picture1.jpg)![](/images/ALP%202024/picture2.jpg)
 <h4><strong>Ecobricks Programme</strong></h4>
 <p>In this programme, Primary 4 students learnt about properties of different plastics used in bottles and gained insights into the great amount of plastic waste generated in Singapore and its environmental&nbsp;impact on our&nbsp;country. In the creation of an upcycled product using recycled materials, students were introduced to the concept of Ecobricks and experienced a hands-on session making an Ecobrick from used plastic bottles and disused soft plastics. These Ecobricks were then combined to make a stool, illustrating how plastics can be upcycled meaningfully.</p>
 <p>Through this programme, the environmental message of giving plastic waste a second lease of life was instilled amongst the students where they learnt to see plastic waste and their properties in a different&nbsp;light.&nbsp;</p>
