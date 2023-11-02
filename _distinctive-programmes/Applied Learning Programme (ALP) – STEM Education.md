@@ -16,9 +16,5 @@ variant: markdown
 ![](/images/ALP%202024/picture3.jpg)![](/images/picture4_1.jpg)
 <p>Students also attended a Microgreen enrichment workshop to use sustainable growing materials such as Cocopeat and Vermicast (an organic fertiliser) to grow microgreens in a fabric planter. Students learnt about the phases of a Microgreen Life Cycle and compared the properties of different type of materials (e.g. fabric, bamboo, cork) used to make fabric planters.</p>
 ![](/images/picture5_1.jpg)![](/images/picture6_1.jpg)
-<h4><strong>Integrated STEM with Computational Thinking, Textiles and Sewing (iSTEM-CT2S) Module</strong></h4>
-<p>The&nbsp;<em>iSTEM-CT<sup>2</sup>S</em>&nbsp;pilot module is a human-centric STEM Curriculum designed by STEM@ NIE Singapore in collaboration with The University of Vaud Canton of Education, Switzerland, and supported by BERNINA (Singapore) Pte. Ltd.&nbsp;</p>
-<p>In this module, selected Primary 5 students&nbsp;experienced inter-disciplinary learning through the applications of concepts from different subject disciplines such as Textile Science and TurtleStitch Coding skills to solve real-world problems. Students acquired computational thinking skills and understood how technology could be harnessed to improve the lives of humans.</p>
-<p>Through this module, students had the rare opportunity to programme a sewing machine to stitch their coded pattern and sewed their own face mask using a high-technology Swiss-engineered BERNINA sewing machine.</p>
-<img style="width: 90%;" src="/images/2021-ALP-pic-4.jpg">
-<img style="width: 90%;" src="/images/2021-ALP-pic-5.jpg">
+<p><strong>(iii)	P3 Eureka! in Zero Waste Management – Prototyping a Stationery Item</strong></p>
+<p>Taking on the role of a Zero Waste Ambassador, students were tasked to create a stationery prototype using recycled materials. The Engineering Design Process was used to facilitate this prototyping phase where students applied what they have learnt in the topic of Materials to imagine and research for a useful classroom stationery item using paper and plastic. </p>
