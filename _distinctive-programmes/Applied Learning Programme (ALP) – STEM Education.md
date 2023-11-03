@@ -10,11 +10,11 @@ variant: markdown
 <h4><strong>Multi-Disciplinary Eureka! Modules</strong></h4>
 <p><strong>(i)	P1 Eureka! with the Catapult</strong></p>
 <p>How can you knock down castle walls without being anywhere near them? Students explored why catapults were invented and how they work before making their very own catapult using recycled materials such as a bottle cap, ice cream sticks, tape and rubber bands. With a successful launch of an object from their self-constructed catapult, students earn their very own Eureka! badge.</p>
-![](/images/ALP%202024/picture1.jpg)![](/images/ALP%202024/picture2.jpg)
+
 <p><strong>(ii)	P2 Eureka! goes outdoor with PAL – Transforming Food Waste into Sustainable Soil Materials</strong></p>
 <p>Core ideas and practices of science are integrated into the lower primary PAL – Outdoor Education module to complement and broaden Andersonians’ perspectives as they explore the diversity of plants around them. As budding Young Botanists, students identified leaves of different shapes and sizes and used their creativity to make various leaf art pieces.</p>
-![](/images/ALP%202024/picture3.jpg)![](/images/picture4_1.jpg)
+
 <p>Students also attended a Microgreen enrichment workshop to use sustainable growing materials such as Cocopeat and Vermicast (an organic fertiliser) to grow microgreens in a fabric planter. Students learnt about the phases of a Microgreen Life Cycle and compared the properties of different type of materials (e.g. fabric, bamboo, cork) used to make fabric planters.</p>
-![](/images/picture5_1.jpg)![](/images/picture6_1.jpg)
+
 <p><strong>(iii)	P3 Eureka! in Zero Waste Management – Prototyping a Stationery Item</strong></p>
 <p>Taking on the role of a Zero Waste Ambassador, students were tasked to create a stationery prototype using recycled materials. The Engineering Design Process was used to facilitate this prototyping phase where students applied what they have learnt in the topic of Materials to imagine and research for a useful classroom stationery item using paper and plastic. </p>
