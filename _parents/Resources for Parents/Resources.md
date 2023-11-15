@@ -3,6 +3,7 @@ title: Resources
 permalink: /parents/resources-for-parents/resources/
 description: ""
 third_nav_title: Resources for Parents
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>Assessment Matters</strong></h4></label>
@@ -12,15 +13,15 @@ third_nav_title: Resources for Parents
 </ul>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2"><h4><strong>2023 Booklists</strong></h4></label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2"><h4><strong>2024 Booklists</strong></h4></label>
 <div>
 <ul>
-<li><a href="https://go.gov.sg/2023andpsp1booklist" target="_blank" rel="noopener">2023 P1 Booklist</a></li>
-<li><a href="https://go.gov.sg/2023andpsp2booklist" target="_blank" rel="noopener">2023 P2 Booklist</a></li>
-<li><a href="https://go.gov.sg/2023andpsp3booklist" target="_blank" rel="noopener">2023 P3 Booklist</a></li>
-<li><a href="https://go.gov.sg/2023andpsp4booklist" target="_blank" rel="noopener">2023 P4 Booklist</a></li>
-<li><a href="https://go.gov.sg/2023andpsp5booklist" target="_blank" rel="noopener">2023 P5 Booklist</a></li>
-<li><a href="https://go.gov.sg/2023andpsp6booklist" target="_blank" rel="noopener">2023 P6 Booklist</a></li>
+<li><a href="https://go.gov.sg/2024primary1booklist" target="_blank" rel="noopener">2024 P1 Booklist</a></li>
+<li><a href="https://go.gov.sg/2024primary2booklist" target="_blank" rel="noopener">2024 P2 Booklist</a></li>
+<li><a href="https://go.gov.sg/2024primary3booklist" target="_blank" rel="noopener">2024 P3 Booklist</a></li>
+<li><a href="https://go.gov.sg/2024primary4booklist" target="_blank" rel="noopener">2024 P4 Booklist</a></li>
+<li><a href="https://go.gov.sg/2024primary5booklist" target="_blank" rel="noopener">2024 P5 Booklist</a></li>
+<li><a href="https://go.gov.sg/2024primary6booklist" target="_blank" rel="noopener">2024 P6 Booklist</a></li>
 
 </ul>
 </div>
