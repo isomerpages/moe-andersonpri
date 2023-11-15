@@ -13,7 +13,7 @@ variant: markdown
 </ul>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2"><h4><strong>2023 Booklists</strong></h4></label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2"><h4><strong>2024 Booklists</strong></h4></label>
 <div>
 <ul>
 <li><a href="https://go.gov.sg/2024primary1booklist" target="_blank" rel="noopener">2024 P1 Booklist</a></li>
