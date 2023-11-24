@@ -18,7 +18,7 @@ variant: markdown
 </p>
 	
 <p>Registration for our PV Scheme (for 2026 P1 Intake in Phase 2B) will commence on 5 Feb 2024  and will close on 31 Mar 2024. Our school will shortlist 20 PVs and only shortlisted PV applicant will be informed by 31 May 2023.</p>
-<p>PVs&nbsp;<u>must</u>&nbsp;fulfill at least 40 hours of acceptable PV service by 23 May 2026, which is before the commencement of 2025 P1 Registration Exercise. We seek all successful applicants’ understanding that being on the PV scheme&nbsp;<u>does not</u>&nbsp;guarantee your child a place in the school for 2026 P1 Admission.</p>
+<p>PVs&nbsp;<u>must</u>&nbsp;fulfill at least 40 hours of acceptable PV service by 23 May 2025, which is before the commencement of 2025 P1 Registration Exercise. We seek all successful applicants’ understanding that being on the PV scheme&nbsp;<u>does not</u>&nbsp;guarantee your child a place in the school for 2026 P1 Admission.</p>
 <p>In summary:</p>
 <table>
 <tbody>
