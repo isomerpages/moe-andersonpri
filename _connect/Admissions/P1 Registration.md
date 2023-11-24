@@ -3,6 +3,7 @@ title: P1 Registration
 permalink: /connect/admission/p1-registration/
 description: ""
 third_nav_title: Admissions
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong> MOE P1 Registration Framework</strong></h4></label>
@@ -16,8 +17,8 @@ third_nav_title: Admissions
 <p> The Parent Volunteer (PV) Scheme is open to parents of children who are Singapore Citizens/Singapore Permanent Residents due for the P1 Registration Exercise. The school selects PV applicants who are generally able to contribute in areas which are aligned to the school’s direction, programmes and desired outcomes for both staff and students.
 </p>
 	
-<p>Registration for our PV Scheme (for 2025 P1 Intake in Phase 2B) will commence on 6 Feb 2022 and will close on 28 Apr 2023. Our school will shortlist 20 PVs and only shortlisted PV applicant will be informed by 9 Jun 2023.</p>
-<p>PVs&nbsp;<u>must</u>&nbsp;fulfill at least 40 hours of acceptable PV service by 31 May 2024, which is before the commencement of 2024 P1 Registration Exercise. We seek all successful applicants’ understanding that being on the PV scheme&nbsp;<u>does not</u>&nbsp;guarantee your child a place in the school for 2025 P1 Admission.</p>
+<p>Registration for our PV Scheme (for 2026 P1 Intake in Phase 2B) will commence on 5 Feb 2024  and will close on 31 Mar 2024. Our school will shortlist 20 PVs and only shortlisted PV applicant will be informed by31 May 2023.</p>
+<p>PVs&nbsp;<u>must</u>&nbsp;fulfill at least 40 hours of acceptable PV service by 23 May 2026, which is before the commencement of 2025 P1 Registration Exercise. We seek all successful applicants’ understanding that being on the PV scheme&nbsp;<u>does not</u>&nbsp;guarantee your child a place in the school for 2026 P1 Admission.</p>
 <p>In summary:</p>
 <table>
 <tbody>
@@ -29,11 +30,11 @@ third_nav_title: Admissions
 <td style="text-align: center;" width="144">Duration of Parent Volunteer Services</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="90">2018</td>
-<td style="text-align: center;" width="109">2025</td>
-<td style="text-align: center;" width="181">6 February 2023</td>
-<td style="text-align: center;" width="156">28 April 2023</td>
-<td style="text-align: center;" width="144">26 June 2023<br>to<br>31 May 2024</td>
+<td style="text-align: center;" width="90">2019</td>
+<td style="text-align: center;" width="109">2026</td>
+<td style="text-align: center;" width="181">5 February 2024</td>
+<td style="text-align: center;" width="156">15 Mar 2024</td>
+<td style="text-align: center;" width="144">24 June 2024<br>to<br>23 May 2025</td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +44,7 @@ third_nav_title: Admissions
 <ul class="jekyllcodex_accordion">
 </ul></div></li><li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>FAQ</strong></h4></label>
 <div>
-<p><strong>1. Who can participate in the 2023 Primary One Registration Exercise?<br></strong>Children born between 2 January 2017 and 1 January 2018 (both dates inclusive) can participate in the 2023 Primary One Registration Exercise for admission to Primary One Classes in 2024.</p>
+<p><strong>1. Who can participate in the 2024 Primary One Registration Exercise?<br></strong>Children born between 2 January 2018 and 1 January 2019 (both dates inclusive) can participate in the 2024 Primary One Registration Exercise for admission to Primary One Classes in 2024.</p>
 <p><strong>2. When is the Primary One Registration Exercise conducted?<br></strong>The Primary One Registration Exercise is conducted from July to August.</p>
 <p><strong>3. How do I register my child for P1 in Anderson Primary School?<br></strong>Parents should refer to the&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" target="_blank" rel="noopener">registration phases and procedures</a>&nbsp;to find out which phase their children are eligible for, how to register and the&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/how-to-register" target="_blank" rel="noopener">documents required</a>&nbsp;for registration.</p>
 
