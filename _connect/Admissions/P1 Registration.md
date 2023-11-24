@@ -33,12 +33,12 @@ variant: markdown
 <td style="text-align: center;" width="90">2019</td>
 <td style="text-align: center;" width="109">2026</td>
 <td style="text-align: center;" width="181">5 February 2024</td>
-<td style="text-align: center;" width="156">15 March 2024</td>
+<td style="text-align: center;" width="156">31 March 2024</td>
 <td style="text-align: center;" width="144">24 June 2024<br>to<br>23 May 2025</td>
 </tr>
 </tbody>
 </table>
-<p> Our Parent Volunteer Programme application has closed.
+<p> 
 </p>
 
 <ul class="jekyllcodex_accordion">
