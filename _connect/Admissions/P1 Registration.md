@@ -44,7 +44,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 </ul></div></li><li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>FAQ</strong></h4></label>
 <div>
-<p><strong>1. Who can participate in the 2024 Primary One Registration Exercise?<br></strong>Children born between 2 January 2018 and 1 January 2019 (both dates inclusive) can participate in the 2024 Primary One Registration Exercise for admission to Primary One Classes in 2024.</p>
+<p><strong>1. Who can participate in the 2024 Primary One Registration Exercise?<br></strong>Children born between 2 January 2018 and 1 January 2019 (both dates inclusive) can participate in the 2024 Primary One Registration Exercise for admission to Primary One Classes in 2025.</p>
 <p><strong>2. When is the Primary One Registration Exercise conducted?<br></strong>The Primary One Registration Exercise is conducted from July to August.</p>
 <p><strong>3. How do I register my child for P1 in Anderson Primary School?<br></strong>Parents should refer to the&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" target="_blank" rel="noopener">registration phases and procedures</a>&nbsp;to find out which phase their children are eligible for, how to register and the&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/how-to-register" target="_blank" rel="noopener">documents required</a>&nbsp;for registration.</p>
 
