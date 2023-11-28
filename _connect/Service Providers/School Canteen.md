@@ -3,13 +3,14 @@ title: School Canteen
 permalink: /connect/service-providers/school-canteen/
 description: ""
 third_nav_title: Service Providers
+variant: markdown
 ---
 <h4><strong>School Canteen Advertisement</strong></h4>
 
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Food Stall     | 31 December 2023     | -     |
+| Halal Food Stall     | 31 May 2024     | -     |
 
 
 **Application Procedure**
@@ -20,13 +21,13 @@ third_nav_title: Service Providers
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
-* Photocopy of relevant certificates such as Basic Food Hygience Course, etc
+* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 * Address: 19 Ang Mo Kio Ave 9, Singapore 569785
 * Contact No: 6456 0340
 * Email: anderson_ps@moe.edu.sg
-* Contact Person: Ms Tan Mei Ling
+* Contact Person: Ms Seah Chu Hwei
 
 **How to get there?**
 * Nearest MRT: NS15 Yio Chu Kang – 10 minutes walking distance
