@@ -3,6 +3,7 @@ title: Boys' Brigade Key Events
 permalink: /curriculum/co-curriculum-activities-cca/uniformed-groups/the-boys-brigade/boys-brigade-key-events/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <h4><strong>Boys' Brigade Day</strong></h4>
 Every year on 12 January, the BB 22J Company from Anderson Primary School commemorated Boys’ Brigade(BB) Day in the school hall. The Boys felt proud donning their full uniform to form a contingent for the occasion.  Our Boys are given the opportunity to give the commands to the whole school to stand in attention. Our Lead Boy will present the the BB Message and update what the activities carried out through the year. 
@@ -31,16 +32,13 @@ Photo taken in 2023*
 
 ![](/images/picture5.jpg)
 
-![](/images/picture6.jpg)
-*BB and GB Company during the Enrolment Ceremony 2022*
-
 ![](/images/picture7.jpg)
 *BB and GB Company during the Enrolment Ceremony 2023*
 
 <h4><strong>Celebrating Achievements: JM Fraser Award for Excellence and BB Week Gold Honours Award 2023</strong></h4>
 Our Boys' Brigade 22nd Junior Company has garnered both the JM Fraser Award for Excellence (Excellent) and the BB Week Gold Honours Award 2023. These awards stand as a resounding testament to the dedication exhibited by our Boys, alongside the efforts of our volunteers and teachers throughout the year. 
 
-![](/images/picture8.jpg)
+![](/images/Picture1.jpg)
 *Mdm Delia Hoo (Principal, Anderson Primary School), Mr William Ho (Tr-in-charge of BB) and the 2 Lead Boys, Jayden Tan and Xavier Phua*
 
 <h4><strong>Celebrating Singapore's Independence</strong></h4>
@@ -85,7 +83,7 @@ The Boys made fruitful learning journey every year. In 2022, they visited SEA Aq
 ![](/images/picture20.jpg)
 *The Boys having a close view of a Crowned Pigeon*
 
-![](/images/picture21.jpg)
+![](/images/Picture2.jpg)
 *Jellyfish Enclosure – The Boys learnt that jellyfish has no brain and skeleton.*
 
 ![](/images/picture22.jpg)
@@ -102,6 +100,3 @@ The Boys and Girls look forward to a uniformed group combined camp every year. T
 
 ![](/images/picture25.jpg)
 *Team building games at the Parade Square*
-
-
-
