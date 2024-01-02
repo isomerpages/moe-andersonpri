@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Level Teachers
 variant: markdown
 ---
-<br><table style="margin-left: auto; margin-right: auto;" border="0" width="100%" cellspacing="0">
+<br><br><table style="margin-left: auto; margin-right: auto;" border="0" width="100%" cellspacing="0">
 <tbody>
 <tr>
 <td style="text-align: center;" colspan="2" height="41"><strong>Class 2.1</strong></td>
@@ -130,4 +130,4 @@ variant: markdown
 <td><a href="mailto:divyashree_c_bala_krishnan@moe.edu.sg" target="">&nbsp;divyashree_c_bala_krishnan@moe.edu.sg</a><br><br></td>
 </tr>
 </tbody>
-</table>P2 Level Executive Officer
+</table>P2 Level Executive Officer 
