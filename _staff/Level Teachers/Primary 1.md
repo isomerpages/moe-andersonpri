@@ -74,10 +74,10 @@ variant: markdown
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mrs Janet Saw</div>
+<div>Ms Poh Eng Hong</div>
 </td>
 <td>
-<div><a target="" href="mailto:tan_lay_tin@moe.edu.sg">tan_lay_tin@moe.edu.sg</a></div>
+<div><a target="" href="mailto:poh_eng_hong@moe.edu.sg">poh_eng_huat@moe.edu.sg</a></div>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -87,9 +87,9 @@ variant: markdown
 <td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Mdm Neo Hwee Hwee<br>Year Head (Lower Pri)</td>
+<td width="50%">Ms Kavitha Balakrishna</td>
 	
-<td><a target="" href="mailto:neo_hwee_hwee@moe.edu.sg">neo_hwee_hwee@moe.edu.sg</a></td>
+<td><a target="" href="mailto:kavitha_balakrishna@moe.edu.sg">kavitha_balakrishna@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
