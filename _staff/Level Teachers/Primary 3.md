@@ -3,6 +3,7 @@ title: Primary 3
 permalink: /key-personnel/teachers/primary-3/
 description: ""
 third_nav_title: Level Teachers
+variant: markdown
 ---
 <table style="margin-left: auto; margin-right: auto;" border="0" width="100%" cellspacing="0">
 <tbody>
@@ -15,8 +16,8 @@ third_nav_title: Level Teachers
 </tr>
 
 <tr style="text-align: center;">
-<td width="50%">Mr Ivan Ng<br>Level Head (Science)</td>
-<td width="50%"><a href="mailto:ivan_ng_yong_leng@moe.edu.sg" target="">ivan_ng_yong_leng@moe.edu.sg</a></td>
+<td width="50%">Mr Ramesh Sivakadacham<br>Subject Head (Student Management)</td>
+<td width="50%"><a href="mailto:ramesh_sivakadacham@moe.edu.sg" target="">ramesh_sivakadacham@moe.edu.sg</a></td>
 </tr>
 
 <tr style="text-align: center;">
