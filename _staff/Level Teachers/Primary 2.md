@@ -37,8 +37,8 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mdm Rachel Cheng</td>
-<td><a href="mailto:cheng_lee_chin_rachel@moe.edu.sg" target="">cheng_lee_chin_rachel@moe.edu.sg</a></td>
+<td>Mdm Dionne Teo Li-En</td>
+<td><a href="mailto:teo_lien_dionne@moe.edu.sg" target="">teo_lien_dionne@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
