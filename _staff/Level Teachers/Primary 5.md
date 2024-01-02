@@ -23,6 +23,12 @@ variant: markdown
 </td>
 <td><a href="mailto:anuar_adam@moe.edu.sg" target="">anuar_adam@moe.edu.sg</a></td>
 </tr>
+
+<tr style="text-align: center;">
+<td width="50%">Ms Erica Lim Song Yi</td>
+<td width="50%"><a href="mailto:erica_lim_song_yi@moe.edu.sg" target="">erica_lim_song_yi@moe.edu.sg</a><br><br></td>
+</tr>
+	
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 5.2</strong></td>
 </tr>
@@ -30,8 +36,8 @@ variant: markdown
 <td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Ms Adelene Guo</td>
-<td><a href="mailto:guo_yuanhui_adelene@moe.edu.sg" target="">guo_yuanhui_adelene@moe.edu.sg</a><br><br></td>
+<td width="50%">&nbsp;Mrs&nbsp;Sharon&nbsp;Yeo <br>Level Head (Mathematics)</td>
+<td><a href="mailto:yeo_sharon@moe.edu.sg" target="">yeo_sharon@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
 <td>Ms Siti Suraidah Rahim<br>P5 Level Executive Officer</td>
