@@ -84,8 +84,8 @@ variant: markdown
 <td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mrs Haslinda Azhar<br>Lead Teacher (English Language)</td>
-<td><a href="mailto:haslinda_hashim@moe.edu.sg" target="">haslinda_hashim@moe.edu.sg</a></td>
+<td>Ms Charmaine Goh Li Yin</td>
+<td><a href="mailto:goh_li_yin@moe.edu.sg" target="">goh_li_yin@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>Mr Ben Choo Chee Keong<br>Subject Head (CCA &amp; Data Management)</td>
