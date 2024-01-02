@@ -92,9 +92,9 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td>&nbsp;Mdm Suzanah Saparwan <br>
-HOD (Information &amp; Communication Technology)</td>
-<td><a href="mailto:suzanah_saparwan@moe.edu.sg" target="">suzanah_saparwan@moe.edu.sg</a></td>
+<td>&nbsp;Ms Angeline Teo <br>
+P3 Level Executive Officer</td>
+<td><a href="mailto:teo_puay_leng@moe.edu.sg" target="">teo_puay_leng@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
