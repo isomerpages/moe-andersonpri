@@ -55,9 +55,9 @@ variant: markdown
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mr Salim Fong</div>
+<div>Mr&nbsp;Peter Toh <br> P5 Level Executive Officer</div>
 </td>
-<td><a href="mailto:salim_fong@moe.edu.sg" target="">salim_fong@moe.edu.sg</a></td>
+<td><a href="mailto:toh_kee_seong_peter@moe.edu.sg" target="">toh_kee_seong_peter@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 5.4</strong></td>
