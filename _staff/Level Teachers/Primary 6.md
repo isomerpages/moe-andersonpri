@@ -86,8 +86,8 @@ variant: markdown
 <td><a href="mailto:haslinda_hashim@moe.edu.sg" target="">haslinda_hashim@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mdm Sarabjeet Kaur<br>Senior Teacher (Science)</td>
-<td><a href="mailto:kaur_sarabjeet@moe.edu.sg" target="">kaur_sarabjeet@moe.edu.sg</a></td>
+<td>Ms Gracia Lim</td>
+<td><a href="mailto:lim_gek_hia@moe.edu.sg" target="">lim_gek_hia@moe.edu.sg</a></td>
 </tr>
 
 <tr style="text-align: center;">
