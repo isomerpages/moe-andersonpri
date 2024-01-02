@@ -54,8 +54,8 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mdm Ng Shin Ding</td>
-<td><a href="mailto:ng_shin_ding@moe.edu.sg" target="">ng_shin_ding@moe.edu.sg</a></td>
+<td>Mr Soo Jia Qing</td>
+<td><a href="mailto:soo_jia_qing@moe.edu.sg" target="">soo_jia_qing@moe.edu.sg</a></td>
 </tr>
 
 	
@@ -68,8 +68,8 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td width="50%">Ms Joy Lim Swee Ping<br>P3 Level Executive Officer</td>
-<td width="50%"><a href="mailto:lim_swee_ping@moe.edu.sg" target="">lim_swee_ping@moe.edu.sg</a></td>
+<td width="50%">Mdm Sabariah Abdullah<br>Subject Head (Malay Language)</td>
+<td width="50%"><a href="mailto:sabariah_abdullahh@moe.edu.sg" target="">sabariah_abdullah@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
