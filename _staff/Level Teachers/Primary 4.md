@@ -40,8 +40,8 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td>Ms Nur Shamilah Abd Hamid</td>
-<td><a href="mailto:nur_shamilah_abdul_hamid@moe.edu.sg" target="">nur_shamilah_abdul_hamid@moe.edu.sg</a></td>
+<td>Mr Ben&nbsp;Choo Chee Keong <br>Subject Head (CCA &amp; Data Management)</td>
+<td><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
