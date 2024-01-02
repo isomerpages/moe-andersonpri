@@ -119,15 +119,13 @@ variant: markdown
 <tr style="text-align: center;">
 <td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
 </tr>
-<tr style="text-align: center;">
-<td width="50%">Mdm Kavitha Kunnasegaran <br>
-P1 Level Executive Officer</td>
-<td><a target="" href="mailto:kavitha_kunnasegaran@moe.edu.sg">kavitha_kunnasegaran@moe.edu.sg</a></td>
+<tr style="text-align: center;"><td width="50%">Mrs Lena Ho Mui Lin<br>P1 Level Executive Officer</td>
+<td width="50%"><a href="mailto:teo_mui_lin_lena@moe.edu.sg" target="">teo_mui_lin_lena@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mr Deng Li Qiang</td>
+<td>Mrs Maefrize Khoo</td>
 <td>
-<div><a target="" href="mailto:deng_li_qiang@moe.edu.sg">deng_li_qiang@moe.edu.sg</a></div>
+<div><a target="" href="mailto:lim_meng_hui@moe.edu.sg">lim_meng_hui@moe.edu.sg</a></div>
 </td>
 </tr>
 </tbody>
