@@ -3,6 +3,7 @@ title: Primary 6
 permalink: /key-personnel/teachers/primary-6/
 description: ""
 third_nav_title: Level Teachers
+variant: markdown
 ---
 <table style="float: right;" border="0" width="100%" cellspacing="0">
 <tbody>
@@ -13,8 +14,8 @@ third_nav_title: Level Teachers
 <td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Mr Peter Toh</td>
-<td width="50%"><a href="mailto:toh_kee_seong_peter@moe.edu.sg" target="">toh_kee_seong_peter@moe.edu.sg</a><br><br></td>
+<td width="50%">Mrs&nbsp;Vimala Ratnaraja<br> Year Head (Upper Primary)</td>
+<td width="50%"><a href="mailto:vimala_ratnaraja@moe.edu.sg" target="">vimala_ratnaraja@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
 <td>
