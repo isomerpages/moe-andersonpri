@@ -2,6 +2,7 @@
 title: School Leaders & Key Personnel
 permalink: /key-personnel/school-executive-committee/
 description: ""
+variant: markdown
 ---
 ### **School Leaders**
 
@@ -74,12 +75,12 @@ description: ""
 <td style="text-align: left;"><a href="mailto:sornamangai_arumugam@moe.edu.sg" target="">sornamangai_arumugam@moe.edu.sg </a></td>
 </tr>
 
-<tr><td style="text-align: left;">Mrs Sharon Yeo<br>Subject Head (Mathematics)</td>
-<td style="text-align: left;"><a href="mailto:yeo_sharon@moe.edu.sg" target="">yeo_sharon@moe.edu.sg </a></td>
+<tr><td style="text-align: left;">Mdm Tan Bee Bee<br>Head of Department (Mathematics)</td>
+<td style="text-align: left;"><a href="mailto:tan_bee_bee_c@moe.edu.sg" target="">tan_bee_bee_c@moe.edu.sg </a></td>
 </tr>
 
-<tr><td style="text-align: left;">Mdm Er Siew Shin<br>HOD (Science)</td>
-<td style="text-align: left;"><a href="mailto:er_siew_shin@moe.edu.sg" target="">er_siew_shin@moe.edu.sg </a></td>
+<tr><td style="text-align: left;">Mrs Sharon Yeo<br>Subject Head (Mathematics)</td>
+<td style="text-align: left;"><a href="mailto:yeo_sharon@moe.edu.sg" target="">yeo_sharon@moe.edu.sg </a></td>
 </tr>
 
 <tr><td style="text-align: left;">Mr Ivan Ng<br>Level Head (Science)</td>

@@ -3,6 +3,7 @@ title: Primary 1
 permalink: /key-personnel/teachers/primary-1/
 description: ""
 third_nav_title: Level Teachers
+variant: markdown
 ---
 <table cellspacing="0" width="100%" border="0" style="margin-left: auto; margin-right: auto;">
 <tbody>
@@ -13,14 +14,14 @@ third_nav_title: Level Teachers
 <td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Mdm Tan Li Ling Linda</td>
-<td width="50%"><a href="mailto:tan_li_ling_linda@moe.edu.sg">tan_li_ling_linda@moe.edu.sg</a></td>
+<td width="50%">Mdm Ng Lih Teng</td>
+<td width="50%"><a href="mailto:ng_lih_teng@moe.edu.sg">ng_lih_teng@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mdm Fiona Lai</div>
+<div>Ms Serena Goh Yi Ting</div>
 </td>
-<td><a target="" href="mailto:lai_shuduan_fiona@moe.edu.sg">lai_shuduan_fiona@moe.edu.sg</a></td>
+<td><a target="" href="mailto:serena_goh_yi_ting@moe.edu.sg">serena_goh_yi_ting@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td height="41" colspan="2" style="text-align: center;"><strong>Class 1.2</strong></td>
@@ -29,15 +30,15 @@ third_nav_title: Level Teachers
 <td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Ms Kavitha Balakrishna</td>
-<td><a target="" href="mailto:kavitha_balakrishna@moe.edu.sg">kavitha_balakrishna@moe.edu.sg</a></td>
+<td width="50%">Mdm Maryati Mohamed</td>
+<td><a target="" href="mailto:maryati_mohamed@moe.edu.sg">maryati_mohamed@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mdm Cheong Hwee Hua</div>
+<div>Mdm Koh Ah Lek</div>
 </td>
 <td>
-<div>&nbsp;<a target="" href="mailto:cheong_hwee_hua@moe.edu.sg">cheong_hwee_hua@moe.edu.sg</a></div>
+<div>&nbsp;<a target="" href="mailto:koh_ah_lek@moe.edu.sg">koh_ah_lek@moe.edu.sg</a></div>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -50,10 +51,17 @@ third_nav_title: Level Teachers
 
 <tr style="text-align: center;">
 <td>
-<div>Mdm Jumiati Md Sidek</div>
+<div>Mrs Rachael Goh</div>
 </td>
-<td><a target="" href="mailto:jumiati_mohd_sidek@moe.edu.sg">jumiati_mohd_sidek@moe.edu.sg</a></td>
+<td><a target="" href="mailto:seah_yan_ying_rachael@moe.edu.sg">seah_yan_ying_rachael@moe.edu.sg</a></td>
 </tr>
+<tr style="text-align: center;">
+<td>
+<div>Ms Tan Soo Kheng</div>
+</td>
+<td><a target="" href="mailto:tan_soo_kheng@moe.edu.sg">tan_soo_kheng@moe.edu.sg</a></td>
+</tr>
+	
 <tr style="text-align: center;">
 <td height="41" colspan="2" style="text-align: center;"><strong>Class 1.4</strong></td>
 </tr>
@@ -61,15 +69,15 @@ third_nav_title: Level Teachers
 <td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Mrs Eileen Lin</td>
-<td width="50%"><a target="" href="mailto: eileen_toh_yin_lin@moe.edu.sg">eileen_toh_yin_lin@moe.edu.sg</a></td>
+<td width="50%">Mdm Nur Shamilah Abd Hamid</td>
+<td width="50%"><a target="" href="mailto: nur_shamilah_abdul_hamid@moe.edu.sg">nur_shamilah_abdul_hamid@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mrs Janet Saw</div>
+<div>Ms Poh Eng Hong</div>
 </td>
 <td>
-<div><a target="" href="mailto:tan_lay_tin@moe.edu.sg">tan_lay_tin@moe.edu.sg</a></div>
+<div><a target="" href="mailto:poh_eng_hong@moe.edu.sg">poh_eng_hong@moe.edu.sg</a></div>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -79,15 +87,15 @@ third_nav_title: Level Teachers
 <td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Mdm Neo Hwee Hwee<br>Year Head (Lower Pri)</td>
+<td width="50%">Ms Kavitha Balakrishna</td>
 	
-<td><a target="" href="mailto:neo_hwee_hwee@moe.edu.sg">neo_hwee_hwee@moe.edu.sg</a></td>
+<td><a target="" href="mailto:kavitha_balakrishna@moe.edu.sg">kavitha_balakrishna@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Ms Lin Routing</div>
+<div>Mdm Jessie Nah Min Li</div>
 </td>
-<td><a target="" href="mailto:lin_routing@moe.edu.sg">lin_routing@moe.edu.sg</a></td>
+<td><a target="" href="mailto:jessie_nah_min_li@moe.edu.sg">jessie_nah_min_li@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td height="41" colspan="2" style="text-align: center;"><strong>Class 1.6</strong></td>
@@ -96,14 +104,14 @@ third_nav_title: Level Teachers
 <td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td> Mdm Fiona Tan Pei Wei</td>
-<td><a target="" href="mailto:tan_pei_wei_fiona@moe.edu.sg">tan_pei_wei_fiona@moe.edu.sg</a><br><br></td>
+<td> Ms Low Li Lin</td>
+<td><a target="" href="mailto:low_li_lin@moe.edu.sg">low_li_lin@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Ms Kek Sor Ling</div>
+<div>Mdm Sharulbariah Md Arif</div>
 </td>
-<td><a target="" href="mailto:kek_sor_ling@moe.edu.sg">kek_sor_ling@moe.edu.sg</a></td>
+<td><a target="" href="mailto:shahrulbariah_muhd_arif@moe.edu.sg">shahrulbariah_muhd_arif@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td height="41" colspan="2" style="text-align: center;"><strong>Class 1.7</strong></td>
@@ -111,15 +119,13 @@ third_nav_title: Level Teachers
 <tr style="text-align: center;">
 <td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
 </tr>
-<tr style="text-align: center;">
-<td width="50%">Mdm Kavitha Kunnasegaran <br>
-P1 Level Executive Officer</td>
-<td><a target="" href="mailto:kavitha_kunnasegaran@moe.edu.sg">kavitha_kunnasegaran@moe.edu.sg</a></td>
+<tr style="text-align: center;"><td width="50%">Mrs Lena Ho Mui Lin<br>P1 Level Executive Officer</td>
+<td width="50%"><a href="mailto:teo_mui_lin_lena@moe.edu.sg" target="">teo_mui_lin_lena@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mr Deng Li Qiang</td>
+<td>Mrs Maefrize Khoo</td>
 <td>
-<div><a target="" href="mailto:deng_li_qiang@moe.edu.sg">deng_li_qiang@moe.edu.sg</a></div>
+<div><a target="" href="mailto:lim_meng_hui@moe.edu.sg">lim_meng_hui@moe.edu.sg</a></div>
 </td>
 </tr>
 </tbody>
