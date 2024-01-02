@@ -72,6 +72,10 @@ variant: markdown
 <tr style="text-align: center;">
 <td>Mdm Wong&nbsp;Mei Ting<br>Senior Teacher (Chinese Language)</td>
 <td><a href="mailto:wong_mei_ting@moe.edu.sg" target="">wong_mei_ting@moe.edu.sg</a><br><br></td>
+	
+</tr><tr style="text-align: center;">
+<td>&nbsp;Ms Jan Hu Wen Ying<br>HOD (PE CCA &amp; Aesthetics)</td>
+<td><a href="mailto:jan_hu_wen_ying@moe.edu.sg" target="">jan_hu_wen_ying@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 5.5</strong></td>
