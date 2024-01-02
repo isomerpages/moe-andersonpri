@@ -103,13 +103,13 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td>Ms Angeline Teo</td>
-<td><a href="mailto:teo_puay_leng@moe.edu.sg" target="">teo_puay_leng@moe.edu.sg</a><br><br></td>
+<td>Mdm Suzanah Saparwan <br> HOD (Information &amp; Communication Technology)</td>
+<td><a href="mailto:suzanah_saparwan@moe.edu.sg" target="">suzanah_saparwan@moe.edu.sg</a><br><br></td>
 </tr>
 	
 <tr style="text-align: center;">
-<td>Ms Jan Hu Wen Ying<br>HOD (PE CCA &amp; Aesthetics)</td>
-<td><a href="mailto:jan_hu_wen_ying@moe.edu.sg" target="">jan_hu_wen_ying@moe.edu.sg</a></td>
+<td>Mdm Xia Shanna</td>
+<td><a href="mailto:xia_shanna@moe.edu.sg" target="">xia_shanna@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
