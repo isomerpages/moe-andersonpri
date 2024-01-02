@@ -97,12 +97,12 @@ variant: markdown
 <td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mr Edmund Liang<br>P6 Level Executive Officer</td>
-	<td><a href="mailto:liang_shiau_ping@moe.edu.sg" target="">liang_shiau_ping@moe.edu.sg</a><br><br></td>
+<td>&nbsp;Mrs&nbsp;Vimaladevi Steven<br>Senior Teacher (Tamil Language)</td>
+	<td><a href="mailto:v_vimaladevi@moe.edu.sg" target="">v_vimaladevi@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
-<td>Ms Tan Soo Kheng</td>
-<td><a href="mailto:tan_soo_kheng@moe.edu.sg" target="">tan_soo_kheng@moe.edu.sg</a></td>
+<td>Mdm Tan&nbsp;Bee&nbsp;Bee <br> Head of Department (Mathematics)</td>
+<td><a href="mailto:tan_bee_bee_c@moe.edu.sg" target="">tan_bee_bee_c@moe.edu.sg</a></td>
 </tr>
 </tbody>
 </table>
