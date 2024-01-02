@@ -30,8 +30,8 @@ variant: markdown
 <td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Ms Kavitha Balakrishna</td>
-<td><a target="" href="mailto:kavitha_balakrishna@moe.edu.sg">kavitha_balakrishna@moe.edu.sg</a></td>
+<td width="50%">Mdm Maryati Mohamed</td>
+<td><a target="" href="mailto:maryati_mohamed@moe.edu.sg">maryati_mohamed@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
