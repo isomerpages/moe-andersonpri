@@ -59,8 +59,8 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mr Ramesh Sivakadacham<br>Subject Head (Student Management)</td>
-<td><a href="mailto:ramesh_sivakadacham@moe.edu.sg" target="">ramesh_sivakadacham@moe.edu.sg</a></td>
+<td>&nbsp;Mdm Ng Shin Ding</td>
+<td><a href="mailto:ng_shin_ding@moe.edu.sg" target="">ng_shin_ding@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
