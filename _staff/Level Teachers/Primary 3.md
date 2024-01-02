@@ -60,6 +60,12 @@ variant: markdown
 
 	
 <tr style="text-align: center;">
+<td width="50%">Mdm Sabariah Abdullah<br>Subject Head (Malay Language)</td>
+<td width="50%"><a href="mailto:sabariah_abdullahh@moe.edu.sg" target="">sabariah_abdullah@moe.edu.sg</a></td>
+</tr>
+
+	
+<tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 3.4</strong></td>
 </tr>
 	
