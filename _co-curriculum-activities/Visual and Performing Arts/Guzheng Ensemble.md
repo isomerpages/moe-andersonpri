@@ -3,6 +3,7 @@ title: Guzheng Ensemble
 permalink: /curriculum/co-curriculum-activities-cca/performing-arts/guzheng-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <p>Our Guzheng Ensemble was formed in 2001. The ensemble strives to grow in strength and has won several accolades in various local and International competitions. The ensemble also performs regularly in community events, sharing Guzheng’s unique brand of music to its appreciative audience. In 2018, our Guzheng Ensemble received the Distinction award in the SYF 2018 Arts Presentation.</p>
 <h4><strong>Schedule</strong></h4>
@@ -27,5 +28,5 @@ third_nav_title: Visual and Performing Arts
 <ul>
 <li>Ms Fiona Tan (Overall Teacher-in-charge)</li>
 <li>Mrs Angeline Poh</li>
-<li>Ms Tan Soo Kheng</li>
+<li>Mdm Xia Shanna</li>
 </ul>
