@@ -88,8 +88,8 @@ variant: markdown
 <td><a href="mailto:goh_li_yin@moe.edu.sg" target="">goh_li_yin@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mr Ben Choo Chee Keong<br>Subject Head (CCA &amp; Data Management)</td>
-<td><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg&nbsp;</a><br><br></td>
+<td>&nbsp;Mrs Sornamangai&nbsp;Mohan<br>Subject Head (Tamil Language)</td>
+<td><a href="mailto:sornamangai_arumugam@moe.edu.sg" target="">sornamangai_arumugam@moe.edu.sg&nbsp;</a><br><br></td>
 </tr>
 
 <tr style="text-align: center;">
