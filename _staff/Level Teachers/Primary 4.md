@@ -120,13 +120,13 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mr Soh Wei Xuan</td>
-<td><a href="mailto:soh_wei_xuan@moe.edu.sg" target="">soh_wei_xuan@moe.edu.sg</a><br><br></td>
+<td>Ms Inoue Ikuyo</td>
+<td><a href="mailto:inoue_ikuyo@moe.edu.sg" target="">inoue_ikuyo@moe.edu.sg</a><br><br></td>
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mrs Jenevieve Seeh</td>
-<td><a href="mailto:jenevieve_seeh@moe.edu.sg" target="">jenevieve_seeh@moe.edu.sg</a></td>
+<td>Mdm Sheena Toh<br>HOD (Aesthetics)</td>
+<td><a href="mailto:sheena_toh@moe.edu.sg" target="">sheena_toh@moe.edu.sg</a></td>
 </tr>
 </tbody>
 </table>
