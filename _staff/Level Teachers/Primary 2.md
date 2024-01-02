@@ -131,8 +131,8 @@ variant: markdown
 </tr>
 
 <tr style="text-align: center;">
-<td>Ms Divyashree</td>
-<td><a href="mailto:divyashree_c_bala_krishnan@moe.edu.sg" target="">&nbsp;divyashree_c_bala_krishnan@moe.edu.sg</a><br><br></td>
+<td>Mr Deng Li Qiang</td>
+<td><a href="mailto:deng_li_qiang@moe.edu.sg" target="">deng_li_qiang@moe.edu.sg</a><br><br></td>
 </tr>
 </tbody>
 </table> P2 Level Executive Officer (LEO) P2 Level Executive Officer
