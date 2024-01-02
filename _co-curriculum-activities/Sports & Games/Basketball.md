@@ -3,6 +3,7 @@ title: Basketball
 permalink: /curriculum/co-curriculum-activities-cca/sports-n-games/basketball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <p>Anderson Basketball Team provides opportunity for students to develop the fundamental skills of basketball playing and instill in them good values and values such as discipline, respect and sportsmanship. Our students are drawn from P3 to P6. They are trained by accredited basketball coaches. Over the years, we are able to achieve success at various competitions such as the North Zone Inter-Primary Schools Basketball Championship and the National Basketball Championship.</p>
 
@@ -42,5 +43,5 @@ third_nav_title: Sports & Games
 <li>Mdm Jumiati Mohd Sidek (Overall Teacher-in-charge)</li>
 <li>Mdm Cheong Hwee Hua</li>
 <li>Mr Peter Toh</li>
-<li>Mr Ramesh</li>
+<li>Mr Edmund Liang</li>
 </ul>
