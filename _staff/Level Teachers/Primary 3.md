@@ -36,8 +36,8 @@ variant: markdown
 </tr>
 
 <tr style="text-align: center;">
-<td width="50%">Mrs Lisa Kan</td>
-<td><a href="mailto:chua_ling_ling@moe.edu.sg" target="">chua_ling_ling@moe.edu.sg</a><br><br></td>
+<td width="50%">Mr Soh&nbsp;Wei Xuan</td>
+<td><a href="mailto:&nbsp;soh_wei_xuan@moe.edu.sg" target="">&nbsp;soh_wei_xuan@moe.edu.sg</a><br><br></td>
 </tr>
 
 <tr style="text-align: center;">
