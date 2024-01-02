@@ -90,8 +90,8 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td>Ms Dionne Teo</td>
-<td><a href="mailto:teo_lien_dionne@moe.edu.sg" target="">teo_lien_dionne@moe.edu.sg</a></td>
+<td>Mdm Lin Ruoting</td>
+<td><a href="mailto:teo_lin_ruoting@moe.edu.sg" target="">lin_ruoting@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
