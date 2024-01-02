@@ -113,8 +113,8 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mrs Maefrize Khoo</td>
-<td><a href="mailto:lim_meng_hui@moe.edu.sg" target="">lim_meng_hui@moe.edu.sg</a></td>
+<td>Ms Kek Sor Ling</td>
+<td><a href="mailto:kek_sor_ling@moe.edu.sg" target="">kek_sor_ling@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
