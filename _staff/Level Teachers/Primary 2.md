@@ -85,8 +85,8 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mdm Sharulbariah Md Arif</td>
-<td><a href="mailto:shahrulbariah_muhd_arif@moe.edu.sg" target="">shahrulbariah_muhd_arif@moe.edu.sg</a></td>
+<td>Ms Neo Hwee Hwee <br> Year Head (Lower Primary)</td>
+<td><a href="mailto:neo_hwee_hwee@moe.edu.sg" target="">neo_hwee_hwee@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
