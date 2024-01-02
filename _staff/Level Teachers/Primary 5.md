@@ -70,8 +70,8 @@ variant: markdown
 <td width="50%"><a href="mailto:liang_shiau_ping@moe.edu.sg" target="">liang_shiau_ping@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mr Seet Chia Song<br>Lead Teacher (Chinese Language)</td>
-<td><a href="mailto:seet_chia_song@moe.edu.sg" target="">seet_chia_song@moe.edu.sg</a><br><br></td>
+<td>Mdm Wong&nbsp;Mei Ting<br>Senior Teacher (Chinese Language)</td>
+<td><a href="mailto:wong_mei_ting@moe.edu.sg" target="">wong_mei_ting@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 5.5</strong></td>
