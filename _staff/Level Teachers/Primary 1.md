@@ -104,14 +104,14 @@ variant: markdown
 <td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td> Mdm Fiona Tan Pei Wei</td>
-<td><a target="" href="mailto:tan_pei_wei_fiona@moe.edu.sg">tan_pei_wei_fiona@moe.edu.sg</a><br><br></td>
+<td> Ms Low Li Lin</td>
+<td><a target="" href="mailto:low_li_lin@moe.edu.sg">low_li_lin@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Ms Kek Sor Ling</div>
+<div>Mdm Sharulbariah Md Arif</div>
 </td>
-<td><a target="" href="mailto:kek_sor_ling@moe.edu.sg">kek_sor_ling@moe.edu.sg</a></td>
+<td><a target="" href="mailto:shahrulbariah_muhd_arif@moe.edu.sg">shahrulbariah_muhd_arif@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td height="41" colspan="2" style="text-align: center;"><strong>Class 1.7</strong></td>
