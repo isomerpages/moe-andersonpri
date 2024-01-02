@@ -99,8 +99,13 @@ variant: markdown
 <td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mrs Vimaladevi Steven<br>Senior Teacher (Tamil Language)</td>
-<td><a href="mailto:v_vimaladevi@moe.edu.sg" target="">v_vimaladevi@moe.edu.sg</a></td>
+<td>Mdm Cheong&nbsp;Mei Yuan<br>Level Head (Chinese Language)</td>
+<td><a href="mailto:cheong_mei_yuan@moe.edu.sg" target="">cheong_mei_yuan@moe.edu.sg</a></td>
+</tr>
+	
+<tr style="text-align: center;">
+<td>Mrs&nbsp;Fion&nbsp;Ho<br>HOD (Character &amp; Citizenship Education)</td>
+<td><a href="mailto:lim_ser_yee@moe.edu.sg" target="">lim_ser_yee@moe.edu.sg</a></td>
 </tr>
 </tbody>
 </table>
