@@ -3,6 +3,7 @@ title: Art Club
 permalink: /curriculum/co-curriculum-activities-cca/clubs-n-societies/art-club/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <p>Anderson Art Club welcomes all with an interest in drawing, painting and craft making to be part of a quality art programme to realise the joy of art making. Students get to experiment with a wide variety of materials, gain deeper understanding of elements of art and principles of design, and work together on projects and exhibitions. At the recent AMK Hub Recycling Competition 2018, one of the Art Club’s upcycled creations titled 'Chandelier' has been awarded the first prize in the competition.</p>
 <h4><strong>Schedule</strong></h4>
@@ -24,6 +25,7 @@ third_nav_title: Visual and Performing Arts
 </table>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
-<li>Mrs Maefrize Khoo (Overall Teacher-in-charge)</li>
-<li>Mrs Mahimy</li>
+<li>Mr Anuar (Overall Teacher-in-charge)</li>
+<li>Mrs Maefrize Khoo</li>
+<li>Ms Loke Mei Yen</li>
 </ul>
