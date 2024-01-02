@@ -3,8 +3,9 @@ title: Primary 2
 permalink: /key-personnel/teachers/primary-2/
 description: ""
 third_nav_title: Level Teachers
+variant: markdown
 ---
-<table style="margin-left: auto; margin-right: auto;" border="0" width="100%" cellspacing="0">
+<br><br><br><br><table style="margin-left: auto; margin-right: auto;" border="0" width="100%" cellspacing="0">
 <tbody>
 <tr>
 <td style="text-align: center;" colspan="2" height="41"><strong>Class 2.1</strong></td>
@@ -13,13 +14,13 @@ third_nav_title: Level Teachers
 <tr style="text-align: center;"><td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 	
-<tr style="text-align: center;"><td width="50%">Mrs Lena Ho<br>P2 Level Executive Officer</td>
-<td width="50%"><a href="mailto:teo_mui_lin_lena@moe.edu.sg" target="">teo_mui_lin_lena@moe.edu.sg</a></td>
+<tr style="text-align: center;"><td width="50%">Mdm Tan Li Ling Linda
+</td><td width="50%"><a href="mailto:tan_li_ling_linda@moe.edu.sg" target="">tan_li_ling_linda@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mdm Koh Ah Lek</td>
-<td><a href="mailto:koh_ah_lek@moe.edu.sg" target="">koh_ah_lek@moe.edu.sg</a></td>
+	<td> Mr Eric Lee Seh Lat <br>HOD (Mother Tongue Language)<br></td>
+<td><a href="mailto:lee_seh_lat@moe.edu.sg" target="">lee_seh_lat@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
@@ -31,13 +32,13 @@ third_nav_title: Level Teachers
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mdm Maryati Mohamed</td>
-<td><a href="mailto:maryati_mohamed@moe.edu.sg" target="">maryati_mohamed@moe.edu.sg</a><br><br></td>
+<td>Mdm Cheong Hwee Hua</td>
+<td><a href="mailto:cheong_hwee_hua@moe.edu.sg" target="">cheong_hwee_hua@moe.edu.sg</a><br><br></td>
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mdm Rachel Cheng</td>
-<td><a href="mailto:cheng_lee_chin_rachel@moe.edu.sg" target="">cheng_lee_chin_rachel@moe.edu.sg</a></td>
+<td>Mdm Dionne Teo Li-En</td>
+<td><a href="mailto:teo_lien_dionne@moe.edu.sg" target="">teo_lien_dionne@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
@@ -49,12 +50,12 @@ third_nav_title: Level Teachers
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mdm Neo Shu Ling</td>
-<td><a href="mailto:neo_shu_ling@moe.edu.sg" target="">neo_shu_ling@moe.edu.sg</a></td>
+<td>Mdm Nancy Goh So Fang</td>
+<td><a href="mailto:goh_so_fang@moe.edu.sg" target="">goh_so_fang@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>Ms Ong Yu Ling Eunice</td>
-<td><a href="mailto:ong_yu_ling_eunice@moe.edu.sg" target="">ong_yu_ling_eunice@moe.edu.sg</a></td>
+<td>Mdm Rachel Cheng Lee Chin</td>
+<td><a href="mailto:cheng_lee_chin_rachel@moe.edu.sg" target="">cheng_lee_chin_rachel@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
@@ -66,13 +67,13 @@ third_nav_title: Level Teachers
 </tr>
 	
 <tr style="text-align: center;">
-<td width="50%">Ms Low Li Lin</td>
-<td width="50%"><a href="mailto:low_li_lin@moe.edu.sg" target="">low_li_lin@moe.edu.sg</a></td>
+	<td width="50%">Mrs Eileen Lin<br>P2 Level Executive Officer</td> 
+<td width="50%"><a href="mailto:eileen_toh_yin_lin@moe.edu.sg" target="">eileen_toh_yin_lin@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
-<td>Ms Serena Goh Yi Ting</td>
-<td><a href="mailto:serena_goh_yi_ting@moe.edu.sg" target="">serena_goh_yi_ting@moe.edu.sg</a></td>
+<td>Mdm Chua Wei Ting Daphne</td>
+<td><a href="mailto:chua_wei_ting_daphne@moe.edu.sg" target="">chua_wei_ting_daphne@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
@@ -84,15 +85,20 @@ third_nav_title: Level Teachers
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mdm Sharulbariah Md Arif</td>
-<td><a href="mailto:shahrulbariah_muhd_arif@moe.edu.sg" target="">shahrulbariah_muhd_arif@moe.edu.sg</a></td>
+<td>Ms Neo Hwee Hwee <br> Year Head (Lower Primary)</td>
+<td><a href="mailto:neo_hwee_hwee@moe.edu.sg" target="">neo_hwee_hwee@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
-<td>Ms Dionne Teo</td>
-<td><a href="mailto:teo_lien_dionne@moe.edu.sg" target="">teo_lien_dionne@moe.edu.sg</a></td>
+<td>Mdm Lin Ruoting</td>
+<td><a href="mailto:teo_lin_ruoting@moe.edu.sg" target="">lin_ruoting@moe.edu.sg</a></td>
 </tr>
-	
+
+<tr style="text-align: center;">
+<td>Mrs Janet Saw</td>
+<td><a href="mailto:tan_lay_tin@moe.edu.sg" target="">tan_lay_tin@moe.edu.sg</a></td>
+</tr>
+
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 2.6</strong></td>
 </tr>
@@ -102,13 +108,13 @@ third_nav_title: Level Teachers
 </tr>
 	
 <tr style="text-align: center;">
-<td> Mrs Rachael Goh </td>
-<td><a href="mailto:seah_yan_ying_rachael@moe.edu.sg" target="">seah_yan_ying_rachael@moe.edu.sg</a></td>
+<td> Mdm Tan Pei Wei Fiona</td>
+<td><a href="mailto:tan_pei_wei_fiona@moe.edu.sg" target="">tan_pei_wei_fiona@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mrs Maefrize Khoo</td>
-<td><a href="mailto:lim_meng_hui@moe.edu.sg" target="">lim_meng_hui@moe.edu.sg</a></td>
+<td>Ms Kek Sor Ling</td>
+<td><a href="mailto:kek_sor_ling@moe.edu.sg" target="">kek_sor_ling@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
@@ -120,13 +126,13 @@ third_nav_title: Level Teachers
 </tr>
 
 <tr style="text-align: center;">
-<td>Mdm Ng Lih Teng</td>
-<td><a href="mailto:ng_lih_teng@moe.edu.sg" target="">ng_lih_teng@moe.edu.sg</a></td>
+<td>Mdm Kavitha Kunnasegaran</td>
+<td><a href="mailto:kavitha_kunnasegaran@moe.edu.sg" target="">kavitha_kunnasegaran@moe.edu.sg</a></td>
 </tr>
 
 <tr style="text-align: center;">
-<td>Ms Divyashree</td>
-<td><a href="mailto:divyashree_c_bala_krishnan@moe.edu.sg" target="">&nbsp;divyashree_c_bala_krishnan@moe.edu.sg</a><br><br></td>
+<td>Mr Deng Li Qiang</td>
+<td><a href="mailto:deng_li_qiang@moe.edu.sg" target="">deng_li_qiang@moe.edu.sg</a><br><br></td>
 </tr>
 </tbody>
-</table>
+</table> P2 Level Executive Officer (LEO) P2 Level Executive Officer
