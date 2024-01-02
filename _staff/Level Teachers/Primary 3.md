@@ -126,8 +126,8 @@ P3 Level Executive Officer</td>
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mdm Sheena Toh<br>HOD (Aesthetics)</td>
-<td><a href="mailto:sheena_toh@moe.edu.sg" target="">sheena_toh@moe.edu.sg</a></td>
+<td>Ms Divyashree</td>
+<td><a href="mailto:divyashree_c_bala_krishnan@moe.edu.sg" target="">divyashree_c_bala_krishnan@moe.edu.sg</a></td>
 </tr>
 </tbody>
 </table>
