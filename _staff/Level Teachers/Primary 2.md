@@ -72,8 +72,8 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td>Ms Serena Goh Yi Ting</td>
-<td><a href="mailto:serena_goh_yi_ting@moe.edu.sg" target="">serena_goh_yi_ting@moe.edu.sg</a></td>
+<td>Mdm Chua Wei Ting Daphne</td>
+<td><a href="mailto:chua_wei_ting_daphne@moe.edu.sg" target="">chua_wei_ting_daphne@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
