@@ -79,8 +79,8 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mdm Wong H'sien Yi</td>
-<td><a href="mailto:&nbsp;wong_hsien_yi@moe.edu.sg" target="">wong_hsien_yi@moe.edu.sg</a></td>
+<td>Mr William Ho</td>
+<td><a href="mailto:william_ho_yoon_hean@moe.edu.sg" target="">william_ho_yoon_hean@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
