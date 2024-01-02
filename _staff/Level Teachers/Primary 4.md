@@ -85,8 +85,8 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td width="50%">Ms Stephanie Lim</td>
-<td width="50%"><a href="mailto:lim_ruoh_wen@moe.edu.sg" target="">lim_ruoh_wen@moe.edu.sg</a></td>
+<td width="50%">Ms Joy&nbsp;Lim Swee Ping <br> P4 Level Executive Officer</td>
+<td width="50%"><a href="mailto:lim_swee_ping@moe.edu.sg" target="">lim_swee_ping@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
