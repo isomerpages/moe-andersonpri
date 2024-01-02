@@ -54,7 +54,7 @@ variant: markdown
 <td><a href="mailto:goh_so_fang@moe.edu.sg" target="">goh_so_fang@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mdm Rachel Cheng</td>
+<td>Mdm Rachel Cheng Lee Chin</td>
 <td><a href="mailto:cheng_lee_chin_rachel@moe.edu.sg" target="">cheng_lee_chin_rachel@moe.edu.sg</a></td>
 </tr>
 	
