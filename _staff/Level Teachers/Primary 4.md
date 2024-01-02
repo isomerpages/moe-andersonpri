@@ -65,9 +65,9 @@ variant: markdown
 	
 <tr style="text-align: center;">
 <td>
-<div>Ms Gracia Lim</div>
+<div>Mdm&nbsp;Jumiati&nbsp;Mohd Sidek</div>
 </td>
-<td><a href="mailto:lim_gek_hia@moe.edu.sg" target="">lim_gek_hia@moe.edu.sg</a></td>
+<td><a href="mailto:jumiati_mohd_sidek@moe.edu.sg" target="">jumiati_mohd_sidek@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
