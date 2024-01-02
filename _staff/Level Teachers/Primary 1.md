@@ -35,10 +35,10 @@ variant: markdown
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mdm Cheong Hwee Hua</div>
+<div>Mdm Koh Ah Lek</div>
 </td>
 <td>
-<div>&nbsp;<a target="" href="mailto:cheong_hwee_hua@moe.edu.sg">cheong_hwee_hua@moe.edu.sg</a></div>
+<div>&nbsp;<a target="" href="mailto:koh_ah_lek@moe.edu.sg">koh_ah_lek@moe.edu.sg</a></div>
 </td>
 </tr>
 <tr style="text-align: center;">
