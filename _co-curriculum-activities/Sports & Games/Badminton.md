@@ -3,6 +3,7 @@ title: Badminton
 permalink: /curriculum/co-curriculum-activities-cca/sports-n-games/badminton/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <p>Students learn the various aspects of badminton playing. They are trained by a professional coach engaged by the school. Members will be put through a rigorous regime of training and practice. This will enable them to acquire the required technical skills of badminton playing and stay in shape. They will also be introduced to various tactics and mental skills to perform effectively and efficiently especially during competitions.</p>
 
@@ -42,5 +43,6 @@ third_nav_title: Sports & Games
 <ul>
 <li>Mrs Serene Soh (Overall Teacher-in-charge)</li>
 <li>Mr Deng Li Qiang</li>
+<li>Mr Izzuddin</li>
 <li>Mdm Rachel Cheng</li>
 </ul>
