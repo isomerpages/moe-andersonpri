@@ -103,6 +103,15 @@ P3 Level Executive Officer</td>
 </td>
 <td><a href="mailto:muhammad_izzuddin_mohd_azmi_a@moe.edu.sg" target="">muhammad_izzuddin_mohd_azmi_a@moe.edu.sg</a></td>
 </tr>
+
+<tr style="text-align: center;">
+<td>
+<div>Ms Angela Lee <br>Subject Head (Citizenship &amp; Character Education)</div>
+</td>
+<td><a href="mailto:lee_yueling_angela@moe.edu.sg" target="">lee_yueling_angela@moe.edu.sg</a></td>
+</tr>
+
+
 	
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 3.6</strong></td>
