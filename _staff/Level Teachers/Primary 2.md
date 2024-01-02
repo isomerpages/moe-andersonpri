@@ -50,12 +50,12 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mdm Neo Shu Ling</td>
-<td><a href="mailto:neo_shu_ling@moe.edu.sg" target="">neo_shu_ling@moe.edu.sg</a></td>
+<td>Mdm Nancy Goh So Fang</td>
+<td><a href="mailto:goh_so_fang@moe.edu.sg" target="">goh_so_fang@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
-<td>Ms Ong Yu Ling Eunice</td>
-<td><a href="mailto:ong_yu_ling_eunice@moe.edu.sg" target="">ong_yu_ling_eunice@moe.edu.sg</a></td>
+<td>Mdm Rachel Cheng</td>
+<td><a href="mailto:cheng_lee_chin_rachel@moe.edu.sg" target="">cheng_lee_chin_rachel@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
