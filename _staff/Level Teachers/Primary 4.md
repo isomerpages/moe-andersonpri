@@ -43,7 +43,13 @@ variant: markdown
 <td>Mr Ben&nbsp;Choo Chee Keong <br>Subject Head (CCA &amp; Data Management)</td>
 <td><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg</a></td>
 </tr>
-	
+
+<tr style="text-align: center;">
+<td>Mdm Goh Yan Qi </td>
+<td><a href="mailto:goh_yan_qi@moe.edu.sg" target="">goh_yan_qi@moe.edu.sg</a></td>
+</tr>
+
+
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 4.3</strong></td>
 </tr>
