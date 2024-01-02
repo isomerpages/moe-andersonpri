@@ -71,6 +71,12 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
+<td>
+<div>Mrs Danz Ong <br> Year Head (Middle Primary)</div>
+</td>
+<td><a href="mailto:danz_tan_li_loo@moe.edu.sg" target="">danz_tan_li_loo@moe.edu.sg</a></td>
+</tr>
+<tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 4.4</strong></td>
 </tr>
 	
