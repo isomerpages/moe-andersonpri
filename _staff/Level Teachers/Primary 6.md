@@ -68,8 +68,8 @@ variant: markdown
 <td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Mdm Er Siew Shin<br>HOD (Science)</td>
-<td width="50%"><a href="mailto:er_siew_shin@moe.edu.sg" target="">er_siew_shin@moe.edu.sg</a><br><br></td>
+<td width="50%">Mr Alan Tan Eng Leong<br>Senior Teacher (Mathematics)</td>
+<td width="50%"><a href="mailto:alan_tan@moe.edu.sg" target="">alan_tan@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
 <td>&nbsp;Mrs Sornamangai Mohan<br>Subject Head (Tamil Language)</td>
