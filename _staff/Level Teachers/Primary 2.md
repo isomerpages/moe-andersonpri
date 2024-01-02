@@ -19,8 +19,8 @@ variant: markdown
 </tr>
 	
 <tr style="text-align: center;">
-<td>Mdm Koh Ah Lek</td>
-<td><a href="mailto:koh_ah_lek@moe.edu.sg" target="">koh_ah_lek@moe.edu.sg</a></td>
+<td> Mr Eric Lee Seh Lat</td>
+<td><a href="mailto:lee_seh_lat@moe.edu.sg" target="">lee_seh_lat@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
