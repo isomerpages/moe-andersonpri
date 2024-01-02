@@ -27,7 +27,7 @@ These objectives are aligned with our school's Science, Technology, Engineering,
 </table>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
-<li>Ms Adelene Gu (Overall Teacher-in-charge)</li>
+<li>Ms Adelene Guo (Overall Teacher-in-charge)</li>
 <li>Mdm Linda Tan</li>
 <li>Mr Alan Tan</li>
 </ul>
