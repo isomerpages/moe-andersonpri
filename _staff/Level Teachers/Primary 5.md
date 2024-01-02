@@ -50,8 +50,8 @@ variant: markdown
 <td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td>Mr Leow Kor Ming<br>School Staff Developer</td>
-<td><a href="mailto:leow_kor_ming@moe.edu.sg" target="">leow_kor_ming@moe.edu.sg</a><br><br></td>
+<td>&nbsp;Ms&nbsp;Stephanie&nbsp;Lim</td>
+<td><a href="mailto:lim_ruoh_wen@moe.edu.sg" target="">lim_ruoh_wen@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
 <td>
