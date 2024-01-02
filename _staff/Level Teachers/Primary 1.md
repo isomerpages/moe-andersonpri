@@ -93,9 +93,9 @@ variant: markdown
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Ms Lin Routing</div>
+<div>Mdm Jessie Nah Min Li</div>
 </td>
-<td><a target="" href="mailto:lin_routing@moe.edu.sg">lin_routing@moe.edu.sg</a></td>
+<td><a target="" href="mailto:jessie_nah_min_li@moe.edu.sg">jessie_nah_min_li@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td height="41" colspan="2" style="text-align: center;"><strong>Class 1.6</strong></td>
