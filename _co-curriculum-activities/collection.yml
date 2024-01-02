@@ -2,14 +2,14 @@ collections:
   co-curriculum-activities:
     output: true
     order:
-      - Performing Arts/Art Club.md
-      - Performing Arts/.keep
-      - Performing Arts/Angklung & Kulintang Ensemble.md
-      - Performing Arts/Brass Band.md
-      - Performing Arts/Dance Ensemble.md
-      - Performing Arts/English Drama.md
-      - Performing Arts/Guitar.md
-      - Performing Arts/Guzheng Ensemble.md
+      - Visual and Performing Arts/Art Club.md
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Angklung & Kulintang Ensemble.md
+      - Visual and Performing Arts/Brass Band.md
+      - Visual and Performing Arts/Dance Ensemble.md
+      - Visual and Performing Arts/English Drama.md
+      - Visual and Performing Arts/Guitar.md
+      - Visual and Performing Arts/Guzheng Ensemble.md
       - Sports & Games/.keep
       - Sports & Games/Basketball.md
       - Sports & Games/Badminton.md
