@@ -19,9 +19,9 @@ variant: markdown
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mdm Fiona Lai</div>
+<div>Ms Serena Goh Yi Ting</div>
 </td>
-<td><a target="" href="mailto:lai_shuduan_fiona@moe.edu.sg">lai_shuduan_fiona@moe.edu.sg</a></td>
+<td><a target="" href="mailto:serena_goh_yi_ting@moe.edu.sg">serena_goh_yi_ting@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td height="41" colspan="2" style="text-align: center;"><strong>Class 1.2</strong></td>
