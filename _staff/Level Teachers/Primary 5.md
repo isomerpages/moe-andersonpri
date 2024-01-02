@@ -40,8 +40,8 @@ variant: markdown
 <td><a href="mailto:yeo_sharon@moe.edu.sg" target="">yeo_sharon@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
-<td>Ms Siti Suraidah Rahim<br>P5 Level Executive Officer</td>
-<td><a href="mailto:siti_suraidah_rahim@moe.edu.sg" target="">siti_suraidah_rahim@moe.edu.sg</a><br><br></td>
+<td>Mdm Goh Ling Li <br>HOD (English Language)</td>
+<td><a href="mailto:goh_ling_li@moe.edu.sg" target="">goh_ling_li@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 5.3</strong></td>
