@@ -3,6 +3,7 @@ title: Primary 1
 permalink: /key-personnel/teachers/primary-1/
 description: ""
 third_nav_title: Level Teachers
+variant: markdown
 ---
 <table cellspacing="0" width="100%" border="0" style="margin-left: auto; margin-right: auto;">
 <tbody>
@@ -13,8 +14,8 @@ third_nav_title: Level Teachers
 <td height="25" colspan="2" style="text-align: center;"><strong>Form Teachers</strong></td>
 </tr>
 <tr style="text-align: center;">
-<td width="50%">Mdm Tan Li Ling Linda</td>
-<td width="50%"><a href="mailto:tan_li_ling_linda@moe.edu.sg">tan_li_ling_linda@moe.edu.sg</a></td>
+<td width="50%">Mdm Ng Lih Teng</td>
+<td width="50%"><a href="mailto:ng_lih_teng@moe.edu.sg">ng_lih_teng@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td>
