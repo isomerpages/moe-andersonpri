@@ -40,8 +40,8 @@ variant: markdown
 <td><a href="mailto:guo_yuanhui_adelene" target="">guo_yuanhui_adelene@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
-<td>&nbsp;Mr Lee Seh Lat<br>HOD (Mother Tongue Language)</td>
-<td><a href="mailto:lee_seh_lat@moe.edu.sg" target="">lee_seh_lat@moe.edu.sg</a><br><br></td>
+<td>Ms Siti&nbsp;Suraidah Rahim</td>
+<td><a href="mailto:&nbsp;siti_suraidah_rahim@moe.edu.sg" target="">&nbsp;siti_suraidah_rahim@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 6.3</strong></td>
