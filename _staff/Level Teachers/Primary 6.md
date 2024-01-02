@@ -72,8 +72,8 @@ variant: markdown
 <td width="50%"><a href="mailto:alan_tan@moe.edu.sg" target="">alan_tan@moe.edu.sg</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
-<td>&nbsp;Mrs Sornamangai Mohan<br>Subject Head (Tamil Language)</td>
-<td>&nbsp;<a href="mailto:sornamangai_arumugam@moe.edu.sg" target="">sornamangai_arumugam@moe.edu.sg&nbsp;</a><br><br></td>
+<td>&nbsp;Mr Seet&nbsp;Chia Song<br>Lead Teacher (Chinese Language)</td>
+<td>&nbsp;<a href="mailto:seet_chia_song@moe.edu.sg" target="">seet_chia_song@moe.edu.sg&nbsp;</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 6.5</strong></td>
