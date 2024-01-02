@@ -19,9 +19,9 @@ variant: markdown
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Mdm Sabariah Abdullah <br>Subject Head (Malay Language)</div>
+<div>Mrs&nbsp;Serene Soh</div>
 </td>
-<td><a href="mailto:sabariah_abdullah@moe.edu.sg" target="">sabariah_abdullah@moe.edu.sg</a></td>
+<td><a href="mailto:lim_jie_ling_serene@moe.edu.sg" target="">lim_jie_ling_serene@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 6.2</strong></td>
