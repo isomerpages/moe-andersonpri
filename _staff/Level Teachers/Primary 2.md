@@ -3,8 +3,9 @@ title: Primary 2
 permalink: /key-personnel/teachers/primary-2/
 description: ""
 third_nav_title: Level Teachers
+variant: markdown
 ---
-<table style="margin-left: auto; margin-right: auto;" border="0" width="100%" cellspacing="0">
+<br><table style="margin-left: auto; margin-right: auto;" border="0" width="100%" cellspacing="0">
 <tbody>
 <tr>
 <td style="text-align: center;" colspan="2" height="41"><strong>Class 2.1</strong></td>
@@ -13,8 +14,8 @@ third_nav_title: Level Teachers
 <tr style="text-align: center;"><td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
 </tr>
 	
-<tr style="text-align: center;"><td width="50%">Mrs Lena Ho<br>P2 Level Executive Officer</td>
-<td width="50%"><a href="mailto:teo_mui_lin_lena@moe.edu.sg" target="">teo_mui_lin_lena@moe.edu.sg</a></td>
+<tr style="text-align: center;"><td width="50%">Mdm Tan Li Ling Linda
+</td><td width="50%"><a href="mailto:tan_li_ling_linda@moe.edu.sg" target="">tan_li_ling_linda@moe.edu.sg</a></td>
 </tr>
 	
 <tr style="text-align: center;">
@@ -129,4 +130,4 @@ third_nav_title: Level Teachers
 <td><a href="mailto:divyashree_c_bala_krishnan@moe.edu.sg" target="">&nbsp;divyashree_c_bala_krishnan@moe.edu.sg</a><br><br></td>
 </tr>
 </tbody>
-</table>
+</table>P2 Level Executive Officer
