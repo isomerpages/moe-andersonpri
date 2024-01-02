@@ -24,6 +24,12 @@ variant: markdown
 <td><a href="mailto:lim_jie_ling_serene@moe.edu.sg" target="">lim_jie_ling_serene@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
+<td>
+<div>Mr Ivan Ng <br> Level Head (Science)</div>
+</td>
+<td><a href="mailto:ivan_ng_yong_leng@moe.edu.sg" target="">ivan_ng_yong_leng@moe.edu.sg</a></td>
+</tr>
+<tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 6.2</strong></td>
 </tr>
 <tr style="text-align: center;">
