@@ -56,6 +56,13 @@ variant: markdown
 <td><a target="" href="mailto:seah_yan_ying_rachael@moe.edu.sg">seah_yan_ying_rachael@moe.edu.sg</a></td>
 </tr>
 <tr style="text-align: center;">
+<td>
+<div>Ms Tan Soo Kheng</div>
+</td>
+<td><a target="" href="mailto:tan_soo_kheng@moe.edu.sg">tan_soo_kheng@moe.edu.sg</a></td>
+</tr>
+	
+<tr style="text-align: center;">
 <td height="41" colspan="2" style="text-align: center;"><strong>Class 1.4</strong></td>
 </tr>
 <tr style="text-align: center;">
