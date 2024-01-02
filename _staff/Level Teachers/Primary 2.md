@@ -126,8 +126,8 @@ variant: markdown
 </tr>
 
 <tr style="text-align: center;">
-<td>Mdm Ng Lih Teng</td>
-<td><a href="mailto:ng_lih_teng@moe.edu.sg" target="">ng_lih_teng@moe.edu.sg</a></td>
+<td>Mdm Kavitha Kunnasegaran</td>
+<td><a href="mailto:kavitha_kunnasegaran@moe.edu.sg" target="">kavitha_kunnasegaran@moe.edu.sg</a></td>
 </tr>
 
 <tr style="text-align: center;">
