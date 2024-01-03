@@ -3,6 +3,7 @@ title: Volleyball
 permalink: /curriculum/co-curriculum-activities-cca/sports-n-games/volleyball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <p>Our volleyball teams consist of P3 to P6 students. Our students are trained by our professional and well-accredited coaches to equip them to play at a competitive level to take part in various volleyball competitions such as the North Zone Inter-Primary Schools Volleyball Championship and National Volleyball Championship. Our coaches focus on teaching various aspects of volleyball skills so that the students are proficient in a wide repertoire of offensive and defensive skills. As a result of this methodical approach, our teams have done well over the years.</p>
 
@@ -40,5 +41,5 @@ third_nav_title: Sports & Games
 <ul>
 <li>Mr Poh Chee Peng (Overall Teacher-in-charge)</li>
 <li>Mrs Lena Ho</li>
-<li>Mdm Joy Lim</li>
+<li>Ms Joy Lim</li>
 </ul>

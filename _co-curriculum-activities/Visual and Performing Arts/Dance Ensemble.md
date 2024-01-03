@@ -2,7 +2,8 @@
 title: Dance Ensemble
 permalink: /curriculum/co-curriculum-activities-cca/performing-arts/dance-ensemble/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <p>Our Dance troupe is open to Primary 2 to Primary 6 students who have a passion for dance. Students will learn the techniques and performance skills that enable them to develop good physical coordination, and poise in movement and form. They will have the opportunities to take part in school events and outdoor performances.&nbsp;</p>
 <h4><strong>Schedule</strong></h4>
@@ -31,7 +32,7 @@ third_nav_title: Performing Arts
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
 <li>Miss Serena Goh (Overall Teacher-in-charge)</li>
-<li>Mrs Rachael Goh (Overall Teacher-in-charge)</li>
-<li>Mdm Xia Shanna</li>
-<li>Mdm Linda Tiang</li>
+<li>Ms Charmaine Goh</li>
+<li>Mrs Rachael Goh</li>
+<li>Mdm Meenachi</li>
 </ul>

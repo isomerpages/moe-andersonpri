@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Leaders & Key Personnel.md
+      - Level Teachers/.keep
       - Level Teachers/Primary 1.md
       - Level Teachers/Primary 2.md
       - Level Teachers/Primary 3.md
@@ -10,6 +11,5 @@ collections:
       - Level Teachers/Primary 5.md
       - Level Teachers/Primary 6.md
       - Level Teachers/Subject Teachers.md
-      - Level Teachers/.keep
       - Allied Educators.md
       - Executive and Administrative Staff.md
