@@ -2,6 +2,7 @@
 title: Parent Support Group
 permalink: /partners/parent-support-group/
 description: ""
+variant: markdown
 ---
 <h4><strong>Our Mission</strong></h4>
 <p><strong>Mission</strong></p>
@@ -20,4 +21,4 @@ description: ""
 
 <h4><strong>Come Join Us!</strong></h4>
 <p>We warmly invite all parents to be a member of the Parent Support Group to support the school in its programmes as well as to network with other like-minded parents!</p>
-<p>Parents who are interested to join the&nbsp;<strong>PSG@Anderson</strong>&nbsp;can register through this online form at&nbsp;<a href="https://go.gov.sg/psg-anderson" target="_blank" rel="noopener">https://go.gov.sg/psg-anderson</a></p>
+<p>Parents who are interested to join the&nbsp;<strong>PSG@Anderson</strong>&nbsp;can register through this online form at&nbsp;<a href="http://tinyurl.com/48vc9eps" target="_blank" rel="noopener">http://tinyurl.com/48vc9eps</a></p>
