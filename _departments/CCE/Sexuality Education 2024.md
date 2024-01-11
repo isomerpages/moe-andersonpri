@@ -136,5 +136,4 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 </ol>
 <ol start="10">
 <li>Parents can contact the school at&nbsp;<a href="mailto:anderson_ps@moe.edu.sg" target="">anderson_ps@moe.edu.sg</a>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</li>
-</ol>
-</b>
+</ol></b>
