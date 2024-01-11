@@ -67,22 +67,22 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 <tr>
 <td style="text-align: center;" width="76">Growing Years</td>
 <td style="text-align: center;" width="68">The Changes in Me <br><br> (60 min)<br><br></td>
-<td style="text-align: center;" width="139">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one's identity need be negatively affected, even when one's body is experiencing changes due to puberty. <br><br>*This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.* </td>
+<td style="text-align: center;" width="139">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one's identity need be negatively affected, even when one's body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. </td>
 <td style="text-align: center;" width="156">Term 2</td>
 </tr>
 
 <tr>
 <td style="text-align: center;" width="76">Growing Years</td>
 <td style="text-align: center;" width="68">Did You Know? <br><br> (60 min)</td>
-<td style="text-align: center;" width="139">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>'Stop-Think-Do'</b>.  <br><br> *This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*  </td>
+<td style="text-align: center;" width="139">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>'Stop-Think-Do'</b>.  <br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
 <td style="text-align: center;" width="156">Term 2</td>
 </tr>
 
 <tr>
 <td style="text-align: center;" width="76">Growing Years</td>
 <td style="text-align: center;" width="68">Keeping Myself Safe <br><br>(60 min)</td>
-<td style="text-align: center;" width="139">In this lesson, students will learn about sexual abuse, how it can happen online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br> *This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*  </td>
-<td style="text-align: center;" width="156">Term 2</td>
+<td style="text-align: center;" width="139">In this lesson, students will learn about sexual abuse, how it can happen online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  </td>
+<td style="text-align: center;" width="156">Term 3</td>
 </tr>
 	
 </tbody>
@@ -115,13 +115,6 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 <td style="text-align: center;" width="68">Are We More than Friends?<br> <br>Lesson 2<br><br>(60 min)</td>
 <td style="text-align: center;" width="139">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
 <td style="text-align: center;" width="156">Term 1</td>
-</tr>
-
-<tr>
-<td style="text-align: center;" width="76">Growing Years</td>
-<td style="text-align: center;" width="68">Did You Know? <br><br> (60 min)</td>
-<td style="text-align: center;" width="139">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>'Stop-Think-Do'</b>.  <br><br> *This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.* </td>
-<td style="text-align: center;" width="156">Term 2</td>
 </tr>
 	
 </tbody>
