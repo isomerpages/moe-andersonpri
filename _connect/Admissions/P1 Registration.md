@@ -20,7 +20,7 @@ Parents are to note that this scheme provides eligibility for priority registrat
 <br><br>
 For more details on P1 registration exercise, please refer to MOE website at <a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" target="_blank" rel="noopener">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
 </p>
-	
+<br><br>	
 <strong><u>Application Details</u></strong>
 	
 <p>Registration for our PV Scheme for 2026 P1 Intake in Phase 2B will <strong>commence from 1 Feb 2024 and will close on 31 Mar 2024</strong>. 
@@ -30,14 +30,14 @@ Kindly note that application selection is not on first come first served basis a
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" width="90">Year of Birth</td>
+<td style="text-align: center;" width="181">Year of Birth</td>
 <td style="text-align: center;" width="109">Year of P1 Intake</td>
 <td style="text-align: center;" width="181">Opening Date for Registration for Parent Volunteer Programme</td>
 <td style="text-align: center;" width="156">Closing Date for Registration for Parent Volunteer Programme</td>
 <td style="text-align: center;" width="144">Duration of Parent Volunteer Services</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="90">2 Jan 2019 
+<td style="text-align: center;" width="181">2 Jan 2019 
 <br>to<br> 1 Jan 2020
 </td>
 <td style="text-align: center;" width="109">2026</td>
@@ -51,7 +51,6 @@ To apply for the school’s PV Scheme, please register via the <a href="https://
 <br><br>
 	Successful PVs <u>must</u> fulfill at least 40 hours of acceptable PV service by 23 May 2025, to qualify the eligibility for priority registration in Phase 2B before the commencement of 2025 P1 Registration Exercise. 
 </p>
-
 
 <ul class="jekyllcodex_accordion">
 </ul></div></li><li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>FAQ</strong></h4></label>
