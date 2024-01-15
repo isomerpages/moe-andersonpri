@@ -30,19 +30,19 @@ Kindly note that application selection is not on first come first served basis a
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" width="181">Year of Birth</td>
+<td style="text-align: center;" width="144">Year of Birth</td>
 <td style="text-align: center;" width="109">Year of P1 Intake</td>
 <td style="text-align: center;" width="181">Opening Date for Registration for Parent Volunteer Programme</td>
-<td style="text-align: center;" width="156">Closing Date for Registration for Parent Volunteer Programme</td>
+<td style="text-align: center;" width="181">Closing Date for Registration for Parent Volunteer Programme</td>
 <td style="text-align: center;" width="144">Duration of Parent Volunteer Services</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="181">2 Jan 2019 
+<td style="text-align: center;" width="144">2 Jan 2019 
 <br>to<br> 1 Jan 2020
 </td>
 <td style="text-align: center;" width="109">2026</td>
 <td style="text-align: center;" width="181">1 February  2024</td>
-<td style="text-align: center;" width="156">31 March 2024</td>
+<td style="text-align: center;" width="181">31 March 2024</td>
 <td style="text-align: center;" width="144">24 June 2024<br>to<br>23 May 2025</td>
 </tr></tbody>
 </table>
