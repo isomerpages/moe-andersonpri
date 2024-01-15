@@ -44,8 +44,7 @@ Kindly note that application selection is not on first come first served basis a
 <td style="text-align: center;" width="181">1 February  2024</td>
 <td style="text-align: center;" width="156">31 March 2024</td>
 <td style="text-align: center;" width="144">24 June 2024<br>to<br>23 May 2025</td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 <p>
 To apply for the school’s PV Scheme, please register via the <a href="https://form.gov.sg/5ff2c4a4a00f7c00114a79ba" target="_blank" rel="noopener">Phase 2B Parent Volunteer Application.</a> You will need to attach scanned copies of your child’s Birth Certificate and both parents’ NRIC. The school will inform the results to PV applicants via email latest by end May 2024.
