@@ -24,20 +24,26 @@ contacts:
       - other: <p><a href="https://ask.gov.sg/aps">https://ask.gov.sg/aps</a></p>
     title: Have A Question?
   - content:
-      - phone: +65 9831 5851
-      - email: andersonbus.services@outlook.sg
-      - other: "Alternative contact no:  +65 9621 6653"
-    title: School Bus
-  - content:
-      - phone: +65 8764 1250
+      - phone: +65 8518 6936
       - email: ""
-      - other: "In case of emergency, please call Palmview Primary School Clinic at
-          Tel:  8764 1250. Alternatively, please call Health Promotion Board,
-          School Dental Centre Call Centre at Tel: 6435 3782 (strictly by
-          appointment only)."
+      - other: "In case of emergency, please call Palm View Primary SDC: 8764 1250 /
+          Teck Ghee Primary SDC: 8940 0152. Alternatively, please call Health
+          Promotion Board, School Dental Centre Call Centre at Tel: 6435 3782
+          (strictly by appointment only)."
     title: School Dental Clinic
   - content:
-      - phone: +65 6252 1933
+      - phone: +65 8028 1456
+      - email: enquiries@commitlearning.com.sg
+      - other: Visit website at https://www.commitlearning.com.sg/home for more
+          information
+    title: School Student Care (SSC)
+  - content:
+      - phone: +65 9831 5851
+      - email: andersonbus.services@outlook.sg
+      - other: "Alternative contact no:  +65 9621 6653 (Iris)"
+    title: School Bus
+  - content:
+      - phone: +65 9091 9481
       - email: sales@pacificbookstores.com
       - other: Visit website at https://www.pacificbookstores.com for more information
     title: School Bookshop
@@ -46,10 +52,5 @@ contacts:
       - email: sales@jeepsinguniform.com
       - other: Visit website at https://www.jeepsinguniform.com for more information
     title: School Uniform / PE Attire
-  - content:
-      - phone: +65 8028 1456
-      - email: enquiries@commitlearning.com.sg
-      - other: Visit website at https://www.commitlearning.com.sg/home for more
-          information
-    title: School Student Care (SSC)
+feedback: ""
 ---
