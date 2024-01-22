@@ -93,6 +93,12 @@ variant: markdown
 <td>Mdm Wong H'sien Yi</td>
 <td>&nbsp;<a href="mailto:wong_hsien_yi@moe.edu.sg" target="">wong_hsien_yi@moe.edu.sg</a></td>
 </tr>
+<tr style="text-align: center;">
+<td>
+<div>Mdm Loke Mei Yen</div>
+</td>
+<td><a href="mailto:loke_mei_yen@moe.edu.sg" target="">loke_mei_yen@moe.edu.sg</a></td>
+</tr>
 	
 <tr style="text-align: center;">
 <td colspan="2" style="text-align: center;" height="41"><strong>Class 4.5</strong></td>
