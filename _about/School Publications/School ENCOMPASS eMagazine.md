@@ -20,4 +20,3 @@ variant: markdown
 
  <img style="width: 55%;" src="/images/encompass_2023.png" align="centre">
 &nbsp;<center><a href="https://online.flipbuilder.com/zlpi/luzd/">ENCOMPASS e-Magazine -2023</a></center>
- 
