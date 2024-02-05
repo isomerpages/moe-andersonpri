@@ -11,8 +11,8 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: ENCOMPASS e-Magazine
-          description: 2022 Issue
-          url: https://online.flipbuilder.com/zlpi/qjbi/
+          description: 2023 Issue
+          url: https://online.flipbuilder.com/zlpi/luzd/
         - title: Calendar
           description: School's Google Calendar
           url: /connect/quick-links/school-calendar
