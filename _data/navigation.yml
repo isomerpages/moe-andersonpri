@@ -1,0 +1,67 @@
+logo: /images/logo.jpg
+links:
+  - title: About
+    url: /about/principals-message/principals-message-for-2023/
+    sublinks:
+      - title: Principal's Message
+        url: /about/principals-message/principals-message-for-2023
+      - title: Our Directional Statements
+        url: /about/our-directional-statements/
+      - title: School History
+        url: /about/school-history
+      - title: School Song
+        url: /about/school-song
+      - title: School Rules
+        url: /about/school-rules
+      - title: School Crest
+        url: /about/school-crest
+      - title: School Publications
+        url: /about/school-publication/encompass/
+  - title: Staff
+    url: /key-personnel/school-executive-committee
+    sublinks:
+      - title: School Leaders & Key Personnel
+        url: /key-personnel/school-executive-committee
+      - title: Teachers
+        url: /key-personnel/teachers/primary-1
+      - title: Allied Educators
+        url: /key-personnel/allied-educators
+      - title: Executive and Administrative
+        url: /our-family/executive-and-administrative-staff/
+  - title: Curriculum
+    collection: curriculum
+  - title: Parents
+    url: /parents/letters-to-parents
+    sublinks:
+      - title: Letters to Parents
+        url: /parents/letters-to-parents
+      - title: Resources for Parents
+        url: /parents/resources-for-parents/road-safety
+      - title: DigitalAccess@Home
+        url: /parents/digital-access/
+      - title: MOE Financial Assistance
+        url: /parents/moe-fas-application-scheme/
+  - title: Partners
+    url: /partners/school-advisory-committee-sac
+    sublinks:
+      - title: School Advisory Committee
+        url: /partners/school-advisory-committee-sac
+      - title: Parent Support Group
+        url: /partners/parent-support-group
+      - title: Alumni
+        url: /partners/alumni
+      - title: Family Matters @ School
+        url: /partners/family-matters-at-school
+  - title: Connect
+    url: /connect/contact-n-admin-info
+    sublinks:
+      - title: Contact & Admin Info
+        url: /connect/contact-n-admin-info
+      - title: Service Providers
+        url: /connect/service-providers/school-student-care
+      - title: Admission
+        url: /connect/admission/p1-registration/
+      - title: Quick Links
+        url: /connect/quick-links
+  - title: Have A Question?
+    url: https://ask.gov.sg/aps
