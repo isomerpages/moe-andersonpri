@@ -2,6 +2,7 @@
 title: Contact & Admin Info
 permalink: /connect/contact-n-admin-info/
 description: ""
+variant: markdown
 ---
 <h4><strong>Our Address</strong></h4>
 <table>
@@ -88,7 +89,10 @@ description: ""
 </table>
 <h4><strong>School Hours (wef 26 June 2023)</strong></h4>
 
-![](/images/school%20hours%20.JPG)
+| Level | Monday to Wednesday | Thursday and Friday | Dismissal Arrangement for P1 &amp; P2 Students |
+| -------- | -------- | -------- | -------- |
+| P1 to P6     | 7.30am to 1.30pm     | 7.30am to 1.00pm     | P1 - via Gate A <br> P2 - via Gate C (Gate E for wet weather)     |
+
 
 <p>Students are to report to school by 7.30 am for assembly.</p>
 
