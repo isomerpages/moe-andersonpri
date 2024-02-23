@@ -2,6 +2,7 @@
 title: Executive and Administrative Staff
 permalink: /our-family/executive-and-administrative-staff/
 description: ""
+variant: markdown
 ---
 <table>
 <tbody>
@@ -52,9 +53,6 @@ description: ""
 		<tr>
 <td style="text-align: left;">Mr Chan Kim Chye<br>OSO </td>
 <td style="text-align: left;"><a href="mailto:" target=""> </a></td>
-</tr>
-<tr>
-<td style="text-align: left;">Mrs Raju Soranambal<br>OSO </td>
 <td style="text-align: left;"><a href="mailto:" target=""> </a></td>
 </tr>
 <tr>
@@ -65,7 +63,10 @@ description: ""
 <td style="text-align: left;">Mdm Malar<br>OSO </td>
 <td style="text-align: left;"><a href="mailto:" target=""> </a></td>
 </tr>
-
+<tr>
+<td style="text-align: left;">Mr Aw Teck Lee<br>OSO </td>
+<td style="text-align: left;"><a href="mailto:" target=""> </a></td>
+</tr>
 
 </tbody>
 </table>
