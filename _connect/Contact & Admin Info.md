@@ -88,8 +88,6 @@ variant: markdown
   </tbody>
 </table>
 <h4><strong>School Hours (wef 26 June 2023)</strong></h4>
-<br>
-
 
 | Level | Monday to Wednesday | Thursday and Friday | Dismissal Arrangement for P1 &amp; P2 Students |
 | -------- | -------- | -------- | -------- |
