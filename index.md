@@ -19,9 +19,6 @@ sections:
         - title: Quick Links
           description: For Students, Parents & Staff
           url: /connect/quick-links
-  - resources:
-      title: Announcements
-      button: More announcements
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have a question?
