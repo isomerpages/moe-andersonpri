@@ -21,7 +21,7 @@ variant: markdown
 <li>Students are to wear the prescribed school uniform (PE attire inclusive) and modification to the uniform is not allowed.</li>
 <li>Students may come to school in their PE attire on days they have PE/PAL lessons.</li>
 <li>Students should refrain from using wallet chains and hooks that affect the overall appearance of the uniform.</li>
-<li>Name tags should be sewn above the shirt pocket of the school uniform and on the left-side of the PE T-shirt.</li>
+<li>Name tags should be sewn above the shirt pocket of the school uniform and on the left side of the PE T-shirt.</li>
 <li>The shirt/blouse/T-shirts must be tucked in neatly at all times.</li>
 </ul>
 <p><strong>Shoes</strong></p>
