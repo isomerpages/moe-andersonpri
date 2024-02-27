@@ -9,24 +9,36 @@ variant: tiptap
 <p>January</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">2024 Start of the Year Letter to Parents</a>
+<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">2024 Start of the Year Letter to Parents</a> 
 <a href="/files/2024_Start_of_the_Year_Letter_to_Parents_dated_29_Dec_23.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2023%20Sch%20Reopening%20Letter%20to%20Parents%20P2%20-%20P6.pdf" rel="noopener" target="_blank">2023 Sch Reopening Letter to P2 to P6 Parents</a>
+<p><a href="/announcements/sites/consent-for-photography-and-videography/" rel="noopener noreferrer nofollow" target="">Consent for Photography and Videography</a>
 </p>
 </li>
 <li>
-<p><a href="/departments/CCE/sexualityeducation2023/" rel="noopener" target="_blank">Sexuality Education 2023</a>
+<p><a href="/announcements/sites/anderson-school-jacket/" rel="noopener noreferrer nofollow" target="">Introduction of Anderson Primary School Jacket</a>
 </p>
 </li>
 <li>
-<p><a href="/announcements/sites/photography/" rel="noopener noreferrer nofollow" target="">Consent for Use of Photography and Video Recording</a>
+<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">Important School Safety and Security Protocols</a>
 </p>
 </li>
 <li>
-<p><a href="/announcements/sites/roadsafety/" rel="noopener noreferrer nofollow" target="">Road Safety Advisory</a>
+<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">Subject-Specific Learning Outcomes (LOs) for P1 Holistic Development Profile (HDP) Reporting</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">Subject-Specific Learning Outcomes (LOs) for P2 Holistic Development Profile (HDP) Reporting</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">Protecting our Youth from Radicalisation and Extremism</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">Traffic Management and Road Safety Joint Advisory with LTA and SPF</a>
 </p>
 </li>
 </ul>
@@ -35,11 +47,15 @@ variant: tiptap
 <p>February</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/andps2023p6ta1" rel="noopener" target="_blank">2023 P6 Term Assessment 1</a>
+<p><a href="/announcements/sites/total-defence-2024/" rel="noopener noreferrer nofollow" target="">Commemoration of 40 Years of Total Defence 2024</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/andpsencompass2022" rel="noopener" target="_blank">2022 ENCOMPASS e-Magazine</a>
+<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">Fashion Sustainability Drive 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">Upcoming Families for Life Programmes</a>
 </p>
 </li>
 </ul>
