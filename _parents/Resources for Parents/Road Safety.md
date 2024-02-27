@@ -3,9 +3,10 @@ title: Road Safety
 permalink: /parents/resources-for-parents/road-safety/
 description: ""
 third_nav_title: Resources for Parents
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1"><h4><strong>Road Safety of Students</strong></h4></label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>Road Safety of Students</strong></h4></label>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -88,21 +89,17 @@ third_nav_title: Resources for Parents
 </tr>
 </tbody>
 </table>
-<img style="width: 65%;" src="/images/rs3.png" />
-<img style="width: 65%;" src="/images/rs4.png" />
+<img style="width: 65%;" src="/images/rs3.png">
+<img style="width: 65%;" src="/images/rs4.png">
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2"><h4><strong>Sheltered Linkway</strong></h4></label>
+
+
+
+<li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>40km/h When Lights Flash Sign</strong></h4></label>
 <div>
-<p>LTA has completed a sheltered linkway along the footpath outside the school from the main vehicular entrance (Gate B) to the junction of Ang Mo Kio (AMK) Ave 6 and 9. They have also extended the shelter to the school&rsquo;s Gate E. Please see the following photographs.</p>
-<img style="width: 65%;" src="/images/sl.jpg" />
-<p>Together with the existing linkway from the Ang Mo Kio &ndash; Thye Hua Kwan (AMK-THK) Hospital exit to the school&rsquo;s Gate A, all pedestrians will have a sheltered walk from school to the 2 signalised pedestrian traffic crossing and traffic junction. This will help to keep our parents sheltered from the sun and rain while they wait for our pupils during dismissal.</p>
-</div>
-</li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3"><h4><strong>40km/h When Lights Flash Sign</strong></h4></label>
-<div>
-<p>LTA has installed the&nbsp;<a href="https://file.go.gov.sg/lta40wlfsign.pdf" target="_blank" rel="noopener">40km/h When Lights Flash Sign</a>&nbsp;along AMK Ave 9. On the school side of the road, it is just before AMK-THK Hospital&rsquo;s entrance. Please see the photograph below.</p>
-<img style="width: 40%;" src="/images/40km.jpg" />
+<p>LTA has installed the&nbsp;<a href="https://file.go.gov.sg/lta40wlfsign.pdf" target="_blank" rel="noopener">40km/h When Lights Flash Sign</a>&nbsp;along AMK Ave 9. On the school side of the road, it is just before AMK-THK Hospital’s entrance. Please see the photograph below.</p>
+<img style="width: 40%;" src="/images/40km.jpg">
 <p>On the other side, it is just outside the former Chaoyang School. LTA installed this sign at the start of an Enhanced School Zone. The two amber lights will flash alternatively during school days from 6.30am to 7.45am and from 12noon to 2.30pm. Upon reaching this zone, motorist should reduce their travelling speed to 40km/h when the lights are in operation. Motorist should still drive within the designated speed limit of the road when the lights are not in operation. LTA has also informed that motorist caught committing the offence of careless/inconsiderate driving, beating red lights, or speeding within school zones will receive an additional demerit point from the Traffic Police.</p>
 <p>Please visit:&nbsp;<a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/road_safety_and_vehicle_rules/road-safety.html#_At_School_Zones" target="_blank" rel="noopener">https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/road_safety_and_vehicle_rules/road-safety.html#_At_School_Zones</a></p>
 	
