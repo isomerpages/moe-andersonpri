@@ -18,10 +18,10 @@ variant: markdown
 </ul>
 <p><strong>Attire</strong></p>
 <ul>
-<li>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</li>
+<li>Students are to wear the prescribed school uniform (PE attire inclusive) and modification to the uniform is not allowed.</li>
 <li>Students may come to school in their PE attire on days they have PE/PAL lessons.</li>
 <li>Students should refrain from using wallet chains and hooks that affect the overall appearance of the uniform.</li>
-<li>Name tags should be sewn above the shirt pocket of the school uniform and PE T-shirt.</li>
+<li>Name tags should be sewn above the shirt pocket of the school uniform and on the left-side of the PE T-shirt.</li>
 <li>The shirt/blouse/T-shirts must be tucked in neatly at all times.</li>
 </ul>
 <p><strong>Shoes</strong></p>
@@ -63,5 +63,5 @@ variant: markdown
 <p><strong>Prohibited Items</strong></p>
 <ul>
 <li>All students are not allowed to bring items that are disruptive to teaching and learning. Card games, toys and electronic devices (e.g. MP3 players and hand-held games) are strictly not allowed in school.</li>
-<li>All students are not allowed to have their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</li>
+<li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</li>
 </ul>
