@@ -63,5 +63,5 @@ variant: markdown
 <p><strong>Prohibited Items</strong></p>
 <ul>
 <li>All students are not allowed to bring items that are disruptive to teaching and learning. Card games, toys and electronic devices (e.g. MP3 players and hand-held games) are strictly not allowed in school.</li>
-<li>All students are not allowed to have their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</li>
+<li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</li>
 </ul>
