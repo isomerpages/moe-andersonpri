@@ -21,23 +21,23 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">Important School Safety and Security Protocols</a>
+<p><a href="/files/Important_School_Safety_and_Security_Protocols.pdf" rel="noopener noreferrer nofollow" target="_blank">Important School Safety and Security Protocols</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">Subject-Specific Learning Outcomes (LOs) for P1 Holistic Development Profile (HDP) Reporting</a>
+<p><a href="/files/P1_Letter__Subj_Specific_LOs_for_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject-Specific Learning Outcomes (LOs) for P1 Holistic Development Profile (HDP) Reporting</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">Subject-Specific Learning Outcomes (LOs) for P2 Holistic Development Profile (HDP) Reporting</a>
+<p><a href="/files/P2_Letter__Subj_Specific_LOs_for_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject-Specific Learning Outcomes (LOs) for P2 Holistic Development Profile (HDP) Reporting</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">Protecting our Youth from Radicalisation and Extremism</a>
+<p><a href="/files/Protecting_our_Youth_from_Radicalisation_and_Extremism_for_Parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">Protecting our Youth from Radicalisation and Extremism</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">Traffic Management and Road Safety Joint Advisory with LTA and SPF</a>
+<p><a href="/files/Traffic_Management_and_Road_Safety_Joint_Advisory_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Traffic Management and Road Safety Joint Advisory with LTA and SPF</a>
 </p>
 </li>
 </ul>
@@ -50,11 +50,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">Fashion Sustainability Drive 2024</a>
+<p><a href="/files/2024_Parents_Letter_on_Fashion_Sustainability_Drive_2_Feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Fashion Sustainability Drive 2024</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2023%20Sch%20Reopening %20Letter%20to%20Parents%20P1.pdf" rel="noopener" target="_blank">Upcoming Families for Life Programmes</a>
+<p><a href="/files/Upcoming_Families_for_Life_Programmes.pdf" rel="noopener noreferrer nofollow" target="_blank">Upcoming Families for Life Programmes</a>
 </p>
 </li>
 </ul>
