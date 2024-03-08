@@ -63,7 +63,7 @@ variant: tiptap
 <p>March</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/announcements/sites/nameonschooljacket/" rel="noopener noreferrer nofollow" target="">Name on School Jacket</a>
+<p><a href="/announcements/sites/nameonschooljacket/" rel="noopener noreferrer nofollow" target="">Name Tag on School Jacket</a>
 </p>
 </li>
 <li>
