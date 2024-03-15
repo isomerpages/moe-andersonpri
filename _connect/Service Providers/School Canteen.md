@@ -11,7 +11,7 @@ variant: markdown
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Halal Food Stall     | 31 May 2024     | -     |
-| Cold Drinks &amp; Fruits      | 31 December 2024     | To provide cold drinks and fruits from Halal certified supplier     |
+| Cold Drinks &amp; Fruits      | 31 December 2024     | To provide cold drinks and fruits      |
 
 
 **Application Procedure**
