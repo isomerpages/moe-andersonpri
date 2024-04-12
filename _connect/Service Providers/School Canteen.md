@@ -10,7 +10,8 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Food Stall     | 31 May 2024     | -     |
+| Halal Food Stall     | 31 May 2024     |  Halal Rice, Open to Proposal (e.g. Halal Western or Japanese Cuisine) |
+| Chinese Rice     | 31 May 2024     |  e.g. Economic Rice, Chicken Rice or Vegetarian Rice |
 
 
 
