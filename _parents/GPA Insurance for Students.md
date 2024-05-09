@@ -8,8 +8,7 @@ description: ""
 Plan for Students.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet </a>
-<a href="/files/Product_Fact_Sheet_Year_2024_updated_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 2024</a>
+<p><a href="/files/Product_Fact_Sheet_Year_2024_updated_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet Year 2024_updated May 2024</a>
 </p>
 </li>
 </ul>
