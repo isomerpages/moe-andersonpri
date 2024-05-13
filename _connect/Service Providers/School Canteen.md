@@ -10,7 +10,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Food Stall     | 31 Nov 2024     |  Must serve halal food. Open to proposal except Malay noodles. |
+| Halal Food Stall     | 30 Nov 2024     |  Must serve halal food. Open to proposal except Malay noodles. |
 
 
 
