@@ -99,7 +99,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Dr_Publickal.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Dr_Publickal.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
