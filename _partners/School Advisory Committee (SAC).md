@@ -124,43 +124,29 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Choo__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Mr_Chooake_Wongwattanasilpa__003_.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Chooake Wongwattanasilpa</div>
+<div class="isomer-card-description">Member</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ms_Lim_Choy_Ghee_Stella_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Ms_Lim_Choy_Ghee_Stella_1.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chooake Wongwattanasilpa
-<br>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Stella Lim
-<br>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Stella Lim</div>
+<div class="isomer-card-description">Member</div>
+</div>
+</div>
+</div>
 <p></p>
