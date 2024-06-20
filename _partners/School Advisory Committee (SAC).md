@@ -17,6 +17,6 @@ variant: markdown
 | -------- | -------- | -------- |
 | Dr Marie De Visse<br>Member     | Dr Pulickal Geoiphy George<br>Member     |  Dr Teo Tang Wee<br>Member    |
 
-|![](/images/Choo__2_.png) |![](/images/Ms_Stella_Lim__2_.png) |       |
+|![](/images/Mr_Chooake_Wongwattanasilpa__003_.jpg) |![](/images/Ms_Lim_Choy_Ghee_Stella__003_.jpg) |       |
 | -------- | -------- | -------- |
 | Mr Chooake Wongwattanasilpa<br>Member  |Ms Stella Lim<br>Member |         |
