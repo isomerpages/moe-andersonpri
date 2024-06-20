@@ -153,12 +153,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chooake Wongwattanasilpa</p>
-<p>Member</p>
+<p>Mr Chooake Wongwattanasilpa
+<br>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Stella Lim</p>
-<p>Member</p>
+<p>Ms Stella Lim
+<br>Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
