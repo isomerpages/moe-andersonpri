@@ -141,7 +141,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Ms_Lim_Choy_Ghee_Stella__003_.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Ms_Lim_Choy_Ghee_Stella__003_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
