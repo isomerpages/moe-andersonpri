@@ -135,13 +135,13 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choo__2_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Choo__2_.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ms_Lim_Choy_Ghee_Stella.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ms_Lim_Choy_Ghee_Stella_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
