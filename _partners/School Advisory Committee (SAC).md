@@ -13,11 +13,11 @@ variant: markdown
 | Mr Ken Wang<br>Member     | Mr Siva Govindasamy<br>Member     | Dr Low Wing Li Gary<br>Member     |
 
 
-|![](/images/SAC/Dr%20Marie.jpg)  |![](/images/SAC/dr%20pulickal%20geoiphy%20george%20(3).JPG)  |![](/images/dr%20teo.JPG)  |
+|![](/images/marie_.png)|![](/images/Dr_Publickal.png)  |![](/images/Dr_Teo.png)|
 | -------- | -------- | -------- |
 | Dr Marie De Visse<br>Member     | Dr Pulickal Geoiphy George<br>Member     |  Dr Teo Tang Wee<br>Member    |
 
 
-|![](/images/mr_choo__3_.png) |![](/images/Ms_Stella_Lim__2_.png) |       |
+|![](/images/Mr_Choo.png) |![](/images/Ms_Lim_Choy_Ghee_Stella.jpg) |       |
 | -------- | -------- | -------- |
 | Mr Chooake Wongwattanasilpa<br>Member  |Ms Stella Lim<br>Member |         |
