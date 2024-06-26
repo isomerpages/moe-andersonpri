@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Contact & Admin Info.md
+      - Service Providers/School Bookshop.md
       - Service Providers/School Dental.md
       - Service Providers/.keep
       - Service Providers/School Student Care.md
