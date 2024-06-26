@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Contact & Admin Info.md
-      - Service Providers/School Bookshop.md
-      - Service Providers/School Dental.md
       - Service Providers/.keep
-      - Service Providers/School Student Care.md
+      - Service Providers/School Bookshop.md
       - Service Providers/School Bus.md
       - Service Providers/School Canteen.md
+      - Service Providers/School Dental.md
+      - Service Providers/School Student Care.md
       - Service Providers/School Uniform.md
       - Admissions/.keep
       - Admissions/P1 Registration.md
