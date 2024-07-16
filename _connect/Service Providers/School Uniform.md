@@ -38,7 +38,7 @@ variant: tiptap
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sales@jeepsinguniform.com" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.jeepsinguniform.com</u></a>
+<p><a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.jeepsinguniform.com</u></a>
 </p>
 </td>
 </tr>
