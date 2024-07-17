@@ -53,6 +53,6 @@ Primary SDC: 85224156 / Hougang Primary : 85229651</p>
 <p>Health Promotion Board, School Dental Centre at 64353782</p>
 </li>
 </ul>
-<p>For enquiries, you may also write in to School Dental Centre at <strong><a rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@HPB.Gov.sg</a></strong>
+<p>For enquiries, you may also write in to School Dental Centre at <strong><a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a></strong>
 </p>
 <p></p>
