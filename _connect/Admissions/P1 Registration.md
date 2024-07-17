@@ -34,14 +34,68 @@ at <a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-k
 <br>
 <br><strong><u>Application Details</u></strong>
 </p>
-<p>Registration for our PV Scheme for 2026 P1 Intake, for children whose
-year of birth is from 2 Jan 2019 to 1 Jan 2020, has closed.
+<p>Registration for our PV Scheme for 2026 P1 Intake in Phase 2B will&nbsp;<strong>commence from 1 Feb 2024 and will close on 31 Mar 2024</strong>.
 <br>
-</p>
-<p>Registration information for our PV Scheme for 2027 P1 Intake, for children
-whose year of birth is from 2 Jan 2020 to 1 Jan 2021, will be available
-in January 2025.</p>
+<br>Kindly note that application selection is not on first come first served
+basis and selection interviews may be conducted.</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year of Birth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year of P1 Intake</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Opening Date for Registration for Parent Volunteer Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Closing Date for Registration for Parent Volunteer Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Duration of Parent Volunteer Services</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Jan 2019
+<br>to
+<br>1 Jan 2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 February 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 March 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 June 2024
+<br>to
+<br>23 May 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<p>To apply for the school’s PV Scheme, please register via the&nbsp;<a href="https://form.gov.sg/5ff2c4a4a00f7c00114a79ba" rel="noopener noreferrer nofollow" target="_blank">Phase 2B Parent Volunteer Application</a>&nbsp;(available
+from 1 Feb to 31 Mar). You will need to attach scanned copies of your child’s
+Birth Certificate and both parents’ NRIC. The school will inform the results
+to PV applicants via email latest by end May 2024.
+<br>
+<br>Successful PVs&nbsp;must&nbsp;fulfill at least 40 hours of acceptable
+PV service by 23 May 2025, to qualify the eligibility for priority registration
+in Phase 2B before the commencement of 2025 P1 Registration Exercise.</p>
 </li>
 </ul>
 <h4><strong>FAQ</strong></h4>
