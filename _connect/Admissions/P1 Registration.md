@@ -3,25 +3,19 @@ title: P1 Registration
 permalink: /connect/admission/p1-registration/
 description: ""
 third_nav_title: Admissions
-variant: markdown
+variant: tiptap
 ---
+<h4><strong>MOE P1 Registration Framework</strong></h4>
 <ul>
 <li>
-<p><strong>MOE P1 Registration Framework</strong>
-</p>
 <p>Please visit the MOE website&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>&nbsp;for
 more information on P1 Registration.</p>
-<ul data-tight="true" class="tight">
-<li>
 <p></p>
 </li>
 </ul>
-</li>
+<h4><strong>Phase 2B Parent Volunteer Scheme</strong></h4>
+<ul>
 <li>
-<p><strong>Phase 2B Parent Volunteer Scheme</strong>
-</p>
-<p><strong>Parent Volunteer Scheme</strong>
-</p>
 <p>The Parent Volunteer (PV) Scheme is open to parents of children who are
 Singapore Citizens or Singapore Permanent Residents due for the P1 Registration
 Exercise. The school selects PV applicants who are generally able to contribute
@@ -48,15 +42,11 @@ year of birth is from 2 Jan 2019 to 1 Jan 2020, has closed.
 whose year of birth is from 2 Jan 2020 to 1 Jan 2021, will be available
 in January 2025.</p>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
 </li>
 </ul>
-</li>
+<h4><strong>FAQ</strong></h4>
+<ul>
 <li>
-<p><strong>FAQ</strong>
-</p>
 <p><strong>1. Who can participate in the 2024 Primary One Registration Exercise?<br></strong>Children
 born between 2 January 2018 and 1 January 2019 (both dates inclusive) can
 participate in the 2024 Primary One Registration Exercise for admission
