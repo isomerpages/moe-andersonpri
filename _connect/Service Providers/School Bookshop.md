@@ -73,7 +73,7 @@ third_nav_title: Service Providers
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificbookstores.com</u></a>
+<p><a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificbookstores.com</u></a>
 </p>
 </td>
 </tr>

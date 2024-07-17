@@ -67,7 +67,7 @@ variant: tiptap
 <p>Mode of Purchase</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Online: <a href="mailto:sales@jeepsinguniform.com" rel="noopener noreferrer nofollow" target="_blank"><u>https://jeepsinguniform.com/collections/anderson-primary-school</u></a>
+<p>Online: <a href="https://jeepsinguniform.com/collections/anderson-primary-school" rel="noopener noreferrer nofollow" target="_blank"><u>https://jeepsinguniform.com/collections/anderson-primary-school</u></a>
 </p>
 <p>Walk In Purchase at retail outlet</p>
 </td>
