@@ -74,7 +74,12 @@ variant: tiptap
 </li>
 <li>
 <p>April</p>
-<p>Coming Soon!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://andersonpri.gov.sg/completion-of-2024-hpb-annual-school-health-visit-for-all-students/" rel="noopener noreferrer nofollow" target="">Completion of 2024 HPB Annual School Health Visit for All Students</a>
+</p>
+</li>
+</ul>
 </li>
 <li>
 <p>May</p>
