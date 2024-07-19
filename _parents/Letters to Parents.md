@@ -83,15 +83,38 @@ variant: tiptap
 </li>
 <li>
 <p>May</p>
-<p>Coming Soon!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/2024-psle-examination-rules-and-regulations-for-candidate-booklet/" rel="noopener noreferrer nofollow" target="">2024 PSLE Examination Rules and Regulations for Candidate Booklet</a>
+</p>
+</li>
+<li>
+<p><a href="https://andersonpri.gov.sg/joint-advisory-by-external-agencies/" rel="noopener noreferrer nofollow" target="">Joint Advisory by External Agencies</a>
+</p>
+</li>
+</ul>
 </li>
 <li>
 <p>June</p>
-<p>Coming Soon!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/2024-psle-examination-rules-and-regulations-for-candidate-booklet/" rel="noopener noreferrer nofollow" target="">Road Safety and School Safety</a>
+</p>
+</li>
+<li>
+<p><a href="/world-drug-day-message-and-ncada-parents-seminar/" rel="noopener noreferrer nofollow" target="">World Drug Day Message and NCADA Parents Seminar</a>
+</p>
+</li>
+</ul>
 </li>
 <li>
 <p>July</p>
-<p>Coming Soon!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/world-drug-day-message-and-ncada-parents-seminar/" rel="noopener noreferrer nofollow" target="">World Drug Day Message and NCADA Parents Seminar</a>
+</p>
+</li>
+</ul>
 </li>
 <li>
 <p>August</p>
