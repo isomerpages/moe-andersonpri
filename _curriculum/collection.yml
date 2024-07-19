@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - SYF 2024 Videos & Photos.md
       - Distinctive Programmes.md
       - Departments.md
       - Co–Curriculum Activities (CCA).md
+      - SYF 2024 Videos & Photos.md
