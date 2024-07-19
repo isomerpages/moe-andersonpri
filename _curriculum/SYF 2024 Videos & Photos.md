@@ -11,7 +11,7 @@ group SYF 2024 videos and photographs.</p>
 </p>
 <p><a href="https://drive.google.com/drive/folders/1jObRctiZKTVpjoq7ppy7He02Zuz0Uojy?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a>
 </p>
-<p><a href="https://drive.google.com/drive/folders/1jObRctiZKTVpjoq7ppy7He02Zuz0Uojy?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Dance Ensemble</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Dance Ensemble</a>
 </p>
 <p><a href="https://drive.google.com/drive/folders/1iNq9RS24zVzZ_9O_iNBw7gRoY1sXFsix?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Guitar Ensemble</a>
 </p>
