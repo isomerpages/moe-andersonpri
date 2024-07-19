@@ -19,7 +19,3 @@ group SYF 2024 videos and photographs.</p>
 </p>
 <p><a href="https://drive.google.com/drive/folders/1obCBhUssxtRp-WF3tu2AGgeWT8UVgk1u?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Percussion Ensemble</a>
 </p>
-<p></p>
-<p></p>
-<p>Guzhen</p>
-<p>Guzheng</p>
