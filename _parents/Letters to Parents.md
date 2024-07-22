@@ -101,10 +101,6 @@ variant: tiptap
 <p><a href="/2024-psle-examination-rules-and-regulations-for-candidate-booklet/" rel="noopener noreferrer nofollow" target="">Road Safety and School Safety</a>
 </p>
 </li>
-<li>
-<p><a href="/world-drug-day-message-and-ncada-parents-seminar/" rel="noopener noreferrer nofollow" target="">World Drug Day Message and NCADA Parents Seminar</a>
-</p>
-</li>
 </ul>
 </li>
 <li>
