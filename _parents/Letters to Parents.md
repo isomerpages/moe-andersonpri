@@ -74,19 +74,43 @@ variant: tiptap
 </li>
 <li>
 <p>April</p>
-<p>Coming Soon!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://andersonpri.gov.sg/completion-of-2024-hpb-annual-school-health-visit-for-all-students/" rel="noopener noreferrer nofollow" target="">Completion of 2024 HPB Annual School Health Visit for All Students</a>
+</p>
+</li>
+</ul>
 </li>
 <li>
 <p>May</p>
-<p>Coming Soon!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://andersonpri.gov.sg/2024-psle-examination-rules-and-regulations-for-candidate-booklet/" rel="noopener noreferrer nofollow" target="">2024 PSLE Examination Rules and Regulations for Candidate Booklet</a>
+</p>
+</li>
+<li>
+<p><a href="https://andersonpri.gov.sg/joint-advisory-by-external-agencies/" rel="noopener noreferrer nofollow" target="">Joint Advisory by External Agencies</a>
+</p>
+</li>
+</ul>
 </li>
 <li>
 <p>June</p>
-<p>Coming Soon!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://andersonpri.gov.sg/road-safety-and-school-safety/" rel="noopener noreferrer nofollow" target="">Road Safety and School Safety</a>
+</p>
+</li>
+</ul>
 </li>
 <li>
 <p>July</p>
-<p>Coming Soon!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://andersonpri.gov.sg/world-drug-day-message-and-ncada-parents-seminar/" rel="noopener noreferrer nofollow" target="">World Drug Day Message and NCADA Parents Seminar</a>
+</p>
+</li>
+</ul>
 </li>
 <li>
 <p>August</p>
