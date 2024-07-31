@@ -3,9 +3,10 @@ title: Useful Links
 permalink: /departments/Science/useful-links/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
 <ul>
-<li><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/science-primary-2014.pdf" target="_blank" rel="noopener">MOE Primary Science Syllabus</a></li>
+<li><a href="https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.pdf" target="_blank" rel="noopener">MOE Primary Science Syllabus</a></li>
 </ul>
 <ul>
 <li>Good Science Websites</li>
