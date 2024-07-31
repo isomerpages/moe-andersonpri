@@ -36,4 +36,17 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Good Malay Websites</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.mllpc.sg/agab-publications.html" rel="noopener" target="_blank">Young Readers Series, Nabil and Nabilah</a>
+</p>
+<p>For young readers to develop their ML reading proficiency. Developed by
+the Malay Language Learning and Promotion Committee.</p>
+</li>
+</ul>
+</li>
+</ul>
 <p></p>
