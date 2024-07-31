@@ -3,13 +3,14 @@ title: Useful Links
 permalink: /curriculum/departments/tamil/useful-links/
 description: ""
 third_nav_title: Tamil
+variant: markdown
 ---
 <ul>
 <li>SEAB PSLE Tamil Format</li>
 <ul>
-<li><a href="https://www.seab.gov.sg/content/syllabus/PSLE/2017_PSLE_Subject_info/0007_2017.pdf" target="_blank" rel="noopener">Tamil</a></li>
-<li><a href="https://www.seab.gov.sg/content/syllabus/PSLE/2017_PSLE_Subject_info/0017_2017.pdf" target="_blank" rel="noopener">Higher Tamil</a></li>
-<li><a href="https://www.seab.gov.sg/content/syllabus/PSLE/2017_PSLE_Subject_info/0027_2017.pdf" target="_blank" rel="noopener">Foundation Tamil</a></li>
+<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-tl-0007-exam-syllabus.pdf?sfvrsn=8b43c904_2" target="_blank" rel="noopener">Tamil</a></li>
+<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-htl-0017-exam-syllabus.pdf?sfvrsn=147a9046_2" target="_blank" rel="noopener">Higher Tamil</a></li>
+<li><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-ftl-0027-exam-syllabus.pdf?sfvrsn=75060635_2" target="_blank" rel="noopener">Foundation Tamil</a></li>
 </ul>
 </ul>
 <ul>
@@ -18,7 +19,6 @@ third_nav_title: Tamil
 <ul>
 <li>Tamil Websites</li>
 <ul>
-<li><a href="https://www.mtl.moe.edu.sg/theenthamizh/primary.html" target="_blank" rel="noopener">Theen Thamizh</a></li>
 <li><a href="http://www.kids.noolagam.com/" target="_blank" rel="noopener">Resources and Games</a></li>
 </ul>
 </ul>
