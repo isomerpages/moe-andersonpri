@@ -3,22 +3,47 @@ title: Useful Links
 permalink: /departments/Science/useful-links/
 description: ""
 third_nav_title: Science
-variant: markdown
+variant: tiptap
 ---
-<ul>
-<li><a href="https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.pdf" target="_blank" rel="noopener">MOE Primary Science Syllabus</a></li>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.pdf" rel="noopener" target="_blank">MOE Primary Science Syllabus</a>
+</p>
+</li>
+<li>
+<p><a href="https://youngscientist.sscglobal.com.sg/" rel="noopener noreferrer nofollow" target="_blank">I am a Young Scientist Badge</a>
+</p>
+</li>
 </ul>
-<ul>
-<li>Good Science Websites</li>
-<ul>
-<li><a href="https://www.nasa.gov/" target="_blank" rel="noopener">NASA</a></li>
-<li><a href="https://www.sciencekids.co.nz/" target="_blank" rel="noopener">Science Kids</a></li>
-<li><a href="https://billnye.com/#home" target="_blank" rel="noopener">Bill Nye The Science Guy</a></li>
-<li><a href="https://sci-toys.com/" target="_blank" rel="noopener">Science Toys</a></li>
-<li><a href="http://www.arvindguptatoys.com/toys.html" target="_blank" rel="noopener">Arvind Gupta Science Toy Maker</a></li>
-<li><a href="https://www.science.edu.sg/" target="_blank" rel="noopener">Singapore Science Centre</a></li>
-<li><a href="https://www.nationalgeographic.com/" target="_blank" rel="noopener">National Geographic</a></li>
-<li><a href="http://discoverykids.com/" target="_blank" rel="noopener">Discovery Kids</a></li>
-<li><a href="http://www.sciencebug.org/investigators.html" target="_blank" rel="noopener">Catch the Science Bug</a></li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Good Science Websites</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.nasa.gov/" rel="noopener noreferrer nofollow" target="_blank">NASA</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.sciencekids.co.nz/" rel="noopener noreferrer nofollow" target="_blank">Science Kids</a>
+</p>
+</li>
+<li>
+<p><a href="https://sci-toys.com/" rel="noopener noreferrer nofollow" target="_blank">Science Toys</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.nationalgeographic.com/" rel="noopener noreferrer nofollow" target="_blank">National Geographic</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.sciencebug.org/investigators.html" rel="noopener noreferrer nofollow" target="_blank">Catch the Science Bug</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.arvindguptatoys.com/toys.html" rel="noopener noreferrer nofollow" target="_blank">Arvind Gupta Science Toy Maker</a>
+</p>
+</li>
 </ul>
+</li>
 </ul>
+<p></p>
