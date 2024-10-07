@@ -3,7 +3,7 @@ title: Resources
 permalink: /parents/resources-for-parents/resources/
 description: ""
 third_nav_title: Resources for Parents
-variant: markdown
+variant: tiptap
 ---
 <ul>
 <li>
@@ -11,6 +11,7 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p></p>
 <p></p>
 </li>
 </ul>
@@ -42,6 +43,7 @@ variant: markdown
 <li>
 <p><a href="https://go.gov.sg/2024primary6booklist" rel="noopener" target="_blank">2024 P6 Booklist</a>
 </p>
+<p></p>
 </li>
 </ul>
 </li>
@@ -84,17 +86,32 @@ variant: markdown
 <li>
 <p><a href="https://go.gov.sg/parentsgatewayfaq" rel="noopener" target="_blank">Parents Gateway – FAQ for Parents</a>
 </p>
+<p></p>
 </li>
 </ol>
 </li>
 <li>
 <p><strong>Parental Talks and School Events</strong>
 </p>
+<ol data-tight="true" class="tight">
+<li>
 <p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/index.html" rel="noopener" target="_blank">Principal’s Briefing on Changes to PSLE Scoring System - MOE Microsite</a>
-<br><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener" target="_blank">Principal’s Briefing on Changes to PSLE Scoring System - School Finder</a>
-<br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener" target="_blank">Principal’s Briefing on Changes to PSLE Scoring System - DSA</a>
-<br><a href="https://go.gov.sg/pslealupdates" rel="noopener" target="_blank">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a>
 </p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener" target="_blank">Principal’s Briefing on Changes to PSLE Scoring System - School Finder</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener" target="_blank">Principal’s Briefing on Changes to PSLE Scoring System - DSA</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/pslealupdates" rel="noopener" target="_blank">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a>
+</p>
+</li>
+</ol>
+<p></p>
 </li>
 <li>
 <p><strong>Tips and User Guides for Parents</strong>
