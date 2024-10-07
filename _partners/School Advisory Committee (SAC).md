@@ -64,7 +64,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Dr_Publickal.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Dr_Publickal.png">
 </div>
 </th>
 </tr>
@@ -104,7 +104,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/SAC/Mr%20Siva%20Govindasamy.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/SAC/Mr%20Siva%20Govindasamy.jpg">
 </div>
 </th>
 </tr>
@@ -131,12 +131,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="2" colspan="3">
-<p></p>
-</td>
-</tr>
-<tr></tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
