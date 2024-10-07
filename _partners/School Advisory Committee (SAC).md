@@ -24,7 +24,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Mr%20Tan%20Kian%20Shen%20Aison.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Dr%20Low%20Wing%20Li%20Gary.jpg">
 </div>
 </th>
 </tr>
@@ -38,8 +38,8 @@ variant: tiptap
 <br>Honorary Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Aison Tan
-<br>Member</p>
+<p>Dr Low Wing Li Gary
+<br>Vice Chairman</p>
 </td>
 </tr>
 </tbody>
@@ -54,31 +54,31 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Mr%20Tan%20Kian%20Shen%20Aison.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/9a%20Ken%20Wang.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/SAC/Mr%20Siva%20Govindasamy.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Dr%20Low%20Wing%20Li%20Gary.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Dr_Publickal.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Aison Tan
+<br>Member</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Ken Wang
 <br>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Siva Govindasamy
-<br>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Low Wing Li Gary
+<p>Dr Pulickal Geoiphy George
 <br>Member</p>
 </td>
 </tr>
@@ -99,12 +99,12 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Dr_Publickal.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Dr_Teo.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Dr_Teo.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/SAC/Mr%20Siva%20Govindasamy.jpg">
 </div>
 </th>
 </tr>
@@ -114,11 +114,11 @@ variant: tiptap
 <br>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Pulickal Geoiphy George
+<p>Dr Teo Tang Wee
 <br>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Teo Tang Wee
+<p>Mr Siva Govindasamy
 <br>Member</p>
 </td>
 </tr>
@@ -132,23 +132,26 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="2" colspan="3">
+<p></p>
+</td>
+</tr>
+<tr></tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Mr_Chooake_Wongwattanasilpa__003_.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Mr_Chooake_Wongwattanasilpa__003_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Ms_Lim_Choy_Ghee_Stella__003_.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Ms_Lim_Choy_Ghee_Stella__003_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/white_BG.png">
-</div>
 </th>
 </tr>
 <tr>
