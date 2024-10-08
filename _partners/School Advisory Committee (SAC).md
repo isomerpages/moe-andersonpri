@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Marie De Visse
+<p>Dr Marie De Visser
 <br>Member</p>
 </td>
 <td rowspan="1" colspan="1">
