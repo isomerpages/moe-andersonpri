@@ -134,7 +134,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mr_Chooake_Wongwattanasilpa__003_.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Mr_Chooake_Wongwattanasilpa__003_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
