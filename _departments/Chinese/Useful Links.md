@@ -16,12 +16,7 @@ variant: markdown
 </ul>
 </ul>
 <ul>
-<li>SEAB PSLE Chinese Format</li>
-<ul>
-<li><a href="https://www.seab.gov.sg/content/syllabus/PSLE/2017_PSLE_Subject_info/0005_2017.pdf" target="_blank" rel="noopener">Chinese</a></li>
-<li><a href="https://www.seab.gov.sg/content/syllabus/PSLE/2017_PSLE_Subject_info/0015_2017.pdf" target="_blank" rel="noopener">Higher Chinese</a></li>
-<li><a href="https://www.seab.gov.sg/content/syllabus/PSLE/2017_PSLE_Subject_info/0025_2017.pdf" target="_blank" rel="noopener">Foundation Chinese</a></li>
-</ul>
+
 </ul>
 <ul>
 <li><a href="https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf" target="_blank" rel="noopener">SEAB List of Approved Chinese Dictionaries for PSLE</a></li>
