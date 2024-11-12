@@ -3,12 +3,13 @@ title: The Boys' Brigade
 permalink: /curriculum/co-curriculum-activities-cca/uniformed-groups/the-boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <h4><strong>The Boys’ Brigade 22J Singapore Company</strong></h4>
 The 22J Singapore Company was started on with 20 Boys and 2 officers and 2 teachers in 2019.
 Mr. Louis Seng is the Company Captain and Mr Li Wencong is the Chaplin. The first batch of 20
 Primary 3 Boys were enrolled in 2020. Currently, Mr William Ho is the teacher-in-charge assisted
-by Mr Soh Wei Xuan and Ms Danielle Tan.
+by Ms Angela Lee.
 
 The 22J Boys’ Brigade Company offers a unique opportunity for Boys to experience a
 programme designed for holistic development outside a classroom environment – with a strong
@@ -23,18 +24,12 @@ Character Quest.
 
 <h4><strong>Accolades</strong></h4>
 
-**2021**
-* BB Week Gold Honours Roll
+- JM Fraser Award for Excellence – Awarded Excellent (2023), High Distinction (2024)
+- Brigade President Commendation Award (2022)
+- BB Week  Honours Roll (Gold - 2021, 2023, 2024, Silver 2022)
+- BB Character Quest (Juniors Programme) Honour Roll (Gold 2023, 2024)
+- BB Adventure Quest (Juniors Programme) Honour Roll (Bronze 2023, Silver 2024)
 
-**2022** 
-* Brigade President Commendation Award
-* BB Week Silver Honours Roll
-
-**2023** 
-* JM Fraser Award for Excellence (Excellent)
-* BB Week Silver Honours Roll
-* BB Character Quest (Juniors Programme) Gold Honour Roll
-* BB Character Quest (Juniors Programme) 9th Position Overall
 
 
 <h4><strong>Boys' Brigade Key Events</strong></h4>
@@ -52,13 +47,13 @@ Character Quest.
 <td style="text-align: center;" width="76">Friday</td>
 <td style="text-align: center;" width="68">P3 - P6</td>
 <td style="text-align: center;" width="139">1.30 pm to 3.30 pm</td>
-<td style="text-align: center;" width="156">Library Loft/<br>Courtyard outside Art Rooms</td>
+<td style="text-align: center;" width="156">School Hall</td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul>
 <li>Mr William Ho (Overall Teacher-in-charge)</li>
-<li>Mr Soh Wei Xuan</li>
-<li>Ms Danielle Tan</li>
+<li>Ms Angela Lee</li>
+
 </ul>
