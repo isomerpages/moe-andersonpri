@@ -11,6 +11,7 @@ variant: markdown
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Halal Food Stall     | 30 Nov 2024     |  Must serve halal food. Open to proposal except Malay noodles. |
+| Chinese Rice     | 31 Dec 2024     |  Serve Chinese Rice with Assorted Dishes or Asian Cuisine Rice (Japanese/ Korean / Thai) |
 
 
 
