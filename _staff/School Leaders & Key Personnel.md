@@ -11,7 +11,7 @@ variant: markdown
 
 <tr>
 <td style="text-align: left;">Ms Shirley Leow<br>Principal</td>
-<td style="text-align: left;"><a href="mailto:Shirley_LEOW@moe.edu.sg" target="">Shirley_LEOW@moe.edu.sg</a></td>
+<td style="text-align: left;"><a href="mailto:LEOW_siew_lee_shirley@moe.edu.sg" target="">LEOW_siew_lee_shirley@moe.edu.sg</a></td>
 </tr>
 	
 <tr>
