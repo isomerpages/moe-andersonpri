@@ -96,8 +96,8 @@ variant: markdown
 <td style="text-align: left;"><a href="mailto:lee_yueling_angela@moe.edu.sg" target="">lee_yueling_angela@moe.edu.sg </a></td>
 </tr>
 
-<tr><td style="text-align: left;">Mrs Sharon Yeo<br>Subject Head (Mathematics)</td>
-<td style="text-align: left;"><a href="mailto:yeo_sharon@moe.edu.sg" target="">yeo_sharon@moe.edu.sg </a></td>
+<tr><td style="text-align: left;">Mr Steven Aw<br> HOD (Student Management)</td>
+<td style="text-align: left;"><a href="mailto:steven_aw_kian_chang@moe.edu.sg" target="">steven_aw_kian_chang@moe.edu.sg </a></td>
 </tr>
 
 
