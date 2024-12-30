@@ -135,18 +135,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alan_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">alan_tan@moe.edu.sg</a>
 <br>
-<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mr Seet&nbsp;Chia Song
-<br>Lead Teacher (Chinese Language)</p>
+<p>Ms Jan Hu Wen Ying
+<br>HOD (PE CCA &amp; Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:seet_chia_song@moe.edu.sg" rel="noopener noreferrer nofollow" target="">seet_chia_song@moe.edu.sg&nbsp;</a>
-<br>
+<p>&nbsp;<a href="mailto:jan_hu_wen_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="">jan_hu_wen_ying@moe.edu.sg&nbsp;</a>
 <br>
 </p>
 </td>
