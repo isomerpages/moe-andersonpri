@@ -136,19 +136,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong H'sien Yi</p>
+<p>Mr William Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:wong_hsien_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wong_hsien_yi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Loke Mei Yen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loke_mei_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">loke_mei_yen@moe.edu.sg</a>
+<p>&nbsp;<a href="mailto:william_ho_yoon_hean@moe.edu.sg" rel="noopener noreferrer nofollow" target="">william_ho_yoon_heng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
