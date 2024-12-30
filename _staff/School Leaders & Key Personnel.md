@@ -14,7 +14,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Shirley Leow
-<br>Principal</p>
+<br><strong>Principal</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -23,7 +24,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Thomas Boh
-<br>Vice-Principal (Academics)</p>
+<br><strong>Vice-Principal (Academics)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -32,7 +34,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Jasmine Tan
-<br>Vice-Principal (Admin)</p>
+<br><strong>Vice-Principal (Admin)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -196,6 +199,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yueling_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_yueling_angela@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Stephanie Lim
+<br>Subject Head (Character &amp;
+<br>Citizenship Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ruoh_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_ruoh_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
