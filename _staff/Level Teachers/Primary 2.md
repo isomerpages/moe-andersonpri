@@ -125,10 +125,10 @@ third_nav_title: Level Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Daphne Chua</p>
+<p>Ms Poh Eng Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Chua_Wei_Ting_Daphne@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Chua_Wei_Ting_Daphne@moe.edu.sg</a>
+<p><a href="mailto:poh_eng_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">poh_eng_hong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
