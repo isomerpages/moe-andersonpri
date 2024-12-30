@@ -146,18 +146,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Ms Jan Hu Wen Ying
-<br>HOD (PE CCA &amp; Aesthetics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jan_hu_wen_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="">jan_hu_wen_ying@moe.edu.sg</a>
-<br>
-<br>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p><strong>Class 5.5</strong>
 </p>
@@ -171,10 +159,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Charmaine Goh Li Yin</p>
+<p>Ms Adelene Guo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_li_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">goh_li_yin@moe.edu.sg</a>
+<p><a href="mailto:guo_yuanhui_adelene@moe.edu.sg" rel="noopener noreferrer nofollow" target="">guo_yuanhui_adelene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
