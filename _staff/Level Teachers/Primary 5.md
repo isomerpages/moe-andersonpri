@@ -190,21 +190,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong&nbsp;Mei Yuan
-<br>Level Head (Chinese Language)</p>
+<p>Mdm Goh Yan Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_mei_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheong_mei_yuan@moe.edu.sg</a>
+<p><a href="mailto:goh_yan_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">goh_yan_qi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;Fion&nbsp;Ho
-<br>HOD (Character &amp; Citizenship Education)</p>
+<p>Mrs Vimaladevi Steven
+<br>Senior Teacher (Tamil Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_ser_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_ser_yee@moe.edu.sg</a>
+<p><a href="mailto:v_vimaladevi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">v_vimaladevi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
