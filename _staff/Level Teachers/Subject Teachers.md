@@ -52,10 +52,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lai Meiyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lai_meiyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lai_meiyu@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
