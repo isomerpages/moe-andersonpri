@@ -156,10 +156,11 @@ third_nav_title: Level Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Ruoting</p>
+<p>Mr Eric Lee</p>
+<p>HOD (Mother Tongue Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_ruoting@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lin_ruoting@moe.edu.sg</a>
+<p><a href="mailto:lee_seh_lat@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_seh_lat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
