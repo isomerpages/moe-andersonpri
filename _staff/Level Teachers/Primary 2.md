@@ -211,16 +211,16 @@ third_nav_title: Level Teachers
 <p>Mrs Lena Ho Mui Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kavitha_kunnasegaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kavitha_kunnasegaran@moe.edu.sg</a>
+<p><a href="mailto:teo_mui_lin_lena@moe.edu.sg" rel="noopener noreferrer nofollow" target="">teo_mui_lin_lena@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Deng Liqiang</p>
+<p>Mrs Maefrize Khoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:deng_liqiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">deng_liqiang@moe.edu.sg</a>
+<p><a href="mailto:lim_meng_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_meng_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
