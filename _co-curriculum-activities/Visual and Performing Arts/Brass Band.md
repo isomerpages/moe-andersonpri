@@ -98,7 +98,7 @@ and character
 <p>Mrs Sharon Yeo</p>
 </li>
 <li>
-<p>Ms Lai Meiyu</p>
+<p>Ms Lai Meiyu (Sem 2 onwards)</p>
 </li>
 </ul>
 <p></p>
