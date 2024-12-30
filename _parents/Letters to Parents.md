@@ -25,14 +25,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/P1_Letter__Subj_Specific_LOs_for_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject-Specific Learning Outcomes (LOs) for P1 Holistic Development Profile (HDP) Reporting</a>
-</p>
-</li>
-<li>
-<p><a href="/files/P2_Letter__Subj_Specific_LOs_for_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject-Specific Learning Outcomes (LOs) for P2 Holistic Development Profile (HDP) Reporting</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Protecting_our_Youth_from_Radicalisation_and_Extremism_for_Parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">Protecting our Youth from Radicalisation and Extremism</a>
 </p>
 </li>
@@ -64,10 +56,6 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/announcements/sites/nameonschooljacket/" rel="noopener noreferrer nofollow" target="">Name Tag on School Jacket</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_End_of_Term_1_Letter_to_Parent_5_March.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 End-of-Term 1 Circular</a>
 </p>
 </li>
 </ul>
