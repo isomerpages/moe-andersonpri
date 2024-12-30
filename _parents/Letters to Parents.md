@@ -9,7 +9,7 @@ variant: tiptap
 <p>January</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_Start_of_the_Year_Letter_to_Parents_dated_29_Dec_23.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Start of the Year Letter to Parents</a>
+<p><a href="/files/2025 Files/Start_of_Year__SOY__Term_1_2025_Letter_to_Parents_Cleared_30_Dec_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Start of the Year Letter to Parents</a>
 </p>
 </li>
 <li>
