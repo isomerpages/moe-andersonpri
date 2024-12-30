@@ -85,10 +85,10 @@ third_nav_title: Level Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh So Fang (Nancy)</p>
+<p>Mrs Rachael Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Goh_So_Fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Goh_So_Fang@moe.edu.sg</a>
+<p><a href="mailto:seah_yan_ying_rachael@moe.edu.sg" rel="noopener noreferrer nofollow" target="">seah_yan_ying_rachael@moe.edu.sg</a>
 </p>
 </td>
 </tr>
