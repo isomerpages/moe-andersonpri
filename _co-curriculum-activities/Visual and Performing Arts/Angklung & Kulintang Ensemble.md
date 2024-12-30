@@ -64,7 +64,7 @@ Award at the SYF 2018 Arts Presentation (Instrumental Ensemble).</p>
 <p>Mrs Lisa Kan (Overall Teacher-in-charge)</p>
 </li>
 <li>
-<p>Miss Tan Soo Kheng</p>
+<p>Mrs Mohan</p>
 </li>
 <li>
 <p>Ms Lin Ruoting</p>
