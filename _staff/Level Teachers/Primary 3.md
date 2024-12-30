@@ -3,131 +3,213 @@ title: Primary 3
 permalink: /key-personnel/teachers/primary-3/
 description: ""
 third_nav_title: Level Teachers
-variant: markdown
+variant: tiptap
 ---
-<table style="margin-left: auto; margin-right: auto;" border="0" width="100%" cellspacing="0">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="text-align: center;" colspan="2" height="41"><strong>Class 3.1</strong></td>
-</tr>
-	
-<tr style="text-align: center;">
-<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
-</tr>
-
-<tr style="text-align: center;">
-<td width="50%">Mr Ramesh Sivakadacham<br>Subject Head (Student Management)</td>
-<td width="50%"><a href="mailto:ramesh_sivakadacham@moe.edu.sg" target="">ramesh_sivakadacham@moe.edu.sg</a></td>
-</tr>
-
-<tr style="text-align: center;">
-<td>
-<div>Mrs Jenevieve&nbsp;Seeh</div>
+<td rowspan="1" colspan="2">
+<p><strong>Class 3.1</strong>
+</p>
 </td>
-<td><a href="mailto:&nbsp;jenevieve_seeh@moe.edu.sg" target="">&nbsp;jenevieve_seeh@moe.edu.sg</a></td>
 </tr>
-
-<tr style="text-align: center;">
-<td colspan="2" style="text-align: center;" height="41"><strong>Class 3.2</strong></td>
-</tr>
-
-<tr style="text-align: center;">
-<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
-</tr>
-
-<tr style="text-align: center;">
-<td width="50%">Mr Soh&nbsp;Wei Xuan</td>
-<td><a href="mailto:&nbsp;soh_wei_xuan@moe.edu.sg" target="">&nbsp;soh_wei_xuan@moe.edu.sg</a><br><br></td>
-</tr>
-
-<tr style="text-align: center;">
-<td>Mdm Meenachi Raman</td>
-<td><a href="mailto:meenachi_raman@moe.edu.sg" target="">meenachi_raman@moe.edu.sg</a><br><br></td>
-</tr>
-
-<tr style="text-align: center;">
-<td colspan="2" style="text-align: center;" height="41"><strong>Class 3.3</strong></td>
-</tr>
-	
-<tr style="text-align: center;">
-<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
-</tr>
-	
-<tr style="text-align: center;">
-<td>Mr Soo Jia Qing</td>
-<td><a href="mailto:soo_jia_qing@moe.edu.sg" target="">soo_jia_qing@moe.edu.sg</a></td>
-</tr>
-
-	
-<tr style="text-align: center;">
-<td width="50%">Mdm Sabariah Abdullah<br>Subject Head (Malay Language)</td>
-<td width="50%"><a href="mailto:sabariah_abdullah@moe.edu.sg" target="">sabariah_abdullah@moe.edu.sg</a></td>
-</tr>
-
-	
-<tr style="text-align: center;">
-<td colspan="2" style="text-align: center;" height="41"><strong>Class 3.4</strong></td>
-</tr>
-	
-<tr style="text-align: center;">
-<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
-</tr>
-	
-<tr style="text-align: center;">
-<td width="50%">Mdm&nbsp;Sarabjeet Kaur<br>Senior Teacher (Science)</td>
-<td width="50%"><a href="mailto:kaur_sarabjeet@moe.edu.sg" target="">kaur_sarabjeet@moe.edu.sg</a></td>
-</tr>
-	
-<tr style="text-align: center;">
-<td>Mr William Ho</td>
-<td><a href="mailto:william_ho_yoon_hean@moe.edu.sg" target="">william_ho_yoon_hean@moe.edu.sg</a></td>
-</tr>
-	
-<tr style="text-align: center;">
-<td colspan="2" style="text-align: center;" height="41"><strong>Class 3.5</strong></td>
-</tr>
-	
-<tr style="text-align: center;">
-<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
-</tr>
-	
-<tr style="text-align: center;">
-<td>&nbsp;Ms Angeline Teo <br>
-P3 Level Executive Officer</td>
-<td><a href="mailto:teo_puay_leng@moe.edu.sg" target="">teo_puay_leng@moe.edu.sg</a></td>
-</tr>
-	
-<tr style="text-align: center;">
-<td>
-<div>Mr Muhammad Izzuddin&nbsp;Mohd Azmi</div>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
+</p>
 </td>
-<td><a href="mailto:muhammad_izzuddin_mohd_azmi_a@moe.edu.sg" target="">muhammad_izzuddin_mohd_azmi_a@moe.edu.sg</a></td>
 </tr>
-
-<tr style="text-align: center;">
-<td>
-<div>Ms Angela Lee <br>Subject Head (Citizenship &amp; Character Education)</div>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ivan Ng
+<br>Level Head (Science)</p>
 </td>
-<td><a href="mailto:lee_yueling_angela@moe.edu.sg" target="">lee_yueling_angela@moe.edu.sg</a></td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ivan_ng_yong_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ivan_ng_yong_leng@moe.edu.sg</a>
+</p>
+</td>
 </tr>
-
-
-	
-<tr style="text-align: center;">
-<td colspan="2" style="text-align: center;" height="41"><strong>Class 3.6</strong></td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jenevieve&nbsp;Seeh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:&nbsp;jenevieve_seeh@moe.edu.sg" rel="noopener noreferrer nofollow" target="">&nbsp;jenevieve_seeh@moe.edu.sg</a>
+</p>
+</td>
 </tr>
-	
-<tr style="text-align: center;">
-<td colspan="2" style="text-align: center;" height="25"><strong>Form Teachers</strong></td>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Class 3.2</strong>
+</p>
+</td>
 </tr>
-<tr style="text-align: center;">
-<td>Mdm&nbsp;Danielle Tan <br>Senior Teacher (Mathematics)</td>
-<td><a href="mailto:tan_bee_choo_a@moe.edu.sg" target="">tan_bee_choo_a@moe.edu.sg</a></td>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
+</p>
+</td>
 </tr>
-	
-<tr style="text-align: center;">
-<td>Ms Divyashree</td>
-<td><a href="mailto:divyashree_c_bala_krishnan@moe.edu.sg" target="">divyashree_c_bala_krishnan@moe.edu.sg</a></td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Joy Lim Swee Ping
+<br>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_swee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_swee_ping@moe.edu.sg</a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Meenachi Raman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:meenachi_raman@moe.edu.sg" rel="noopener noreferrer nofollow" target="">meenachi_raman@moe.edu.sg</a>
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Class 3.3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Soo Jia Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soo_jia_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="">soo_jia_qing@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sabariah Abdullah
+<br>Subject Head (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sabariah_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sabariah_abdullah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Class 3.4</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm&nbsp;Sarabjeet Kaur
+<br>Senior Teacher (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kaur_sarabjeet@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kaur_sarabjeet@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr William Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:william_ho_yoon_hean@moe.edu.sg" rel="noopener noreferrer nofollow" target="">william_ho_yoon_hean@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Class 3.5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Ms Angeline Teo
+<br>P3 Level Executive Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_puay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">teo_puay_leng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Izzuddin&nbsp;Mohd Azmi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_izzuddin_mohd_azmi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="">muhammad_izzuddin_mohd_azmi_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Angela Lee
+<br>Subject Head (Citizenship &amp; Character Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_yueling_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_yueling_angela@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Class 3.6</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm&nbsp;Danielle Tan
+<br>Senior Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_bee_choo_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_bee_choo_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Divyashree</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:divyashree_c_bala_krishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">divyashree_c_bala_krishnan@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
