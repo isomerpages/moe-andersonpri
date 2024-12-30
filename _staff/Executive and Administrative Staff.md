@@ -12,10 +12,7 @@ variant: markdown
 <td style="text-align: left;"><a href="mailto:mei_ling_tan@schools.gov.sg" target="">mei_ling_tan@schools.gov.sg</a></td>
 </tr>
 	
-<tr>
-<td style="text-align: left;">Mr Patrick Tho<br>Operations Manager</td>
-<td style="text-align: left;"><a href="mailto:tho_choon_seng@moe.edu.sg" target="">tho_choon_seng@moe.edu.sg</a></td>
-</tr>
+
 	
 <tr>
 <td style="text-align: left;">Mr Raymond S/O Lazar <br>Operations Manager</td>
@@ -61,10 +58,6 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: left;">Mdm Malar<br>OSO </td>
-<td style="text-align: left;"><a href="mailto:" target=""> </a></td>
-</tr>
-<tr>
-<td style="text-align: left;">Mr Aw Teck Lee<br>OSO </td>
 <td style="text-align: left;"><a href="mailto:" target=""> </a></td>
 </tr>
 
