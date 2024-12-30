@@ -136,12 +136,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong&nbsp;Mei Ting
-<br>Senior Teacher (Chinese Language)</p>
+<p>Mr Seet Chia Song
+<br>Lead Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_mei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wong_mei_ting@moe.edu.sg</a>
-<br>
+<p><a href="mailto:seet_chia_song@moe.edu.sg" rel="noopener noreferrer nofollow" target="">seet_chia_song@moe.edu.sg</a>
 <br>
 </p>
 </td>
