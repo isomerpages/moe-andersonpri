@@ -97,13 +97,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Leow&nbsp;Kor Ming
-<br>School Staff Developer</p>
+<p>Mr Peter Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leow_kor_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="">leow_kor_ming@moe.edu.sg</a>
-<br>
-<br>
+<p><a href="mailto:toh_kee_seong_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="">toh_kee_seong_peter@moe.edu.sg</a>
 </p>
 </td>
 </tr>
