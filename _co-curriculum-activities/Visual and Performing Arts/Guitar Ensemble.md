@@ -54,7 +54,7 @@ Ensemble).</p>
 <p>1.30 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guzheng Room</p>
+<p>ANDspiration Lab, Aesthetics Room 2</p>
 </td>
 </tr>
 </tbody>
@@ -62,16 +62,16 @@ Ensemble).</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Fiona Tan (Co Teacher-in-charge)</p>
+<p>Ms Kek Sor Ling (Overall Teacher-in-charge)</p>
 </li>
 <li>
-<p>Mrs Angeline Poh (Co Teacher-in-charge)</p>
+<p>Mdm Maryati</p>
 </li>
 <li>
-<p>Mdm Xia Shanna</p>
+<p>Ms Low Li Lin</p>
 </li>
 <li>
-<p>Ms Leng Yip Jean</p>
+<p>Ms Thio Puan Kin</p>
 </li>
 </ul>
 <p></p>
