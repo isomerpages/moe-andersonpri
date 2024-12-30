@@ -157,22 +157,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Angeline Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_puay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">teo_puay_leng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Suzanah Saparwan
 <br>HOD (Information &amp; Communication Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:suzanah_saparwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">suzanah_saparwan@moe.edu.sg</a>
 <br>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Xia Shanna</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:xia_shanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="">xia_shanna@moe.edu.sg</a>
 </p>
 </td>
 </tr>
