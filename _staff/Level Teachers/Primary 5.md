@@ -92,11 +92,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Ms&nbsp;Stephanie&nbsp;Lim</p>
+<p>Mr Leow Kor Ming
+<br>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_ruoh_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_ruoh_wen@moe.edu.sg</a>
-<br>
+<p><a href="mailto:leow_kor_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="">leow_kor_ming@moe.edu.sg</a>
 <br>
 </p>
 </td>
