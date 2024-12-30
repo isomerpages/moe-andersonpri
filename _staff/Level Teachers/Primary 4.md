@@ -87,29 +87,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Ng Shin Ding</p>
+<p>&nbsp;Mr Soo Jia Qing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_shin_ding@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_shin_ding@moe.edu.sg</a>
+<p><a href="mailto:soo_jia_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="">soo_jia_qing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Jumiati&nbsp;Mohd Sidek</p>
+<p>Ms Siti Suraidah Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jumiati_mohd_sidek@moe.edu.sg" rel="noopener noreferrer nofollow" target="">jumiati_mohd_sidek@moe.edu.sg</a>
+<p><a href="mailto:siti_suraidah_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="">siti_suraidah_rahim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Danz Ong
-<br>Year Head (Middle Primary)</p>
+<p>Mr Randy Koo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:danz_tan_li_loo@moe.edu.sg" rel="noopener noreferrer nofollow" target="">danz_tan_li_loo@moe.edu.sg</a>
+<p><a href="mailto:koo_eng_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="">koo_eng_huat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -127,11 +126,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joy&nbsp;Lim Swee Ping
-<br>P4 Level Executive Officer</p>
+<p>Mdm Sarabjeet Kau
+<br>Senior Teacher (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_swee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_swee_ping@moe.edu.sg</a>
+<p><a href="mailto:kaur_sarabjeet@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kaur_sarabjeet@moe.edu.sg</a>
 </p>
 </td>
 </tr>
