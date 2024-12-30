@@ -178,21 +178,19 @@ third_nav_title: Level Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Pei Wei Fiona</p>
+<p>Ms Low Li Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_pei_wei_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_pei_wei_fiona@moe.edu.sg</a>
-<br>
-<br>
+<p><a href="mailto:low_li_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">low_li_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kek Sor Ling</p>
+<p>Mdm Nur Shamilah Abd Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kek_sor_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kek_sor_ling@moe.edu.sg</a>
+<p><a href="mailto: nur_shamilah_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="">nur_shamilah_abdul_hamid@moe.edu.sg</a>
 </p>
 </td>
 </tr>
