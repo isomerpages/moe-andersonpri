@@ -106,10 +106,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mr&nbsp;Salim&nbsp;Fong</p>
+<p>Ms Stephanie Lim
+<br>Subject Head (Character &amp;
+<br>Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:salim_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">salim_fong@moe.edu.sg</a>
+<p><a href="mailto:lim_ruoh_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_ruoh_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
