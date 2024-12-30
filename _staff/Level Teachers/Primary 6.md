@@ -65,23 +65,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Ms&nbsp;Adelene Guo
-<br>P6 Level Executive Officer</p>
+<p>Mrs&nbsp;Sharon Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:guo_yuanhui_adelene" rel="noopener noreferrer nofollow" target="">guo_yuanhui_adelene@moe.edu.sg</a>
-<br>
-<br>
+<p><a href="mailto:yeo_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yeo_sharon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti&nbsp;Suraidah Rahim</p>
+<p>Mdm Goh Ling Li
+<br>HOD (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:&nbsp;siti_suraidah_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="">&nbsp;siti_suraidah_rahim@moe.edu.sg</a>
-<br>
+<p><a href="mailto:goh_ling_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="">goh_ling_li@moe.edu.sg</a>
 <br>
 </p>
 </td>
