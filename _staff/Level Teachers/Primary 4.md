@@ -189,22 +189,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Inoue Ikuyo</p>
+<p>Mdm Danielle Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:inoue_ikuyo@moe.edu.sg" rel="noopener noreferrer nofollow" target="">inoue_ikuyo@moe.edu.sg</a>
-<br>
-<br>
+<p><a href="mailto:tan_bee_choo_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_bee_choo_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sheena Toh
-<br>HOD (Aesthetics)</p>
+<p>Mr Poh Chee Peng
+<br>P4 Level Executive Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sheena_toh@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sheena_toh@moe.edu.sg</a>
+<p><a href="mailto:poh_chee_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">poh_chee_peng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
