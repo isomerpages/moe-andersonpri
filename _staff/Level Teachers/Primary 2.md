@@ -25,8 +25,8 @@ third_nav_title: Level Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Lih Teng</p>
-<p>P2 Level Executive Officer</p>
+<p>Mdm Ng Lih Teng
+<br>P2 Level Executive Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_lih_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lih_teng@moe.edu.sg</a>
@@ -208,7 +208,7 @@ third_nav_title: Level Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Kavitha Kunnasegaran</p>
+<p>Mrs Lena Ho Mui Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kavitha_kunnasegaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kavitha_kunnasegaran@moe.edu.sg</a>
