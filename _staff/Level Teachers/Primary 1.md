@@ -185,7 +185,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Steven Aw</p>
+<p>Mr Steven Aw
+<br>HOD (Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:steven_aw_kian_chang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">steven_aw_kian_chang@moe.edu.sg</a>
