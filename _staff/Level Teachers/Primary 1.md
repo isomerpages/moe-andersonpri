@@ -219,7 +219,7 @@ variant: tiptap
 <p>Mrs Janet Saw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_lay_tin@moe.edu.sg</a>
+<p><a href="mailto:tan_lay_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_tin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
