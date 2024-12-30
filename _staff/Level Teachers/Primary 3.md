@@ -86,20 +86,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Soo Jia Qing</p>
+<p>Ms Erfa Riizah Bte Razi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soo_jia_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="">soo_jia_qing@moe.edu.sg</a>
+<p><a href="mailto:erfa_riizah_razi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">erfa_riizah_razi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sabariah Abdullah
-<br>Subject Head (Malay Language)</p>
+<p>Ms Yu Dan Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sabariah_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sabariah_abdullah@moe.edu.sg</a>
+<p><a href="mailto:yu_dan_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yu_dan_yun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -117,11 +116,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Sarabjeet Kaur
-<br>Senior Teacher (Science)</p>
+<p>Mdm Loh Cheng Hwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kaur_sarabjeet@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kaur_sarabjeet@moe.edu.sg</a>
+<p><a href="mailto:loh_cheng_hwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">loh_cheng_hwan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
