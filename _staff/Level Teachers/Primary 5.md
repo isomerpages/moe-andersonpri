@@ -36,20 +36,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Anuar&nbsp;Adam
-<br>Senior Teacher (Art)</p>
+<p>Mr Salim Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anuar_adam@moe.edu.sg" rel="noopener noreferrer nofollow" target="">anuar_adam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Rachel Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_lee_chin_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheng_lee_chin_rachel@moe.edu.sg</a>
+<p><a href="mailto:salim_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">salim_fong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -67,11 +57,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mrs&nbsp;Sharon&nbsp;Yeo
-<br>Level Head (Mathematics)</p>
+<p>Ms Angela Lee
+<br>Subject Head (Citizenship &amp; Character Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yeo_sharon@moe.edu.sg</a>
+<p><a href="mailto:lee_yueling_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_yueling_angela@moe.edu.sg</a>
 <br>
 <br>
 </p>
@@ -79,11 +69,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Ling Li
-<br>HOD (English Language)</p>
+<p>Mr Deng Liqiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_ling_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="">goh_ling_li@moe.edu.sg</a>
+<p><a href="mailto:deng_liqiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">deng_liqiang@moe.edu.sg</a>
 <br>
 <br>
 </p>
