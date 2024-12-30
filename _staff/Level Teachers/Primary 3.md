@@ -147,20 +147,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Ms Angeline Teo
-<br>P3 Level Executive Officer</p>
+<p>Ms Leng Yip, Jean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_puay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">teo_puay_leng@moe.edu.sg</a>
+<p><a href="mailto:leng_yip_jean@moe.edu.sg" rel="noopener noreferrer nofollow" target="">leng_yip_jean@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Izzuddin&nbsp;Mohd Azmi</p>
+<p>Mr Leong Jing Xiong Merrill</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_izzuddin_mohd_azmi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="">muhammad_izzuddin_mohd_azmi_a@moe.edu.sg</a>
+<p><a href="mailto:leong_jing_xiong_merrill@moe.edu.sg" rel="noopener noreferrer nofollow" target="">leong_jing_xiong_merrill@moe.edu.sg</a>
 </p>
 </td>
 </tr>
