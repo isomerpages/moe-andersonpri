@@ -168,13 +168,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mrs Sornamangai&nbsp;Mohan
-<br>Subject Head (Tamil Language)</p>
+<p>Mr Ferdinand Mar
+<br>P5 Level Executive Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sornamangai_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sornamangai_arumugam@moe.edu.sg&nbsp;</a>
-<br>
-<br>
+<p><a href="mailto:ferdinand_mar@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ferdinand_mar@moe.edu.sg&nbsp;</a>
 </p>
 </td>
 </tr>
