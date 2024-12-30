@@ -35,10 +35,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Ferdinand&nbsp;Mar</p>
+<p>Mrs Jenevieve Seeh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ferdinand_mar@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ferdinand_mar@moe.edu.sg</a>
+<p><a href="mailto:jenevieve_seeh@moe.edu.sg" rel="noopener noreferrer nofollow" target="">jenevieve_seeh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -56,29 +56,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;Lisa Kan</p>
+<p>Ms Joy Lim Swee Ping
+<br>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_ling_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chua_ling_ling@moe.edu.sg</a>
+<p><a href="mailto:lim_swee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_swee_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ben&nbsp;Choo Chee Keong
-<br>Subject Head (CCA &amp; Data Management)</p>
+<p>Mdm Meenachi Raman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choo_chee_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">choo_chee_keong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Goh Yan Qi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_yan_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">goh_yan_qi@moe.edu.sg</a>
+<p><a href="mailto:meenachi_raman@moe.edu.sg" rel="noopener noreferrer nofollow" target="">meenachi_raman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
