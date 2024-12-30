@@ -164,16 +164,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Angela Lee
-<br>Subject Head (Citizenship &amp; Character Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yueling_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_yueling_angela@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p><strong>Class 3.6</strong>
 </p>
@@ -187,20 +177,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Danielle Tan
-<br>Senior Teacher (Mathematics)</p>
+<p>Ms Inoue Ikuyo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_bee_choo_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_bee_choo_a@moe.edu.sg</a>
+<p><a href="mailto:inoue_ikuyo@moe.edu.sg" rel="noopener noreferrer nofollow" target="">inoue_ikuyp@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Divyashree</p>
+<p>Mrs Lisa Kan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:divyashree_c_bala_krishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">divyashree_c_bala_krishnan@moe.edu.sg</a>
+<p><a href="mailto:chua_ling_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chua_ling_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
