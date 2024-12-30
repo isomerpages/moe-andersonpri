@@ -124,10 +124,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nurin Danisha Md Rosli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nurin_danisha_md_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurin_danisha_md_rosli@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
