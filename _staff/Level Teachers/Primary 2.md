@@ -94,10 +94,10 @@ third_nav_title: Level Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rachel Cheng</p>
+<p>Ms Tan Soo Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_lee_chin_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheng_lee_chin_rachel@moe.edu.sg</a>
+<p><a href="mailto:tan_soo_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_soo_kheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
