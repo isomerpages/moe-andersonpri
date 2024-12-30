@@ -115,11 +115,11 @@ third_nav_title: Level Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Eileen Lin
-<br>P2 Level Executive Officer</p>
+<p>Mdm Wong Mei Ting
+<br>Senior Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: Eileen_TOH_YING_LIN@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Eileen_TOH_YING_LIN@moe.edu.sg</a>
+<p><a href="mailto:wong_mei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wong_mei_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
