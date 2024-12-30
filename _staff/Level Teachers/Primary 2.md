@@ -165,15 +165,6 @@ third_nav_title: Level Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Janet Saw</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Lay_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Tan_Lay_tin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p><strong>Class 2.6</strong>
 </p>
