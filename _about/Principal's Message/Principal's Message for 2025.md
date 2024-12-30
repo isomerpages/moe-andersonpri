@@ -41,5 +41,5 @@ a bright and promising future for our children.</p>
 the future with confidence and hope.</p>
 <p>&nbsp;</p>
 <p><strong>Ms Shirley Leow</strong>
-</p><p><strong>Principal</strong>
+<br><strong>Principal</strong>
 </p>
