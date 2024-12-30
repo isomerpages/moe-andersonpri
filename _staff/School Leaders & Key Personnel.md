@@ -13,9 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shirley Leow
-<br><strong>Principal</strong>
-</p>
+<p><strong>Ms Shirley Leow <br></strong>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -23,9 +21,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Thomas Boh
-<br><strong>Vice-Principal (Academics)</strong>
-</p>
+<p><strong>Mr Thomas Boh </strong>
+<br>Vice-Principal (Academics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -33,9 +30,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Tan
-<br><strong>Vice-Principal (Admin)</strong>
-</p>
+<p><strong>Ms Jasmine Tan </strong>
+<br>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
