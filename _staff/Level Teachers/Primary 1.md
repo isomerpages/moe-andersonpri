@@ -156,7 +156,7 @@ variant: tiptap
 <p>Ms Thio Puan Kin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:thio_puan_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">thio_puan_kin@moe.edu.sg</a>
+<p><a href="mailto:thio_puan_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thio_puan_kin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
