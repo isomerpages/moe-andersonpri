@@ -103,11 +103,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Peter Toh
-<br>P5 Level Executive Officer</p>
+<p>Mdm Sabariah Abdullah
+<br>Subject Head (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_kee_seong_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="">toh_kee_seong_peter@moe.edu.sg</a>
+<p><a href="mailto:sabariah_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sabariah_abdullah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -125,11 +125,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edmund Liang</p>
+<p>Mrs Haslinda Azhar
+<br>Lead Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liang_shiau_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="">liang_shiau_ping@moe.edu.sg</a>
-<br>
+<p><a href="mailto:haslinda_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="">haslinda_hashim@moe.edu.sg</a>
 <br>
 </p>
 </td>
