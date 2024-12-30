@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Principal's Message/Principal's Message for 2025.md
       - Principal's Message/.keep
       - Our Directional Statements.md
       - School History.md
