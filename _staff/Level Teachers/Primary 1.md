@@ -153,10 +153,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Thio</p>
+<p>Ms Thio Puan Kin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jessie_nah_min_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="">jessie_nah_min_li@moe.edu.sg</a>
+<p><a href="mailto:thio_puan_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">thio_puan_kin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -174,10 +174,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Low Li Lin</p>
+<p>Mdm Loke Mei Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_li_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">low_li_lin@moe.edu.sg</a>
+<p><a href="mailto:loke_mei_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_mei_yen@moe.edu.sg</a>
 <br>
 <br>
 </p>
@@ -185,10 +185,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharulbariah Md Arif</p>
+<p>Mr Steven Aw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shahrulbariah_muhd_arif@moe.edu.sg" rel="noopener noreferrer nofollow" target="">shahrulbariah_muhd_arif@moe.edu.sg</a>
+<p><a href="mailto:steven_aw_kian_chang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">steven_aw_kian_chang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -206,20 +206,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lena Ho Mui Lin
+<p>Mdm Jumiati Md Sidek
 <br>P1 Level Executive Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_mui_lin_lena@moe.edu.sg" rel="noopener noreferrer nofollow" target="">teo_mui_lin_lena@moe.edu.sg</a>
+<p><a href="mailto:jumiati_mohd_sidek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jumiati_mohd_sidek@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Maefrize Khoo</p>
+<p>Mrs Janet Saw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_meng_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_meng_hui@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_lay_tin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
