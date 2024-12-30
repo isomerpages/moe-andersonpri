@@ -85,19 +85,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Rachael Goh</p>
+<p>Mdm Cheong Hwee Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seah_yan_ying_rachael@moe.edu.sg" rel="noopener noreferrer nofollow" target="">seah_yan_ying_rachael@moe.edu.sg</a>
+<p><a href="mailto:cheong_hwee_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hwee_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Soo Kheng</p>
+<p>Mdm Goh So Fang (Nancy)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_soo_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_soo_kheng@moe.edu.sg</a>
+<p><a href="Goh_So_Fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_so_fang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
