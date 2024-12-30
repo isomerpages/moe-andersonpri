@@ -56,23 +56,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joy Lim Swee Ping
-<br>Assistant Year Head</p>
+<p>Mrs Eileen Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_swee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_swee_ping@moe.edu.sg</a>
-<br>
+<p><a href="mailto: Eileen_TOH_YING_LIN@moe.edu.sg" rel="noopener noreferrer nofollow" target="">eileen_toh_ying_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Meenachi Raman</p>
+<p>Mdm Sun Shwu Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:meenachi_raman@moe.edu.sg" rel="noopener noreferrer nofollow" target="">meenachi_raman@moe.edu.sg</a>
-<br>
-<br>
+<p><a href="mailto:sun_shwu_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sun_shwu_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
