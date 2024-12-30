@@ -40,11 +40,11 @@ variant: markdown
 </tr>
 	
 <tr>
-<td style="text-align: left;">Mrs Vimala Ratnaraja<br>Year Head (Primary 1, 5, 6)</td>
+<td style="text-align: left;">Mrs Vimala Ratnaraja<br>Year Head (Upper Primary and Covering Primary 1)</td>
 <td style="text-align: left;"><a href="mailto:vimala_ratnaraja@moe.edu.sg" target="">vimala_ratnaraja@moe.edu.sg</a></td>
 	
 </tr><tr>
-<td style="text-align: left;">Mrs Danz Ong<br>Year Head (Primary 2, 3, 4)</td>
+<td style="text-align: left;">Mrs Danz Ong<br>Year Head (Middle Primary &amp; Covering Primary 2)</td>
 <td style="text-align: left;"><a href="mailto:danz_tan_li_loo@moe.edu.sg" target="">danz_tan_li_loo@moe.edu.sg</a></td>
 </tr>
 	
@@ -105,7 +105,7 @@ variant: markdown
 <td style="text-align: left;"><a href="mailto:lee_yueling_angela@moe.edu.sg" target="">ramesh_sivakadacham@moe.edu.sg </a></td>
 </tr>
 
-<tr><td style="text-align: left;">Mr Ben Choo  <br>Subject Head (CCA &amp; <br> Data Management)</td>
+<tr><td style="text-align: left;">Mr Ben Choo  <br>Subject Head (CCA &amp; <br> Aesthetics)</td>
 <td style="text-align: left;"><a href="mailto:choo_chee_keong@moe.edu.sg" target="">choo_chee_keong@moe.edu.sg </a></td>
 </tr>
 
