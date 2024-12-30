@@ -163,20 +163,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Haslinda&nbsp;Azhar
-<br>Lead Teacher (English Language)</p>
+<p>Ms Charmaine Goh Li Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:haslinda_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="">haslinda_hashim@moe.edu.sg</a>
+<p><a href="mailto:goh_li_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">goh_li_yin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gracia Lim</p>
+<p>Mrs Sornamangai Mohan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_gek_hia@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_gek_hia@moe.edu.sg</a>
+<p><a href="mailto:sornamangai_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sornamangai_arumugam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -194,23 +193,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mrs&nbsp;Vimaladevi Steven
-<br>Senior Teacher (Tamil Language)</p>
+<p>Mr Edmund Liang
+<br>P6 Level Executive Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:v_vimaladevi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">v_vimaladevi@moe.edu.sg</a>
-<br>
+<p><a href="mailto:liang_shiau_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="">liang_shiau_ping@moe.edu.sg</a>
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan&nbsp;Bee&nbsp;Bee
-<br>Head of Department (Mathematics)</p>
+<p>Mdm Cheong Mei Yuan
+<br>Level Head (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_bee_bee_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_bee_bee_c@moe.edu.sg</a>
+<p><a href="mailto:cheong_mei_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheong_mei_yuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
