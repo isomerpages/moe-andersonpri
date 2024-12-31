@@ -178,9 +178,7 @@ variant: tiptap
 <p>Mdm Loke Mei Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loke_mei_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_mei_yen@moe.edu.sg</a>
-<br>
-<br>
+<p><a href="mailto:loke_mei_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">loke_mei_yen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -190,7 +188,7 @@ variant: tiptap
 <br>HOD (Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:steven_aw_kian_chang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">steven_aw_kian_chang@moe.edu.sg</a>
+<p><a href="mailto:steven_aw_kian_chang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">steven_aw_kian_chang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -212,7 +210,7 @@ variant: tiptap
 <br>P1 Level Executive Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jumiati_mohd_sidek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jumiati_mohd_sidek@moe.edu.sg</a>
+<p><a href="mailto:jumiati_mohd_sidek@moe.edu.sg" rel="noopener noreferrer nofollow" target="">jumiati_mohd_sidek@moe.edu.sg</a>
 </p>
 </td>
 </tr>
