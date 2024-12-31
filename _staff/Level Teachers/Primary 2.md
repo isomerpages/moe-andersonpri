@@ -29,7 +29,7 @@ third_nav_title: Level Teachers
 <br>P2 Level Executive Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_lih_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lih_teng@moe.edu.sg</a>
+<p><a href="mailto:ng_lih_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lih_teng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
