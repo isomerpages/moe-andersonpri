@@ -37,7 +37,7 @@ variant: tiptap
 <p>Ms Kek Sor Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kek_sor_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kek_sor_ling@moe.edu.sg</a>
+<p><a href="mailto:kek_sor_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kek_sor_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
