@@ -13,12 +13,12 @@ us as we continue to grow and excel together.</p>
 <p>Anderson Primary School is a place where we aspire to be “Pioneers of
 the Future” and uphold the values encapsulated in our guiding philosophy,
 the “School of LIGHT”:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Learn Unceasingly</strong>,</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Gratitude</strong>,</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Innovation</strong>,</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Hand in Hand</strong>,
-and</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Trustworthiness</strong>.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Learn Unceasingly</strong>,<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Gratitude</strong>,<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Innovation</strong>,<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Hand in Hand</strong>,
+and<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Trustworthiness</strong>.</p>
 <p>I believe in the principle of “<strong>先做人再做事</strong>” (“First develop
 good character, then achieve great deeds”). Character development is central
 to our mission, as it sustains passion, purpose, and integrity. These values
