@@ -118,7 +118,7 @@ variant: tiptap
 <p>Mdm Siti Nurjihan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nurjihan_kamarudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurjihan_kamarudin@moe.edu.sg</a>
+<p><a href="mailto:siti_nurjihan_kamarudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">siti_nurjihan_kamarudin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -127,7 +127,7 @@ variant: tiptap
 <p>Ms Nurin Danisha Md Rosli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurin_danisha_md_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurin_danisha_md_rosli@moe.edu.sg</a>
+<p><a href="mailto:nurin_danisha_md_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="">nurin_danisha_md_rosli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ variant: tiptap
 <p>Mdm Kavitha Kunnasegaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kavitha_kunnasegaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_kunnasegaran@moe.edu.sg</a>
+<p><a href="mailto:kavitha_kunnasegaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kavitha_kunnasegaran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -157,7 +157,7 @@ variant: tiptap
 <p>Ms Thio Puan Kin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:thio_puan_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thio_puan_kin@moe.edu.sg</a>
+<p><a href="mailto:thio_puan_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">thio_puan_kin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
