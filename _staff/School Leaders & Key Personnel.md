@@ -201,8 +201,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Stephanie Lim
-<br>Subject Head (Character &amp;
-<br>Citizenship Education)</p>
+<br>Subject Head (NESS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_ruoh_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_ruoh_wen@moe.edu.sg</a>
