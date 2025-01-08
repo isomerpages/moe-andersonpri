@@ -137,7 +137,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Students are to report to school by 7.30 am for assembly.</p>
+<p>Students are to report to school by 7.30am for assembly.</p>
 <h4><strong>General Office Operating Hours</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
