@@ -130,8 +130,9 @@ variant: tiptap
 <p>7.30am to 1.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 - via Gate A
-<br>P2 - via Gate C (Gate E for wet weather)</p>
+<p>P1 &amp; P3 - via Gate A
+<br>P2 &amp; P4 - via Gate C
+<br>P5 &amp; P6 - via Gate E</p>
 </td>
 </tr>
 </tbody>
