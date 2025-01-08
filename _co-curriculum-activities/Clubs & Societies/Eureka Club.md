@@ -60,9 +60,6 @@ and Mathematics (STEM) Applied Learning Programme (ALP).</p>
 <p>Ms Adelene Guo (Overall Teacher-in-charge)</p>
 </li>
 <li>
-<p>Msm Sarabjeet Kaur (Overall Teacher-in-charge)</p>
-</li>
-<li>
 <p>Mdm Linda Tan</p>
 </li>
 <li>

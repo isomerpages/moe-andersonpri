@@ -116,7 +116,7 @@ variant: tiptap
 <p>Thursday and Friday</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Dismissal Arrangement for P1 &amp; P2 Students</p>
+<p>Dismissal Arrangement</p>
 </th>
 </tr>
 <tr>
@@ -130,13 +130,19 @@ variant: tiptap
 <p>7.30am to 1.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 - via Gate A
-<br>P2 - via Gate C (Gate E for wet weather)</p>
+<p>P1 &amp; P3 - via Gate A
+<br>P2 &amp; P4 - via Gate C
+<br>P5 &amp; P6 - via Gate E</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Students are to report to school by 7.30 am for assembly.</p>
+<p><u>Note: </u>
+<br>1) All students are to report to school by 7.30 am for morning assembly.
+<br>2) Wet weather dismissal arrangement
+<br>- P1 to P3 students will be dismissed via Gate A
+<br>- P4 to P6 students will be dismissed via Gate E</p>
+<p></p>
 <h4><strong>General Office Operating Hours</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
