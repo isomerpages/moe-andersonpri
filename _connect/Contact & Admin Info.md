@@ -137,7 +137,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Students are to report to school by 7.30am for assembly.</p>
+<p><u>Note: </u>
+<br>1) All students are to report to school by 7.30 am for morning assembly.
+<br>2) Wet weather dismissal arrangement
+<br>- P1 to P3 students will be dismissed via Gate A
+<br>- P4 to P6 students will be dismissed via Gate E</p>
+<p></p>
 <h4><strong>General Office Operating Hours</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
