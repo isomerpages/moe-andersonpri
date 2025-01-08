@@ -116,7 +116,7 @@ variant: tiptap
 <p>Thursday and Friday</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Dismissal Arrangement for P1 &amp; P2 Students</p>
+<p>Dismissal Arrangement</p>
 </th>
 </tr>
 <tr>
