@@ -97,7 +97,7 @@ variant: tiptap
 <p>Mdm Goh So Fang (Nancy)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:go_so_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">go_so_fang@moe.edu.sg</a>
+<p><a href="mailto:goh_so_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">goh_so_fang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
