@@ -49,7 +49,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 <p style="text-align: center;"><strong>At Anderson Primary School, the following Sexuality Education lessons are taught in <u>2025</u>:</strong>
 
-</p><p style="text-align: center;"><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong>
+</p><p style="text-align: center;"><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 
 </p><p style="text-align: center;"><strong>PRIMARY 5</strong>
 
@@ -128,5 +128,4 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 <li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://go.gov.sg/optoutsexed2025" target="_blank" rel="noopener">here</a>. The completed opt-out form is to be submitted by 24/01/2025.</li>
 </ol>
 <ol start="10">
-<li>Parents can contact the school at&nbsp;<a href="mailto:anderson_ps@moe.edu.sg" target="">anderson_ps@moe.edu.sg</a>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</li>
-</ol></b>
+<li>Parents can contact the school at&nbsp;<a href="mailto:anderson_ps@moe.edu.sg" target="">anderson_ps@moe.edu.sg</a>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</li></ol></b>
