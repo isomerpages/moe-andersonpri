@@ -1,5 +1,5 @@
 ---
-title: Sexuality Education 2024
+title: Sexuality Education 2025
 permalink: /departments/cce/sexualityeducation2024/
 description: ""
 third_nav_title: CCE
@@ -13,9 +13,9 @@ variant: markdown
 
 	(a) Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.  
 	
-	(b) Guide students to make wise, informed and responsible decisions on sexuality matters
+	(b) Guide students to make wise, informed and responsible decisions on sexuality matters.
 	
-	(c) Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society
+	(c) Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
 <br>
 
 
@@ -32,7 +32,7 @@ variant: markdown
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-#### Overview of Anderson Primary School's Sexuality Education Programme for 2024
+#### Overview of Anderson Primary School's Sexuality Education Programme for 2025
 
 4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 <br>
@@ -43,13 +43,13 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
  
 <h5><strong><u>Sexuality Education Lessons:</u></strong></h5>
 
-6.  The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources. 
+6.  The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 <br>
-7.  Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexually matters.
+7.  Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks
 
-<p style="text-align: center;"><strong>At Anderson Primary School, the following Sexuality Education lessons are taught in <u>2024</u>:</strong>
+<p style="text-align: center;"><strong>At Anderson Primary School, the following Sexuality Education lessons are taught in <u>2025</u>:</strong>
 
-</p><p style="text-align: center;"><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong>
+</p><p style="text-align: center;"><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 
 </p><p style="text-align: center;"><strong>PRIMARY 5</strong>
 
@@ -68,28 +68,28 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 <td style="text-align: center;" width="76">Growing Years</td>
 <td style="text-align: center;" width="68">The Changes in Me <br><br> (60 min)<br><br></td>
 <td style="text-align: center;" width="139">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one's identity need be negatively affected, even when one's body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. </td>
-<td style="text-align: center;" width="156">Term 2</td>
+<td style="text-align: center;" width="156">Term 1 Week 9</td>
 </tr>
 
 <tr>
 <td style="text-align: center;" width="76">Growing Years</td>
 <td style="text-align: center;" width="68">Did You Know? <br><br> (60 min)</td>
 <td style="text-align: center;" width="139">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>'Stop-Think-Do'</b>.  <br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-<td style="text-align: center;" width="156">Term 2</td>
+<td style="text-align: center;" width="156">Term 1 Week 10</td>
 </tr>
 
 <tr>
 <td style="text-align: center;" width="76">Growing Years</td>
 <td style="text-align: center;" width="68">Keeping Myself Safe <br><br>(60 min)</td>
 <td style="text-align: center;" width="139">In this lesson, students will learn about sexual abuse, how it can happen online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  </td>
-<td style="text-align: center;" width="156">Term 3</td>
+<td style="text-align: center;" width="156">Term 2 Week 4</td>
 </tr>
 	
 </tbody>
 </table>
 	
 
-</p><p style="text-align: center;"><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong>
+</p><p style="text-align: center;"><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 
 </p><p style="text-align: center;"><strong>PRIMARY 6</strong>
 
@@ -107,14 +107,14 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 <td style="text-align: center;" width="76">Growing Years</td>
 <td style="text-align: center;" width="68">Are We More than Friends?<br> <br>Lesson 1 <br><br> (60 min)</td>
 <td style="text-align: center;" width="139">In this lesson, students will learn to distinguish between the characteristics of love and infatuation. They will recognise that experiencing the feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
-<td style="text-align: center;" width="156">Term 1</td>
+<td style="text-align: center;" width="156">Term 1 Week 9</td>
 </tr>
 
 <tr>
 <td style="text-align: center;" width="76">Growing Years</td>
 <td style="text-align: center;" width="68">Are We More than Friends?<br> <br>Lesson 2<br><br>(60 min)</td>
 <td style="text-align: center;" width="139">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
-<td style="text-align: center;" width="156">Term 1</td>
+<td style="text-align: center;" width="156">Term 1 Week 10</td>
 </tr>
 	
 </tbody>
@@ -125,8 +125,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 <li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
 </ol>
 <ol start="9">
-<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://go.gov.sg/optoutsexed2024" target="_blank" rel="noopener">here</a>. The completed opt-out form is to be submitted by 19/01/2024.</li>
+<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://go.gov.sg/optoutsexed2025" target="_blank" rel="noopener">here</a>. The completed opt-out form is to be submitted by 24/01/2025.</li>
 </ol>
 <ol start="10">
-<li>Parents can contact the school at&nbsp;<a href="mailto:anderson_ps@moe.edu.sg" target="">anderson_ps@moe.edu.sg</a>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</li>
-</ol></b>
+<li>Parents can contact the school at&nbsp;<a href="mailto:anderson_ps@moe.edu.sg" target="">anderson_ps@moe.edu.sg</a>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</li></ol></b>
