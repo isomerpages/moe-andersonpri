@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education 2025
-permalink: /departments/cce/sexualityeducation2024/
+permalink: /departments/cce/sexualityeducation2025/
 description: ""
 third_nav_title: CCE
 variant: tiptap
