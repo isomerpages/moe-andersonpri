@@ -46,9 +46,9 @@ variant: markdown
 </ul>
 <p><strong>Handphones</strong></p>
 <ul>
-<li>The handphones should be switched off during curriculum time.</li>
-<li>Handphones should be used only for important communication with parents / guardians after permission is sought.</li>
-<li>Handphones should not be used for video recording/ photography purposes, unless permission is granted by teachers.</li>
+<li>The use of smartphones and smartwatches is strictly prohibited during school hours, including curriculum time, recess, and after school programmes.</li>
+<li>Students are discouraged to bring their phones to school. Those who need to bring these devices to school are required to switch them off and store them securely in their bags throughout the day. The school will not be responsible for any loss of these items.</li>
+<li>Handphones should be used only for important communication with parents / guardian after permission is sought.</li>
 </ul>
 <p><strong>Canteen</strong></p>
 <ul>
