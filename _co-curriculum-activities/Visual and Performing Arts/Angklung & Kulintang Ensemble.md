@@ -69,4 +69,10 @@ spirit of excellence in all they do.</p>
 <p>Ms Lin Ruoting</p>
 </li>
 </ul>
+<h4><strong>Achievements</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF 2024 Accomplishment award</p>
+</li>
+</ul>
 <p></p>
