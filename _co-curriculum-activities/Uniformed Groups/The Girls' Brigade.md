@@ -5,29 +5,27 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<p>The 22nd Girls’ Brigade (GB) Company started in Anderson Primary School
-in 2020. The CCA aims to develop character and skills so that the girls
-can achieve their fullest potential through positive character-based teachings
-and activities. In addition, we aim to equip, empower and enable every
-girl to be a leader.&nbsp;</p>
-<p>Self-discipline is the cornerstone of the Girls’ Brigade. Through regular
-drill sessions, we instill the value of self-discipline to develop leadership
-traits in the girls who will lead their peers by example in school and
-at home.</p>
-<p>GB offers&nbsp;our girls a wholesome learning experience and an all-rounded
-programme that includes formal and informal activities. GB provides abundant
-opportunities for the girls to form supportive friendships and to guide
-their juniors. It is a good platform to develop in them our school values,
-SEL Competencies, and character building, as well as opportunities to hone
-their leadership skills through fun-filled and meaningful activities. Other
-positive traits of self-respect, grooming and teamwork are also inculcated
-through the structure of a Uniformed Group (UG) and the award of badges.
-The girls learn essential moral values to cultivate a heart to serve through
-community service.</p>
-<p>The highlights of the 22nd Girls’ Brigade Company will include values-anchored
-lessons, reflections, parades, drills, games, badge work, learning journeys,
-community service and camps. They will also take part in school events
-and HQ events such as Brigade Knowledge, Fast Food &amp; Fuzz Experience
+<p>The 22nd Girls’ Brigade (GB) Company began at Anderson Primary School
+in 2020. The goal of the 22P Coy is to help Girls grow and develop their
+skills so they can reach their full potential through positive teachings
+and activities. We also want to help each Girl become a leader.</p>
+<p>Self-discipline is very important in the Girls’ Brigade. Through regular
+drill sessions, we teach the value of self-discipline, which helps Girls
+develop leadership skills. They learn to lead self and others by being
+good examples at school and at home.</p>
+<p>The GB offers a well-rounded experience with many activities, both formal
+and informal. Girls have the chance to make supportive friendships and
+help their younger peers. Our 22P Coy reinforces our school values, fosters
+social-emotional skills, and helps build character. It also provides chances
+to practise leadership through fun activities. Other important traits like
+self-respect, grooming, and teamwork are learned through being part of
+a Uniformed Group (UG) and earning badges. The Girls also learn moral values
+by participating in community service such as the Girls' Brigade Friend
+in Deed project.</p>
+<p>The highlights of the 22P Coy include lessons based on values, reflections,
+parades, practice sessions, games, badge work, outdoor learning experiences,
+community service, and camps. The Girls will also join school events and
+special HQ events like Brigade Knowledge, Fast Food &amp; Fuzz Experience,
 and GB Friendship Day.</p>
 <h4><strong>Schedule</strong></h4>
 <table style="minWidth: 100px">
@@ -67,8 +65,7 @@ and GB Friendship Day.</p>
 <p>1.30 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Library Stage/ Classroom
-<br>Courtyard (outside Art Rooms)</p>
+<p>Mini Theatrette</p>
 </td>
 </tr>
 </tbody>
@@ -83,6 +80,39 @@ and GB Friendship Day.</p>
 </li>
 <li>
 <p>Ms Loh Cheng Hwan</p>
+</li>
+</ul>
+<h4><strong>Achievements</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>2021 LGT Challenge (Silver)</p>
+</li>
+<li>
+<p>2021 LGT Challenge (Bronze)</p>
+</li>
+<li>
+<p>2021 Company Award (Bronze)</p>
+</li>
+<li>
+<p>2022 Company Award (Silver)</p>
+</li>
+<li>
+<p>2022 JBB Girls (Selene Yang, Lim Yong En)</p>
+</li>
+<li>
+<p>2022 Music Drill (Bronze, Silver)</p>
+</li>
+<li>
+<p>2023 Company Award (Bronze)</p>
+</li>
+<li>
+<p>2023 JBB Girls (Erika, Chloe, Tanya)</p>
+</li>
+<li>
+<p>2024 LGT Challenge (Gold)</p>
+</li>
+<li>
+<p>2024 LGTC Top in Write</p>
 </li>
 </ul>
 <p></p>
