@@ -5,13 +5,38 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>Anderson Art Club welcomes all with an interest in drawing, painting and
-craft making to be part of a quality art programme to realise the joy of
-art making. Students get to experiment with a wide variety of materials,
-gain deeper understanding of elements of art and principles of design,
-and work together on projects and exhibitions. At the recent AMK Hub Recycling
-Competition 2018, one of the Art Club’s upcycled creations titled 'Chandelier'
-has been awarded the first prize in the competition.</p>
+<p>Visual Voices aspires to be a student-led art club that provides a platform
+for young artists to express themselves, share their perspectives, and
+showcase their creativity. Our mission is to amplify student voices, promote
+creativity, and foster a sense of community through art.</p>
+<p>We lead our members in</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Student Leadership Team: guiding the club's direction and activities</p>
+</li>
+<li>
+<p>Artistic Development: exploring various mediums and techniques</p>
+</li>
+<li>
+<p>Community Engagement: participating in events and exhibitions</p>
+</li>
+<li>
+<p>Social Responsibility: collaborating with organizations to make a positive
+impact.</p>
+</li>
+</ul>
+<p>We are proud to achieve these recent successes that reinforce our mission.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Special Mention in the 2023 Singapore Youth Festival Art Exhibition</p>
+</li>
+<li>
+<p>Community service project with Green Sproutz's Project Warmth, creating
+upcycling crafts for seniors at St Luke's Home.</p>
+</li>
+</ul>
+<p>Together, let's create a vibrant community that celebrates the power of
+art to inspire, educate, and uplift.</p>
 <h4><strong>Schedule</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -50,7 +75,7 @@ has been awarded the first prize in the competition.</p>
 <p>1.30 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Room 1 &amp; 2</p>
+<p>Art Rooms</p>
 </td>
 </tr>
 </tbody>
