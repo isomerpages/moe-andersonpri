@@ -5,11 +5,12 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>Our Dance troupe is open to Primary 2 to Primary 6 students who have a
-passion for dance. Students will learn the techniques and performance skills
-that enable them to develop good physical coordination, and poise in movement
-and form. They will have the opportunities to take part in school events
-and outdoor performances.&nbsp;</p>
+<p>Anderson Primary School Dance Ensemble is dedicated to nurturing a passion
+for dance among students from Primary 2 to Primary 6. Through comprehensive
+trainings, the ensemble aims to equip students with essential dance techniques
+and performance skills, fostering physical coordination, poise, and confidence.
+Members will also have opportunities to showcase their talents at school
+events and external performances, building their stage presence and teamwork</p>
 <h4><strong>Schedule</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -83,6 +84,12 @@ and outdoor performances.&nbsp;</p>
 </li>
 <li>
 <p>Mdm Sabariah (Sem 2 onwards)</p>
+</li>
+</ul>
+<h4><strong>Achievements</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF 2024 Accomplishment Award</p>
 </li>
 </ul>
 <p></p>
