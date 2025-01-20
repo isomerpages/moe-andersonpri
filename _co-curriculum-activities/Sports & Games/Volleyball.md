@@ -5,14 +5,11 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<p>Our volleyball teams consist of P3 to P6 students. Our students are trained
-by our professional and well-accredited coaches to equip them to play at
-a competitive level to take part in various volleyball competitions such
-as the North Zone Inter-Primary Schools Volleyball Championship and National
-Volleyball Championship. Our coaches focus on teaching various aspects
-of volleyball skills so that the students are proficient in a wide repertoire
-of offensive and defensive skills. As a result of this methodical approach,
-our teams have done well over the years.</p>
+<p>We focus on both the technical and personal development of students. Balancing
+skill-building with character development not only helps students improve
+in their sport but also shapes them as individuals. Having professional
+and well-accredited coaches ensures our teams receive high-quality training,
+while also maintaining a safe and supportive environment for them to thrive.</p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -23,7 +20,7 @@ our teams have done well over the years.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2023</p>
+<p>2024</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Volleyball (Girls)</p>
@@ -38,10 +35,10 @@ our teams have done well over the years.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Tier 3: 8th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd Runner Up of Tier 2</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -50,10 +47,10 @@ our teams have done well over the years.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion of Tier 2</p>
+<p>Tier 2: 4th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st Runner Up of Tier 2</p>
+<p>Tier 2: 2nd</p>
 </td>
 </tr>
 </tbody>
@@ -98,7 +95,7 @@ our teams have done well over the years.</p>
 <p>1.30 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH Level 4</p>
+<p>ISH</p>
 </td>
 </tr>
 </tbody>
