@@ -25,16 +25,6 @@ creativity, and foster a sense of community through art.</p>
 impact.</p>
 </li>
 </ul>
-<p>We are proud to achieve these recent successes that reinforce our mission.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Special Mention in the 2023 Singapore Youth Festival Art Exhibition</p>
-</li>
-<li>
-<p>Community service project with Green Sproutz's Project Warmth, creating
-upcycling crafts for seniors at St Luke's Home.</p>
-</li>
-</ul>
 <p>Together, let's create a vibrant community that celebrates the power of
 art to inspire, educate, and uplift.</p>
 <h4><strong>Schedule</strong></h4>
@@ -90,6 +80,12 @@ art to inspire, educate, and uplift.</p>
 </li>
 <li>
 <p>Ms Loke Mei Yen</p>
+</li>
+</ul>
+<h4><strong>Achievements</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>2023 SYF Category C Art Exhibition (Special Mention)</p>
 </li>
 </ul>
 <p></p>
