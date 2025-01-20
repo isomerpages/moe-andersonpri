@@ -67,7 +67,7 @@ and Mathematics (STEM) Applied Learning Programme (ALP).</p>
 </li>
 </ul>
 <h4><strong>Achievements</strong></h4>
-<p><strong>2024 National Robotics Competition </strong>
+<p><strong>2024 National Robotics Competition</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
