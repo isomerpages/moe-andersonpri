@@ -7,10 +7,10 @@ variant: tiptap
 ---
 <p>As football is a team sport, our P3 to P6 students will not only learn
 playing techniques, they will also learn important values like sportsmanship,
-teamwork and self-discipline. We aim to&nbsp;train and equip our students
-with the techniques to play the game skilfully at their own comfortable
-pace. We emphasise more on the learning process and character development
-of each of our students so as to ensure that he graduates from our school
+teamwork and self-discipline. We aim to train and equip our students with
+the techniques to play the game skilfully at their own comfortable pace.
+We emphasise more on the learning process and character development of
+each of our students so as to ensure that he graduates from our school
 a better person and a more skilful football player than he was when he
 first joined us.</p>
 <h4><strong>Achievements</strong></h4>
@@ -25,7 +25,7 @@ first joined us.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>2023</p>
+<p>2024</p>
 </th>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ first joined us.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North Zone Top 8</p>
+<p>Tier 1 Champion (Girls)</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ first joined us.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st Runner Up of Tier 1</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -75,10 +75,10 @@ first joined us.</p>
 <p>Thursday &amp; Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30 pm to 5.00 pm</p>
+<p>3.00 pm to 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Field</p>
+<p>School Field</p>
 </td>
 </tr>
 </tbody>
@@ -89,13 +89,13 @@ first joined us.</p>
 <p>Mr Merrill Leong (Overall Teacher-in-charge)</p>
 </li>
 <li>
+<p>Mdm Wong Mei Ting</p>
+</li>
+<li>
 <p>Mdm Siti Suraidah</p>
 </li>
 <li>
 <p>Mr Edmund Liang</p>
-</li>
-<li>
-<p>Mdm Wong Mei Ting</p>
 </li>
 <li>
 <p>Ms Danisha</p>
