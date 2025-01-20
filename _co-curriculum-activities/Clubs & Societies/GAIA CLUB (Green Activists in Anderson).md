@@ -5,13 +5,12 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<p>Green Activists In Anderson (formerly known as Green Club) is an environmental
-conscious group formed in 2003. It promotes awareness of green issues and
-encourages students to take actions on environmental issues at school and
-community levels. In nurturing young Green Activists, the club hopes they
-will play an active role in caring for our environment, and teaching others
-how to do their part in protecting Mother Earth.</p>
-<p>To see the Anderson&nbsp;Environmental Policy, please click&nbsp;<a href="/files/APS%20Environment%20Policy.pdf" rel="noopener" target="_blank">here</a>.</p>
+<p>The G.A.I.A.(Green Activists In Anderson) club is an environmental club
+which promotes the awareness of green issues among the school and its community.
+Its members take ownership of the current environmental issues and aim
+to be good stewards of the environment. The club’s green activists are
+actively involved in caring for our environment and is committed to educate
+others how to do their part in protecting Mother Earth.</p>
 <h4><strong>Schedule</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -50,7 +49,7 @@ how to do their part in protecting Mother Earth.</p>
 <p>1.30 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6.5 Classroom</p>
+<p>P6.6 Classroom</p>
 </td>
 </tr>
 </tbody>
@@ -65,6 +64,16 @@ how to do their part in protecting Mother Earth.</p>
 </li>
 <li>
 <p>Mdm Goh Yan Qi</p>
+</li>
+</ul>
+<h4><strong>Achievements</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>2023 and 2024 Vanda Miss Joaquim Award by the Singapore Environment Council</p>
+</li>
+<li>
+<p>2024 Community in Nature Schools Award (Merit) by NParks</p>
+<p></p>
 </li>
 </ul>
 <p></p>
