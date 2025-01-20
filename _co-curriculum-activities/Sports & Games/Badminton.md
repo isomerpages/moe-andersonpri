@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<p>Students learn the various aspects of badminton playing. They are trained
-by a professional coach engaged by the school. Members will be put through
-a rigorous regime of training and practice. This will enable them to acquire
-the required technical skills of badminton playing and stay in shape. They
-will also be introduced to various tactics and mental skills to perform
-effectively and efficiently especially during competitions.</p>
+<p>Through the CCA, our P3 - P6 students will learn the various aspects of
+badminton. CCA members will be put through a rigorous regime of training
+and practice. This will enable them to acquire the required technical and
+cognitive skills of badminton. In addition, members will also be introduced
+to various tactical and mental skills to prepare them to perform effectively
+and efficiently during training and competition.</p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -21,7 +21,7 @@ effectively and efficiently especially during competitions.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2023</p>
+<p>2024</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Badminton (Girls)</p>
@@ -36,10 +36,10 @@ effectively and efficiently especially during competitions.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North Zone Top 8</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North Zone 3rd Placing</p>
+<p>League 2, 4th</p>
 </td>
 </tr>
 <tr>
@@ -48,18 +48,10 @@ effectively and efficiently especially during competitions.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion of Tier 4 Doubles:
-<br>
-<br>o Li Zi Qi (5.1)
-<br>o Tang Linxinyu (4.1)</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion of Tier 2 Singles: Ethan Lim Yi Jya (4.6)
-<br>
-<br>Champion of Tier 3 Doubles:
-<br>
-<br>o Fong Chan Yuen, Reagan (4.2)
-<br>o Tan Kah Shing, Lucas (5.4)</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
@@ -102,7 +94,7 @@ effectively and efficiently especially during competitions.</p>
 <p>1.30 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH/ Hall</p>
+<p>School Hall</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +108,7 @@ effectively and efficiently especially during competitions.</p>
 <p>1.30 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH/ Hall</p>
+<p>ISH</p>
 </td>
 </tr>
 </tbody>
@@ -134,12 +126,6 @@ effectively and efficiently especially during competitions.</p>
 </li>
 <li>
 <p>Ms Danielle Tan</p>
-</li>
-<li>
-<p>Mr Izzuddin</p>
-</li>
-<li>
-<p>Mdm Rachel Cheng</p>
 </li>
 </ul>
 <p></p>
