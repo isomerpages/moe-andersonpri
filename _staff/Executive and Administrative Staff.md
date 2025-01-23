@@ -28,19 +28,19 @@ variant: markdown
 <td style="text-align: left;"><a href="mailto:seah_chu_hwei@moe.edu.sg" target="">seah_chu_hwei@moe.edu.sg</a></td>
 </tr>
 	<tr>
-<td style="text-align: left;">Ms Lim Yee Leng <br>MSO </td>
+<td style="text-align: left;">Ms Lim Yee Leng <br>CSO </td>
 <td style="text-align: left;"><a href="mailto:lim_yee_leng@moe.edu.sg" target="">lim_yee_leng@moe.edu.sg</a></td>
 </tr>
 		<tr>
-<td style="text-align: left;">Ms Shasha Siti Noraini <br>MSO </td>
+<td style="text-align: left;">Ms Shasha Siti Noraini <br>CSO </td>
 <td style="text-align: left;"><a href="mailto:shasha_siti_noraini_maon@moe.edu.sg" target="">shasha_siti_noraini_maon@moe.edu.sg</a></td>
 </tr>
 		<tr>
-<td style="text-align: left;">Mdm Chew Poh Choo <br>MSO </td>
+<td style="text-align: left;">Mdm Chew Poh Choo <br>CSO </td>
 <td style="text-align: left;"><a href="mailto:Chew_poh_choo_a@moe.edu.sg" target="">chew_poh_choo_a@moe.edu.sg </a></td>
 </tr>
 		<tr>
-<td style="text-align: left;">Ms Diana Neo Siew Hong <br>MSO </td>
+<td style="text-align: left;">Ms Diana Neo Siew Hong <br>CSO </td>
 <td style="text-align: left;"><a href="mailto:neo_siew_hong@moe.edu.sg" target="">neo_siew_hong@moe.edu.sg </a></td>
 </tr>
 		<tr>
