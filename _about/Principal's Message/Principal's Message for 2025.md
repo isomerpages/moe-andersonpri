@@ -14,9 +14,9 @@ us as we continue to grow and excel together.</p>
 the Future” and uphold the values encapsulated in our guiding philosophy,
 the “School of LIGHT”:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Learn Unceasingly</strong>,<br>
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Gratitude</strong>,<br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Innovation</strong>,<br>
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Hand in Hand</strong>,
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Gratitude</strong>,<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Hand-in-hand</strong>,
 and<br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Trustworthiness</strong>.</p>
 <p>I believe in the principle of “<strong>先做人再做事</strong>” (“First develop
