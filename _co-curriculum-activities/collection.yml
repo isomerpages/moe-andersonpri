@@ -2,10 +2,10 @@ collections:
   co-curriculum-activities:
     output: true
     order:
-      - Visual and Performing Arts/Art Club.md
+      - Visual and Performing Arts/Visual Voices (Art Club).md
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/Angklung & Kulintang Ensemble.md
-      - Visual and Performing Arts/Brass Band.md
+      - Visual and Performing Arts/Brass Band & Percussion.md
       - Visual and Performing Arts/Dance Ensemble.md
       - Visual and Performing Arts/Guitar Ensemble.md
       - Visual and Performing Arts/Guzheng Ensemble.md

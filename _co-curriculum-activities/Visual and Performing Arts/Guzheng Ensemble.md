@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>Our Guzheng Ensemble was formed in 2001. The ensemble strives to grow
-in strength and has won several accolades in various local and International
-competitions. The ensemble also performs regularly in community events,
-sharing Guzheng’s unique brand of music to its appreciative audience. In
-2018, our Guzheng Ensemble received the Distinction award in the SYF 2018
-Arts Presentation.</p>
+<p>Our Guzheng Ensemble was formed in 2001. Since then it has grown in strength
+and has won several accolades in various competitions. Besides learning
+to play this enchanting ancient Chinese pluck string instrument, the CCA
+aims to develop musicality, teamwork and cultural appreciation through
+the ensemble while sharing Guzheng’s unique brand of music to its appreciative
+audience.</p>
 <h4><strong>Schedule</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -46,10 +46,10 @@ Arts Presentation.</p>
 <p>P3 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 pm to 4.30 pm</p>
+<p>1.30 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guzheng Room</p>
+<p>Guzheng Room, Mini Theatrette</p>
 </td>
 </tr>
 </tbody>
@@ -66,7 +66,13 @@ Arts Presentation.</p>
 <p>Mdm Xia Shanna</p>
 </li>
 <li>
-<p>Ms Thio Puan Kin</p>
+<p>Ms Leng Yip Jean</p>
+</li>
+</ul>
+<h4><strong>Achievements</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF 2024 Distinction Award</p>
 </li>
 </ul>
 <p></p>

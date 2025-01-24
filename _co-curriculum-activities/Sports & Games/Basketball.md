@@ -5,13 +5,14 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<p>Anderson Basketball Team provides opportunity for students to develop
-the fundamental skills of basketball playing and instill in them good values
-and values such as discipline, respect and sportsmanship. Our students
-are drawn from P3 to P6. They are trained by accredited basketball coaches.
-Over the years, we are able to achieve success at various competitions
-such as the North Zone Inter-Primary Schools Basketball Championship and
-the National Basketball Championship.</p>
+<p>Basketball, being a team-oriented sport, offers our P3 to P6 students
+will not only learn playing techniques, but also essential values such
+as sportsmanship, teamwork, and perseverance. We aim to develop our students'
+skills at a pace that suits their individual progress, allowing them to
+play the game confidently and competently. Our focus is on the learning
+journey and character development of each student, ensuring that they leave
+our school not only as knowledgable basketball players but also as more
+responsible, respectful, and disciplined individuals.</p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -22,7 +23,7 @@ the National Basketball Championship.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2023</p>
+<p>2024</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Basketball (Girls)</p>
@@ -37,10 +38,10 @@ the National Basketball Championship.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in the North Zone Senior Girls Basketball Competition</p>
+<p>League 1, Top 12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in the North Zone Senior Boys Basketball Competition</p>
+<p>League 6, Top 4</p>
 </td>
 </tr>
 <tr>
@@ -49,10 +50,10 @@ the National Basketball Championship.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st Runner Up of Tier 1</p>
+<p>Tier 1, Top 8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion of Tier 2</p>
+<p>Tier 1</p>
 </td>
 </tr>
 </tbody>
@@ -99,17 +100,22 @@ the National Basketball Championship.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Friday</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Boys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.30 pm to 3.30 pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Basketball Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.00pm - 5.00pm</p>
 </td>
 </tr>
 </tbody>
@@ -120,7 +126,7 @@ the National Basketball Championship.</p>
 <p>Mdm Jumiati Mohd Sidek (Overall Teacher-in-charge)</p>
 </li>
 <li>
-<p>Mr Soo Jia Qing</p>
+<p>Mr Ramesh</p>
 </li>
 <li>
 <p>Mr Peter Toh</p>
@@ -129,7 +135,7 @@ the National Basketball Championship.</p>
 <p>Mdm Cheong Hwee Hua</p>
 </li>
 <li>
-<p>Mr Ramesh</p>
+<p>Mr Soh Jia Qing</p>
 </li>
 </ul>
 <p></p>

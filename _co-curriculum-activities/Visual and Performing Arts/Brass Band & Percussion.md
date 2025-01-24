@@ -1,5 +1,5 @@
 ---
-title: Brass Band
+title: Brass Band & Percussion
 permalink: /curriculum/co-curriculum-activities-cca/performing-arts/brass-band/
 description: ""
 third_nav_title: Visual and Performing Arts
@@ -9,9 +9,9 @@ variant: tiptap
 environment where our students can learn, grow and excel. We are constantly
 looking for ways to create the best musical experiences for our students
 so that they will treasure the time they spend with the Brass Band and
-grow their passion in music. Our Brass Band has received the Distinction
-Award for the third consecutive season at the SYF 2018 Arts Presentation
-(Brass Bands).</p>
+grow their passion in music. We are a band with pride, ever striving to
+become a band of excellence, both in musical achievements and tenacity
+in character.</p>
 <p><strong><u>Our Band Vision<br></u></strong>We are a band with pride, ever
 striving to become a band of excellence, both in musical achievements and
 tenacity in character.</p>
@@ -60,11 +60,10 @@ and character
 <p>P2 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.45 pm to 3.45 pm</p>
+<p>1.30 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Band Room/
-<br>Aesthetics Room 1
+<p>Band Room, AR1, Dance Studio, DSA Rooms
 <br>
 </p>
 </td>
@@ -77,11 +76,10 @@ and character
 <p>P3 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.45 pm to 3.45 pm</p>
+<p>1.30 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Band Room/
-<br>Aesthetics Room 1</p>
+<p>Band Room, AR1, AR2</p>
 </td>
 </tr>
 </tbody>
@@ -98,7 +96,18 @@ and character
 <p>Mrs Sharon Yeo</p>
 </li>
 <li>
-<p>Ms Lai Meiyu (Sem 2 onwards)</p>
+<p>Ms Thio Puan Kin</p>
 </li>
 </ul>
+<p></p>
+<h4><strong>Achievements</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Distinction Award (Brass Band)</p>
+</li>
+<li>
+<p>SYF Distinction Award (Percussion)</p>
+</li>
+</ul>
+<p></p>
 <p></p>

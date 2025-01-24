@@ -5,15 +5,14 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>The Angklung Ensemble aims to create a fun environment where our members
-can come together to develop their passion for the arts and qualities of
-musicianship. Through our weekly practices, our members learn the importance
-of discipline and teamwork. We seek to inculcate in our members the value
-of unity and togetherness as they work with one another to perfect the
-performances. In line with our school values, the Angklung Ensemble continues
-to nurture passionate and confident players who would strive for excellence
-at every performance. In 2018, the Angklung Ensemble achieved the Accomplishment
-Award at the SYF 2018 Arts Presentation (Instrumental Ensemble).</p>
+<p>The Angklung and Kulintang Ensemble provides a vibrant and supportive
+environment where members can explore their passion for the arts and hone
+their musicianship. Through weekly practices, members not only develop
+their musical skills but also cultivate essential qualities such as discipline,
+teamwork, and a strong sense of unity. In alignment with our school’s core
+values, the ensemble remains committed to nurturing passionate and confident
+individuals who excel in both performance and character, embodying the
+spirit of excellence in all they do.</p>
 <h4><strong>Schedule</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -53,7 +52,7 @@ Award at the SYF 2018 Arts Presentation (Instrumental Ensemble).</p>
 <p>1.30 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Room 1 and 2</p>
+<p>Music Room 1 &amp; 2</p>
 </td>
 </tr>
 </tbody>
@@ -68,6 +67,12 @@ Award at the SYF 2018 Arts Presentation (Instrumental Ensemble).</p>
 </li>
 <li>
 <p>Ms Lin Ruoting</p>
+</li>
+</ul>
+<h4><strong>Achievements</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF 2024 Accomplishment award</p>
 </li>
 </ul>
 <p></p>

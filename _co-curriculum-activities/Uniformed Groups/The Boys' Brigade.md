@@ -10,7 +10,7 @@ variant: tiptap
 2 teachers in 2019. Mr. Louis Seng is the Company Captain and Mr Li Wencong
 is the Chaplin. The first batch of 20 Primary 3 Boys were enrolled in 2020.
 Currently, Mr William Ho is the teacher-in-charge assisted by Ms Angela
-Lee.</p>
+Lee and Mdm Ng Lih Teng.</p>
 <p>The 22J Boys’ Brigade Company offers a unique opportunity for Boys to
 experience a programme designed for holistic development outside a classroom
 environment – with a strong emphasis on discipline and character development.

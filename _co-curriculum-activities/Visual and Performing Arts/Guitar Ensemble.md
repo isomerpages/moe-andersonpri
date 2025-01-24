@@ -5,17 +5,14 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>Anderson Guitar Ensemble was set up in 2005 and is filled with enthusiastic
-learners and players under the tutelage of Mr Clarence Chan. Our ensemble
-seeks to develop students’ passion for guitar playing and enhance their
-appreciation for music.</p>
-<p>To provide greater opportunities for students to showcase their talents
-and hone their guitar playing skills,&nbsp;students&nbsp;have taken part
-in many school and public events such as public performances at Thye Hwa
-Kwan Hospital, Woodlands Regional Library, SYF Music Exchange Performance
-and our annual prize presentation ceremony. In 2018, our Guitar Ensemble
-achieved the Distinction Award at the SYF 2018 Arts Presentation (Instrumental
-Ensemble).</p>
+<p>Anderson Primary School Guitar Ensemble strives to cultivate students'
+passion for guitar learning in a conducive and safe environment, where
+students feel supported and keen to explore different musical experiences,
+broadening their understanding and enjoyment of music. Through engaging
+practices, the ensemble nurtures teamwork, perseverance, and joy in learning,
+while fostering an appreciation for music. With opportunities for both
+internal and external performances, members build confidence and take pride
+in showcasing their growth and talent.</p>
 <h4><strong>Schedule</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -71,7 +68,14 @@ Ensemble).</p>
 <p>Ms Low Li Lin</p>
 </li>
 <li>
-<p>Ms Thio Puan Kin</p>
+<p>Ms Lai Meiyu (Sem 2 onwards)</p>
 </li>
 </ul>
+<h4><strong>Achievements</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF 2024 Distinction Award</p>
+</li>
+</ul>
+<p></p>
 <p></p>
