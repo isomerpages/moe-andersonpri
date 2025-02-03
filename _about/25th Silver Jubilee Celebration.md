@@ -57,3 +57,7 @@ the knowledge, values and skills needed to thrive with confidence and compassion
 <p>Together, as a community, we will continue to nurture young minds, ignite
 curiosity and empower our students to become lifelong learners, leaders
 and changemakers who will shine brightly in the years to come.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sunbird_Logo__2.png">
+</div>
+<p></p>
