@@ -34,16 +34,28 @@ vision – “Pioneers of the Future”, which reflects our dedication to nurtur
 resilient, forward-thinking, and adaptable individuals. Rooted in our mission
 to develop learners with passion, leaders with heart, and citizens of character,
 our students embody the School of LIGHT values:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning unceasingly
-– cultivating a growth mindset and the love for lifelong learning</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Innovation – embracing
-creativity, adaptability and the courage to explore new frontiers</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gratitude – fostering
-appreciation, humility and kindness in everyday actions</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hand-in-hand – emphasizing
-collaboration, teamwork and empathy</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trustworthiness – instilling
-honesty, responsibility and reliability in all that we do</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Learning unceasingly </strong>– cultivating a growth mindset and
+the love for lifelong learning</p>
+</li>
+<li>
+<p><strong>Innovation</strong> – embracing creativity, adaptability and the
+courage to explore new frontiers</p>
+</li>
+<li>
+<p><strong>Gratitude</strong> – fostering appreciation, humility and kindness
+in everyday actions</p>
+</li>
+<li>
+<p><strong>Hand-in-hand</strong> – emphasizing collaboration, teamwork and
+empathy</p>
+</li>
+<li>
+<p><strong>Trustworthiness</strong> – instilling honesty, responsibility and
+reliability in all that we do</p>
+</li>
+</ul>
 <p>These values are reinforced by our school motto, “Courage, Sincerity”,
 which inspires Andersonians to act with bravery and integrity. Representing
 our school spirit is the Anderson Sunbird, our beloved school mascot. The
