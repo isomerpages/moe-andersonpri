@@ -17,9 +17,6 @@ of learners and leaders.&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Mirrors of Light—Reflecting Our Past, Illuminating the Future</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="Our Silver Jubilee is more than just a celebration; it is a tribute to the dedication of our teachers, the achievements of our students, and the unwavering support of our families and community. Inspired by the theme Mirrors of Light, we honour the brilliance of our shared journey—capturing the legacy of our past while illuminating the path ahead. Just as mirrors reflect and" src="/images/Picture1.png">
-</div>
 <p>Our Silver Jubilee is more than just a celebration; it is a tribute to
 the dedication of our teachers, the achievements of our students, and the
 unwavering support of our families and community. Inspired by the theme
