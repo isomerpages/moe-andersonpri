@@ -18,7 +18,7 @@ of learners and leaders.&nbsp;</p>
 <p><strong>Mirrors of Light—Reflecting Our Past, Illuminating the Future</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Test_Sample_3A__2_.jpg">
 </div>
 <p>Our Silver Jubilee is more than just a celebration; it is a tribute to
 the dedication of our teachers, the achievements of our students, and the
