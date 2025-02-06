@@ -4,9 +4,6 @@ permalink: /about/our-directional-statements/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_School_VMV_2023.png">
-</div>
 <h4><strong>School Vision</strong></h4>
 <p>Pioneers of the Future</p>
 <h4><strong>School Mission</strong></h4>
