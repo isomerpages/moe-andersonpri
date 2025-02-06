@@ -18,9 +18,7 @@ variant: tiptap
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Mdm%20Hoo%20Honorary%20Secretary.jpg">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -34,8 +32,7 @@ variant: tiptap
 <br>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Delia Hoo
-<br>Honorary Secretary</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Low Wing Li Gary
