@@ -139,12 +139,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/white_BG.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/white_BG.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/white_BG.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/white_BG.png">
 </div>
 </td>
 </tr>
