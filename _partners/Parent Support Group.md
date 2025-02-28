@@ -21,4 +21,4 @@ variant: markdown
 
 <h4><strong>Come Join Us!</strong></h4>
 <p>We warmly invite all parents to be a member of the Parent Support Group to support the school in its programmes as well as to network with other like-minded parents!</p>
-<p>Parents who are interested to join the&nbsp;<strong>PSG@Anderson</strong>&nbsp;can register through this online form at&nbsp;<a href="https://forms.gle/nYATy29o7uiHKn9y5" target="_blank" rel="noopener">https://forms.gle/nYATy29o7uiHKn9y5/48vc9eps</a></p>
+<p>Parents who are interested to join the&nbsp;<strong>PSG@Anderson</strong>&nbsp;can register through this online form at&nbsp;<a href="https://go.gov.sg/andpspsg2025" target="_blank" rel="noopener">https://go.gov.sg/andpspsg2025</a></p>
