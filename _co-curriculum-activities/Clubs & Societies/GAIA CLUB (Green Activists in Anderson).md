@@ -73,6 +73,14 @@ others how to do their part in protecting Mother Earth.</p>
 </li>
 <li>
 <p>2024 Community in Nature Schools Award (Merit) by NParks</p>
+</li>
+<li>
+<p>2025 Outstanding Eco Impact Award by Yeap Transport
+<br>The GAIA club submitted a video for the Green Journeys and the Interschool
+Eco Challenge, organized by Yeap Transport and supported by MSE’s SG Eco
+Fund. We are happy to announce that our video on Fashion Sustainability
+won the Outstanding Eco Impact Award. This <a href="https://vimeo.com/1028820928" rel="noopener nofollow" target="_blank">video</a> was made possible by the active
+contribution of textile by our school community.</p>
 <p></p>
 </li>
 </ul>
