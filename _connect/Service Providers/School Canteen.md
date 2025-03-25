@@ -10,7 +10,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Rice     | 30 June 2025     |  Serve Chinese Rice with Assorted Dishes or Asian Cuisine Rice (Japanese/ Korean / Thai) |
+|      |      |   |
 
 
 
