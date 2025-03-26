@@ -116,7 +116,8 @@ variant: tiptap
 <li>
 <p><strong>Tips and User Guides for Parents</strong>
 </p>
-<p><a href="https://go.gov.sg/2023andpsinsurance" rel="noopener" target="_blank">Group Personal Accident Insurance for Students</a>
+<p><a href="https://go.gov.sg/mimsssprguide" rel="noopener" target="_blank">MIMS Students Self Password Reset</a>
+<br><a href="https://go.gov.sg/2023andpsinsurance" rel="noopener" target="_blank">Group Personal Accident Insurance for Students</a>
 <br><a href="https://go.gov.sg/2023andpsinsurance" rel="noopener" target="_blank">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a>
 <br><a href="https://go.gov.sg/pgtraveldeclaration" rel="noopener" target="_blank">Parents Guide for Travel Declaration on PG</a>
 <br><a href="https://go.gov.sg/pgguide" rel="noopener" target="_blank">Instructions to parents to On-board Parents Gateway</a>
