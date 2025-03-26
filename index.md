@@ -19,6 +19,9 @@ sections:
         - title: Quick Links
           description: For Students, Parents & Staff
           url: /connect/quick-links
+        - title: Quick Guide
+          description: MIMS Password Reset
+          url: https://go.gov.sg/mimsssprguide
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have a question?
