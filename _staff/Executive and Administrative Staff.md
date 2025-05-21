@@ -52,10 +52,8 @@ variant: markdown
 <td style="text-align: left;"><a href="mailto:" target=""> </a></td>
 <td style="text-align: left;"><a href="mailto:" target=""> </a></td>
 </tr>
-<tr>
-<td style="text-align: left;">Mr Juraimi (Remy)<br>OSO </td>
-<td style="text-align: left;"><a href="mailto:" target=""> </a></td>
-</tr>
+
+
 <tr>
 <td style="text-align: left;">Mdm Malar<br>OSO </td>
 <td style="text-align: left;"><a href="mailto:" target=""> </a></td>
