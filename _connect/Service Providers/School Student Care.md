@@ -20,7 +20,7 @@ or scanning the QR code below. The school will contact you if there is
 an available vacancy for your child.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_andps_sccinterestform.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_andps_sccinterestform.png">
 </div>
 <p><a href="https://go.gov.sg/andps-sccinterestform" rel="noopener" target="_blank">https://go.gov.sg/andps-scc-interestform</a>
 </p>
