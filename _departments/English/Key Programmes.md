@@ -3,21 +3,122 @@ title: Key Programmes
 permalink: /curriculum/departments/english/key-programmes/
 description: ""
 third_nav_title: English
+variant: tiptap
 ---
-<p><strong>Strategies for English Language Learning and Reading (STELLAR) Programme</strong></p>
-<p>The department adopts the STELLAR which aims to strengthen Andersonians&rsquo; foundation in literacy skills through a variety of learner-centred and developmentally appropriate pedagogical approaches.</p>
-<p>The STELLAR pedagogic frameworks for lower and upper primary:</p>
-<img style="width: 80%;" src="/images/2021%20EL%20-%20pic%201.jpg">
-<img style="width: 80%;" src="/images/2021%20EL%20-%20pic%202.jpg">
-<p><strong class="">Enacting the Modified Language Experience Approach (MLEA)</strong></p>
-<img style="width: 90%;" src="/images/2021%20EL%20-%20pic%203.jpg">
-<p><strong>EXTENSIVE READING PROGRAMME</strong></p>
-<p><strong>ANDRead &ndash; Addicted and Devoted to Reading (P1 to P6)<br /></strong>To promote the love for reading and cultivate good reading habits among Andersonians through the innovative use of technology and incentive reward badges</p>
-<p><strong>Graded Readers (P1)<br /></strong>Using curated books based on vocabulary, complexity of grammar structures and number of words, the graded readers cater to all levels from beginners through to advanced, giving each child the opportunity to develop essential skills at one&rsquo;s own pace.</p>
-<p><strong>I Love Literature (P2 to P4)<br /></strong>Age-appropriate literature texts are selected to bring about enjoyment and engagement as Andersonians learn about literary elements, deepen comprehension skills, build on vocabulary, grammar and character values through a variety of exciting, cross-curricular and life skills activities.</p>
-<p><strong>Little Red Dot (P5 to P6)<br /></strong>Upper Primary students are exposed to current affairs, both local and international, to help them understand the world around them.</p>
-<p><strong>EL WEEK<br /></strong>The annual EL Week aims to promote the learning of the English Language in a fun and interactive way through various interesting activities planned for the week. Through these activities, Andersonians have ample opportunities to hone their 21st century competencies such as communication and collaborative skills.</p>
-<img style="width: 70%;" src="/images/2021%20EL%20-%20pic%204.jpg">
-<p><strong>AUTHOR'S TALKS<br /></strong>When it comes to writing, every author has a different and unique take on his or her sources of inspiration and what makes for good writing. Authors are invited to share their writing experiences to help Andersonians learn more about the craft and techniques of creative writing.</p>
-<p><strong>PROJECT WORK (P1 to P6)<br /></strong>Project work is a platform where students have the opportunity to cooperate and collaborate with their peers. The tasks designed for each project require them to apply their knowledge to generate, develop and evaluate ideas. Each task is developed as an extension of a selected STELLAR unit.</p>
-<p><strong>COMPETITIONS<br /></strong>The department identifies opportunities for Andersonians to participate in selected competitions such as Wits and Words: Inter-school Debate Competition and YMCA Plain English Speaking Awards to further enrich their learning experiences and develop their language competencies.</p>
+<p><strong>Strategies for English Language Learning and Reading (STELLAR) Programme</strong>
+</p>
+<p>The STELLAR programme is designed to cater to a diverse range of EL learners
+to build their confidence and enhance their oral language and literacy
+development. Students are provided with opportunities to express&nbsp;themselves
+in an environment where language learning can be enjoyable and purposeful.
+By reading engaging stories in class, students get to speak extensively,
+as well as discuss and share their views with the teacher and their peers.&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250212_111546.jpg">
+</div>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240827_102147.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250210_124711.jpg">
+</div>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P2_3___Engaging_hands_on_activity.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>ANDread - Addicted and Devoted to Reading</strong>
+</p>
+<p>Our reading programme is designed to foster a love for reading and build
+good reading habits in every student.</p>
+<p>In lower primary, students start with graded readers to strengthen basic
+comprehension. At Primary 3 and 4, they explore children’s literature to
+develop critical thinking skills. By upper primary, students read news
+articles to deepen their awareness of current events and real-world issues.</p>
+<p>To enrich the experience, reading is paired with speaking activities,
+where students share their favourite books and articles with classmates.</p>
+<p>Through this progressive approach, we aim to grow confident readers, thoughtful
+thinkers and effective communicators.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ARE_8340.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Magic_Paintbrush_Performance_cropped.jpg">
+</div>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ipad_use.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>ANDventure<br></strong>ANDventure is a signature programme for
+our Primary Five Andersonians. Over the course of 10 weeks, students are
+introduced to dramatisation techniques and work collaboratively to develop
+a script based on real-world issues. Through this process, they take on
+various roles and responsibilities, from acting to stage management. The
+drama programme culminates in a vibrant showcase and celebration, where
+students proudly present their performance to an audience of peers and
+teachers. This meaningful experience nurtures creativity, teamwork, confidence
+and a deeper awareness of issues in the world around them.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Incredible_acting_by_the_students_from_5_3.jpg">
+</div>
+<p><strong>Competitions and Enrichment<br></strong>Anderson enjoy a range
+of competitions and enrichment programmes, including the Wits and Words
+Debate, Reading Circles, Creative Writing Programme, NewsMaker Awards,
+Vactors Reading Stars and Plain English Speaking Awards. These platforms
+help students develop their speaking, writing, and critical thinking skills
+while boosting their confidence. Inter- and intra-class competitions across
+various areas of language learning are regularly organised to motivate
+students to sharpen their language skills. Through these enriching experiences,
+students discover new talents, challenge themselves, and unlock their full
+potential.</p>
