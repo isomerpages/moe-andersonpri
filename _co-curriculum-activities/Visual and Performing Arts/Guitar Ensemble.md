@@ -45,7 +45,7 @@ in showcasing their growth and talent.</p>
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2 - P6</p>
+<p>P2 JAE - P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.30 pm to 3.30 pm</p>
@@ -68,7 +68,7 @@ in showcasing their growth and talent.</p>
 <p>Ms Low Li Lin</p>
 </li>
 <li>
-<p>Ms Lai Meiyu (Sem 2 onwards)</p>
+<p>Ms Lai Meiyu</p>
 </li>
 </ul>
 <h4><strong>Achievements</strong></h4>
