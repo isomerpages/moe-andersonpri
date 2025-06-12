@@ -3,16 +3,28 @@ title: Useful Links
 permalink: /curriculum/departments/english/useful-links/
 description: ""
 third_nav_title: English
+variant: tiptap
 ---
-<ul>
-<li><a href="https://www.moe.gov.sg/primary/curriculum/syllabus" target="_blank" rel="noopener">MOE Primary English Syllabus</a></li>
+<p><strong>Online English Language Learning Resources</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.nlb.gov.sg/main/site/discovereads/children" rel="noopener noreferrer nofollow" target="_blank">DiscoveReads</a>&nbsp;
+(<a href="https://www.nlb.gov.sg/main/site/discovereads/children" rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/site/discovereads/children</a>)</p>
+<p>DiscoveReads is a resource website for students, teachers and parents.
+There are book recommendations and activities which will be of interest
+to students.</p>
+</li>
+<li>
+<p><a href="https://dictionary.cambridge.org/" rel="noopener noreferrer nofollow" target="_blank">Online Dictionary</a> (
+<a href="https://dictionary.cambridge.org/" rel="noopener noreferrer nofollow" target="_blank">https://dictionary.cambridge.org/</a>)</p>
+<p>Be an independent learner - use an online dictionary to quickly find word
+meanings and improve vocabulary.</p>
+</li>
+<li>
+<p><a href="https://learnenglishkids.britishcouncil.org/" rel="noopener noreferrer nofollow" target="_blank">British Council Learn English Kids</a> (
+<a href="https://learnenglishkids.britishcouncil.org/" rel="noopener noreferrer nofollow" target="_blank">https://learnenglishkids.britishcouncil.org/</a>)</p>
+<p>Online games, songs, stories and activities for children.</p>
+</li>
 </ul>
-<ul>
-<li>Good English Language Websites</li>
-<ul>
-<li><a href="https://childrenandteens.nlb.gov.sg/book-recommendations/recommend-primary" target="_blank" rel="noopener">Primary School Book Recommendations by the National Library Board</a></li>
-<li><a href="https://eresources.nlb.gov.sg/ereads/discovereads/All" target="_blank" rel="noopener">E-books for Primary School</a></li>
-<li><a href="https://dictionary.cambridge.org/" target="_blank" rel="noopener">Online Dictionary</a></li>
-<li><a href="https://www.dogonews.com/" target="_blank" rel="noopener">News for Children</a></li>
-</ul>
-</ul>
+<p></p>
