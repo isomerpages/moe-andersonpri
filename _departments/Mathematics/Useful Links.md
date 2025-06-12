@@ -3,9 +3,24 @@ title: Useful Links
 permalink: /curriculum/departments/mathematics/useful-links/
 description: ""
 third_nav_title: Mathematics
-variant: markdown
+variant: tiptap
 ---
-<li><a href="https://www.seab.gov.sg/home/examinations/approved-calculators" target="_blank" rel="noopener">Calculators for Primary 5 and Primary 6</a></li>
-<li><a href="https://problemsums.koobits.com/" target="_blank" rel="noopener">KooBits Problem Sums Learning Portal</a>&nbsp;</li>
-<li><a href="http://www.amathsdictionaryforkids.com/" target="_blank" rel="noopener">Math Dictionary for Children</a></li>
-<li><a href="http://www.mathwords.com/" target="_blank" rel="noopener">Math Resource for Children</a></li>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://file.go.gov.sg/seab-approvedcalculators.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE approved calculators for Primary 5 and Primary 6</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.amathsdictionaryforkids.com/" rel="noopener noreferrer nofollow" target="_blank">Math Dictionary for Children</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.mathwords.com/" rel="noopener noreferrer nofollow" target="_blank">Math Resource for Children</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.mathplayground.com/" rel="noopener noreferrer nofollow" target="_blank">Math Online Games for Children</a>
+</p>
+</li>
+</ul>
+<p></p>
