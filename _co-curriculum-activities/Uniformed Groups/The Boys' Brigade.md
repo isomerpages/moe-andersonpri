@@ -83,7 +83,7 @@ find out more about the Boys' Brigade activities and events.</p>
 <p>1.30 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Library Loft/ Courtyard (outside Art Rooms)</p>
+<p>School Hall</p>
 </td>
 </tr>
 </tbody>
