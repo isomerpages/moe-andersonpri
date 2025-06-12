@@ -6,7 +6,7 @@ third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <p>Anderson Primary School Dance Ensemble is dedicated to nurturing a passion
-for dance among students from Primary 2 to Primary 6. Through comprehensive
+for dance among students from Primary 3 to Primary 6. Through comprehensive
 trainings, the ensemble aims to equip students with essential dance techniques
 and performance skills, fostering physical coordination, poise, and confidence.
 Members will also have opportunities to showcase their talents at school
@@ -43,7 +43,7 @@ events and external performances, building their stage presence and teamwork</p>
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2</p>
+<p>P2 JAE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.30 pm to 3.30 pm</p>
@@ -80,10 +80,7 @@ events and external performances, building their stage presence and teamwork</p>
 <p>Mdm Meenachi</p>
 </li>
 <li>
-<p>Ms Erfa Riizah Razi</p>
-</li>
-<li>
-<p>Mdm Sabariah (Sem 2 onwards)</p>
+<p>Mdm Sabariah</p>
 </li>
 </ul>
 <h4><strong>Achievements</strong></h4>
