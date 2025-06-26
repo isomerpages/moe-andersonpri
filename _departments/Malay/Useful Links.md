@@ -10,6 +10,10 @@ variant: tiptap
 <p><a href="https://www.moe.gov.sg/-/media/files/primary/malay-primary-2015.pdf?la=en&amp;hash=3D78EE4296AEA86D7B640415CFC0C36BCF2C391F" rel="noopener" target="_blank">MOE Primary Malay Syllabus (including Higher Malay)</a>
 </p>
 </li>
+<li>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/ml-syllabus-pri-2024.pdf</a>
+</p>
+</li>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
@@ -32,7 +36,11 @@ variant: tiptap
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf" rel="noopener" target="_blank">SEAB List of Approved Malay Dictionaries for PSLE</a>
+<p><a href="•	https://go.gov.sg/seab-approveddictionaries" rel="noopener" target="_blank">SEAB List of Approved Malay Dictionaries for PSLE</a>
+</p>
+</li>
+<li>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/seab-approveddictionaries</a>
 </p>
 </li>
 </ul>

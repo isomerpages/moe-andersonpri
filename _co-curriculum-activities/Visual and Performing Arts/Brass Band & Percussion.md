@@ -57,7 +57,7 @@ and character
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2 - P6</p>
+<p>P2 JAE - P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.30 pm to 3.30 pm</p>

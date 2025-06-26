@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - English/.keep
-      - English/Vision & Mission.md
+      - English/Aims & Approach.md
       - English/Key Programmes.md
       - English/Useful Links.md
       - Chinese/.keep

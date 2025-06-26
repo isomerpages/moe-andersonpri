@@ -5,53 +5,34 @@ description: ""
 third_nav_title: Mathematics
 variant: tiptap
 ---
-<p>Our Math programmes and learning experiences are uniquely planned and
-designed so as to develop in our students a deep understanding of mathematical
-concepts. These learning experiences include hands-on activities and the
-use of technological aids to help them relate abstract mathematical concepts
-with concrete experiences.&nbsp;</p>
+<p>Our Mathematics programmes and learning experiences are thoughtfully designed
+to nurture a deep and lasting understanding of mathematical concepts in
+our students. These experiences incorporate hands-on activities and the
+purposeful use of educational technology, enabling students to connect
+abstract ideas with real-world, concrete applications. Through this approach,
+we aim to make Mathematics engaging, meaningful, and accessible to every
+learner.</p>
 <p></p>
-<p><strong>Model-Eliciting Activities in Mathematics<br></strong>Model-Eliciting
-Activities (MEAs) are designed to develop mathematical understanding and
-competencies through the application of knowledge and skills to solve authentic
-real-world problems. Students intepret and make reasonable assumptions
-and simplifications mathematically before evaluating real-world problems.&nbsp;</p>
-<p>The following two key principles guide the design of the MEA in Mathematics;</p>
-<p>(i)&nbsp;Reality Principle: Problem posed is open-ended, meaningful and
-relevant to the students and based on real or slightly modified real data.</p>
-<p>(ii)&nbsp;Model Construction Principle: Problem allows for the creation
-of a model involving two or more variables, establishing relationships
-between the variables and deriving the patterns governing these relationships.</p>
-<p><strong>MEA in Primary 3<br></strong>Primary 3&nbsp;students investigate
-the relationship between the length of a person's foot to his/her height.
-The collective data of each group of students are plotted in Excel and
-a best-fit line is used to predict the height of 'Bigfoot'. Through this
-experience, students appreciate the value of Mathematics in everyday life
-and gain motivation in applying Mathematics.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/2021MA2.jpg">
-</div>
-<p><strong>MEA in Primary 5</strong>
-<br>Primary 5 students construct a popcorn box as one of the activities in
-'I am a Young Mathematician' card. They use the idea of optimisation, apply
-visualisation skill, spatial reasoning and geometric modelling skill to
-solve this mathematical optimisation problem.</p>
-<p><strong>PERI Holistic (HA) Assessment<br></strong>Holistic assessment
-refers to the process of using multiple sources to continually gather information
-on a child’s development, to provide feedback to support and guide learning.&nbsp;Holistic
-Assessment aims to&nbsp;support student learning and development, to build
-their confidence and desire to learn, and to better prepare them for the
-future.</p>
-<p>The assessments can take various forms such as bite-sized assessment,
-performance assessments, journals and problem solving tasks. These assessments
-will be carried out throughout the year.&nbsp;</p>
+<p><strong>Topical and Heuristics Worksheets &amp; Holistic Assessment (PERI HA)<br></strong>To
+support the development of mathematical understanding and problem-solving
+skills, our school designs topical worksheets for all levels as part of
+formative assessment and to reinforce key concepts taught during Mathematics
+lessons. In addition, a structured set of heuristics worksheets is provided
+to strengthen students’ analytical thinking and application of problem-solving
+strategies.</p>
+<p>As part of the PERI Holistic Assessment (HA) approach, we adopt a wide
+range of assessment methods—including topical worksheets, performance tasks,
+and experiential learning activities—carried out throughout the year. This
+holistic approach enables teachers to gather meaningful information on
+each student’s progress, provide targeted feedback, and nurture their confidence,
+motivation, and enjoyment of learning.</p>
 <p><strong>Learning Support Programme<br></strong>LSM&nbsp;(Learning Support
 for Mathematics) is an early intervention programme aims at providing learning
 support to students who do not have foundational numeracy skills and knowledge
 to access the Primary 1 Mathematics curriculum. A screening process is
-carried at the beginning of Primary 1 to identify the students who need
-intervention.&nbsp;</p>
-<p>In Anderson Primary School, P1 to P3 students who are in the programme
+carried out at the beginning of Primary 1 to identify the students who
+need intervention.&nbsp;</p>
+<p>In Anderson Primary School, P1 to P4 students who are in the programme
 will attend Mathematics lessons conducted by our LSM Teachers in small
 groups during curriculum hours so that greater attention can be devoted
 to each student.&nbsp;&nbsp;</p>
@@ -66,9 +47,76 @@ in topics which require visual-spatial skills as they move up the levels.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" src="/images/tnspatial.jpg">
 </div>
-<p><strong>Excellence 2000 (E2K) Programme (P5 &amp; 6) <br></strong>The
-E2K Mathematics Programme aims to develop in students mathematical reasoning
-skills and deepen their conceptual understanding through an inquiry approach.</p>
+<p><strong>Fostering 21st Century Competencies <br></strong>Initiatives were
+introduced to provide students with opportunities to develop key competencies
+for the 21st century, particularly in Critical, Adaptive, and Inventive
+Thinking (CAIT).</p>
+<p><strong>Students Learning Space (SLS) as a platform for EdTech</strong>
+<br>At our school, we leverage the Student Learning Space (SLS) as a key platform
+to enhance our Mathematics lessons. Through SLS, our pupils engage with
+interactive and tailored digital resources that complement classroom teaching,
+allowing them to explore concepts at their own pace. This integration of
+technology not only deepens their understanding of mathematical ideas but
+also encourages independent learning and critical thinking. By leveraging
+SLS, we aim to support every learner’s individual needs and foster essential
+21st-century skills in a flexible and engaging way.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sls_maths.png">
+</div>
+<p><strong>Lower Primary Math Activities Corner&nbsp;</strong>
+<br>To enhance the learning experience in Mathematics, our Lower Primary classrooms
+have introduced a Math Activities Corner. This dedicated space offers a
+range of hands-on, student-directed activities designed to reinforce important
+mathematical concepts, develop visual-spatial skills and social skills,
+promote problem-solving skills, and foster a love for the subject. Through
+these engaging tasks, students also develop key 21st-century competencies,
+particularly Critical, Adaptive, and Inventive Thinking (CAIT), in a supportive
+and enjoyable environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/lower_pri_maths.png">
+</div>
+<p><strong>P3 Problem-Based Task</strong>
+<br>A key initiative is the Primary 3 Problem-Based Task (PBT), designed using
+the Problem-Based Learning (PBL) approach. In this task, students acted
+as mathematicians, collaborating to solve open-ended problems related to
+food sustainability and environmental stewardship. They designed an eco-garden
+using multi-link cubes and explored strategies to increase carrot production
+within constraints. The task encouraged creative reasoning, fostering multiple
+solutions and an interest in mathematics while enhancing problem-solving
+skills and understanding of real-world applications.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5_maths.png">
+</div>
+<p><strong>Primary 4 Math Sustainability Trail<br></strong>The Primary 4
+students participated in the Math Sustainability Trail. The trail aimed
+at exploring the 3Rs—Recycle, Reduce, and Reuse—through mathematics. Students
+measured a recycling bin to estimate capacity, explored how to reduce tiling
+materials in the garden, and learnt about compost bins to reuse food waste.
+These hands-on activities developed observation, visualization, logical
+reasoning, and analysis skills. Working in groups, students reflected the
+school’s LIGHT values, collaborating and innovating to solve real-life
+problems. This initiative connected classroom learning with practical sustainability
+efforts, demonstrating how mathematics applies beyond the classroom to
+address real-world challenges.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p4_maths.png">
+</div>
+<p><strong>Primary 4 Math Sustainability Trail<br></strong>The Primary 4
+students participated in the Math Sustainability Trail. The trail aimed
+at exploring the 3Rs—Recycle, Reduce, and Reuse—through mathematics. Students
+measured a recycling bin to estimate capacity, explored how to reduce tiling
+materials in the garden, and learnt about compost bins to reuse food waste.
+These hands-on activities developed observation, visualization, logical
+reasoning, and analysis skills. Working in groups, students reflected the
+school’s LIGHT values, collaborating and innovating to solve real-life
+problems. This initiative connected classroom learning with practical sustainability
+efforts, demonstrating how mathematics applies beyond the classroom to
+address real-world challenges.</p>
+<p><strong>Excellence 2000 (E2K) Programme (P5 &amp; 6)</strong>
+</p>
+<p>The E2K Mathematics Programme aims to develop mathematical reasoning skills
+and deepen their conceptual understanding through an inquiry approach.</p>
 <p>Students will have opportunities to collaborate with their peers and engage
 in mathematical thinking through resources such as puzzles, games and mathematics
 explorations which are specially designed for the programme. The rich learning
@@ -77,22 +125,12 @@ the habits, attitudes and dispositions mathematicians possess, as well
 as to gain important 21st century competencies such as critical and inventive
 thinking and effective communication skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/tncubes.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_12_095555.png">
 </div>
-<p><strong>ICT-infused lessons, Model-Eliciting Activities (MEA), Topical &amp; Heuristics Worksheets&nbsp;</strong>
-<br>ICT infused lessons are designed to provide opportunities for students
-to work collaboratively, deepen their understanding of mathematical concepts
-and be self-directed Mathematics Learner.&nbsp;</p>
-<p>Topical worksheets are developed for all levels as formative assessments
-and reinforcement of concepts learnt in Mathematics lessons. A structured
-set of heuristics worksheets is designed to develop and strengthen students’
-problem-solving skills.</p>
-<p></p>
 <p><strong>Competitions</strong>
-<br>P5 and P6 students who have shown aptitude in Mathematics will be selected
-to take part in the following Mathematics competitions:
-<br>
 </p>
+<p>P5 and P6 students who have shown aptitude in Mathematics will be selected
+to take part in the following Mathematics competitions:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Asia Pacific Mathematical Olympiad for Primary Schools (APMOPS)</p>
@@ -104,13 +142,4 @@ to take part in the following Mathematics competitions:
 <p>NUS High School National Mathematical Olympiad of Singapore (NMOS)</p>
 </li>
 </ul>
-<p><strong><br>KooBits Problem Sums online portal (P1 to 6)<br></strong>Anderson
-Primary School adopts KooBits, an online learning portal for Problem Solving
-to engage students in Math learning.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/2023 Images/2023 Math Koobits Logo.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/2023 Images/2023 Math Koobits.jpg">
-</div>
 <p></p>

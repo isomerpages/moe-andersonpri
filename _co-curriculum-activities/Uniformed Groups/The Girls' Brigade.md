@@ -65,7 +65,7 @@ and GB Friendship Day.</p>
 <p>1.30 pm to 3.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mini Theatrette</p>
+<p>Mini Theatrette / School Hall</p>
 </td>
 </tr>
 </tbody>
