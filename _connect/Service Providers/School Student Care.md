@@ -193,16 +193,16 @@ an enriching, interactive and engaging after-school programme for CLS students.<
 <p>One-time registration fee: $30</p>
 </li>
 <li>
-<p>Monthly SCC fees: $240</p>
+<p>Monthly SCC fees: $250</p>
 </li>
 <li>
-<p>CLS T-shirt: $10; CLS shorts: $15</p>
+<p>CLS T-shirt: $15; CLS shorts: $15</p>
 </li>
 <li>
 <p>School holiday/ school closure surcharge: $6/day</p>
 </li>
 <li>
-<p>One month deposit fee: $240</p>
+<p>One month deposit fee: $250</p>
 </li>
 </ul>
 <h4><strong>Contact Details</strong></h4>
