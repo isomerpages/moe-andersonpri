@@ -27,7 +27,6 @@ variant: markdown
 <p><strong>Shoes</strong></p>
 <ul>
 <li>Students must wear black shoes and black school socks. The length of the socks must be above the ankle.</li>
-<li>Students with special needs (e.g. flat footed) are allowed to wear shoes recommended by doctors. In such a case, a medical certificate is required.</li>
 <li>Students who are not able to put on shoes due to injury or medical reasons must submit a letter from the parent or a medical certificate to the form teacher.</li>
 </ul>
 <p><strong>Hairstyles</strong></p>
