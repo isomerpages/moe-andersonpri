@@ -87,11 +87,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Fung Fung</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_fung_fung@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chia_fung_fung@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
