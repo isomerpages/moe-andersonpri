@@ -19,9 +19,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Vimala Ratnaraja
-<br>Year Head (Upper Primary
-<br>&amp; Covering Primary 1)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vimala_ratnaraja@moe.edu.sg" rel="noopener noreferrer nofollow" target="">vimala_ratnaraja@moe.edu.sg</a>
