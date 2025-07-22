@@ -197,10 +197,11 @@ third_nav_title: Level Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ang Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ang_kheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_kheng_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
