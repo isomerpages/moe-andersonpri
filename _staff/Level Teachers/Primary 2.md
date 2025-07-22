@@ -209,7 +209,8 @@ third_nav_title: Level Teachers
 <p>Mdm Ho Chu Huei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ho_chu_huei@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ho_chu_huei@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
