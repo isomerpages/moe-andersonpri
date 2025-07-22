@@ -60,7 +60,7 @@ third_nav_title: Level Teachers
 <br>HOD (Character &amp; Citizenship Education)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_ser_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_ser_yee@moe.edu.sg</a>
+<p><a href="mailto:cheong_mei_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheong_mei_yuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
