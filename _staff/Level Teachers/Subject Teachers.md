@@ -60,8 +60,7 @@ variant: tiptap
 <p>Mdm Wong H'sien Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_hsien_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wong_hsien_yi@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
