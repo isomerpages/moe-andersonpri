@@ -66,6 +66,15 @@ third_nav_title: Level Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Loh Marianne Karen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_marianne_karen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_marianne_karen_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Neo Guat Theng Angela</p>
 </td>
 <td rowspan="1" colspan="1">
