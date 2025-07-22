@@ -180,7 +180,8 @@ variant: tiptap
 <br>&amp; Covering Primary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:danz_tan_li_loo@moe.edu.sg" rel="noopener noreferrer nofollow" target="">danz_tan_li_loo@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
