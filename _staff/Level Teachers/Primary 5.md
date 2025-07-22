@@ -50,7 +50,8 @@ variant: tiptap
 <br>&amp; Covering Primary 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:vimala_ratnaraja@moe.edu.sg" rel="noopener noreferrer nofollow" target="">vimala_ratnaraja@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
