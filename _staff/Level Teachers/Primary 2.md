@@ -69,7 +69,8 @@ third_nav_title: Level Teachers
 <p>Mdm Koh Ah Lek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:koh_ah_lek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ah_lek@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
