@@ -166,11 +166,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Leong Jing Xiong Merrill</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_jing_xiong_merrill@moe.edu.sg" rel="noopener noreferrer nofollow" target="">leong_jing_xiong_merrill@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -207,10 +206,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Leong Jing Xiong Merrill</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:leong_jing_xiong_merrill@moe.edu.sg" rel="noopener noreferrer nofollow" target="">leong_jing_xiong_merrill@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
