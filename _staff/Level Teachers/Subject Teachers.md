@@ -42,11 +42,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Fion Ho
-<br>HOD (Character &amp; Citizenship Education)&nbsp;</p>
+<p>Ms Tan Soo Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_ser_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_ser_yee@moe.edu.sg</a>
+<p><a href="mailto:tan_soo_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_soo_kheng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Maryati Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:maryati_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="">maryati_mohamed@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -61,28 +69,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lai Meiyu</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lai_meiyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lai_meiyu@moe.edu.sg</a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Maefrize Khoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_meng_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_meng_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho Chu Huei</p>
+<p>Ms Low Li Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_chu_huei@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ho_chu_huei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Neo Guat Theng Angela</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:neo_guat_theng_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="">neo_guat_theng_angela@moe.edu.sg</a>
+<p><a href="mailto:low_li_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">low_li_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -92,24 +99,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_fung_fung@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chia_fung_fung@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Raman Premavathi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:raman_premavathi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">raman_premavathi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mahmud Bin Hussain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mahmud_hussain_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="">mahmud_hussain_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>

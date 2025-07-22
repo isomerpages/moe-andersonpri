@@ -85,19 +85,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Hwee Hua</p>
+<p>Mdm Tan Pei Wei Fiona</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_hwee_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheong_hwee_hua@moe.edu.sg</a>
+<p><a href="mailto:tan_pei_wei_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_pei_wei_fiona@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh So Fang (Nancy)</p>
+<p>Mdm Cheong Hwee Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_so_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">goh_so_fang@moe.edu.sg</a>
+<p><a href="mailto:cheong_hwee_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheong_hwee_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -124,10 +124,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurin Danisha Md Rosli</p>
+<p>Mdm Safiah Nafisah Shari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurin_danisha_md_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="">nurin_danisha_md_rosli@moe.edu.sg</a>
+<p><a href="mailto:safiah_nafisah_shari@moe.edu.sg" rel="noopener noreferrer nofollow" target="">safiah_nafisah_shari@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -193,6 +193,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Foong Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_foong_chee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_foong_chee_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p><strong>Class 1.7</strong>
 </p>
@@ -220,15 +229,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_lay_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_lay_tin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Pei Wei Fiona</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_pei_wei_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_pei_wei_fiona@moe.edu.sg</a>
 </p>
 </td>
 </tr>
