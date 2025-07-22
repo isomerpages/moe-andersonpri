@@ -33,8 +33,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<p><a href="mailto:meenachi_raman@moe.edu.sg" rel="noopener noreferrer nofollow" target="">meenachi_raman@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
