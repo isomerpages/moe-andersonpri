@@ -45,7 +45,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Vimala Ratnaraja
+<br>Year Head (Upper Primary
+<br>&amp; Covering Primary 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
