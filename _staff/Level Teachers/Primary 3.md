@@ -175,7 +175,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Danz Ong
+<br>Year Head (Middle Primary
+<br>&amp; Covering Primary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
