@@ -44,10 +44,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Loh Suang Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:loh_suang_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_suang_mei@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -165,10 +166,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Leong Jing Xiong Merrill</p>
+<p>Mrs Maefrize Khoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_jing_xiong_merrill@moe.edu.sg" rel="noopener noreferrer nofollow" target="">leong_jing_xiong_merrill@moe.edu.sg</a>
+<p><a href="mailto:lim_meng_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_meng_hui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Danz Ong
+<br>Year Head (Middle Primary
+<br>&amp; Covering Primary 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:danz_tan_li_loo@moe.edu.sg" rel="noopener noreferrer nofollow" target="">danz_tan_li_loo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -195,10 +207,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lisa Kan</p>
+<p>Mr Leong Jing Xiong Merrill</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_ling_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chua_ling_ling@moe.edu.sg</a>
+<p><a href="mailto:leong_jing_xiong_merrill@moe.edu.sg" rel="noopener noreferrer nofollow" target="">leong_jing_xiong_merrill@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong H'sien Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_hsien_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wong_hsien_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
