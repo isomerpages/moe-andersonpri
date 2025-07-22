@@ -30,9 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Danz Ong
-<br>Year Head (Middle Primary
-<br>&amp; Covering Primary 2)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:danz_tan_li_loo@moe.edu.sg" rel="noopener noreferrer nofollow" target="">danz_tan_li_loo@moe.edu.sg</a>
