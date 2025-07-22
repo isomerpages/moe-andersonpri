@@ -72,8 +72,7 @@ variant: tiptap
 <p>Ms Lai Meiyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lai_meiyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lai_meiyu@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
