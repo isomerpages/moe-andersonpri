@@ -60,14 +60,13 @@ third_nav_title: Level Teachers
 <br>HOD (Character &amp; Citizenship Education)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:maryati_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="">maryati_mohamed@moe.edu.sg</a>
+<p><a href="mailto:lim_ser_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_ser_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Fion Ho
-<br>HOD (Character &amp; Citizenship Education)&nbsp;Mdm Koh Ah Lek</p>
+<p>Mdm Koh Ah Lek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a href="mailto:koh_ah_lek@moe.edu.sg" rel="noopener noreferrer nofollow" target="">koh_ah_lek@moe.edu.sg</a>
