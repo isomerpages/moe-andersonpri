@@ -19,10 +19,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Soo Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_soo_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_soo_kheng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -31,15 +32,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:meenachi_raman@moe.edu.sg" rel="noopener noreferrer nofollow" target="">meenachi_raman@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Soo Kheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_soo_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_soo_kheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -54,6 +46,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Low Li Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_li_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">low_li_lin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,11 +63,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Low Li Lin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_li_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">low_li_lin@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
