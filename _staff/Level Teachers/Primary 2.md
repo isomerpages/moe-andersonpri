@@ -66,20 +66,10 @@ third_nav_title: Level Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Marianne Karen</p>
+<p>Mdm Koh Ah Lek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_marianne_karen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_marianne_karen_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Neo Guat Theng Angela</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:neo_guat_theng_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="">neo_guat_theng_angela@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -105,10 +95,19 @@ third_nav_title: Level Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Soo Kheng</p>
+<p>Mdm Loh Marianne Karen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_soo_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_soo_kheng@moe.edu.sg</a>
+<p><a href="mailto:loh_marianne_karen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_marianne_karen_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Neo Guat Theng Angela</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:neo_guat_theng_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="">neo_guat_theng_angela@moe.edu.sg</a>
 </p>
 </td>
 </tr>
