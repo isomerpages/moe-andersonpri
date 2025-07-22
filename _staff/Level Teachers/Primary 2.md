@@ -239,7 +239,8 @@ third_nav_title: Level Teachers
 <p>Mrs Maefrize Khoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lai_meiyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lai_meiyu@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
