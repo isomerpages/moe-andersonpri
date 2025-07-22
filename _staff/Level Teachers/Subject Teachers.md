@@ -69,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lai Meiyu</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -77,7 +77,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Maefrize Khoo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_meng_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_meng_hui@moe.edu.sg</a>
