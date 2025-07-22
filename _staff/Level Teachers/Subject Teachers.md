@@ -105,15 +105,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Raman Premavathi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:raman_premavathi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">raman_premavathi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
