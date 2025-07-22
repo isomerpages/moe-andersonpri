@@ -2,6 +2,7 @@
 title: Allied Educators
 permalink: /key-personnel/allied-educators/
 description: ""
+variant: markdown
 ---
 <table>
 <tbody>
