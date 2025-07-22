@@ -56,8 +56,8 @@ third_nav_title: Level Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Fion Ho
-<br>HOD (Character &amp; Citizenship Education)&nbsp;</p>
+<p>Mdm Cheong Mei Yuan
+<br>Level Head (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheong_mei_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheong_mei_yuan@moe.edu.sg</a>
