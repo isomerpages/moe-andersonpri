@@ -87,10 +87,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Neo Guat Theng Angela</p>
+<p>Ms Low Li Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_guat_theng_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="">neo_guat_theng_angela@moe.edu.sg</a>
+<p><a href="mailto:low_li_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">low_li_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
