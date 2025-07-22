@@ -81,8 +81,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_chu_huei@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ho_chu_huei@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
