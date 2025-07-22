@@ -204,8 +204,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Mei Yuan
-<br>Level Head (Chinese Language)</p>
+<p>Mrs Fion Ho
+<br>HOD (Character &amp; Citizenship Education)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_ser_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_ser_yee@moe.edu.sg</a>
