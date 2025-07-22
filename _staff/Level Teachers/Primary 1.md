@@ -232,15 +232,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Pei Wei Fiona</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_pei_wei_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_pei_wei_fiona@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
