@@ -85,10 +85,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Hwee Hua</p>
+<p>Mdm Tan Pei Wei Fiona</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_hwee_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheong_hwee_hua@moe.edu.sg</a>
+<p><a href="mailto:tan_pei_wei_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_pei_wei_fiona@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -97,7 +97,7 @@ variant: tiptap
 <p>Mdm Cheong Hwee Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_so_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">goh_so_fang@moe.edu.sg</a>
+<p><a href="mailto:cheong_hwee_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheong_hwee_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
