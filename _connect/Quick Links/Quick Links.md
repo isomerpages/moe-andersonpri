@@ -75,7 +75,7 @@ variant: markdown
 <li><a href="https://scmobile.moe.edu.sg/" target="_blank" rel="noopener">SC Mobile</a></li>
 
 <li><a href="https://www.hrp.gov.sg/hrp/#/" target="_blank" rel="noopener">HRP</a></li>
-<li><a href="https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fschools.gov.sg%2fowa" target="_blank" rel="noopener">CES Email</a></li>
+<li><a href="https://outlook.office365.com/mail/?realm=schools.gov.sg" target="_blank" rel="noopener">CES Email</a></li>
 
 <li><a href="https://iexams.seab.gov.sg/" target="_blank" rel="noopener">iEXAMS2</a></li>
 <li><a href="https://pg.moe.edu.sg/" target="_blank" rel="noopener">Parents Gateway</a></li>
