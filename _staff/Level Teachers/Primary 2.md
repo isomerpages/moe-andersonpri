@@ -74,6 +74,15 @@ third_nav_title: Level Teachers
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Foong Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_foong_chee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_foong_chee_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p><strong>Class 2.3</strong>
 </p>
