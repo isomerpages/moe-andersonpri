@@ -208,6 +208,8 @@ an enriching, interactive and engaging after-school programme for CLS students.<
 <h4><strong>Contact Details</strong></h4>
 <p>Tel:&nbsp;<a href="tel:8028 1456" rel="noopener noreferrer nofollow" target="">8028 1456</a>
 <br>(preferably through SMS between 2.30pm to 5.30pm)
-<br>Email:&nbsp;<a href="mailto:enquiries@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="">enquiries@commitlearning.com.sg</a>
-<br>For any general feedback or enquiries, please email CLS at&nbsp;<a href="mailto:enquiries@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="">enquiries@commitlearning.com.sg</a>
+<br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">admission_cls_andps@commitlearning.com.sg</a>
+<br>
+<br>
+<br>
 </p>
