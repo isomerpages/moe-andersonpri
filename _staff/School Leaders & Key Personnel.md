@@ -79,19 +79,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Joy Lim
 <br>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_swee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_swee_ping@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheong Mei Yuan
+<br>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_mei_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheong_mei_yuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -112,16 +114,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_seh_lat@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_seh_lat@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Cheong Mei Yuan
-<br>Level Head (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_mei_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheong_mei_yuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
