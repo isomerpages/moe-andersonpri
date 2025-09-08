@@ -13,12 +13,12 @@ variant: markdown
 </tr>
 
 <tr>
-<td style="text-align: left;">Miss Agnes Chang Tze Hsien<br>Senior Special Educational Needs (SEN) Officer</td>
+<td style="text-align: left;">Mdm Agnes Chang Tze Hsien<br>Senior Special Educational Needs (SEN) Officer</td>
 <td style="text-align: left;"><a href="mailto:Chang_tze_hsien_agnes@moe.edu.sg" target="">Chang_tze_hsien_agnes@moe.edu.sg</a></td>
 </tr>
 
 <tr>
-<td style="text-align: left;">Mdm Jayamalini Vaillappan<br>Special Educational Needs (SEN) Officer</td>
+<td style="text-align: left;">Mdm Jayamalini Vaillappan<br>Senior Special Educational Needs (SEN) Officer</td>
 <td style="text-align: left;"><a href="mailto:Jayamalini_vaillappan@moe.edu.sg" target="">Jayamalini_vaillappan@moe.edu.sg</a></td>
 </tr>
 	
