@@ -43,7 +43,7 @@ variant: tiptap
 <br>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Chang_Wee_Leong@moe.edu.sg</a>
+<p><a href="mailto:chang_wee_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_wee_leong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
