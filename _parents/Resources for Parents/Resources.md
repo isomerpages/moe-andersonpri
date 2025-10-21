@@ -48,43 +48,39 @@ variant: tiptap
 </ul>
 </li>
 <li>
-<p><strong>P1/2025 Pre-Entry Resources</strong>
+<p><strong>P1/2026 Pre-Entry Resources</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/2025primary1booklist" rel="noopener" target="_blank">2025 Primary 1 Booklist</a>
+<p><a href="https://go.gov.sg/2026p1booklist" rel="noopener nofollow" target="_blank">2026 Primary 1 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/bookshopyearendsaleschedule2024" rel="noopener" target="_blank">Book Shop Year End Sale Schedule 2024</a>
+<p><a href="https://go.gov.sg/2026nametagorderform" rel="noopener nofollow" target="_blank">2026 Name Tag Order Form</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/uniformyearendsaleschedule2024" rel="noopener" target="_blank">Uniform Year End Sale Schedule 2024</a>
+<p><a href="https://go.gov.sg/uniformyearendsaleschedule2025" rel="noopener nofollow" target="_blank">Uniform Year End Sale Schedule 2025</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/egirouserguide" rel="noopener" target="_blank">eGIRO User Guide</a>
+<p><a href="https://go.gov.sg/egirouserguide2026" rel="noopener nofollow" target="_blank">eGIRO User Guide</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/moefasapplicationform2025" rel="noopener" target="_blank">MOE FAS Application Form</a>
+<p><a href="https://go.gov.sg/form1mtl" rel="noopener nofollow" target="_blank">Form 1 – MTL</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/form1mtl" rel="noopener" target="_blank">Form 1 – MTL</a>
+<p><a href="https://go.gov.sg/form3ntil" rel="noopener nofollow" target="_blank">Form 3 – NTIL</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/form3ntil" rel="noopener" target="_blank">Form 3 – NTIL</a>
+<p><a href="https://go.gov.sg/faqcardecal" rel="noopener nofollow" target="_blank">FAQ - Car Decal for School Drive-Thru Access</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/parentsgatewayuserguide2024" rel="noopener nofollow" target="_blank">Parents Gateway User Guide</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/parentsgatewayfaq" rel="noopener" target="_blank">Parents Gateway – FAQ for Parents</a>
+<p><a href="https://go.gov.sg/pguserguide" rel="noopener nofollow" target="_blank">Parents Gateway User Guide</a>
 </p>
 <p></p>
 </li>
