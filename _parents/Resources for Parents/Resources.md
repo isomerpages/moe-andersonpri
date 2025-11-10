@@ -17,31 +17,31 @@ variant: tiptap
 </ul>
 </li>
 <li>
-<p><strong>2025 Booklists</strong>
+<p><strong>2026 Booklists</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/2025primary1booklist" rel="noopener" target="_blank">2025 P1 Booklist</a>
+<p><a href="https://go.gov.sg/2026p1booklist" rel="noopener" target="_blank">2026 P1 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/2025primary2booklist" rel="noopener" target="_blank">2025 P2 Booklist</a>
+<p><a href="https://go.gov.sg/2026p2booklist" rel="noopener" target="_blank">2026 P2 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/2025primary3booklist" rel="noopener" target="_blank">2025 P3 Booklist</a>
+<p><a href="https://go.gov.sg/2026p3booklist" rel="noopener" target="_blank">2026 P3 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/2025primary4booklist" rel="noopener" target="_blank">2025 P4 Booklist</a>
+<p><a href="https://go.gov.sg/2026p4booklist" rel="noopener" target="_blank">2026 P4 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/2025primary5booklist" rel="noopener" target="_blank">2025 P5 Booklist</a>
+<p><a href="https://go.gov.sg/2026p5booklist" rel="noopener" target="_blank">2026 P5 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/2025primary6booklist" rel="noopener" target="_blank">2025 P6 Booklist</a>
+<p><a href="https://go.gov.sg/2026p6booklist" rel="noopener" target="_blank">2026 P6 Booklist</a>
 </p>
 <p></p>
 </li>
