@@ -18,21 +18,19 @@ commitment to a people-centered mission grounded in a global perspective.</p>
 <p></p>
 <p>德才兼备，先德后才
 <br>(dé cái jiān bèi, xiān dé hòu cái)</p>
-<p><strong>School Vision</strong>
-</p>
+<h4><strong>School Vision</strong></h4>
 <p>Pioneers of the Future</p>
-<p><strong>School Mission</strong>
-</p>
+<h4><strong>School Mission</strong></h4>
 <p>To provide a holistic education that nurtures learners with passion, leaders
 with heart, and citizens of character.</p>
-<p><strong>School Values</strong> – The Anderson LIGHT</p>
+<h4><strong>School Values</strong> – The Anderson LIGHT</h4>
 <p>L — Lifelong (Love for) Learning
 <br>I — Integrity
 <br>G — Gratitude
 <br>H — Harmony
 <br>T — Tenacity</p>
-<p><strong>School Motto</strong>
-<br>Courage, Sincerity</p>
+<h4><strong>School Motto</strong></h4>
+<p>Courage, Sincerity</p>
 <p></p>
 <p></p>
 <p></p>
