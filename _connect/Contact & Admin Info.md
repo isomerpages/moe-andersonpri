@@ -173,40 +173,18 @@ staggered manner to ensure a safe and orderly departure.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>RECESS AND SNACK BREAK</strong> </h4>
+<h4><strong>RECESS AND SNACK BREAK</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recess_Break_Time.png">
+</div>
+<h4><strong>CO-CURRICULAR ACTIVITIES AND ANDERSON ENRICHMENT PROGRAMMES</strong></h4>
+<p>CCAs and the Anderson Enrichment Programme (AEP) run daily from 2pm –
+4pm. Students are encouraged to choose activities that interest them, while
+balancing homework and other commitments.</p>
+<h4><strong>OPERATING HOURS FOR GENERAL OFFICE</strong></h4>
+<p>Telephone: 64560340</p>
+<p>School Term: Monday to Friday: 7am to 5pm</p>
+<p>School Holidays: Monday to Friday: 8pm am to 4pm</p>
+<p>(School is closed on Saturdays, Sundays, and Public Holidays.)</p>
 <p></p>
-<h4><strong>General Office Operating Hours</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64560340</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Term</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday to Friday: 7.00 am to 5.30 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Holidays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday to Friday: 8.00 am to 5.00 pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Please avoid visiting the school during dismissal time from 1.30 pm to
-2.00 pm.</p>
+<p></p>
