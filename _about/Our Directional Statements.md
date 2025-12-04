@@ -8,5 +8,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Strategic_Thrusts.jpg">
 </div>
-<h4><strong>School Logo </strong></h4>
+<h4><strong>School Logo</strong></h4>
+<p></p>
 <p></p>
