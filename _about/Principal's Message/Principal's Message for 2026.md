@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Principal's Message
 ---
-<p><strong>Welcoming 2026 With Gratitude and Hope</strong>
-</p>
+<h4><strong>Welcoming 2026 With Gratitude and Hope</strong></h4>
 <p>As we welcome 2026, our hearts are full. Last year’s Jubilee celebration
 reminded us of how far we have come together - students, staff, parents,
 and partners who have each played a meaningful role in our story. With
