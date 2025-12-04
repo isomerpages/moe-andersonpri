@@ -206,21 +206,21 @@ journeys</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Serious Offences</strong> e.g.,</p>
-<p>arson,</p>
-<p>bullying,</p>
-<p>damage to school property,</p>
-<p>defiance or rudeness (especially to school staff and teachers),</p>
-<p>disruption in class,</p>
-<p>fighting,</p>
-<p>gambling,</p>
-<p>involvement in gangs,</p>
-<p>possession of weapon-like items which are used or intended to be used
-to cause harm or hurt to others,</p>
-<p>smoking, and alcohol consumption etc.</p>
-<p>theft,</p>
-<p>truancy,</p>
-<p>use or possession of drugs, inhalants, e-vaporizers,</p>
+<p><strong>Serious Offences</strong> e.g.,
+<br>arson,
+<br>bullying,
+<br>damage to school property,
+<br>defiance or rudeness (especially to school staff and teachers),
+<br>disruption in class,
+<br>fighting,
+<br>gambling,
+<br>involvement in gangs,
+<br>possession of weapon-like items which are used or intended to be used
+to cause harm or hurt to others,
+<br>smoking, and alcohol consumption etc.
+<br>theft,
+<br>truancy,
+<br>use or possession of drugs, inhalants, e-vaporizers,</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
