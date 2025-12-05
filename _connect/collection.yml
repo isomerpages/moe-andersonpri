@@ -2,8 +2,8 @@ collections:
   connect:
     output: true
     order:
-      - Home–School Partnerships.md
       - Contact & Admin Info.md
+      - Home–School Partnerships.md
       - Service Providers/.keep
       - Service Providers/School Bookshop.md
       - Service Providers/School Bus.md
