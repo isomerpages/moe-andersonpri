@@ -2,6 +2,7 @@ collections:
   connect:
     output: true
     order:
+      - Home–School Partnerships.md
       - Contact & Admin Info.md
       - Service Providers/.keep
       - Service Providers/School Bookshop.md
