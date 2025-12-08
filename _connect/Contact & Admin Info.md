@@ -43,10 +43,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Website</p>
+<p>School Website</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.andersonpri.moe.edu.sg/" rel="noopener" target="_blank">www.andersonpri.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Instagram Page</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/anderson_primary_sch/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/anderson_primary_sch/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School YouTube Page</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/@andersonprimaryschool6109" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/@andersonprimaryschool6109</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Facebook Page</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/pages/Anderson-Primary-School-Official/248457555191296" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/pages/Anderson-Primary-School-Official/248457555191296</a>
 </p>
 </td>
 </tr>
