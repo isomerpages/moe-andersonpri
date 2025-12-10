@@ -211,7 +211,7 @@ balancing homework and other commitments.</p>
 <h4><strong>OPERATING HOURS FOR GENERAL OFFICE</strong></h4>
 <p>Telephone: 64560340</p>
 <p>School Term: Monday to Friday: 7am to 5pm</p>
-<p>School Holidays: Monday to Friday: 8pm am to 4pm</p>
+<p>School Holidays: Monday to Friday: 8am to 4pm</p>
 <p>(School is closed on Saturdays, Sundays, and Public Holidays.)</p>
 <p></p>
 <p></p>
