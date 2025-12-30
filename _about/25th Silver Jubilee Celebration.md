@@ -7,11 +7,12 @@ image: /images/25th_Logo.png
 ---
 <h4><strong>Celebrating 25 Years of Excellence: Anderson Primary’s Silver Jubilee&nbsp;</strong></h4>
 <p>Anderson Primary School proudly marked a significant milestone in 2025—our
-25th School Anniversary. Established in 2000 through the merger of Ang
-Mo Kio North Primary, Hong Dao Primary, and Li Hua Primary, our school
-has grown into a pillar of excellence in Ang Mo Kio. Anchored in values-driven
-education, innovative teaching practices, and strong community partnerships,
-Anderson Primary continues to shape generations of learners and leaders.</p>
+25<sup>th</sup> School Anniversary. Established in 2000 through the merger
+of Ang Mo Kio North Primary, Hong Dao Primary, and Li Hua Primary, our
+school has grown into a pillar of excellence in Ang Mo Kio. Anchored in
+values-driven education, innovative teaching practices, and strong community
+partnerships, Anderson Primary continues to shape generations of learners
+and leaders.</p>
 <p></p>
 <h4><strong>Mirrors of Light—Reflecting Our Past, Illuminating the Future</strong></h4>
 <div class="isomer-image-wrapper">
