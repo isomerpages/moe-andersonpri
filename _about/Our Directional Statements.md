@@ -4,7 +4,7 @@ permalink: /about/our-directional-statements/
 description: ""
 variant: tiptap
 ---
-<h4><strong>OUR STRATEGIC PLAN G.P.S. 2.0 – GROWING POSSIBILITIES, SHAPING FUTURES</strong></h4>
+<h4><strong>Our Strategic Plan G.P.S. 2.0 – Growing Possibilities, Shaping Futures</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Strategic_Thrusts.jpg">
 </div>
