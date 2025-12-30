@@ -123,30 +123,48 @@ legal authorities if necessary.</p>
 </li>
 </ul>
 <h4><strong>Request For Early Dismissal</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Parents who wish to take their child home early for any valid reason must
 inform the teachers and record the early dismissal in the Early Dismissal
 Book at the General Office.</p>
+</li>
+<li>
 <p>Students are strictly not permitted to use the General Office phone to
 contact their parents, except in cases of emergency. Parents are expected
 to arrange pick-up times with their child in advance.</p>
+</li>
+</ul>
 <h4><strong>Photography and Videography</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Photographs and videos of students and parents/guardians at Anderson Primary
 School may be taken during school activities and events, including lessons,
 CCAs, camps, and award ceremonies. These images may be used in school publications,
 on the school website, social media channels, and other official communications.</p>
+</li>
+<li>
 <p>Parents/guardians may withdraw consent for the use of their child’s images
 by emailing the school at <a href="mailto:anderson_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anderson_ps@moe.edu.sg</a>.</p>
+</li>
+<li>
 <p>To safeguard student privacy, personal photography and videography are
 strictly prohibited within the school premises, including common areas
 such as the foyer and during dismissal. For official events, the school
 may designate specific times and zones for photography, which will be clearly
 communicated in advance.</p>
+</li>
+</ul>
 <h4><strong>Delivery Of Items To School</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Students are responsible for packing their own belongings. The school
 will not accept or deliver items to students, except for medication. Allowing
 students to experience the consequences of forgetting their items, including
 being reminded or scolded by their teachers, helps them develop responsibility
 and independence.</p>
+</li>
+</ul>
 <h4><strong>Summary Of Consequences For School Offences</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
