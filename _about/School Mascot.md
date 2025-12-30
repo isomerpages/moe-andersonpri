@@ -4,7 +4,7 @@ permalink: /school-mascot/
 variant: tiptap
 description: ""
 ---
-<h4><strong>SCHOOL MASCOT - THE ANDERSON SUNBIRD (THE OLIVE-BACKED SUNBIRD)</strong></h4>
+<h4><strong>School Mascot - The Anderson Sunbird (The Olive-Backed Sunbird)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School_Mascot.png">
 </div>
