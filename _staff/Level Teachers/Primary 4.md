@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Class 4.1</strong>
+<p><strong>Class 4 LOVE</strong>
 </p>
 </td>
 </tr>
@@ -25,57 +25,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ramesh Sivakadacham
-<br>Subject Head (Student Management)</p>
+<p>Ms Erfa Riizah Bte Razi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ramesh_sivakadacham@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ramesh_sivakadacham@moe.edu.sg</a>
+<p><a href="mailto:erfa_riizah_razi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>erfa_riizah_razi@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Jenevieve Seeh</p>
+<p>Mr Alan Tan Eng Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jenevieve_seeh@moe.edu.sg" rel="noopener noreferrer nofollow" target="">jenevieve_seeh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Class 4.2</strong>
+<p><a href="mailto:alan_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>alan_tan@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Form Teachers</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Joy Lim Swee Ping
-<br>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_swee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_swee_ping@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lisa Kan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_ling_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chua_ling_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Class 4.3</strong>
+<p><strong>Class 4 INTEGRITY</strong>
 </p>
 </td>
 </tr>
@@ -87,19 +55,142 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mr Soo Jia Qing</p>
+<p>Mr Ivan Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soo_jia_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="">soo_jia_qing@moe.edu.sg</a>
+<p><a href="mailto:ivan_ng_yong_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ivan_ng_yong_leng@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Suraidah Rahim</p>
+<p>Ms Yu Dan Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_suraidah_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="">siti_suraidah_rahim@moe.edu.sg</a>
+<p><a href="mailto:yu_dan_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yu_dan_yun@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Class 4 GRATITUDE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Mrs&nbsp;Serene Soh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soo_jia_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="">s</a>
+<a href="mailto:lim_jie_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_jie_ling_serene@moe.edu.sg</u>
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Xia Shanna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xia_shanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>xia_shanna@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Class 4 HARMONY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zheng Yijun Elaine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">zheng_yijun_elaine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Mei Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_mei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_mei_ting@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Class 4 TENACITY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Danz Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:danz_tan_li_loo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>danz_tan_li_loo@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Fion Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ser_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_ser_yee@moe.edu.sg</u></a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Safiah Nafisah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:safiah_nafisah_shari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>safiah_nafisah_shari@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Class 4 COURAGE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Form Teachers</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Stephanie Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ruoh_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_ruoh_wen@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -108,101 +199,7 @@ variant: tiptap
 <p>Mr Randy Koo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koo_eng_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="">koo_eng_huat@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Class 4.4</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Form Teachers</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sarabjeet Kau
-<br>Senior Teacher (Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kaur_sarabjeet@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kaur_sarabjeet@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr William Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:william_ho_yoon_hean@moe.edu.sg" rel="noopener noreferrer nofollow" target="">william_ho_yoon_heng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Class 4.5</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Form Teachers</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Angeline Teo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_puay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">teo_puay_leng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Suzanah Saparwan
-<br>HOD (Information &amp; Communication Technology)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:suzanah_saparwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">suzanah_saparwan@moe.edu.sg</a>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Class 4.6</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Form Teachers</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Danielle Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_bee_choo_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_bee_choo_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Poh Chee Peng
-<br>P4 Level Executive Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:poh_chee_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">poh_chee_peng@moe.edu.sg</a>
+<p><a href="mailto:koo_eng_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koo_eng_huat@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
