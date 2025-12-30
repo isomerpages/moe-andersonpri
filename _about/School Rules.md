@@ -4,7 +4,7 @@ permalink: /about/school-rules/
 description: ""
 variant: tiptap
 ---
-<h4><strong>NATIONAL ANTHEM / PLEDGE</strong></h4>
+<h4><strong>National Anthem / Pledge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>All students must attend the flag-raising ceremony.</p>
@@ -17,7 +17,7 @@ take the Pledge.</p>
 <p>Students will take the Pledge with the right fist placed over the heart.</p>
 </li>
 </ul>
-<h4><strong>PUNCTUALITY</strong></h4>
+<h4><strong>Punctuality</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students who arrive after the flag-raising ceremony are regarded as late.
@@ -25,7 +25,7 @@ Those who are frequently late will be subjected to the school’s disciplinary
 measures.</p>
 </li>
 </ul>
-<h4><strong>ATTIRE</strong></h4>
+<h4><strong>Attire</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are to wear the prescribed school uniform (PE attire inclusive)
@@ -47,7 +47,7 @@ on the left side of the PE T-shirt.</p>
 <p>Shirts, blouses, and T-shirts should be tucked in neatly at all times.</p>
 </li>
 </ul>
-<h4><strong>SHOES</strong></h4>
+<h4><strong>Shoes</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are required to wear black shoes and black school socks, with
@@ -58,7 +58,7 @@ socks worn above the ankle.</p>
 must provide a parental letter or medical certificate to their form teacher.</p>
 </li>
 </ul>
-<h4><strong>HAIRSTYLES</strong></h4>
+<h4><strong>Hairstyles</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students must maintain neat hair in its natural colour.</p>
@@ -75,7 +75,7 @@ must be black or dark-coloured.</p>
 <p>Boys must keep their hair short and are not allowed to have permed hairstyles.</p>
 </li>
 </ul>
-<h4><strong>ACCESSORIES</strong></h4>
+<h4><strong>Accessories</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are not allowed to wear jewellery or expensive watches.</p>
@@ -88,7 +88,7 @@ must be black or dark-coloured.</p>
 tongue, face).</p>
 </li>
 </ul>
-<h4><strong>HANDPHONES AND SMART DEVICES</strong></h4>
+<h4><strong>Handphones and Smart Devices</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>The use of smartphones, smartwatches, and other electronic devices is
@@ -108,7 +108,7 @@ parents for pick-up.</p>
 <p>The school will not be responsible for any loss or damage to these items.</p>
 </li>
 </ul>
-<h4><strong>OTHER PROHIBITED ITEMS</strong></h4>
+<h4><strong>Other Prohibited Items</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are not allowed to bring any weapon-like items or objects intended
@@ -122,14 +122,14 @@ to cause harm to others.</p>
 legal authorities if necessary.</p>
 </li>
 </ul>
-<h4><strong>REQUEST FOR EARLY DISMISSAL</strong></h4>
+<h4><strong>Request For Early Dismissal</strong></h4>
 <p>Parents who wish to take their child home early for any valid reason must
 inform the teachers and record the early dismissal in the Early Dismissal
 Book at the General Office.</p>
 <p>Students are strictly not permitted to use the General Office phone to
 contact their parents, except in cases of emergency. Parents are expected
 to arrange pick-up times with their child in advance.</p>
-<h4><strong>PHOTOGRAPHY AND VIDEOGRAPHY</strong></h4>
+<h4><strong>Photography and Videography</strong></h4>
 <p>Photographs and videos of students and parents/guardians at Anderson Primary
 School may be taken during school activities and events, including lessons,
 CCAs, camps, and award ceremonies. These images may be used in school publications,
@@ -141,13 +141,13 @@ strictly prohibited within the school premises, including common areas
 such as the foyer and during dismissal. For official events, the school
 may designate specific times and zones for photography, which will be clearly
 communicated in advance.</p>
-<h4><strong>DELIVERY OF ITEMS TO SCHOOL</strong></h4>
+<h4><strong>Delivery Of Items To School</strong></h4>
 <p>Students are responsible for packing their own belongings. The school
 will not accept or deliver items to students, except for medication. Allowing
 students to experience the consequences of forgetting their items, including
 being reminded or scolded by their teachers, helps them develop responsibility
 and independence.</p>
-<h4><strong>SUMMARY OF CONSEQUENCES FOR SCHOOL OFFENCES</strong></h4>
+<h4><strong>Summary Of Consequences For School Offences</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -166,7 +166,7 @@ and independence.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Minor Offences</strong> e.g., being late to school,
 <br>failing to hand in assignments/work on time, using inappropriate language
-to peers
+to peers,
 <br>interrupting lessons,
 <br>not adhering to uniform guidelines, skipping classes, etc</p>
 <p></p>
@@ -237,6 +237,8 @@ Trips, School Team (e.g., NSG or SYF) Representation</p>
 </li>
 <li>
 <p>Restitution for damage or theft (financial or service-based)</p>
+</li>
+<li>
 <p>Suspension (home or in-school)</p>
 </li>
 <li>
