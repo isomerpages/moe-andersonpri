@@ -148,26 +148,12 @@ and had a delightful time of team bonding and looking out for each other.</p>
 </div>
 <p><em>Group Photo @Thomson Nature Park</em>
 </p>
-<p></p>
-<p><em>Coral Reefs – the Rainforest of the Sea</em>
-</p>
-<h4><strong>Uniformed Group Combine Camp</strong></h4>
-<p>The Boys and Girls look forward to a uniformed group combined camp every
-year. The day camp was held in school and they learnt how to be a servant
-leader and role model that among their peers. They also learnt team work
-in exciting challenges like nerf guns and team building games.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture23.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_group_photo_outside_the_Oceanarium.jpg">
 </div>
-<p><em>BB and GB Combined Camp 2022</em>
+<p><em>Our Group photo at Oceanarium</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture24.jpg">
-</div>
-<p><em>Nerf gun challenge</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture25.jpg">
-</div>
-<p><em>Team building games at the Parade Square</em>
+<h4><strong>Articles featuring 22J Singapore Boys’ Brigade Company on BB News</strong></h4>
+<p>A quarterly newsletter compiled by BBHQ. To find out more about Singapore
+Boys’ Brigade, click the link: <a rel="noopener noreferrer nofollow" target="_blank">https://www.bb.org.sg/</a>
 </p>
