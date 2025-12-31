@@ -10,7 +10,7 @@ variant: tiptap
 2 teachers in 2019. Mr. Louis Seng is the Company Captain and Mr Li Wencong
 is the Chaplin. The first batch of 20 Primary 3 Boys were enrolled in 2020.
 Currently, Mr William Ho is the teacher-in-charge assisted by Ms Angela
-Lee and Mdm Ng Lih Teng.</p>
+Lee.</p>
 <p>The 22J Boys’ Brigade Company offers a unique opportunity for Boys to
 experience a programme designed for holistic development outside a classroom
 environment – with a strong emphasis on discipline and character development.
@@ -26,20 +26,20 @@ such as BB Week, BB CARES, Adventure Quest and Character Quest.
 <ul data-tight="true" class="tight">
 <li>
 <p>JM Fraser Award for Excellence – Awarded Excellent (2023), High Distinction
-(2024)</p>
+(2024, 2025)</p>
 </li>
 <li>
 <p>Brigade President Commendation Award (2022)</p>
 </li>
 <li>
-<p>BB Week Honours Roll (Gold - 2021, 2023, 2024, Silver 2022)</p>
+<p>BB Week Honours Roll (Gold - 2021, 2023, 2024, Silver 2022, 2025)</p>
 </li>
 <li>
 <p>BB Character Quest (Juniors Programme) Honour Roll (Gold 2023, 2024)</p>
 </li>
 <li>
 <p>BB Adventure Quest (Juniors Programme) Honour Roll (Bronze 2023, Silver
-2024)</p>
+2024, 2025)</p>
 </li>
 </ul>
 <h4><strong>Boys' Brigade Key Events</strong></h4>
@@ -74,13 +74,13 @@ find out more about the Boys' Brigade activities and events.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 pm to 3.30 pm</p>
+<p>2.00 pm to 4.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
@@ -97,7 +97,7 @@ find out more about the Boys' Brigade activities and events.</p>
 <p>Ms Angela Lee</p>
 </li>
 <li>
-<p>Mdm Ng Lih Teng</p>
+<p>Mr Deng Liqiang</p>
 </li>
 </ul>
 <p></p>
