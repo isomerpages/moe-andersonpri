@@ -131,21 +131,24 @@ and had a delightful time of team bonding and looking out for each other.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture19.jpg">
 </div>
-<p><em>A Marabou Stork swooping down over our Boys</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture20.jpg">
-</div>
-<p><em>The Boys having a close view of a Crowned Pigeon</em>
+<p><em>A Marabou Stork swooping down over our Boys in Bird Paradise</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
-<p><em>Jellyfish Enclosure – The Boys learnt that jellyfish has no brain and skeleton.</em>
+<p><em>Jellyfish enclosure at SEA Aquarium</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture22.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PV_taking_a_photo.jpg">
 </div>
+<p><em>A parent volunteer taking a photo of BB Boys in the Zoo</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_Photo__Thomson_Nature_Park__1_.jpg">
+</div>
+<p><em>Group Photo @Thomson Nature Park</em>
+</p>
+<p></p>
 <p><em>Coral Reefs – the Rainforest of the Sea</em>
 </p>
 <h4><strong>Uniformed Group Combine Camp</strong></h4>
