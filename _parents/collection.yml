@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Letters to Parents.md
       - Resources for Parents/.keep
       - Resources for Parents/Road Safety.md
       - Resources for Parents/Resources.md

@@ -1,12 +1,12 @@
 logo: /images/logo.jpg
 links:
   - title: About
-    url: /principal-s-message-for-2025/
+    url: https://andersonpri.gov.sg/principal-s-message-for-2026/
     sublinks:
       - title: Silver Jubilee Celebration
         url: /25th-silver-jubilee-celebration/
       - title: Principal's Message
-        url: https://www.andersonpri.moe.edu.sg/principal-s-message-for-2025/
+        url: https://andersonpri.gov.sg/principal-s-message-for-2026/
       - title: Our Directional Statements
         url: /about/our-directional-statements/
       - title: School History
@@ -17,8 +17,6 @@ links:
         url: /about/school-song
       - title: School Rules
         url: /about/school-rules
-      - title: School Crest
-        url: /about/school-crest
   - title: Staff
     url: /key-personnel/school-executive-committee
     sublinks:
@@ -35,8 +33,6 @@ links:
   - title: Parents
     url: /parents/letters-to-parents
     sublinks:
-      - title: Letters to Parents
-        url: /parents/letters-to-parents
       - title: Resources for Parents
         url: /parents/resources-for-parents/road-safety
       - title: DigitalAccess@Home
@@ -59,6 +55,8 @@ links:
     sublinks:
       - title: Contact & Admin Info
         url: /connect/contact-n-admin-info
+      - title: Home-School Partnerships
+        url: /connect/home-school-partnerships/
       - title: Service Providers
         url: /connect/service-providers/school-student-care
       - title: Admission
