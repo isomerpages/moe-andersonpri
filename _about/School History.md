@@ -4,7 +4,7 @@ permalink: /about/school-history/
 description: ""
 variant: tiptap
 ---
-<h4><strong>A LEGACY OF EXCELLENCE: THE JOURNEY OF ANDERSON PRIMARY SCHOOL</strong></h4>
+<h4><strong>A Legacy Of Excellence: The Journey Of Anderson Primary School</strong></h4>
 <p>Anderson Primary School was born in 2000, emerging from the merger of
 three schools—Ang Mo Kio North Primary, Hong Dao Primary, and Li Hua Primary.
 From its very first days, the school set out to build a culture of excellence,
