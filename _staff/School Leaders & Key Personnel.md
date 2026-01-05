@@ -388,7 +388,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Wong Mei Ting
-<br>ST/HAL</p>
+<br>ST/Talent Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ramesh_sivakadacham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_mei_ting@moe.edu.sg</a>
