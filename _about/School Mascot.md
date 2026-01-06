@@ -20,3 +20,5 @@ for its ideal home.</p>
 the final design created by Art teacher, Mrs. Aretha Ng, based on students’
 sketches from the Sunbird Challenge led by our prefects.</p>
 <p></p>
+<p></p>
+<p></p>
