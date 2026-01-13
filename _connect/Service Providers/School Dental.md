@@ -23,7 +23,7 @@ third_nav_title: Service Providers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lunch Time</p>
+<p>Lunch Time:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.00 pm to 2.00 pm</p>
@@ -32,7 +32,7 @@ third_nav_title: Service Providers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tel</p>
+<p>Tel:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>85186936

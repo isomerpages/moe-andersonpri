@@ -1,6 +1,6 @@
 ---
-title: Sexuality Education 2025
-permalink: /departments/cce/sexualityeducation2025/
+title: Sexuality Education 2026
+permalink: /departments/cce/sexualityeducation2026/
 description: ""
 third_nav_title: CCE
 variant: tiptap
@@ -51,7 +51,7 @@ ones.
 </ol>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4>Overview of Anderson Primary School's Sexuality Education Programme for 2025</h4>
+<h4>Overview of Anderson Primary School's Sexuality Education Programme for 2026</h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -68,7 +68,7 @@ more information on the scope of Sexuality Education in the school curriculum.
 </ol>
 <p>(a) Science
 <br>(b) Character and Citizenship Education (CCE)</p>
-<h5><strong><u>Sexuality Education Lessons:</u></strong></h5>
+<h5>Sexuality Education Lessons:</h5>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>The upper primary years mark the onset of puberty. With better nutrition
@@ -94,9 +94,9 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks</p>
 </li>
 </ol>
-<p><strong>At Anderson Primary School, the following Sexuality Education lessons are taught in <u>2025</u>:</strong>
+<p><strong>At Anderson Primary School, the following Sexuality Education lessons are taught in 2026:</strong>
 </p>
-<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
+<p><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <p><strong>PRIMARY 5</strong>
 </p>
@@ -149,7 +149,7 @@ even when one's body is experiencing changes due to puberty.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -172,7 +172,7 @@ own responses when they encounter pornography by applying the strategy <strong>'
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 10</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -194,13 +194,13 @@ seek help for themselves and their friends.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
+<p><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <p><strong>PRIMARY 6</strong>
 </p>
@@ -249,7 +249,7 @@ Instead, they should focus on building strong and healthy friendships with
 their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -270,29 +270,32 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 10</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<h3><strong>Information for Parents</strong></h3>
+<h3>Information for Parents</h3>
 <ol start="8" data-tight="true" class="tight">
 <li>
-<p><strong>Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</strong>
-</p>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
 </li>
 </ol>
 <ol start="9" data-tight="true" class="tight">
 <li>
-<p><strong>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://go.gov.sg/optoutsexed2025" rel="noopener" target="_blank">here</a>. The completed opt-out form is to be submitted by 24/01/2025.</strong>
-</p>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available&nbsp;<a href="https://go.gov.sg/andersonsed2026" rel="noopener" target="_blank">here</a>. The completed
+opt-out form is to be submitted by 30/01/2026.</p>
 </li>
 </ol>
 <ol start="10" data-tight="true" class="tight">
 <li>
-<p><strong>Parents can contact the school at&nbsp;<a href="mailto:anderson_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="">anderson_ps@moe.edu.sg</a>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</strong>
-</p>
+<p>Parents can contact the school at&nbsp;<a href="mailto:anderson_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="">anderson_ps@moe.edu.sg</a>&nbsp;for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
 </li>
 </ol>
 <p></p>
