@@ -60,13 +60,10 @@ spirit of excellence in all they do.</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mrs Lisa Kan (Overall Teacher-in-charge)</p>
+<p>Mrs Mohan (Overall Teacher-in-charge)</p>
 </li>
 <li>
-<p>Mrs Mohan</p>
-</li>
-<li>
-<p>Ms Lin Ruoting</p>
+<p>Ms Erfa Riizah</p>
 </li>
 </ul>
 <h4><strong>Achievements</strong></h4>
