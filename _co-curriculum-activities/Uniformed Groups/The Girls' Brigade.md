@@ -62,7 +62,7 @@ and GB Friendship Day.</p>
 <p>P3 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 pm to 3.30 pm</p>
+<p>2 pm to 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mini Theatrette / School Hall</p>
@@ -77,9 +77,6 @@ and GB Friendship Day.</p>
 </li>
 <li>
 <p>Ms Stephanie Lim</p>
-</li>
-<li>
-<p>Ms Loh Cheng Hwan</p>
 </li>
 </ul>
 <h4><strong>Achievements</strong></h4>
