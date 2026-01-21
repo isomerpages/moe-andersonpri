@@ -57,16 +57,13 @@ audience.</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Fiona Tan (Co Teacher-in-charge)</p>
-</li>
-<li>
-<p>Mrs Angeline Poh (Co Teacher-in-charge)</p>
+<p>Ms Eileen Ong (OverallTeacher-in-charge)</p>
 </li>
 <li>
 <p>Mdm Xia Shanna</p>
 </li>
 <li>
-<p>Ms Leng Yip Jean</p>
+<p>Ms Tan Pei Wei Fiona</p>
 </li>
 </ul>
 <h4><strong>Achievements</strong></h4>
