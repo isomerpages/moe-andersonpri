@@ -56,13 +56,13 @@ art to inspire, educate, and uplift.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P2 JAE - P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 pm to 3.30 pm</p>
+<p>2 pm to 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Rooms</p>
@@ -73,10 +73,7 @@ art to inspire, educate, and uplift.</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Anuar (Overall Teacher-in-charge)</p>
-</li>
-<li>
-<p>Mrs Maefrize Khoo</p>
+<p>Mrs Maefrize Khoo (Overall Teacher-in-charge)</p>
 </li>
 <li>
 <p>Ms Loke Mei Yen</p>

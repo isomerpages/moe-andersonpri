@@ -40,16 +40,16 @@ and Mathematics (STEM) Applied Learning Programme (ALP).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 pm to 3.30 pm</p>
+<p>2 pm to 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Lab 1 &amp; 2</p>
+<p>Computer Lab 2 &amp; 3</p>
 </td>
 </tr>
 </tbody>
@@ -57,13 +57,13 @@ and Mathematics (STEM) Applied Learning Programme (ALP).</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Adelene Guo (Overall Teacher-in-charge)</p>
+<p>Mdm Linda Tan (Overall Teacher-in-charge)</p>
 </li>
 <li>
-<p>Mdm Linda Tan</p>
+<p>Ms Adelene Guo</p>
 </li>
 <li>
-<p>Mr Alan Tan</p>
+<p>Mrs Serene Soh</p>
 </li>
 </ul>
 <h4><strong>Achievements</strong></h4>

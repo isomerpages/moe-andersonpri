@@ -40,29 +40,16 @@ events and external performances, building their stage presence and teamwork</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P2 JAE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.30 pm to 3.30 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dance Studio</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 pm to 3.30 pm</p>
+<p>2 pm to 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Dance Studio</p>
 <p>PAL Room 1 and 2</p>
 </td>
 </tr>
@@ -71,16 +58,16 @@ events and external performances, building their stage presence and teamwork</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Charmaine Goh (Overall Teacher-in-charge)</p>
+<p>Mdm Sabariah (Overall Teacher-in-charge)</p>
 </li>
 <li>
-<p>Mrs Rachael Goh</p>
+<p>Ms Kee Wai Ying</p>
 </li>
 <li>
 <p>Mdm Meenachi</p>
 </li>
 <li>
-<p>Mdm Sabariah</p>
+<p>Ms Rachael Sin</p>
 </li>
 </ul>
 <h4><strong>Achievements</strong></h4>

@@ -60,7 +60,7 @@ and character
 <p>P2 JAE - P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 pm to 3.30 pm</p>
+<p>2 pm to 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Band Room, AR1, Dance Studio, DSA Rooms
@@ -76,7 +76,7 @@ and character
 <p>P3 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 pm to 3.30 pm</p>
+<p>2 pm to 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Band Room, AR1, AR2</p>
@@ -87,16 +87,16 @@ and character
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mrs Eileen Lim (Overall Teacher-in-charge)</p>
-</li>
-<li>
-<p>Ms Nur Shamilah</p>
-</li>
-<li>
-<p>Mrs Sharon Yeo</p>
+<p>Mrs Sharon Yeo (Overall Teacher-in-charge)</p>
 </li>
 <li>
 <p>Ms Thio Puan Kin</p>
+</li>
+<li>
+<p>Ms Kavitha d/o Balakrishna</p>
+</li>
+<li>
+<p>Ms Danielle Tan Bee Choo</p>
 </li>
 </ul>
 <p></p>

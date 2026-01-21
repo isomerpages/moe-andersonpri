@@ -87,35 +87,16 @@ responsible, respectful, and disciplined individuals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p>Monday, Thursday &amp; Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Girls</p>
+<p>Girls &amp; Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 pm to 3.30 pm</p>
+<p>2 pm to 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball Court</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.30 pm to 3.30 pm</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Basketball Court</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.00pm - 5.00pm</p>
 </td>
 </tr>
 </tbody>
@@ -126,16 +107,16 @@ responsible, respectful, and disciplined individuals.</p>
 <p>Mdm Jumiati Mohd Sidek (Overall Teacher-in-charge)</p>
 </li>
 <li>
-<p>Mr Ramesh</p>
+<p>Mr Ben Choo</p>
 </li>
 <li>
 <p>Mr Peter Toh</p>
 </li>
 <li>
-<p>Mdm Cheong Hwee Hua</p>
+<p>Ms Zahira Begum</p>
 </li>
 <li>
-<p>Mr Soh Jia Qing</p>
+<p>Ms Lai Meiyu</p>
 </li>
 </ul>
 <p></p>
