@@ -84,7 +84,7 @@ while also maintaining a safe and supportive environment for them to thrive.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p>Thursdayn&amp; Friday</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,7 +92,7 @@ while also maintaining a safe and supportive environment for them to thrive.</p>
 <p>Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 pm to 3.30 pm</p>
+<p>2 pm to 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH</p>
@@ -109,10 +109,13 @@ while also maintaining a safe and supportive environment for them to thrive.</p>
 <p>Mrs Lena Ho</p>
 </li>
 <li>
-<p>Ms Joy Lim</p>
+<p>Mdm Rachel Cheng</p>
 </li>
 <li>
-<p>Ms Kee Wai Ying</p>
+<p>Mr Alan Tan</p>
+</li>
+<li>
+<p>Ms Lin Xi En, Charmaine</p>
 </li>
 </ul>
 <p></p>
