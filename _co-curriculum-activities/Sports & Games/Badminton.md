@@ -85,30 +85,16 @@ and efficiently during training and competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p>Monday, Wednesday, Thursday &amp; Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Girls</p>
+<p>Girls &amp; Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 pm to 3.30 pm</p>
+<p>2 pm to 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.30 pm to 3.30 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ISH</p>
 </td>
 </tr>
 </tbody>
@@ -119,13 +105,25 @@ and efficiently during training and competition.</p>
 <p>Mr Ferdinand Mar (Overall Teacher-in-charge)</p>
 </li>
 <li>
-<p>Mrs Serene Soh</p>
+<p>Mr Anuar Adam</p>
 </li>
 <li>
-<p>Mr Deng Liqiang</p>
+<p>Mrs Rachael Goh</p>
 </li>
 <li>
-<p>Ms Danielle Tan</p>
+<p>Ms Goh Yan Qi</p>
+</li>
+<li>
+<p>Ms Inoue Ikuyo</p>
+</li>
+<li>
+<p>Ms Leng Yip, Jean</p>
+</li>
+<li>
+<p>Mdm Lin Ruoting</p>
+</li>
+<li>
+<p>Ms Rainelle Yip Jia Xin</p>
 </li>
 </ul>
 <p></p>
