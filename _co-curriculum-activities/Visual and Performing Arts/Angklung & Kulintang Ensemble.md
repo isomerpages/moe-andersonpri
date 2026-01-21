@@ -42,14 +42,13 @@ spirit of excellence in all they do.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday
-<br>Friday</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 pm to 3.30 pm</p>
+<p>2 pm to 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Room 1 &amp; 2</p>
