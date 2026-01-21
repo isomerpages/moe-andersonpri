@@ -80,7 +80,7 @@ find out more about the Boys' Brigade activities and events.</p>
 <p>P3 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 pm to 4.00 pm</p>
+<p>2 pm to 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
