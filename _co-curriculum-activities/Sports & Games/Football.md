@@ -72,7 +72,7 @@ first joined us.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday &amp; Friday</p>
+<p>Monday &amp; Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00 pm to 5.00 pm</p>
@@ -89,16 +89,13 @@ first joined us.</p>
 <p>Mr Merrill Leong (Overall Teacher-in-charge)</p>
 </li>
 <li>
-<p>Mdm Wong Mei Ting</p>
-</li>
-<li>
 <p>Mdm Siti Suraidah</p>
 </li>
 <li>
 <p>Mr Edmund Liang</p>
 </li>
 <li>
-<p>Ms Danisha</p>
+<p>Ms Safiah Nafisah</p>
 </li>
 </ul>
 <p></p>
