@@ -83,7 +83,7 @@ find out more about the Boys' Brigade activities and events.</p>
 <p>2 pm to 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Hall</p>
+<p>PAL Room</p>
 </td>
 </tr>
 </tbody>
