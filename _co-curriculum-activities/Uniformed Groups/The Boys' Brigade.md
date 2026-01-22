@@ -91,10 +91,7 @@ find out more about the Boys' Brigade activities and events.</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr William Ho (Overall Teacher-in-charge)</p>
-</li>
-<li>
-<p>Ms Angela Lee</p>
+<p>Ms Angela Lee (Overall Teacher-in-charge)</p>
 </li>
 <li>
 <p>Mr Deng Liqiang</p>
