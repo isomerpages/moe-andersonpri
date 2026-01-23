@@ -83,7 +83,7 @@ find out more about the Boys' Brigade activities and events.</p>
 <p>2 pm to 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Hall</p>
+<p>PAL Room</p>
 </td>
 </tr>
 </tbody>
@@ -91,10 +91,7 @@ find out more about the Boys' Brigade activities and events.</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr William Ho (Overall Teacher-in-charge)</p>
-</li>
-<li>
-<p>Ms Angela Lee</p>
+<p>Ms Angela Lee (Overall Teacher-in-charge)</p>
 </li>
 <li>
 <p>Mr Deng Liqiang</p>

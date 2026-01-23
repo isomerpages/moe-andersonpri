@@ -4,12 +4,6 @@ permalink: /home-school-partnerships/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Gratitude</strong></h4>
-<p>If you would like to express your appreciation to any member of our Anderson
-Primary staff or students, you may post your message using our <strong>Gratitude E-note</strong>.</p>
-<p>Thank you for taking the time to share your thoughts. Please note that
-your gratitude note may be shared by our school leaders on appropriate
-occasions.</p>
 <h4><strong>Communications Between School and Home</strong></h4>
 <p>To foster strong home–school partnerships, Anderson Primary provides the
 following channels:</p>
