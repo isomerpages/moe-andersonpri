@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WhatsApp_Image_2026_01_23_at_09_41_56.jpg
+      background: /images/School_Banner_20206_revised.gif
       url: /contact-us/
       key_highlights:
         - title: ENCOMPASS e-Magazine
