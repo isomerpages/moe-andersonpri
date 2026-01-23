@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School_Banner_20206_revised.gif
+      background: /images/ezgif_com_animated_gif_maker__1_.gif
       url: /contact-us/
       key_highlights:
         - title: ENCOMPASS e-Magazine
