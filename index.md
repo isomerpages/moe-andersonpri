@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website School Banner 3.gif
+      background: /images/SchoolBanner2026_ezgif_com_video_to_gif_converter.gif
       url: /contact-us/
       key_highlights:
         - title: ENCOMPASS e-Magazine
