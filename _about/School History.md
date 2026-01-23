@@ -21,10 +21,10 @@ from 2012 to 2018, and Mdm Delia Hoo from 2019 to 2024. Each brought their
 own vision, passion, and commitment, ensuring that the school’s values
 and standards continued to flourish.</p>
 <p>Today, Anderson Primary is proudly led by Ms Shirley Leow, Principal,
-supported by Mr Thomas Boh, Vice-Principal (Academic), and Ms Jolyn Chua,
-Vice-Principal (Academic). The current leadership team remains steadfast
-in their mission to build on this strong foundation, guiding the school
-with purpose and ambition. Together, they continue to inspire generations
-of learners, uphold a culture of excellence, and lead Anderson Primary
-to new heights.</p>
+supported by Mr Thomas Boh, Vice-Principal (Academic), Ms Jolyn Chua, Vice-Principal
+(Academic) and Ms Rae Tan, Vice-Principal (Administrative). The current
+leadership team remains steadfast in their mission to build on this strong
+foundation, guiding the school with purpose and ambition. Together, they
+continue to inspire generations of learners, uphold a culture of excellence,
+and lead Anderson Primary to new heights.</p>
 <p></p>
