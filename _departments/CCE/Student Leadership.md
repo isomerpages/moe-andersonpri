@@ -30,3 +30,8 @@ their leadership competencies.</p>
 and character serve in the Student Leaders Exco, where they take on advanced
 responsibilities such as planning school-wide programmes, mentoring junior
 leaders, championing student voice, and modelling exemplary conduct.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce_pyramid.png">
+</div>
+<p></p>
