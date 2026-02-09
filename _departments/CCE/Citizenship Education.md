@@ -5,52 +5,365 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<p><strong>Learners with Passion, Leaders with Heart, Citizens of Character.</strong></p>
-<p>Every Andersonian can learn for life and even excel in life. They can achieve this when they are anchored in the core values of&nbsp;<strong>Respect, Responsibility, Resilience, Integrity, Care and Harmony (R3ICH)</strong>, and are equipped with the right skills and competencies to become citizens of good character. With a strong sense of responsibility and a heart to lead and serve,</p>
-<p><em>Andersonians will …<br></em><strong>S</strong>hape the future of our nation as concerned and active citizens of character<br><strong>H</strong>asten to empathise with others through understanding, acceptance and respect<br><strong>I</strong>nitiate responsibility to family and community<br><strong>N</strong>avigate complexities and challenges with resilience<br><strong>E</strong>xcel in moral and performance character</p>
-<p>At Anderson, a suite of Character and Citizenship Education (CCE) experiences prepares students on a journey to become citizens of good character, both online and offline, as they learn to&nbsp;<strong><em>Step In, Step Back and Step Up</em></strong>:</p>
-<p><strong><u>Form Teacher Guidance Period (FTGP)</u></strong></p>
-<p>Led by all Form Teachers, FTGP is conducted weekly in the form of interaction activities as well as lessons to facilitate students’ learning and application of social emotional (SE) competencies in the domains of self-awareness, social awareness, self-management, relationship management and responsible decision making.</p>
-<p><strong><u>Class-based CCE Lessons</u></strong></p>
-<p>The suite of CCE programmes and lessons in Anderson are motivated by our desire to nurture all Andersonians to be citizens of good character with a strong sense of responsibility who will contribute to the success of Singapore and the well-being of fellow Singaporeans. From the series of CCE lesson packages targeted at student development (see below), Andersonians develop an interconnected understanding of facts to make sense of the different perspectives around them.</p>
-<ul>
-<li>Citizen Science series – In-touch with The World Around Me</li>
-<li>Building Personal Effectiveness through life skills training</li>
-<li>Active Peer Support</li>
-<li>Gratitude and Growth series</li>
-<li>Education and Career Guidance</li>
-<li>Positive Self-Care for mental well-being</li>
-<li>Cyber Wellness education</li>
-<li>Growing Years series (for Primary 5 and 6 only)</li>
+<h4>Values-in-Action</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD3.png">
+</div>
+<p>Our VIA programme nurtures students’ understanding of diversity, strengthens
+empathy, and builds civic consciousness. By intentionally driving the development
+of the 21st Century Competencies—such as global awareness, responsible
+decision-making, communication, collaboration, and active community engagement—our
+VIA experiences ensure students grow into active, responsible, and future‑ready
+citizens.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>VIA Theme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Everyday Responsibilities: daily classroom cleaning routines and shared
+space maintenance instill a sense of responsibility.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Caring for Family and Friends</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Home Helpers</strong>: Simple, hands‑on tasks at home to practise
+care and responsibility for family and personal belongings.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Understanding My Friends</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Secret Care Buddy</strong>: Show care and encouragement to classmates
+through thoughtful words and kind actions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindness &amp; Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ambassadors of Kindness</strong>: Take on a class mission to spread
+kindness through meaningful gestures and actions that make a difference
+to others.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Caring for shared spaces</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Guardians of Our Space: </strong>Each class adopts an area in
+the school and works together to keep it tidy, welcoming, and safe for
+the school community.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Being An Active Contributor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Young Changemakers</strong>: contribute to community arts, events,
+and service initiatives that strengthen bonds across the neighbourhood.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Serving Others</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Anderson Gives Back: </strong>empowers students to identify community
+needs, engage with local organisations, and initiate VIA projects that
+create meaningful impact.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>National Education (NE)</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE1.jpg">
+</div>
+<p>National Education fosters belonging, hope, and responsibility by giving
+students meaningful experiences that deepen their understanding of Singapore’s
+identity, challenges, and aspirations, nurturing socially aware and active
+contributors to their families, schools, and communities.</p>
+<p><strong>NE Commemorative Events</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Total Defence Day (TDD)<br></strong>A reminder that safeguarding
+Singapore is everyone’s responsibility. Students learn the importance of
+unity, resilience, and vigilance in keeping our nation safe.</p>
+<p></p>
+</li>
+<li>
+<p><strong>International Friendship Day (IFD)<br></strong>Celebrates Singapore’s
+ties with the region and the world. Students appreciate diverse cultures
+and understand the value of friendship and cooperation among nations.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Racial Harmony Day (RHD)<br></strong>Highlights the importance
+of racial and religious harmony. Students appreciate diversity, understand
+different customs, and reflect on issues that shape social cohesion.</p>
+<p></p>
+</li>
+<li>
+<p><strong>National Day<br></strong>A celebration of Singapore’s resilience
+and progress. Students reflect on national identity, express hopes for
+the future, and strengthen their sense of pride and belonging.</p>
+</li>
+</ol>
+<h4>Cohort Learning Journeys</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2.jpg">
+</div>
+<p>Cohort Learning Journeys deepen students’ understanding of their Singaporean
+identity through rich experiences in the arts, culture, and heritage. Each
+journey complements the national Art, Character, and Citizenship Education
+curricula, helping students appreciate Singapore’s diversity, history,
+and shared stories.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Learning Journey</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mandai Bird Paradise</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Zoological Gardens</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geylang Serai Heritage Gallery</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kreta Ayer Heritage Gallery</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indian Heritage Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asian Civilisations Museum</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Discover German Language and Culture Programme</h4>
+<p>This school‑based CCE initiative builds students’ global literacy through
+conversational German while strengthening 21CC skills in communication
+and cultural awareness. Co‑designed with the Goethe‑Institut Singapore,
+the programme blends language learning with STEM, the arts, and cross‑cultural
+exploration—equipping students to thrive in a connected world.</p>
+<h4>Cyber Wellness</h4>
+<p>Cyber Wellness in Character and Citizenship Education (CCE) focuses on
+the well-being of our students as they navigate cyberspace. <strong>The 3 Cyber Wellness Key Messages are:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Embrace the affordances of technology while maintaining a balanced lifestyle
+between offline and online activities.</p>
+</li>
+<li>
+<p>Be a safe and responsible user of technology and maintain a positive online
+presence.</p>
+</li>
+<li>
+<p>Be responsible for personal well-being in cyberspace.</p>
+</li>
 </ul>
-<img style="width: 60%;" src="/images/apscce1.jpg">
-<p style="text-align: center;"><strong><em>EOY Finish Strong! Programme (2020)</em></strong></p>
-<img style="width: 50%;" src="/images/apscce2.jpg">
-<p style="text-align: center;"><strong><em>Learning first aid skills during Total Defence Day (2021)<br>(Student Leaders OLJ 2019)</em></strong></p>
-<p><strong><u>National Education (NE) Programmes and Social Studies</u></strong></p>
-<p>The objective of NE is to develop national cohesion, the instinct for survival and confidence in the future,</p>
-<ul>
-<li>by fostering a sense of identity, pride and self-respect in our students as Singaporeans;</li>
-<li>by knowing the Singapore story -- how Singapore succeeded against the odds to become a nation;</li>
-<li>by understanding Singapore’s unique challenges, constraints and vulnerabilities, which make us different from other countries;</li>
-<li>and by instilling the core values of our way of life, and the will to prevail, that ensures our continued success and well-being.</li>
+<p>The MOE Cyberwellness framework guides the school’s planning and implementation
+of Cyber Wellness education.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE3.png">
+</div>
+<p>The Cyber Wellness curriculum is organised into 5 topics:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Topics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students will learn about</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cyber use</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Maintaining a healthy balance of online and offline activities</p>
+</li>
 </ul>
-<p>In Anderson, we commemorate four core NE events which have been identified as defining moments in Singapore’s history every year. The aim is to entrench these events and the images they evoke in the consciousness of each successive generation.</p>
-<img style="width: 60%;" src="/images/apscce6.jpg"><br>
-<img style="width: 45%;" src="/images/apscce7.jpg">
-<p style="text-align: center;"><strong><em>School Commemoration of Racial Harmony Day and National Day (2020)</em></strong></p>
-<p><strong><u>Values-in-Action (ViA): Anderson Primary Gives Back</u></strong></p>
-<p>‘Anderson Primary Gives Back’ is part of our school’s Values-In-Action programme that provides students with opportunities, from primary one to six, to learn what it means to contribute meaningfully to the community. As students prepare and actively contribute towards their ViA activities, we hope they will spend time reflecting how they have impacted the community and the lessons they have learnt as they play their part towards a caring and inclusive Singapore.</p>
-<p>Some key focuses of our ViA activities include:</p>
-<ul>
-<li><em>Project BUDDY CLEAN</em>: My Home, My School (Primary 1)</li>
-<li><em>Project JOY</em>:&nbsp;<strong>J</strong>oy -&nbsp;<strong>O</strong>urs to&nbsp;<strong>Y</strong>ours (Primary 2)</li>
-<li><em>Project GIVE</em>&nbsp;-&nbsp;<strong>G</strong>et to know,&nbsp;<strong>I</strong>nclude,&nbsp;<strong>V</strong>alue the&nbsp;<strong>E</strong>lderly (Primary 3)</li>
-<li><em>Project Good Neighbour</em>: Advocating good neighbourliness (Primary 4)</li>
-<li><em>Project HOPE</em>: Care for Something bigger than Myself (Primary 5)</li>
-<li><em>Project GIFT</em>: Champion our Cause! (Primary 6)</li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cyber identity</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Developing a healthy online identity</p>
+</li>
+<li>
+<p>Appropriate online expression</p>
+</li>
 </ul>
-<img style="width: 45%;" src="/images/apscce8.jpg">
-<p style="text-align: center;"><strong><em>Values-in-Action – Clean Plate Campaign (2020)</em></strong></p>
-<img style="width: 60%;" src="/images/apscce9.jpg">
-<p style="text-align: center;"><strong><em>Student Leaders serving at ‘Food from the Heart’ Donation Drive (2020)</em></strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cyber relationships</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Netiquette</p>
+</li>
+<li>
+<p>Cyber bullying</p>
+</li>
+<li>
+<p>Developing safe, respectful and meaningful online relationships</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cyber citizenship</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Understanding the cyber world</p>
+</li>
+<li>
+<p>Handling online content and behaviour</p>
+</li>
+<li>
+<p>Having a positive presence in the cyber community</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cyber ethics</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Creating and sharing online content in a responsible manner</p>
+</li>
+<li>
+<p>Respecting copyright</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Support at home</h4>
+<p>Parents play a key role in their children’s growth. Students benefit the
+most when the home and school environments are attuned to each other.&nbsp;To
+help your child stay safe and have positive experiences online, you can:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE4.jpg">
+</div>
+<p>Parents can also refer to MOE’s&nbsp;(<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">ICT Connection</a>&nbsp;)&nbsp;portal
+for a list of guides, tips, resources and useful links to reinforce CW
+education at home.</p>
