@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Talent Development Department.md
       - English/.keep
       - English/Aims & Approach.md
       - English/Key Programmes.md
