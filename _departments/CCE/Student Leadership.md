@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4>Every Andersonian, A Leader</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce_student_leadership.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLD_Cover_Photo_3_compressed.jpg">
 </div>
 <p>At Anderson Primary School, we believe every child can lead, and leadership
 is nurtured not only through formal roles but through everyday actions
