@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Talent Development Department.md
       - English/.keep
       - English/Aims & Approach.md
       - English/Key Programmes.md
@@ -48,3 +47,4 @@ collections:
       - Aesthetics/Vision & Mission.md
       - Aesthetics/Our Arts Programme.md
       - Aesthetics/Living Arts Gallery.md
+      - Talent Development Department.md
