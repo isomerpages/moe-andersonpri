@@ -1,5 +1,5 @@
 ---
-title: Sexuality Education 2026
+title: MOE Sexuality Education
 permalink: /departments/cce/sexualityeducation2026/
 description: ""
 third_nav_title: CCE
