@@ -104,7 +104,8 @@ variant: markdown
 <p>Please visit:&nbsp;<a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/road_safety_and_vehicle_rules/road-safety.html#_At_School_Zones" target="_blank" rel="noopener">https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/road_safety_and_vehicle_rules/road-safety.html#_At_School_Zones</a></p>
 	
 
-</div></li><li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>Announcement</strong></h4></label>
+</div>
+</li><li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>Announcement</strong></h4></label>
 <div>
 <p>11 February 2026</p>
 <p>Dear Parents and Guardians</p>
