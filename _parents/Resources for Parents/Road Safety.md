@@ -105,7 +105,7 @@ variant: markdown
 	
 
 </div> </li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>Announcement</strong></h4></label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4"><h4><strong>Announcement</strong></h4></label>
 <div>
 <p>11 February 2026</p>
 <p>Dear Parents and Guardians</p>
