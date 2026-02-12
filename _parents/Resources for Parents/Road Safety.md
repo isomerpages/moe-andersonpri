@@ -129,9 +129,8 @@ off children later or walking your children to school where possible. Your conti
 <p>Detailed guidelines can be found on our website under Road Safety Advisory and Road Safety and School Safety. As a school, we have shared and reminded children of these practices through the three-day Start Right Programme and during morning flag-raising assemblies</p>
 <p>As the saying goes, it takes a village to raise a child. We ask parents and guardians to partner with us by supervising, guiding, and reinforcing these messages, and monitoring your children’s behaviour. We also welcome feedback from the public and continue to work closely with relevant authorities and organisations to make our roads safer for all children, parents, guardians, and other road users.</p>
 <p>Thank you for your continued understanding and support.</p>
-<p><strong>RAE TAN (MS)</strong></p>
-<strong>VICE PRINCIPAL (ADMINISTRATION)</strong>
+<p><strong>RAE TAN (MS)</strong><br><strong>VICE PRINCIPAL (ADMINISTRATION)<strong><br>
 
-</div>
-</li>
-</ul>
+</strong></strong></p></div><strong><strong>
+</strong></strong></li><strong><strong>
+</strong></strong></ul>
