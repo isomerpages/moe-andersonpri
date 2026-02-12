@@ -109,7 +109,7 @@ variant: markdown
 <div>
 <p>11 February 2026</p>
 <p>Dear Parents and Guardians</p>
-<p>**Update on Traffic Management and Road Safety Reminders**</p>
+<p><strong>Update on Traffic Management and Road Safety Reminders</strong></p>
 <p>Thank you for your patience and continued support for our traffic management arrangements since the start of the school year. Over the past month, the school has closely monitored traffic conditions around the school and would like to share our observations.</p>
 <p>We are pleased to note a significant improvement in morning drop-off traffic. The adjustment to school hours has helped to stagger arrivals, shorten queues, and create a calmer, more orderly traffic flow, contributing to a safer start to each school day. We sincerely thank our
 parent volunteers and partners from AMK–THK Hospital, as well as our school bus operators who have adjusted pick-up timings, with most buses now arriving between 7.00 a.m. and 7.20 a.m. We also appreciate parents and guardians who have supported these efforts by dropping
@@ -129,8 +129,8 @@ off children later or walking your children to school where possible. Your conti
 <p>Detailed guidelines can be found on our website under Road Safety Advisory and Road Safety and School Safety. As a school, we have shared and reminded children of these practices through the three-day Start Right Programme and during morning flag-raising assemblies</p>
 <p>As the saying goes, it takes a village to raise a child. We ask parents and guardians to partner with us by supervising, guiding, and reinforcing these messages, and monitoring your children’s behaviour. We also welcome feedback from the public and continue to work closely with relevant authorities and organisations to make our roads safer for all children, parents, guardians, and other road users.</p>
 <p>Thank you for your continued understanding and support.</p>
-<p>**RAE TAN (MS)**</p>
-**VICE PRINCIPAL (ADMINISTRATION)**
+<p><strong>RAE TAN (MS)</strong></p>
+<strong>VICE PRINCIPAL (ADMINISTRATION)</strong>
 
 </div>
 </li>
