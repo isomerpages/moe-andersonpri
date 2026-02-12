@@ -117,13 +117,14 @@ off children later or walking your children to school where possible. Your conti
 <p>At the same time, we have observed some unsafe practices that require your attention. These are outlined in the tables below. We seek your support in reinforcing safe and appropriate practices with your children.</p>
 <p>a) Modes of Transport: Unsafe and Appropriate Practices</p>
 
-![](/images/Website_3.png)
-![](/images/Website_4.png)
+<img style="width: 70%;" src="/images/Website_3.png">
+<img style="width: 70%;" src="/images/Website_4.png">
+
 	
 <p>b) Driving: Unsafe and Appropriate Practices</p>
-	
-![](/images/Website_5.png)
-![](/images/Website_6.png)
+
+<img style="width: 70%;" src="/images/Website_5.png">
+<img style="width: 70%;" src="/images/Website_6.png">
 	
 <p>Detailed guidelines can be found on our website under Road Safety Advisory and Road Safety and School Safety. As a school, we have shared and reminded children of these practices through the three-day Start Right Programme and during morning flag-raising assemblies</p>
 <p>As the saying goes, it takes a village to raise a child. We ask parents and guardians to partner with us by supervising, guiding, and reinforcing these messages, and monitoring your children’s behaviour. We also welcome feedback from the public and continue to work closely with relevant authorities and organisations to make our roads safer for all children, parents, guardians, and other road users.</p>
