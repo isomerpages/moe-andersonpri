@@ -103,9 +103,9 @@ variant: markdown
 <p>On the other side, it is just outside the former Chaoyang School. LTA installed this sign at the start of an Enhanced School Zone. The two amber lights will flash alternatively during school days from 6.30am to 7.45am and from 12noon to 2.30pm. Upon reaching this zone, motorist should reduce their travelling speed to 40km/h when the lights are in operation. Motorist should still drive within the designated speed limit of the road when the lights are not in operation. LTA has also informed that motorist caught committing the offence of careless/inconsiderate driving, beating red lights, or speeding within school zones will receive an additional demerit point from the Traffic Police.</p>
 <p>Please visit:&nbsp;<a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/road_safety_and_vehicle_rules/road-safety.html#_At_School_Zones" target="_blank" rel="noopener">https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/road_safety_and_vehicle_rules/road-safety.html#_At_School_Zones</a></p>
 	
-<ul class="jekyllcodex_accordion">
-</ul></div>
-</li><li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>Announcement</strong></h4></label>
+
+</div> </li>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>Announcement</strong></h4></label>
 <div>
 <p>11 February 2026</p>
 <p>Dear Parents and Guardians</p>
