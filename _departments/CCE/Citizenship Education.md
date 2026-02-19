@@ -258,7 +258,7 @@ presence.</p>
 <p>The MOE Cyberwellness framework guides the school’s planning and implementation
 of Cyber Wellness education.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCE3.png">
 </div>
 <p>The Cyber Wellness curriculum is organised into 5 topics:</p>
 <table style="minWidth: 50px">
