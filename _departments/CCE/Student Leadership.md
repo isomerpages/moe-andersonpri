@@ -32,6 +32,6 @@ responsibilities such as planning school-wide programmes, mentoring junior
 leaders, championing student voice, and modelling exemplary conduct.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce_pyramid.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_2.jpg">
 </div>
 <p></p>
