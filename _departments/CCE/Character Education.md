@@ -70,7 +70,7 @@ critical thinking, and an appreciation of diverse perspectives—deepening
 their understanding of Singapore and its connections to the world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social_Studi.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Social_Studi.jpg">
 </div>
 <p></p>
 <p></p>
