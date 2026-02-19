@@ -103,7 +103,34 @@ variant: markdown
 <p>On the other side, it is just outside the former Chaoyang School. LTA installed this sign at the start of an Enhanced School Zone. The two amber lights will flash alternatively during school days from 6.30am to 7.45am and from 12noon to 2.30pm. Upon reaching this zone, motorist should reduce their travelling speed to 40km/h when the lights are in operation. Motorist should still drive within the designated speed limit of the road when the lights are not in operation. LTA has also informed that motorist caught committing the offence of careless/inconsiderate driving, beating red lights, or speeding within school zones will receive an additional demerit point from the Traffic Police.</p>
 <p>Please visit:&nbsp;<a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/road_safety_and_vehicle_rules/road-safety.html#_At_School_Zones" target="_blank" rel="noopener">https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/road_safety_and_vehicle_rules/road-safety.html#_At_School_Zones</a></p>
 	
+
+</div> </li>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4"><h4><strong>Announcement</strong></h4></label>
+<div>
+<p>11 February 2026</p>
+<p>Dear Parents and Guardians</p>
+<p><strong>Update on Traffic Management and Road Safety Reminders</strong></p>
+<p>Thank you for your patience and continued support for our traffic management arrangements since the start of the school year. Over the past month, the school has closely monitored traffic conditions around the school and would like to share our observations.</p>
+<p>We are pleased to note a significant improvement in morning drop-off traffic. The adjustment to school hours has helped to stagger arrivals, shorten queues, and create a calmer, more orderly traffic flow, contributing to a safer start to each school day. We sincerely thank our
+parent volunteers and partners from AMK–THK Hospital, as well as our school bus operators who have adjusted pick-up timings, with most buses now arriving between 7.00 a.m. and 7.20 a.m. We also appreciate parents and guardians who have supported these efforts by dropping
+off children later or walking your children to school where possible. Your continued understanding and support to our staff and volunteers to maintain smooth flow towards, within and away from the school are greatly valued.</p>
+<p>At the same time, we have observed some unsafe practices that require your attention. These are outlined in the tables below. We seek your support in reinforcing safe and appropriate practices with your children.</p>
+<p>a) Modes of Transport: Unsafe and Appropriate Practices</p>
+
+<img style="width: 70%;" src="/images/Website_3.png">
+<img style="width: 70%;" src="/images/Website_4.png">
+
 	
-</div>
-</li>
-</ul>
+<p>b) Driving: Unsafe and Appropriate Practices</p>
+
+<img style="width: 70%;" src="/images/Website_5.png">
+<img style="width: 70%;" src="/images/Website_6.png">
+	
+<p>Detailed guidelines can be found on our website under Road Safety Advisory and Road Safety and School Safety. As a school, we have shared and reminded children of these practices through the three-day Start Right Programme and during morning flag-raising assemblies</p>
+<p>As the saying goes, it takes a village to raise a child. We ask parents and guardians to partner with us by supervising, guiding, and reinforcing these messages, and monitoring your children’s behaviour. We also welcome feedback from the public and continue to work closely with relevant authorities and organisations to make our roads safer for all children, parents, guardians, and other road users.</p>
+<p>Thank you for your continued understanding and support.</p>
+<p><strong>RAE TAN (MS)</strong><br><strong>VICE PRINCIPAL (ADMINISTRATION)<strong><br>
+
+</strong></strong></p></div><strong><strong>
+</strong></strong></li><strong><strong>
+</strong></strong></ul>
