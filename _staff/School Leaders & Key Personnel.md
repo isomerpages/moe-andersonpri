@@ -111,7 +111,7 @@ variant: tiptap
 <br>LH/EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suzanah_saparwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Eileen_ONG@schools.gov.sg</a>
+<p><a href="mailto:Ong_Yi_Ling_Eileen_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_Yi_Ling_Eileen_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
