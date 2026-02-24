@@ -7,14 +7,14 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce_1.jpg">
 </div>
-<p>At Anderson Primary School, Character comes first. While academic achievement
-opens doors for our students’ future pathways, it is a strong, grounded
-and morally upright character that enables Andersonians to flourish, contribute
-meaningfully, and lead fulfilling lives.</p>
-<p>Our Character &amp; Citizenship Education (CCE) curriculum is designed
-to nurture students in four key domains:</p>
+<p>At Anderson Primary School, Character comes first. Our CCE programmes
+are anchored on 3 Big Ideas—Identity, Relationships and Choices, and our
+values of Lifelong Learning, Integrity, Gratitude, Harmony and Tenacity
+(LIGHT). To empower Andersonians to flourish, contribute meaningfully,
+and lead fulfilling lives, our Character &amp; Citizenship Education (CCE)
+curriculum is designed to nurture students in four key domains:</p>
 <p><strong>1. Good Character</strong>
 <br>Students develop a sound moral compass, discern right from wrong, think
 critically and ethically, make responsible choices, show care and empathy
