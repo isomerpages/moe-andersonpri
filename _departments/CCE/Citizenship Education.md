@@ -258,7 +258,7 @@ presence.</p>
 <p>The MOE Cyberwellness framework guides the school’s planning and implementation
 of Cyber Wellness education.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCE3.png">
 </div>
 <p>The Cyber Wellness curriculum is organised into 5 topics:</p>
 <table style="minWidth: 50px">
@@ -362,7 +362,7 @@ of Cyber Wellness education.</p>
 most when the home and school environments are attuned to each other.&nbsp;To
 help your child stay safe and have positive experiences online, you can:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCE4.jpg">
 </div>
 <p>Parents can also refer to MOE’s&nbsp;(<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">ICT Connection</a>&nbsp;)&nbsp;portal
 for a list of guides, tips, resources and useful links to reinforce CW
