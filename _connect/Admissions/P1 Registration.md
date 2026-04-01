@@ -122,7 +122,7 @@ Kio North Primary School, Li Hua Primary School and Hong Dao Primary School,
 are eligible for P1 Registration in Phase 2A.</p>
 <p>If you have misplaced your report book and PSLE certificate, you can find
 more information on how to obtain a Statement of Results (SOR)&nbsp;
-<a href="https://www.seab.gov.sg/home/services/statements-of-results" rel="noopener" target="_blank">here</a>.</p>
+<a href="https://www.seab.gov.sg/statements-of-results/" rel="noopener" target="_blank">here</a>.</p>
 <p><strong>6. Can I join Anderson Primary School as a Parent Volunteer for priority registration in Phase 2B?<br></strong>In
 order to be eligible for the Registration in the Phase 2B in the Primary
 One Registration Exercise, parents must join the school as a Parent Volunteer
