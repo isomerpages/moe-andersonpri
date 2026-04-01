@@ -10,7 +10,7 @@ variant: markdown
 
 </ul>
 <ul>
-<li><a href="https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf" target="_blank" rel="noopener">SEAB List of Approved Chinese Dictionaries for PSLE</a></li>
+
 </ul>
 <ul>
 
