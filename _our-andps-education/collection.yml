@@ -2,4 +2,5 @@ collections:
   our-andps-education:
     output: true
     order:
+      - English Language/Mission.md
       - English Language/.keep
