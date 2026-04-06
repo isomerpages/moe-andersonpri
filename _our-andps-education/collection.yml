@@ -2,10 +2,6 @@ collections:
   our-andps-education:
     output: true
     order:
-      - Malay Language/Mission.md
-      - Malay Language/Curriculum.md
-      - Malay Language/Programmes.md
-      - Malay Language/.keep
       - English Language/.keep
       - English Language/Mission.md
       - English Language/Curriculum.md
@@ -14,6 +10,10 @@ collections:
       - Chinese Language/Mission.md
       - Chinese Language/Curriculum.md
       - Chinese Language/Programmes.md
+      - Malay Language/.keep
+      - Malay Language/Mission.md
+      - Malay Language/Curriculum.md
+      - Malay Language/Programmes.md
       - Tamil Language/.keep
       - Tamil Language/Mission.md
       - Tamil Language/Curriculum.md
