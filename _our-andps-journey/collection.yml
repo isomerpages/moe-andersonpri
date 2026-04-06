@@ -2,9 +2,9 @@ collections:
   our-andps-journey:
     output: true
     order:
-      - School Vision, Mission & Values.md
       - 25ᵗʰ Silver Jubilee Celebration.md
       - Our Strategic Plan.md
+      - School Vision, Mission & Values.md
       - School Mascot.md
       - School History.md
       - School Song.md
