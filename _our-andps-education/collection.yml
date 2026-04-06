@@ -2,10 +2,10 @@ collections:
   our-andps-education:
     output: true
     order:
-      - English/.keep
-      - English/Mission.md
-      - English/Curriculum.md
-      - English/Programmes.md
+      - English Language/.keep
+      - English Language/Mission.md
+      - English Language/Curriculum.md
+      - English Language/Programmes.md
       - Chinese/.keep
       - Chinese/Vision & Mission.md
       - Chinese/Key Programmes.md
