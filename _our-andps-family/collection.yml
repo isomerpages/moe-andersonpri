@@ -2,7 +2,6 @@ collections:
   our-andps-family:
     output: true
     order:
-      - Security Guards.md
       - School Leaders.md
       - Key Personnel.md
       - Teachers/.keep
@@ -14,3 +13,4 @@ collections:
       - Teachers/Primary 6.md
       - Allied Educators.md
       - Executive and Administrative Staff.md
+      - Security Guards.md
