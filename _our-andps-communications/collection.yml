@@ -1,5 +1,5 @@
 collections:
-  connect:
+  our-andps-communications:
     output: true
     order:
       - Contact & Admin Info.md
