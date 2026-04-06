@@ -32,6 +32,13 @@ links:
         url: /our-family/executive-and-administrative-staff/
       - title: Security Guards
         url: /security-guards/
+  - title: Our AndPS Education
+    url: /mission/
+    sublinks:
+      - title: English Language
+        url: /mission/
+      - title: Chinese Language
+        url: /mission/
   - title: Curriculum
     collection: curriculum
   - title: Parents
