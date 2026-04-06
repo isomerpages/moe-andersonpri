@@ -2,13 +2,6 @@ collections:
   our-andps-partnerships:
     output: true
     order:
-      - Service Providers/School Bookshop.md
-      - Service Providers/School Bus.md
-      - Service Providers/School Canteen.md
-      - Service Providers/School Dental.md
-      - Service Providers/School Student Care.md
-      - Service Providers/School Uniform.md
-      - Service Providers/.keep
       - School Advisory Committee (SAC).md
       - Parent Support Group.md
       - Existing AndPS Parents/.keep
@@ -21,3 +14,10 @@ collections:
       - Potential Parents/P1 Registration.md
       - Potential Parents/Waiting List.md
       - Alumni.md
+      - Service Providers/.keep
+      - Service Providers/School Bookshop.md
+      - Service Providers/School Bus.md
+      - Service Providers/School Canteen.md
+      - Service Providers/School Dental.md
+      - Service Providers/School Student Care.md
+      - Service Providers/School Uniform.md
