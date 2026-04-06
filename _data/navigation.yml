@@ -55,17 +55,13 @@ links:
   - title: Our Andps Communications
     url: /connect/contact-n-admin-info
     sublinks:
-      - title: Home-School Partnerships
-        url: /home-school-partnerships/
+      - title: Communications Policy
+        url: /communications-policy/
+      - title: Social Media
+        url: /social-media/
       - title: Contact & Admin Info
         url: /connect/contact-n-admin-info
-      - title: Service Providers
-        url: /connect/service-providers/school-student-care
-      - title: Admission
-        url: /connect/admission/p1-registration/
-      - title: Quick Links
-        url: /connect/quick-links
-  - title: Curriculum
-    collection: curriculum
-  - title: Have A Question?
-    url: https://ask.gov.sg/aps
+      - title: Have a Question?
+        url: https://ask.gov.sg/aps
+  - title: Co-Curriculum
+    collection: co-curriculum-activities
