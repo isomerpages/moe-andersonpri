@@ -2,8 +2,8 @@ collections:
   our-andps-family:
     output: true
     order:
-      - Key Personnel.md
       - School Leaders & Key Personnel.md
+      - Key Personnel.md
       - Level Teachers/.keep
       - Level Teachers/Primary 1.md
       - Level Teachers/Primary 2.md
