@@ -39,6 +39,9 @@ links:
         url: /mission/
       - title: Chinese Language
         url: /mission/
+  - title: Our AndPS Experience
+    url: /permalink
+    sublinks: []
   - title: Curriculum
     collection: curriculum
   - title: Parents
