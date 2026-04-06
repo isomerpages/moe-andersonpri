@@ -2,6 +2,7 @@ collections:
   our-andps-education:
     output: true
     order:
+      - Physical Education/Curriculum.md
       - Physical Education/Programmes.md
       - Physical Education/.keep
       - English Language/.keep
