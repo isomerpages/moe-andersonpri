@@ -2,7 +2,6 @@ collections:
   our-andps-partnerships:
     output: true
     order:
-      - Potential Parents/.keep
       - School Advisory Committee (SAC).md
       - Parent Support Group.md
       - Existing AndPS Parents/.keep
@@ -11,4 +10,5 @@ collections:
       - Existing AndPS Parents/MOE Financial Assistance Scheme.md
       - Existing AndPS Parents/GPA Insurance for Students.md
       - Existing AndPS Parents/Quick Links.md
+      - Potential Parents/.keep
       - Alumni.md
