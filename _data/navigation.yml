@@ -42,6 +42,15 @@ links:
   - title: Our AndPS Experience
     url: /permalink
     sublinks: []
+  - title: Our AndPS Partnerships
+    url: /partners/school-advisory-committee-sac
+    sublinks:
+      - title: School Advisory Committee
+        url: /partners/school-advisory-committee-sac
+      - title: Parent Support Group
+        url: /partners/parent-support-group
+      - title: Alumni
+        url: /partners/alumni
   - title: Curriculum
     collection: curriculum
   - title: Parents
@@ -55,15 +64,6 @@ links:
         url: /parents/moe-fas-application-scheme/
       - title: GPA Insurance for Students
         url: /parents/gpa-insurance/
-  - title: Partners
-    url: /partners/school-advisory-committee-sac
-    sublinks:
-      - title: School Advisory Committee
-        url: /partners/school-advisory-committee-sac
-      - title: Parent Support Group
-        url: /partners/parent-support-group
-      - title: Alumni
-        url: /partners/alumni
   - title: Connect
     url: /connect/contact-n-admin-info
     sublinks:
