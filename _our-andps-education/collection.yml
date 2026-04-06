@@ -1,4 +1,5 @@
 collections:
   our-andps-education:
     output: true
-    order: []
+    order:
+      - English Language.md
