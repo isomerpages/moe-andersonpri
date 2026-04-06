@@ -2,11 +2,11 @@ collections:
   our-andps-partnerships:
     output: true
     order:
+      - School Advisory Committee (SAC).md
+      - Parent Support Group.md
       - Existing AndPS Parents/.keep
       - Existing AndPS Parents/Booklists.md
       - Existing AndPS Parents/DigitalAccess@Home.md
       - Existing AndPS Parents/MOE Financial Assistance Scheme.md
       - Existing AndPS Parents/GPA Insurance for Students.md
-      - School Advisory Committee (SAC).md
-      - Parent Support Group.md
       - Alumni.md
