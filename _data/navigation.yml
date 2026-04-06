@@ -17,11 +17,13 @@ links:
         url: /about/school-song
       - title: School Rules
         url: /about/school-rules
-  - title: Staff
-    url: /key-personnel/school-executive-committee
+  - title: Our AndPS Family
+    url: /school-leaders/
     sublinks:
-      - title: School Leaders & Key Personnel
-        url: /key-personnel/school-executive-committee
+      - title: School Leaders
+        url: /school-leaders/
+      - title: Key Personnel
+        url: /key-personnel/
       - title: Teachers
         url: /key-personnel/teachers/primary-1
       - title: Allied Educators
