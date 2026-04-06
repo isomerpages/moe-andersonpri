@@ -33,7 +33,7 @@ links:
       - title: Security Guards
         url: /security-guards/
   - title: Our AndPS Education
-    url: /mission/
+    url: /curriculum/departments/english/mission/
     sublinks:
       - title: English Language
         url: /mission/
@@ -79,3 +79,5 @@ links:
         url: /parents/gpa-insurance/
   - title: Have A Question?
     url: https://ask.gov.sg/aps
+  - title: Our AndPS Education
+    collection: our-andps-education
