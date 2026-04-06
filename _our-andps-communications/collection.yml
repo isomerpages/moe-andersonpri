@@ -2,8 +2,8 @@ collections:
   our-andps-communications:
     output: true
     order:
-      - Social Media.md
       - Communications Policy.md
+      - Social Media.md
       - Contact & Admin Info.md
       - Service Providers/.keep
       - Service Providers/School Bookshop.md
