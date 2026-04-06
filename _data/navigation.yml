@@ -33,12 +33,7 @@ links:
       - title: Security Guards
         url: /security-guards/
   - title: Our AndPS Education
-    url: /curriculum/departments/english/mission/
-    sublinks:
-      - title: English Language
-        url: /mission/
-      - title: Chinese Language
-        url: /mission/
+    collection: our-andps-education
   - title: Our AndPS Experience
     url: /permalink
     sublinks: []
@@ -66,18 +61,5 @@ links:
         url: /connect/quick-links
   - title: Curriculum
     collection: curriculum
-  - title: Parents
-    url: /parents/resources-for-parents/road-safety/
-    sublinks:
-      - title: Resources for Parents
-        url: /parents/resources-for-parents/road-safety
-      - title: DigitalAccess@Home
-        url: /parents/digital-access/
-      - title: MOE Financial Assistance
-        url: /parents/moe-fas-application-scheme/
-      - title: GPA Insurance for Students
-        url: /parents/gpa-insurance/
   - title: Have A Question?
     url: https://ask.gov.sg/aps
-  - title: Our AndPS Education
-    collection: our-andps-education
