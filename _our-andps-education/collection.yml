@@ -1,5 +1,5 @@
 collections:
-  departments:
+  our-andps-education:
     output: true
     order:
       - English/.keep
