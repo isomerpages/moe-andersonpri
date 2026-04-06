@@ -50,27 +50,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Social Media</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.instagram.com/anderson_primary_sch/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/anderson_primary_sch/</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/@andersonprimaryschool6109" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/@andersonprimaryschool6109</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.facebook.com/pages/Anderson-Primary-School-Official/248457555191296" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/pages/Anderson-Primary-School-Official/248457555191296</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
