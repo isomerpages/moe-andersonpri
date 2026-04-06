@@ -2,7 +2,7 @@ collections:
   our-andps-communications:
     output: true
     order:
-      - Home–School Partnerships.md
+      - Communications Policy.md
       - Contact & Admin Info.md
       - Service Providers/.keep
       - Service Providers/School Bookshop.md
