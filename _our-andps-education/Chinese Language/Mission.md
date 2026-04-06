@@ -1,6 +1,6 @@
 ---
 title: Mission
-permalink: /mission/
+permalink: /curriculum/departments/english/mission/
 variant: tiptap
 description: ""
 third_nav_title: Chinese Language
