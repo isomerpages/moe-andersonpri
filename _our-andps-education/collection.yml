@@ -2,6 +2,7 @@ collections:
   our-andps-education:
     output: true
     order:
+      - Chinese Language/Mission.md
       - Chinese Language/Curriculum.md
       - Chinese Language/Programmes.md
       - Chinese Language/.keep
