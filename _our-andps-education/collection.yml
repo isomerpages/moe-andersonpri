@@ -2,10 +2,6 @@ collections:
   our-andps-education:
     output: true
     order:
-      - Art/Mission.md
-      - Art/Curriculum.md
-      - Art/Programmes.md
-      - Art/.keep
       - English Language/.keep
       - English Language/Mission.md
       - English Language/Curriculum.md
@@ -14,6 +10,10 @@ collections:
       - Chinese Language/Mission.md
       - Chinese Language/Curriculum.md
       - Chinese Language/Programmes.md
+      - Art/.keep
+      - Art/Mission.md
+      - Art/Curriculum.md
+      - Art/Programmes.md
       - Music/.keep
       - Music/Mission.md
       - Music/Curriculum.md
