@@ -25,4 +25,11 @@ description: ""
 </p>
 </li>
 </ul>
+<h4>Tiktok</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.tiktok.com/@anderson_primary_sch" rel="noopener noreferrer nofollow" target="_blank">https://www.tiktok.com/@anderson_primary_sch</a>
+</p>
+</li>
+</ul>
 <p></p>
