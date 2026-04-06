@@ -2,6 +2,7 @@ collections:
   our-andps-education:
     output: true
     order:
+      - Mathematics/Mission.md
       - Mathematics/Curriculum.md
       - Mathematics/Programmes.md
       - Mathematics/.keep
