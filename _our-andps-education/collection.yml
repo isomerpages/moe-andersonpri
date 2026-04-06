@@ -2,10 +2,6 @@ collections:
   our-andps-education:
     output: true
     order:
-      - High Ability/Mission.md
-      - High Ability/Curriculum.md
-      - High Ability/Programmes.md
-      - High Ability/.keep
       - English Language/.keep
       - English Language/Mission.md
       - English Language/Curriculum.md
@@ -14,6 +10,10 @@ collections:
       - Chinese Language/Mission.md
       - Chinese Language/Curriculum.md
       - Chinese Language/Programmes.md
+      - High Ability/.keep
+      - High Ability/Mission.md
+      - High Ability/Curriculum.md
+      - High Ability/Programmes.md
       - Physical Education/.keep
       - Physical Education/Mission.md
       - Physical Education/Curriculum.md
