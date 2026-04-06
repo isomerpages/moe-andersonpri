@@ -1,5 +1,5 @@
 collections:
-  staff:
+  our-andps-family:
     output: true
     order:
       - School Leaders & Key Personnel.md
