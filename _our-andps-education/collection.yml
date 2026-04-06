@@ -2,6 +2,7 @@ collections:
   our-andps-education:
     output: true
     order:
+      - Tamil Language/Curriculum.md
       - Tamil Language/Programmes.md
       - Tamil Language/.keep
       - English Language/.keep
