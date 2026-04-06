@@ -1,14 +1,14 @@
 logo: /images/logo.jpg
 links:
-  - title: About
+  - title: Our AndPS Journey
     url: /principal-s-message-for-2026/
     sublinks:
       - title: Silver Jubilee Celebration
         url: /25th-silver-jubilee-celebration/
-      - title: Principal's Message
-        url: https://andersonpri.gov.sg/principal-s-message-for-2026/
-      - title: Our Directional Statements
-        url: /about/our-directional-statements/
+      - title: Our Strategic Plan
+        url: /about/our-strategic-plan/
+      - title: School Vision, Mission & Value
+        url: /school-vision-mission-values/
       - title: School History
         url: /about/school-history
       - title: School Corporate Videos
@@ -17,17 +17,53 @@ links:
         url: /about/school-song
       - title: School Rules
         url: /about/school-rules
-  - title: Staff
-    url: /key-personnel/school-executive-committee
+  - title: Our AndPS Family
+    url: /school-leaders/
     sublinks:
-      - title: School Leaders & Key Personnel
-        url: /key-personnel/school-executive-committee
+      - title: School Leaders
+        url: /school-leaders/
+      - title: Key Personnel
+        url: /key-personnel/
       - title: Teachers
         url: /key-personnel/teachers/primary-1
       - title: Allied Educators
         url: /key-personnel/allied-educators
       - title: Executive and Administrative
         url: /our-family/executive-and-administrative-staff/
+      - title: Security Guards
+        url: /security-guards/
+  - title: Our AndPS Education
+    url: /mission/
+    sublinks:
+      - title: English Language
+        url: /mission/
+      - title: Chinese Language
+        url: /mission/
+  - title: Our AndPS Experience
+    url: /permalink
+    sublinks: []
+  - title: Our AndPS Partnerships
+    url: /partners/school-advisory-committee-sac
+    sublinks:
+      - title: School Advisory Committee
+        url: /partners/school-advisory-committee-sac
+      - title: Parent Support Group
+        url: /partners/parent-support-group
+      - title: Alumni
+        url: /partners/alumni
+  - title: Our Andps Communications
+    url: /connect/contact-n-admin-info
+    sublinks:
+      - title: Home-School Partnerships
+        url: /home-school-partnerships/
+      - title: Contact & Admin Info
+        url: /connect/contact-n-admin-info
+      - title: Service Providers
+        url: /connect/service-providers/school-student-care
+      - title: Admission
+        url: /connect/admission/p1-registration/
+      - title: Quick Links
+        url: /connect/quick-links
   - title: Curriculum
     collection: curriculum
   - title: Parents
@@ -41,27 +77,5 @@ links:
         url: /parents/moe-fas-application-scheme/
       - title: GPA Insurance for Students
         url: /parents/gpa-insurance/
-  - title: Partners
-    url: /partners/school-advisory-committee-sac
-    sublinks:
-      - title: School Advisory Committee
-        url: /partners/school-advisory-committee-sac
-      - title: Parent Support Group
-        url: /partners/parent-support-group
-      - title: Alumni
-        url: /partners/alumni
-  - title: Connect
-    url: /connect/contact-n-admin-info
-    sublinks:
-      - title: Contact & Admin Info
-        url: /connect/contact-n-admin-info
-      - title: Home-School Partnerships
-        url: /home-school-partnerships/
-      - title: Service Providers
-        url: /connect/service-providers/school-student-care
-      - title: Admission
-        url: /connect/admission/p1-registration/
-      - title: Quick Links
-        url: /connect/quick-links
   - title: Have A Question?
     url: https://ask.gov.sg/aps
