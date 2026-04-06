@@ -2,6 +2,7 @@ collections:
   our-andps-partnerships:
     output: true
     order:
+      - Potential Parents/.keep
       - School Advisory Committee (SAC).md
       - Parent Support Group.md
       - Existing AndPS Parents/.keep
