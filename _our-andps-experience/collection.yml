@@ -2,6 +2,7 @@ collections:
   our-andps-experience:
     output: true
     order:
+      - CCA/.keep
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/Visual Voices (Art Club).md
       - Visual and Performing Arts/Angklung & Kulintang Ensemble.md
