@@ -1,5 +1,5 @@
 collections:
-  co-curriculum-activities:
+  our-andps-experience:
     output: true
     order:
       - Visual and Performing Arts/.keep
