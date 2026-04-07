@@ -2,7 +2,6 @@ collections:
   our-andps-education:
     output: true
     order:
-      - CCE/.keep
       - English Language/.keep
       - English Language/Mission.md
       - English Language/Curriculum.md
@@ -43,3 +42,4 @@ collections:
       - Music/Mission.md
       - Music/Curriculum.md
       - Music/Programmes.md
+      - CCE/.keep
