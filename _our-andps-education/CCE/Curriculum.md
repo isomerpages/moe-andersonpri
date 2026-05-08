@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<p><strong>Our CCE Curriculum:</strong>
-</p>
+<h4><strong>Our CCE Curriculum:</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_08_115252.png">
 </div>
