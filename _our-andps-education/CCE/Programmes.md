@@ -5,10 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<p><strong>Our CCE Programmes:</strong>
-</p>
-<p><strong>Values-in-Action</strong>
-</p>
+<h4><strong>Our CCE Programmes:</strong></h4>
+<h4><strong>Values-in-Action</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD3.png">
 </div>
@@ -126,8 +124,7 @@ create meaningful impact.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>National Education (NE)</strong>
-</p>
+<h4><strong>National Education (NE)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE__3.png">
 </div>
@@ -149,8 +146,7 @@ different customs, and reflect on issues that shape social cohesion.</p>
 and progress. Students reflect on national identity, express hopes for
 the future, and strengthen their sense of pride and belonging.</p>
 <p></p>
-<p><strong>Peer Support and Relationships (PSR)</strong>
-</p>
+<h4><strong>Peer Support and Relationships (PSR)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE__4.png">
 </div>
@@ -193,8 +189,8 @@ who may be isolated.</p>
 They strengthen our school's culture of care and lead key school-wide programmes
 including the Anderson Kindness Movement, Bully-Free Campaign, and Sunbird
 Wellness Club.</p>
-<p><strong>Cyber Wellness: Empowering Digital Citizens of Tomorrow</strong>
-</p>
+<h4><strong>Cyber Wellness: Empowering Digital Citizens of Tomorrow</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE3.png">
 </div>
@@ -322,14 +318,14 @@ core topics:</p>
 most effective when the values taught in school are mirrored and practiced
 at home. To nurture a digitally resilient child, we encourage parents to:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE4.jpg">
 </div>
 <p>Parents can also refer to MOE’s&nbsp;(<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">ICT Connection</a>&nbsp;)&nbsp;portal
 for a list of guides, tips, resources and useful links to reinforce CW
 education at home.</p>
 <p></p>
-<p><strong>Education and Career Guidance (ECG)</strong>
-<br>Our Education and Career Guidance (ECG) programmes are designed to empower
+<h4><strong>Education and Career Guidance (ECG)</strong></h4>
+<p>Our Education and Career Guidance (ECG) programmes are designed to empower
 every student to discover their unique purpose, explore possibilities,
 and build the resilience required to stay future-ready.</p>
 <div class="isomer-image-wrapper">
