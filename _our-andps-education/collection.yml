@@ -2,6 +2,7 @@ collections:
   our-andps-education:
     output: true
     order:
+      - ICT/.keep
       - Art/.keep
       - Art/Mission.md
       - Art/Curriculum.md
