@@ -67,7 +67,7 @@ third_nav_title: Teachers
 <p>Mdm Kunasuntari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>: <a rel="noopener noreferrer nofollow" target="_blank">kunasuntari_marimuthu_a@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">kunasuntari_marimuthu_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
