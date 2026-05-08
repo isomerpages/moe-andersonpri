@@ -2,14 +2,26 @@ collections:
   our-andps-education:
     output: true
     order:
-      - English Language/.keep
-      - English Language/Mission.md
-      - English Language/Curriculum.md
-      - English Language/Programmes.md
+      - Art/.keep
+      - Art/Mission.md
+      - Art/Curriculum.md
+      - Art/Programmes.md
+      - CCE/.keep
+      - CCE/Mission.md
+      - CCE/Curriculum.md
+      - CCE/Programmes.md
       - Chinese Language/.keep
       - Chinese Language/Mission.md
       - Chinese Language/Curriculum.md
       - Chinese Language/Programmes.md
+      - English Language/.keep
+      - English Language/Mission.md
+      - English Language/Curriculum.md
+      - English Language/Programmes.md
+      - High Ability/.keep
+      - High Ability/Mission.md
+      - High Ability/Curriculum.md
+      - High Ability/Programmes.md
       - Malay Language/.keep
       - Malay Language/Mission.md
       - Malay Language/Curriculum.md
@@ -26,23 +38,11 @@ collections:
       - Science/Mission.md
       - Science/Curriculum.md
       - Science/Programmes.md
-      - High Ability/.keep
-      - High Ability/Mission.md
-      - High Ability/Curriculum.md
-      - High Ability/Programmes.md
       - Physical Education/.keep
       - Physical Education/Mission.md
       - Physical Education/Curriculum.md
       - Physical Education/Programmes.md
-      - Art/.keep
-      - Art/Mission.md
-      - Art/Curriculum.md
-      - Art/Programmes.md
       - Music/.keep
       - Music/Mission.md
       - Music/Curriculum.md
       - Music/Programmes.md
-      - CCE/Mission.md
-      - CCE/Curriculum.md
-      - CCE/Programmes.md
-      - CCE/.keep
