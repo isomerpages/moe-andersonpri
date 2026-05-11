@@ -93,7 +93,7 @@ links:
         url: /partners/alumni
       - title: Service Providers
         url: /school-bookshop/
-  - title: Our Andps Communications
+  - title: Our AndPS Communications
     url: /connect/contact-n-admin-info
     sublinks:
       - title: Communications Policy
@@ -104,5 +104,3 @@ links:
         url: /connect/contact-n-admin-info
       - title: Have a Question?
         url: https://ask.gov.sg/aps
-  - title: Our Andps Experience
-    collection: our-andps-experience
