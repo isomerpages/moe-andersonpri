@@ -27,5 +27,9 @@ the ability to lead with integrity while upholding school values.</p>
 peers, and represent the student voice. They model maturity, initiative,
 and service, shaping school culture and leaving a lasting impact on the
 community.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KfGcbYBl0Wk?si=H5rE5C4yo7qzLdu6"></iframe>
+</div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
