@@ -2,9 +2,6 @@ collections:
   our-andps-experience:
     output: true
     order:
-      - Primary 2/Junior Arts Experience.md
-      - Primary 2/Junior Sports Experience.md
-      - Primary 2/.keep
       - For All/.keep
       - For All/ALP TERRA.md
       - For All/LLP VIVACE.md
@@ -26,3 +23,6 @@ collections:
       - CCAs/CCA Withdrawal Form.md
       - Boys' Brigade Key Events.md
       - Primary 1.md
+      - Primary 2/.keep
+      - Primary 2/Junior Arts Experience.md
+      - Primary 2/Junior Sports Experience.md
