@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Chinese Language
 ---
-<h4><strong>2024 Primary MTL Curriculum</strong></h4>
+<h3>2024 Primary MTL Curriculum</h3>
 <p>“Joyful Learning, Confident User” describes our aim to help students experience
 the joy of learning and become confident users with a strong foundation
 in language competencies, appreciate their culture and traditions, as well
@@ -14,8 +14,7 @@ as 21st century<strong> </strong>competencies.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL1.png">
 </div>
 <p></p>
-<p><strong>Learning Outcomes</strong>
-</p>
+<h4>Learning Outcomes</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Use interaction skills tocommunicate information,express views and feelings</p>
@@ -32,8 +31,7 @@ country</p>
 and religiousbackgrounds</p>
 </li>
 </ul>
-<p><strong>Key Features</strong>
-</p>
+<h4>Key Features</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Develop 21CC, especiallycommunication skills,cross-cultural literacy,adaptive
@@ -50,8 +48,7 @@ kinesthetic)</p>
 <p>Gamified anddifferentiated use of ICT</p>
 </li>
 </ul>
-<p><strong>Design Principles</strong>
-</p>
+<h4>Design Principles</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>S</strong>trengthen developmentof skills and 21CC</p>
