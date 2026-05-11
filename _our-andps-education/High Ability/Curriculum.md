@@ -10,8 +10,7 @@ third_nav_title: High Ability
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD2.png">
 </div>
 <p></p>
-<p><strong>Advanced Learning Opportunities through an Enriched Curriculum</strong>
-</p>
+<h4>Advanced Learning Opportunities through an Enriched Curriculum</h4>
 <p>This integrated curriculum is designed to broaden and deepen students’
 learning experiences. Delivered within regular school hours and through
 various subject curriculum, it incorporates hands-on, inquiry-based activities
