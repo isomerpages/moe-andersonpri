@@ -4,6 +4,10 @@ permalink: /about/school-song/
 description: ""
 variant: tiptap
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cmWgLhujufc?si=oeLiRCyHZ0vNkYza"></iframe>
+</div>
+<p></p>
 <p>Anderson Primary School
 <br>Where our hopes and dreams begin</p>
 <p>All honour and glory
@@ -21,7 +25,4 @@ variant: tiptap
 <p>Anderson Anderson
 <br>A name we will uphold</p>
 <p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cmWgLhujufc?si=oeLiRCyHZ0vNkYza"></iframe>
-</div>
 <p></p>
