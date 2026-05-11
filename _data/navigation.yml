@@ -64,7 +64,19 @@ links:
     sublinks:
       - title: For All
         url: /alp-terra/
-      - title: New submenu
+      - title: CCAs
+        url: /angklung-kulintang-ensemble/
+      - title: Primary 1
+        url: /primary-1/
+      - title: Primary 2
+        url: /junior-arts-experience/
+      - title: Primary 3
+        url: /p3-neighbourhood-walk/
+      - title: Primary 4
+        url: /permalink
+      - title: Primary 5
+        url: /p5-camp-compass/
+      - title: Primary 6
         url: /permalink
   - title: Our AndPS Partnerships
     url: /partners/school-advisory-committee-sac
