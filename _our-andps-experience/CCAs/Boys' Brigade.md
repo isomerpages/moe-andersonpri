@@ -32,7 +32,7 @@ while participating in BB HQ events and programmes.</p>
 </li>
 </ul>
 <h4><strong>Boys' Brigade Key Events</strong></h4>
-<p>Please click&nbsp;<a href="/curriculum/co-curriculum-activities-cca/uniformed-groups/the-boys-brigade/boys-brigade-key-events" rel="noopener" target="_blank">here&nbsp;</a>to
+<p>Please click&nbsp;<a href="/boys-brigade-key-events/" rel="noopener" target="_blank">here&nbsp;</a>to
 find out more about the Boys' Brigade activities and events.</p>
 <h4><strong>Schedule</strong></h4>
 <table style="minWidth: 100px">
