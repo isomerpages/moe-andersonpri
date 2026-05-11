@@ -2,43 +2,52 @@ collections:
   our-andps-education:
     output: true
     order:
-      - English Language/.keep
-      - English Language/Mission.md
-      - English Language/Curriculum.md
-      - English Language/Programmes.md
-      - Chinese Language/.keep
-      - Chinese Language/Mission.md
-      - Chinese Language/Curriculum.md
-      - Chinese Language/Programmes.md
-      - Malay Language/.keep
-      - Malay Language/Mission.md
-      - Malay Language/Curriculum.md
-      - Malay Language/Programmes.md
-      - Tamil Language/.keep
-      - Tamil Language/Mission.md
-      - Tamil Language/Curriculum.md
-      - Tamil Language/Programmes.md
-      - Mathematics/.keep
-      - Mathematics/Mission.md
-      - Mathematics/Curriculum.md
-      - Mathematics/Programmes.md
-      - Science/.keep
-      - Science/Mission.md
-      - Science/Curriculum.md
-      - Science/Programmes.md
-      - High Ability/.keep
-      - High Ability/Mission.md
-      - High Ability/Curriculum.md
-      - High Ability/Programmes.md
-      - Physical Education/.keep
-      - Physical Education/Mission.md
-      - Physical Education/Curriculum.md
-      - Physical Education/Programmes.md
       - Art/.keep
       - Art/Mission.md
       - Art/Curriculum.md
       - Art/Programmes.md
+      - CCE/.keep
+      - CCE/Mission.md
+      - CCE/Curriculum.md
+      - CCE/Programmes.md
+      - CCE/MOE Sexuality Education.md
+      - Chinese Language/.keep
+      - Chinese Language/Mission.md
+      - Chinese Language/Curriculum.md
+      - Chinese Language/Programmes.md
+      - English Language/.keep
+      - English Language/Mission.md
+      - English Language/Curriculum.md
+      - English Language/Programmes.md
+      - High Ability/.keep
+      - High Ability/Mission.md
+      - High Ability/Curriculum.md
+      - High Ability/Programmes.md
+      - ICT/.keep
+      - ICT/Mission.md
+      - ICT/Curriculum.md
+      - ICT/Programmes.md
+      - Malay Language/.keep
+      - Malay Language/Mission.md
+      - Malay Language/Curriculum.md
+      - Malay Language/Programmes.md
+      - Mathematics/.keep
+      - Mathematics/Mission.md
+      - Mathematics/Curriculum.md
+      - Mathematics/Programmes.md
       - Music/.keep
       - Music/Mission.md
       - Music/Curriculum.md
       - Music/Programmes.md
+      - Physical Education/.keep
+      - Physical Education/Mission.md
+      - Physical Education/Curriculum.md
+      - Physical Education/Programmes.md
+      - Science/.keep
+      - Science/Mission.md
+      - Science/Curriculum.md
+      - Science/Programmes.md
+      - Tamil Language/.keep
+      - Tamil Language/Mission.md
+      - Tamil Language/Curriculum.md
+      - Tamil Language/Programmes.md

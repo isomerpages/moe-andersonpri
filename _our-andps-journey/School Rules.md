@@ -28,8 +28,8 @@ measures.</p>
 <h4><strong>Attire</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students are to wear the prescribed school uniform (PE attire inclusive)
-and modification to the uniform is not allowed.</p>
+<p>Students are to wear the prescribed school uniform and modification to
+the uniform is not allowed.</p>
 </li>
 <li>
 <p>On days when students have PE or PAL lessons, they may come to school

@@ -1,7 +1,9 @@
 collections:
-  co-curriculum-activities:
+  our-andps-experience:
     output: true
     order:
+      - CCA/CCA Withdrawal Form.md
+      - CCA/.keep
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/Visual Voices (Art Club).md
       - Visual and Performing Arts/Angklung & Kulintang Ensemble.md
@@ -21,4 +23,3 @@ collections:
       - Uniformed Groups/The Boys' Brigade.md
       - Uniformed Groups/Boys' Brigade Key Events.md
       - Uniformed Groups/The Girls' Brigade.md
-      - CCA Withdrawal Form.md

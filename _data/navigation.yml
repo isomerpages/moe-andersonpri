@@ -32,8 +32,33 @@ links:
         url: /our-family/executive-and-administrative-staff/
       - title: Security Guards
         url: /security-guards/
-  - title: Our AndPS Education
-    collection: our-andps-education
+  - title: Our AndPSEducation
+    url: /curriculum/departments/art/mission/
+    sublinks:
+      - title: Art
+        url: /curriculum/departments/art/mission/
+      - title: CCE
+        url: /curriculum/departments/cce/mission/
+      - title: Chinese Language
+        url: /curriculum/departments/chinese/mission/
+      - title: English Language
+        url: /curriculum/departments/english/mission/
+      - title: High Ability
+        url: /curriculum/departments/high/mission/
+      - title: ICT
+        url: /curriculum/departments/ict/mission/
+      - title: Malay Language
+        url: /curriculum/departments/malay/mission/
+      - title: Mathematics
+        url: /curriculum/departments/mathematics/mission/
+      - title: Music
+        url: /curriculum/departments/music/mission/
+      - title: Physical Education
+        url: /curriculum/departments/physical/mission/
+      - title: Science
+        url: /curriculum/departments/science/mission/
+      - title: Tamil Language
+        url: /curriculum/departments/tamil/mission/
   - title: Our AndPS Experience
     url: /permalink
     sublinks: []
@@ -63,5 +88,5 @@ links:
         url: /connect/contact-n-admin-info
       - title: Have a Question?
         url: https://ask.gov.sg/aps
-  - title: Co-Curriculum
-    collection: co-curriculum-activities
+  - title: Our Andps Experience
+    collection: our-andps-experience
