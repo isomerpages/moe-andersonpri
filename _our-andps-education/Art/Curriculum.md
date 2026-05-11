@@ -5,31 +5,25 @@ variant: tiptap
 description: ""
 third_nav_title: Art
 ---
-<p><strong>Aesthetics Assembly</strong>
-<br>Conducted once a term to expose students to quality arts performances
-and deepen appreciation.</p>
-<p>Features professional artists and curated programmes supported by external
-partners, including those under the National Arts Council (NAC)</p>
-<p><strong>Art Museum-Based Learning Journey (MBL)</strong>
-<br>Primary 4 students visit local art museums to engage with artworks in
-authentic settings</p>
-<p>Builds visual literacy, discussion skills, and deepens understanding of
-artists’ intent</p>
-<p>Encourages reflective thinking and inquiry</p>
-<p><strong>Art Inquiry Based Learning Curriculum</strong>
-</p>
+<h4>Aesthetics Assembly<br></h4>
+<p>Conducted once a term to expose students to quality arts performances
+and deepen appreciation. Features professional artists and curated programmes
+supported by external partners, including those under the National Arts
+Council (NAC)</p>
+<h4>Art Museum-Based Learning Journey (MBL)</h4>
+<p>Primary 4 students visit local art museums to engage with artworks in
+authentic settings. Builds visual literacy, discussion skills, and deepens
+understanding of artists’ intent. Encourages reflective thinking and inquiry.</p>
+<h4>Art Inquiry Based Learning Curriculum</h4>
 <p>A student-centered approach where students actively explore and investigate
-topics through research and class discussion</p>
-<p>Construct their own understanding and meaning of artworks through experimentation
-with art materials individually and collaboratively</p>
-<p><strong>Arts Picnic</strong>
-</p>
+topics through research and class discussion. Construct their own understanding
+and meaning of artworks through experimentation with art materials individually
+and collaboratively.</p>
+<h4>Arts Picnic</h4>
 <p>A whole-school platform for creative engagement during recess, activating
 shared spaces and strengthening student voice, ownership, and pride through
 the arts.</p>
-<p>&nbsp;</p>
-<p><strong>Music Orff-Inspired Spiral Learning Curriculum</strong>
-</p>
+<h4>Music Orff-Inspired Spiral Learning Curriculum</h4>
 <p>Students learn music through <strong>music‑making experiences</strong> that
 involve <strong>experiencing, exploring, expressing and evaluating</strong>.
 Emphasis is placed on <strong>creativity, collaboration and exploration</strong>,
