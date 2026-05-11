@@ -5,27 +5,12 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>Anderson Primary School Brass Band aims to create a conducive music-learning
-environment where our students can learn, grow and excel. We are constantly
-looking for ways to create the best musical experiences for our students
-so that they will treasure the time they spend with the Brass Band and
-grow their passion in music. We are a band with pride, ever striving to
-become a band of excellence, both in musical achievements and tenacity
-in character.</p>
-<p><strong><u>Our Band Vision<br></u></strong>We are a band with pride, ever
-striving to become a band of excellence, both in musical achievements and
-tenacity in character.</p>
-<p><strong><u>Our Band Values (PQRS)<br></u>P</strong>assion and pride in
-making music
-<br><strong>Q</strong>uest for skill mastery and excellence
-<br><strong>R</strong>espects and cares for everyone in the team
-<br><strong>S</strong>ervice from the heart</p>
-<p><strong><u>Our Band programme (GLOW)<br></u>G</strong>rowth in skills
-and character
-<br><strong>L</strong>eadership by role-modelling
-<br><strong>O</strong>pportunities for talent development
-<br><strong>W</strong>inning the community with passion</p>
-<h4><strong>Schedule</strong></h4>
+<p>Anderson Primary School Brass Band and Percussion CCA provides a nurturing
+environment where students develop musical skills, discipline and teamwork.
+Guided by PQRS values, students grow through GLOW opportunities, building
+leadership and character. We inspire passion for music and strive for excellence
+while serving the community with pride and purpose.</p>
+<h4>Schedule</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -84,7 +69,7 @@ and character
 </tr>
 </tbody>
 </table>
-<h4><strong>Teachers-In-Charge</strong></h4>
+<h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mrs Sharon Yeo (Overall Teacher-in-charge)</p>
@@ -100,13 +85,13 @@ and character
 </li>
 </ul>
 <p></p>
-<h4><strong>Achievements</strong></h4>
+<h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF Distinction Award (Brass Band)</p>
+<p>SYF 2026 Distinction Award (Brass Band)</p>
 </li>
 <li>
-<p>SYF Distinction Award (Percussion)</p>
+<p>SYF<strong> </strong>2026 Accomplishment<strong> </strong>Award (Percussion)</p>
 </li>
 </ul>
 <p></p>
