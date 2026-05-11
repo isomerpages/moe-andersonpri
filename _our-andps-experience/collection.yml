@@ -2,9 +2,9 @@ collections:
   our-andps-experience:
     output: true
     order:
-      - For All/LLP VIVACE.md
-      - For All/ALP TERRA.md
       - For All/.keep
+      - For All/ALP TERRA.md
+      - For All/LLP VIVACE.md
       - CCA/CCA Withdrawal Form.md
       - CCA/.keep
       - Visual and Performing Arts/.keep
