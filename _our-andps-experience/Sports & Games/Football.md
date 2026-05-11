@@ -13,7 +13,7 @@ We emphasise more on the learning process and character development of
 each of our students so as to ensure that he graduates from our school
 a better person and a more skilful football player than he was when he
 first joined us.</p>
-<h4><strong>Achievements</strong></h4>
+<h4>Achievements</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -48,7 +48,7 @@ first joined us.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Schedule</strong></h4>
+<h4>Schedule</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -83,7 +83,7 @@ first joined us.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Teachers-In-Charge</strong></h4>
+<h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Merrill Leong (Overall Teacher-in-charge)</p>
