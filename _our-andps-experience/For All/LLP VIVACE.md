@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For All
 ---
-<h4>Mission </h4>
+<h4>Mission</h4>
 <p>VIVACE@Anderson nurtures a vibrant arts culture where students explore
 diverse artistic experiences that engage, enthuse, and empower. We guide
 students to discover and pursue their passions, value collaboration and
