@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Malay Language
 ---
-<h4>Curriculum</h4>
 <p>The Malay Language curriculum aims to develop confident communicators
 with a deep understanding of Malay culture. Lessons are thoughtfully differentiated
 to meet the needs of diverse learners, ensuring every student is supported
