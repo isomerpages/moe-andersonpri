@@ -62,8 +62,10 @@ links:
   - title: Our AndPS Experience
     url: /alp-terra/
     sublinks:
-      - title: ALP TERRA
+      - title: For All
         url: /alp-terra/
+      - title: New submenu
+        url: /permalink
   - title: Our AndPS Partnerships
     url: /partners/school-advisory-committee-sac
     sublinks:
