@@ -2,6 +2,7 @@ collections:
   our-andps-communications:
     output: true
     order:
+      - Home School Partnership.md
       - Communications Policy.md
       - Social Media.md
       - Contact & Admin Info.md
