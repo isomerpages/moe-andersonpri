@@ -5,3 +5,70 @@ variant: tiptap
 description: ""
 third_nav_title: CCAs
 ---
+<p>The Angklung and Kulintang Ensemble provides a vibrant and supportive
+environment where members can explore their passion for the arts and hone
+their musicianship. Through weekly practices, members not only develop
+their musical skills but also cultivate essential qualities such as discipline,
+teamwork, and a strong sense of unity. In alignment with our school’s core
+values, the ensemble remains committed to nurturing passionate and confident
+individuals who excel in both performance and character, embodying the
+spirit of excellence in all they do.</p>
+<h4>Schedule</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 - P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 pm to 4 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room 1 &amp; 2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Teachers-In-Charge</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mrs Mohan (Overall Teacher-in-charge)</p>
+</li>
+<li>
+<p>Ms Erfa Riizah</p>
+</li>
+</ul>
+<h4>Achievements</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF 2026 Distinction<strong>&nbsp;</strong>award</p>
+</li>
+</ul>
+<p></p>
