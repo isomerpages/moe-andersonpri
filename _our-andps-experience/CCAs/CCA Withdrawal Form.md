@@ -3,7 +3,7 @@ title: CCA Withdrawal Form
 permalink: /curriculum/co-curriculum-activities-cca/cca-withdrawal-form/
 description: ""
 variant: markdown
-third_nav_title: CCA
+third_nav_title: CCAs
 ---
 #### Click here <a href="https://forms.moe.edu.sg/forms/J074B3" target="_blank" rel="noopener">here</a> to view the CCA Withdrawal Form*.
 

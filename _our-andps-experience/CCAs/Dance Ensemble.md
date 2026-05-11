@@ -1,17 +1,17 @@
 ---
 title: Dance Ensemble
-permalink: /curriculum/co-curriculum-activities-cca/performing-arts/dance-ensemble/
-description: ""
-third_nav_title: Visual and Performing Arts
+permalink: /dance-ensemble/
 variant: tiptap
+description: ""
+third_nav_title: CCAs
 ---
-<p>Anderson Primary School Dance Ensemble is dedicated to nurturing a passion
-for dance among students from Primary 3 to Primary 6. Through comprehensive
-trainings, the ensemble aims to equip students with essential dance techniques
-and performance skills, fostering physical coordination, poise, and confidence.
-Members will also have opportunities to showcase their talents at school
-events and external performances, building their stage presence and teamwork</p>
-<h4><strong>Schedule</strong></h4>
+<p>Anderson Primary School Dance Ensemble nurtures a passion for dance among
+Primary 3 to 6 students. Through structured training, students develop
+technique, coordination, poise and confidence. Performance opportunities
+at school and external events build stage presence and teamwork, empowering
+members to express themselves creatively and take pride in their growth
+and achievements.</p>
+<h4>Schedule</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -55,7 +55,7 @@ events and external performances, building their stage presence and teamwork</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Teachers-In-Charge</strong></h4>
+<h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mdm Sabariah (Overall Teacher-in-charge)</p>
@@ -70,10 +70,10 @@ events and external performances, building their stage presence and teamwork</p>
 <p>Ms Rachael Sin</p>
 </li>
 </ul>
-<h4><strong>Achievements</strong></h4>
+<h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF 2024 Accomplishment Award</p>
+<p>SYF 2026 Accomplishment Award</p>
 </li>
 </ul>
 <p></p>

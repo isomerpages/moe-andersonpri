@@ -13,12 +13,9 @@ sections:
         - title: ENCOMPASS e-Magazine
           description: 2024 Issue
           url: https://online.flipbuilder.com/zlpi/lcyj/
-        - title: Calendar
-          description: School's Google Calendar
-          url: /connect/quick-links/school-calendar
         - title: Quick Links
           description: For Students, Parents & Staff
-          url: /connect/quick-links
+          url: /quick-links/
         - title: Quick Guide
           description: MIMS Password Reset
           url: https://go.gov.sg/mimsssprguide

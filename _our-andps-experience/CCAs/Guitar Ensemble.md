@@ -3,16 +3,14 @@ title: Guitar Ensemble
 permalink: /guitar-ensemble/
 variant: tiptap
 description: ""
-third_nav_title: Visual and Performing Arts
+third_nav_title: CCAs
 ---
-<p>Anderson Primary School Guitar Ensemble strives to cultivate students'
-passion for guitar learning in a conducive and safe environment, where
-students feel supported and keen to explore different musical experiences,
-broadening their understanding and enjoyment of music. Through engaging
-practices, the ensemble nurtures teamwork, perseverance, and joy in learning,
-while fostering an appreciation for music. With opportunities for both
-internal and external performances, members build confidence and take pride
-in showcasing their growth and talent.</p>
+<p>Anderson Primary School Guitar Ensemble nurtures students’ passion for
+guitar in a supportive and safe environment. Through engaging practices,
+students explore diverse musical experiences while developing teamwork,
+perseverance and appreciation for music. Performance opportunities, both
+internal and external, build confidence and pride as members showcase their
+growth, creativity and talent.</p>
 <h4>Schedule</h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -71,7 +69,7 @@ in showcasing their growth and talent.</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF 2024 Distinction Award</p>
+<p>SYF 2026 Distinction Award</p>
 </li>
 </ul>
 <p></p>

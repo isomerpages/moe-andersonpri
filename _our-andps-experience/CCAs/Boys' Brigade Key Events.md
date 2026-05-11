@@ -1,11 +1,11 @@
 ---
 title: Boys' Brigade Key Events
-permalink: /curriculum/co-curriculum-activities-cca/uniformed-groups/the-boys-brigade/boys-brigade-key-events/
-description: ""
-third_nav_title: Uniformed Groups
+permalink: /boys-brigade-key-events/
 variant: tiptap
+description: ""
+third_nav_title: CCAs
 ---
-<h4><strong>Boys' Brigade Day</strong></h4>
+<h4>Boys' Brigade Day</h4>
 <p>Every year on 12 January, the BB 22J Company from Anderson Primary School
 commemorated Boys’ Brigade(BB) Day in the school hall. The Boys felt proud
 donning their full uniform to form a contingent for the occasion. Our Boys
@@ -27,7 +27,7 @@ the activities carried out through the year.</p>
 </div>
 <p><em>22J Company with the school leaders and the BB teachers</em>
 </p>
-<h4><strong>BB/GB Enrolment Ceremony</strong></h4>
+<h4>BB/GB Enrolment Ceremony</h4>
 <p>The time-honored tradition of the Boys' Brigade (BB) and Girls' Brigade
 (GB) annual enrolment ceremony continued at Presbyterian High School (PHS).
 The joint event was a vibrant celebration, with members from both brigades
@@ -56,7 +56,7 @@ of the GB and BB.</p>
 </div>
 <p><em>BB and GB Company during the Enrolment Ceremony</em>
 </p>
-<h4><strong>Celebrating Achievements: JM Fraser Award for Excellence and BB Week Gold Honours Award 2023</strong></h4>
+<h4>Celebrating Achievements: JM Fraser Award for Excellence and BB Week Gold Honours Award 2023</h4>
 <p>Our Boys’ Brigade 22nd Junior Company has garnered both the JM Fraser
 Award for Excellence (High Distinction) and the BB Week Honors Award .
 These awards stand as a resounding testament to the dedication exhibited
@@ -67,7 +67,7 @@ the year.</p>
 </div>
 <p><em>Mr Thomas Boh, Vice Principal, receiving the JM Fraser Award for Excellence (High Distinction) from Mr Desmond Lee, Minister of Education</em>
 </p>
-<h4><strong>Celebrating Singapore's Independence</strong></h4>
+<h4>Celebrating Singapore's Independence</h4>
 <p>Each year, on the eve of National day, the Boys’ Brigade, Girls’ Brigade
 will form a continent of more than 100 Boys and Girls in the Parade Square.
 Three BB Boys and three GB Girls held the honorable task of carrying the
@@ -97,7 +97,7 @@ state flag with grace and poise, making the entire day even more special.</p>
 </div>
 <p><em>It is an honor being the the National Day BB Contingent</em>
 </p>
-<h4><strong>Community Service at Thye Hua Kwan Active Ageing Centre (THKSAC)</strong></h4>
+<h4>Community Service at Thye Hua Kwan Active Ageing Centre (THKSAC)</h4>
 <p>Our Boys carried out their BB Cares community service at Thye Hua Kwan
 Active Ageing Centre (THKSAC). Smiles and laughter that filled the air
 as P4 BB Boys engaged with the elderly residents. Every year since 2022,
@@ -120,7 +120,7 @@ all.</p>
 </div>
 <p><em>Photo at Thye Hua Kwan Active Ageing Centre</em>
 </p>
-<h4><strong>Exciting Learning Journeys</strong></h4>
+<h4>Exciting Learning Journeys</h4>
 <p>The Boys made fruitful learning journey every year.</p>
 <p>In 2022, they visited SEA Aquarium and in 2023, it was a trip to the newly
 opened Bird Paradise. In 2024, it is another unforgettable learning journey
@@ -153,7 +153,7 @@ and had a delightful time of team bonding and looking out for each other.</p>
 </div>
 <p><em>Our Group photo at Oceanarium</em>
 </p>
-<h4><strong>Articles featuring 22J Singapore Boys’ Brigade Company on BB News</strong></h4>
+<h4>Articles featuring 22J Singapore Boys’ Brigade Company on BB News</h4>
 <p>A quarterly newsletter compiled by BBHQ. To find out more about Singapore
 Boys’ Brigade, click the link: <a rel="noopener noreferrer nofollow" target="_blank">https://www.bb.org.sg/</a>
 </p>

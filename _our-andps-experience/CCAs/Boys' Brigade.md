@@ -1,28 +1,17 @@
 ---
-title: The Boys' Brigade
-permalink: /curriculum/co-curriculum-activities-cca/uniformed-groups/the-boys-brigade/
-description: ""
-third_nav_title: Uniformed Groups
+title: Boys' Brigade
+permalink: /boys-brigade/
 variant: tiptap
+description: ""
+third_nav_title: CCAs
 ---
-<h4><strong>The Boys’ Brigade 22J Singapore Company</strong></h4>
-<p>The 22J Singapore Company was started on with 20 Boys and 2 officers and
-2 teachers in 2019. Mr. Louis Seng is the Company Captain and Mr Li Wencong
-is the Chaplin. The first batch of 20 Primary 3 Boys were enrolled in 2020.
-Currently, Mr William Ho is the teacher-in-charge assisted by Ms Angela
-Lee.</p>
-<p>The 22J Boys’ Brigade Company offers a unique opportunity for Boys to
-experience a programme designed for holistic development outside a classroom
-environment – with a strong emphasis on discipline and character development.
-It is also service oriented, grooming them to serve their families, the
-school and the community.</p>
-<p>The highlights of 22J Company in Anderson Primary School are character
-building lessons, leadership adventures, parades, drills, games, badge
-work, learning journeys and camps. We also actively participate in HQ events
-such as BB Week, BB CARES, Adventure Quest and Character Quest.
-<br>
-</p>
-<h4><strong>Accolades</strong></h4>
+<h3>The Boys’ Brigade 22J Singapore Company</h3>
+<p>The 22J Boys’ Brigade Company at Anderson Primary School began in 2019,
+providing P3 boys with holistic development beyond the classroom. Through
+drills, camps, badge work and leadership activities, students build discipline
+and character. Guided by teachers, they serve family, school and community
+while participating in BB HQ events and programmes.</p>
+<h4>Accolades</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>JM Fraser Award for Excellence – Awarded Excellent (2023), High Distinction
@@ -43,7 +32,7 @@ such as BB Week, BB CARES, Adventure Quest and Character Quest.
 </li>
 </ul>
 <h4><strong>Boys' Brigade Key Events</strong></h4>
-<p>Please click&nbsp;<a href="/curriculum/co-curriculum-activities-cca/uniformed-groups/the-boys-brigade/boys-brigade-key-events" rel="noopener" target="_blank">here&nbsp;</a>to
+<p>Please click&nbsp;<a href="/boys-brigade-key-events/" rel="noopener" target="_blank">here&nbsp;</a>to
 find out more about the Boys' Brigade activities and events.</p>
 <h4><strong>Schedule</strong></h4>
 <table style="minWidth: 100px">

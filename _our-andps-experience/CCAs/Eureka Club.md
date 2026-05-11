@@ -1,17 +1,20 @@
 ---
 title: Eureka Club
-permalink: /curriculum/co-curriculum-activities-cca/clubs-n-societies/eureka-club/
-description: ""
-third_nav_title: Clubs & Societies
+permalink: /eureka-club/
 variant: tiptap
+description: ""
+third_nav_title: CCAs
 ---
-<p>In Eureka Club, we nurture students' natural curiosity, encourage a daring
-spirit to explore, and ignite their passion for STEM disciplines. Our goal
-is to equip our club members with the skills, knowledge, and mindset to
-become active, creative and caring problem-solving agents.</p>
-<p>These objectives are aligned with our school's Science, Technology, Engineering,
-and Mathematics (STEM) Applied Learning Programme (ALP).</p>
-<h4><strong>Schedule</strong></h4>
+<p>Eureka Club nurtures students’ curiosity and encourages exploration in
+STEM. Members develop skills, knowledge and a creative mindset to become
+active and caring problem-solvers. Through engaging activities aligned
+with the school’s STEM Applied Learning Programme, students are inspired
+to think critically, innovate confidently and apply learning meaningfully
+to real-world situations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eureka1.png">
+</div>
+<h4>Schedule</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -54,7 +57,7 @@ and Mathematics (STEM) Applied Learning Programme (ALP).</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Teachers-In-Charge</strong></h4>
+<h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mdm Linda Tan (Overall Teacher-in-charge)</p>
@@ -66,7 +69,7 @@ and Mathematics (STEM) Applied Learning Programme (ALP).</p>
 <p>Mrs Serene Soh</p>
 </li>
 </ul>
-<h4><strong>Achievements</strong></h4>
+<h4>Achievements</h4>
 <p><strong>2024 National Robotics Competition</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -102,6 +105,4 @@ and Mathematics (STEM) Applied Learning Programme (ALP).</p>
 <p>Finalist for Robot Run</p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <p></p>

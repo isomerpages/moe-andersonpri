@@ -32,7 +32,7 @@ links:
         url: /our-family/executive-and-administrative-staff/
       - title: Security Guards
         url: /security-guards/
-  - title: Our AndPSEducation
+  - title: Our AndPS Education
     url: /curriculum/departments/art/mission/
     sublinks:
       - title: Art
@@ -60,8 +60,24 @@ links:
       - title: Tamil Language
         url: /curriculum/departments/tamil/mission/
   - title: Our AndPS Experience
-    url: /permalink
-    sublinks: []
+    url: /alp-terra/
+    sublinks:
+      - title: For All
+        url: /alp-terra/
+      - title: CCAs
+        url: /angklung-kulintang-ensemble/
+      - title: Primary 1
+        url: /primary-1/
+      - title: Primary 2
+        url: /junior-arts-experience/
+      - title: Primary 3
+        url: /p3-neighbourhood-walk/
+      - title: Primary 4
+        url: /permalink
+      - title: Primary 5
+        url: /p5-camp-compass/
+      - title: Primary 6
+        url: /permalink
   - title: Our AndPS Partnerships
     url: /partners/school-advisory-committee-sac
     sublinks:
@@ -77,7 +93,7 @@ links:
         url: /partners/alumni
       - title: Service Providers
         url: /school-bookshop/
-  - title: Our Andps Communications
+  - title: Our AndPS Communications
     url: /connect/contact-n-admin-info
     sublinks:
       - title: Communications Policy
@@ -88,5 +104,3 @@ links:
         url: /connect/contact-n-admin-info
       - title: Have a Question?
         url: https://ask.gov.sg/aps
-  - title: Our Andps Experience
-    collection: our-andps-experience

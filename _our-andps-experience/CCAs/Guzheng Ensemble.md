@@ -1,17 +1,17 @@
 ---
 title: Guzheng Ensemble
-permalink: /curriculum/co-curriculum-activities-cca/performing-arts/guzheng-ensemble/
-description: ""
-third_nav_title: Visual and Performing Arts
+permalink: /guzheng-ensemble/
 variant: tiptap
+description: ""
+third_nav_title: CCAs
 ---
-<p>Our Guzheng Ensemble was formed in 2001. Since then it has grown in strength
-and has won several accolades in various competitions. Besides learning
-to play this enchanting ancient Chinese pluck string instrument, the CCA
-aims to develop musicality, teamwork and cultural appreciation through
-the ensemble while sharing Guzheng’s unique brand of music to its appreciative
-audience.</p>
-<h4><strong>Schedule</strong></h4>
+<p>Founded in 2001, our Guzheng Ensemble has grown in strength and achieved
+numerous accolades. Students learn to play this enchanting traditional
+instrument while developing musicality, teamwork and cultural appreciation.
+Through performances and competitions, they share the beauty of Guzheng
+music, inspiring audiences and deepening their connection to heritage and
+the arts.</p>
+<h4>Schedule</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -54,7 +54,7 @@ audience.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Teachers-In-Charge</strong></h4>
+<h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Eileen Ong (OverallTeacher-in-charge)</p>
@@ -66,10 +66,10 @@ audience.</p>
 <p>Ms Tan Pei Wei Fiona</p>
 </li>
 </ul>
-<h4><strong>Achievements</strong></h4>
+<h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF 2024 Distinction Award</p>
+<p>SYF 2026 Distinction Award</p>
 </li>
 </ul>
 <p></p>

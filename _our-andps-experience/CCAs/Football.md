@@ -1,9 +1,9 @@
 ---
 title: Football
-permalink: /curriculum/co-curriculum-activities-cca/sports-n-games/football/
-description: ""
-third_nav_title: Sports & Games
+permalink: /football/
 variant: tiptap
+description: ""
+third_nav_title: CCAs
 ---
 <p>As football is a team sport, our P3 to P6 students will not only learn
 playing techniques, they will also learn important values like sportsmanship,
@@ -13,42 +13,7 @@ We emphasise more on the learning process and character development of
 each of our students so as to ensure that he graduates from our school
 a better person and a more skilful football player than he was when he
 first joined us.</p>
-<h4><strong>Achievements</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2024</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Senior</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tier 1 Champion (Girls)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Junior</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Schedule</strong></h4>
+<h4>Schedule</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -83,7 +48,7 @@ first joined us.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Teachers-In-Charge</strong></h4>
+<h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Merrill Leong (Overall Teacher-in-charge)</p>
@@ -98,4 +63,39 @@ first joined us.</p>
 <p>Ms Safiah Nafisah</p>
 </li>
 </ul>
+<h4>Achievements</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2026</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> in tier 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Junior</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

@@ -1,9 +1,9 @@
 ---
 title: Angklung & Kulintang Ensemble
-permalink: /curriculum/co-curriculum-activities-cca/performing-arts/angklung-n-kulintang-ensemble/
-description: ""
-third_nav_title: Visual and Performing Arts
+permalink: /angklung-kulintang-ensemble/
 variant: tiptap
+description: ""
+third_nav_title: CCAs
 ---
 <p>The Angklung and Kulintang Ensemble provides a vibrant and supportive
 environment where members can explore their passion for the arts and hone
@@ -13,7 +13,7 @@ teamwork, and a strong sense of unity. In alignment with our school’s core
 values, the ensemble remains committed to nurturing passionate and confident
 individuals who excel in both performance and character, embodying the
 spirit of excellence in all they do.</p>
-<h4><strong>Schedule</strong></h4>
+<h4>Schedule</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -56,7 +56,7 @@ spirit of excellence in all they do.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Teachers-In-Charge</strong></h4>
+<h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mrs Mohan (Overall Teacher-in-charge)</p>
@@ -65,10 +65,10 @@ spirit of excellence in all they do.</p>
 <p>Ms Erfa Riizah</p>
 </li>
 </ul>
-<h4><strong>Achievements</strong></h4>
+<h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF 2024 Accomplishment award</p>
+<p>SYF 2026 Distinction<strong>&nbsp;</strong>award</p>
 </li>
 </ul>
 <p></p>
