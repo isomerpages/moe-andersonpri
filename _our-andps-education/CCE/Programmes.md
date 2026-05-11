@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<h4><strong>Our CCE Programmes:</strong></h4>
-<h4><strong>Values-in-Action</strong></h4>
+<h3><strong>Our CCE Programmes</strong></h3>
+<h4>Values-in-Action</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD3.png">
 </div>
@@ -124,7 +124,7 @@ create meaningful impact.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>National Education (NE)</strong></h4>
+<h4>National Education (NE)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE__3.png">
 </div>
@@ -146,7 +146,7 @@ different customs, and reflect on issues that shape social cohesion.</p>
 and progress. Students reflect on national identity, express hopes for
 the future, and strengthen their sense of pride and belonging.</p>
 <p></p>
-<h4><strong>Peer Support and Relationships (PSR)</strong></h4>
+<h4>Peer Support and Relationships (PSR)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE__4.png">
 </div>
@@ -189,7 +189,7 @@ who may be isolated.</p>
 They strengthen our school's culture of care and lead key school-wide programmes
 including the Anderson Kindness Movement, Bully-Free Campaign, and Sunbird
 Wellness Club.</p>
-<h4><strong>Cyber Wellness: Empowering Digital Citizens of Tomorrow</strong></h4>
+<h4>Cyber Wellness: Empowering Digital Citizens of Tomorrow</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE3.png">
@@ -324,7 +324,7 @@ at home. To nurture a digitally resilient child, we encourage parents to:</p>
 for a list of guides, tips, resources and useful links to reinforce CW
 education at home.</p>
 <p></p>
-<h4><strong>Education and Career Guidance (ECG)</strong></h4>
+<h4>Education and Career Guidance (ECG)</h4>
 <p>Our Education and Career Guidance (ECG) programmes are designed to empower
 every student to discover their unique purpose, explore possibilities,
 and build the resilience required to stay future-ready.</p>
