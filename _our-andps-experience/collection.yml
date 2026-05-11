@@ -2,7 +2,6 @@ collections:
   our-andps-experience:
     output: true
     order:
-      - P3 Neighbourhood Walk.md
       - For All/.keep
       - For All/ALP TERRA.md
       - For All/LLP VIVACE.md
@@ -27,3 +26,4 @@ collections:
       - Primary 2/.keep
       - Primary 2/Junior Arts Experience.md
       - Primary 2/Junior Sports Experience.md
+      - P3 Neighbourhood Walk.md
