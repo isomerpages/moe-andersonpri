@@ -2,10 +2,10 @@ collections:
   our-andps-experience:
     output: true
     order:
-      - For All/Student Leadership.md
       - For All/.keep
       - For All/ALP TERRA.md
       - For All/LLP VIVACE.md
+      - For All/Student Leadership.md
       - CCA/CCA Withdrawal Form.md
       - CCA/.keep
       - Visual and Performing Arts/.keep
