@@ -48,7 +48,7 @@ first joined us.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Teachers-In-Charge</strong></h4>
+<h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Merrill Leong (Overall Teacher-in-charge)</p>
