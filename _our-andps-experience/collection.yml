@@ -2,7 +2,6 @@ collections:
   our-andps-experience:
     output: true
     order:
-      - Boys' Brigade Key Events.md
       - For All/.keep
       - For All/ALP TERRA.md
       - For All/LLP VIVACE.md
@@ -22,6 +21,7 @@ collections:
       - CCAs/Visual Voices (Art Club).md
       - CCAs/Volleyball.md
       - CCAs/CCA Withdrawal Form.md
+      - Boys' Brigade Key Events.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/The Boys' Brigade.md
