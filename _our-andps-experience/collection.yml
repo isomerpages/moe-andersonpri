@@ -2,7 +2,6 @@ collections:
   our-andps-experience:
     output: true
     order:
-      - Primary 1.md
       - For All/.keep
       - For All/ALP TERRA.md
       - For All/LLP VIVACE.md
@@ -23,3 +22,4 @@ collections:
       - CCAs/Volleyball.md
       - CCAs/CCA Withdrawal Form.md
       - Boys' Brigade Key Events.md
+      - Primary 1.md
