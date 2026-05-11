@@ -60,8 +60,10 @@ links:
       - title: Tamil Language
         url: /curriculum/departments/tamil/mission/
   - title: Our AndPS Experience
-    url: /permalink
-    sublinks: []
+    url: /alp-terra/
+    sublinks:
+      - title: ALP TERRA
+        url: /alp-terra/
   - title: Our AndPS Partnerships
     url: /partners/school-advisory-committee-sac
     sublinks:
