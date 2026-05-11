@@ -2,7 +2,6 @@ collections:
   our-andps-experience:
     output: true
     order:
-      - For All/CCAs.md
       - For All/.keep
       - For All/ALP TERRA.md
       - For All/LLP VIVACE.md
