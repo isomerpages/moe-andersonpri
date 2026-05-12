@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Mathematics
 ---
+<h3>Mathmatics Curriculum</h3>
 <p>Our Mathematics programmes and learning experiences are thoughtfully designed
 to nurture a deep and lasting understanding of mathematical concepts in
 our students. By combining hands-on activities with purposeful technology,
