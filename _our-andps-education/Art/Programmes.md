@@ -33,3 +33,7 @@ recycled materials.</p>
 <p>A whole-school platform for creative engagement during recess, activating
 shared spaces and strengthening student voice, ownership, and pride through
 the arts.</p>
+<h4>Art Museum-Based Learning Journey (MBL)</h4>
+<p>Primary 4 students visit local art museums to engage with artworks in
+authentic settings. Builds visual literacy, discussion skills, and deepens
+understanding of artists’ intent. Encourages reflective thinking and inquiry.</p>
