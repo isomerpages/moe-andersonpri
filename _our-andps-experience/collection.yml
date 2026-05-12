@@ -2,8 +2,6 @@ collections:
   our-andps-experience:
     output: true
     order:
-      - Primary 6/CCE Museum based Learning Journeys.md
-      - Primary 6/.keep
       - For All/.keep
       - For All/ALP TERRA.md
       - For All/LLP VIVACE.md
@@ -30,8 +28,10 @@ collections:
       - Primary 2/Junior Sports Experience.md
       - Primary 3/.keep
       - Primary 3/P3 Neighbourhood Walk.md
-      - Primary 4/CCE Museum based Learning Journeys.md
       - Primary 4/.keep
-      - Primary 5/CCE Museum based Learning Journeys.md
+      - Primary 4/CCE Museum based Learning Journeys.md
       - Primary 5/.keep
+      - Primary 5/CCE Museum based Learning Journeys.md
       - Primary 5/P5 Camp COMPASS.md
+      - Primary 6/.keep
+      - Primary 6/CCE Museum based Learning Journeys.md
