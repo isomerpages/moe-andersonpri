@@ -10,9 +10,6 @@ sections:
       background: /images/ezgif_com_animated_gif_maker__1_.gif
       url: /contact-us/
       key_highlights:
-        - title: ENCOMPASS e-Magazine
-          description: 2024 Issue
-          url: https://online.flipbuilder.com/zlpi/lcyj/
         - title: Quick Links
           description: For Students, Parents & Staff
           url: /quick-links/
