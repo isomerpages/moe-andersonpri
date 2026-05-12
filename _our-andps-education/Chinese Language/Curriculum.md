@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Chinese Language
 ---
-<h3>2024 Primary MTL Curriculum</h3>
+<h3>Primary MTL Curriculum</h3>
 <p>“Joyful Learning, Confident User” describes our aim to help students experience
 the joy of learning and become confident users with a strong foundation
 in language competencies, appreciate their culture and traditions, as well
