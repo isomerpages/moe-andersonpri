@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Primary 5
 ---
-<h4>P5 - Indian Heritage Centre</h4>
+<h4>Indian Heritage Centre</h4>
 <p>For Andersonians, the world is their classroom. Our cohort Learning Journeys
 bring the CCE curriculum to life — immersing students in Singapore's arts,
 culture, and heritage to deepen their sense of identity, appreciation for
