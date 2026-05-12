@@ -11,9 +11,8 @@ the joy of learning and become confident users with a strong foundation
 in language competencies, appreciate their culture and traditions, as well
 as 21st century<strong> </strong>competencies.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChineseLang1.png">
 </div>
-<p></p>
 <h4>Learning Outcomes</h4>
 <ul data-tight="true" class="tight">
 <li>
