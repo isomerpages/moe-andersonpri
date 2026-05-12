@@ -27,6 +27,9 @@ language in joyful and dynamic ways.</p>
 <p>As students immerse themselves in these experiences, they apply the language
 skills learnt in class, develop cultural literacy, and deepen their appreciation
 of the beauty and richness of the Tamil language and culture.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TLMTF.png">
+</div>
 <h4>AndPS Read</h4>
 <p>Under the MTL initiative, starting with Primary 1 and 2, 30 minutes of
 MTL lesson per week will be dedicated to reading and reading-related activities
