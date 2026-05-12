@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Tamil Language
 ---
+<h3>Tamil Language Curriculum</h3>
 <p>The Tamil Language curriculum is designed to develop confident communicators
 with a strong appreciation of the Tamil language and culture. We design
 purposeful learning experiences and enact effective pedagogies to engage
