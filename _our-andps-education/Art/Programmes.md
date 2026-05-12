@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Art
 ---
 <h4>Digital Song Writing Programme</h4>
-<p>The Digital Song Writing Programme as a 8-session enrichment programme.</p>
-<p>The main objectives of the programme are to enable students to acquire
+<p>The Digital Song Writing Programme as a 8-session enrichment programme.
+The main objectives of the programme are to enable students to acquire
 and apply songwriting skills and master digital music production skills
 through the use of Garageband. Through the programme, students learn to
 compose a song and produce a digital audio based on school’s 2026 LIGHT
@@ -15,8 +15,10 @@ values.</p>
 <p>Below is one of our students’ work which was specially mentioned by MOE
 Arts Branch for the Singapore Youth Festival Youth Station Song Writing
 Project.</p>
-<p>Mirror Of Light&nbsp; <a href="https://youtu.be/c9_rzD0i8dY?si=iBuriLSZ6NFlqBLg" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/c9_rzD0i8dY?si=iBuriLSZ6NFlqBLg</a>
-</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c9_rzD0i8dY?si=8sG1YDBCx3n7A6z-"></iframe>
+</div>
 <h4>Primary 3 LLP Digital Soundscape Programme</h4>
 <p>An 8-week LLP&nbsp;Digital&nbsp;Soundscape&nbsp;Programme for all Primary
 3 classes during music curriculum hours.</p>
