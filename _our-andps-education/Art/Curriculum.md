@@ -10,10 +10,6 @@ third_nav_title: Art
 and deepen appreciation. Features professional artists and curated programmes
 supported by external partners, including those under the National Arts
 Council (NAC)</p>
-<h4>Art Museum-Based Learning Journey (MBL)</h4>
-<p>Primary 4 students visit local art museums to engage with artworks in
-authentic settings. Builds visual literacy, discussion skills, and deepens
-understanding of artists’ intent. Encourages reflective thinking and inquiry.</p>
 <h4>Art Inquiry Based Learning Curriculum</h4>
 <p>A student-centered approach where students actively explore and investigate
 topics through research and class discussion. Construct their own understanding
