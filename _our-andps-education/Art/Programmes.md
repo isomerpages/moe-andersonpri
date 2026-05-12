@@ -29,4 +29,7 @@ it together with recycled instruments. The programme aims to impart in
 students the values of being a caring environmentalist through the creating
 and performing of&nbsp;soundscape&nbsp;with musical instruments made from
 recycled materials.</p>
-<p>&nbsp;</p>
+<h4>Arts Picnic</h4>
+<p>A whole-school platform for creative engagement during recess, activating
+shared spaces and strengthening student voice, ownership, and pride through
+the arts.</p>
