@@ -3,7 +3,6 @@ title: Home School Partnership
 permalink: /home-school-partnership/
 variant: tiptap
 description: ""
-third_nav_title: Existing AndPS Parents
 ---
 <p>MOE values the well-being of our teachers, who play a vital role in supporting
 your child’s learning. Most parents work closely and respectfully with
