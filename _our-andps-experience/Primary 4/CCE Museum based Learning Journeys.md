@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Primary 4
 ---
-<h4>P4 Kreta Ayer Heritage Gallery Learning Journey</h4>
+<h4>P4 - Kreta Ayer Heritage Gallery</h4>
 <p>For Andersonians, the world is their classroom. Our cohort Learning Journeys
 bring the CCE curriculum to life — immersing students in Singapore's arts,
 culture, and heritage to deepen their sense of identity, appreciation for
