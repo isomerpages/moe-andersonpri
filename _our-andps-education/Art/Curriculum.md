@@ -19,10 +19,6 @@ understanding of artists’ intent. Encourages reflective thinking and inquiry.<
 topics through research and class discussion. Construct their own understanding
 and meaning of artworks through experimentation with art materials individually
 and collaboratively.</p>
-<h4>Arts Picnic</h4>
-<p>A whole-school platform for creative engagement during recess, activating
-shared spaces and strengthening student voice, ownership, and pride through
-the arts.</p>
 <h4>Music Orff-Inspired Spiral Learning Curriculum</h4>
 <p>Students learn music through <strong>music‑making experiences</strong> that
 involve <strong>experiencing, exploring, expressing and evaluating</strong>.
