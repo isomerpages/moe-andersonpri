@@ -13,3 +13,7 @@ understanding of artists’ intent. Encourages reflective thinking and inquiry.<
 <p>A whole-school platform for creative engagement during recess, activating
 shared spaces and strengthening student voice, ownership, and pride through
 the arts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Picnic.png">
+</div>
+<p></p>
