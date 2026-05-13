@@ -2,10 +2,6 @@ collections:
   our-andps-education:
     output: true
     order:
-      - Art and Music/.keep
-      - Art and Music/Mission.md
-      - Art and Music/Curriculum.md
-      - Art and Music/Programmes.md
       - CCE/.keep
       - CCE/Mission.md
       - CCE/Curriculum.md
@@ -35,10 +31,6 @@ collections:
       - Mathematics/Mission.md
       - Mathematics/Curriculum.md
       - Mathematics/Programmes.md
-      - Music/.keep
-      - Music/Mission.md
-      - Music/Curriculum.md
-      - Music/Programmes.md
       - Physical Education/.keep
       - Physical Education/Mission.md
       - Physical Education/Curriculum.md
