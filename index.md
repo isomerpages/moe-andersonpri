@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ezgif_com_optimize.gif
+      background: /images/Homepage_v3_ezgif_com_resize.gif
       url: /contact-us/
       key_highlights:
         - title: Quick Links
