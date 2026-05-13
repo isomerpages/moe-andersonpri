@@ -1,10 +1,23 @@
 ---
 title: Curriculum
-permalink: /curriculum/
+permalink: /curriculum/departments/art/curriculum/
 variant: tiptap
 description: ""
-third_nav_title: Music
+third_nav_title: Art and Music
 ---
+<h4>Aesthetics Assembly</h4>
+<p>Conducted once a term to expose students to quality arts performances
+and deepen appreciation. Features professional artists and curated programmes
+supported by external partners, including those under the National Arts
+Council (NAC)</p>
+<h4>Art Inquiry Based Learning Curriculum</h4>
+<p>A student-centered approach where students actively explore and investigate
+topics through research and class discussion. Construct their own understanding
+and meaning of artworks through experimentation with art materials individually
+and collaboratively.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Class_1.jpg">
+</div>
 <h4>Music Orff-Inspired Spiral Learning Curriculum</h4>
 <p>Students learn music through <strong>music‑making experiences</strong> that
 involve <strong>experiencing, exploring, expressing and evaluating</strong>.
@@ -21,7 +34,6 @@ explicitly taught to empower students to <strong>communicate using musical langu
 integrated into music lessons, where students create and explore music
 using <strong>digital tools</strong> such as GarageBand and Chrome Music
 Lab.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music1.png">
 </div>

@@ -1,9 +1,9 @@
 ---
 title: Mission
-permalink: /mission/
+permalink: /curriculum/departments/art/mission/
 variant: tiptap
 description: ""
-third_nav_title: Music
+third_nav_title: Art and Music
 ---
 <h4>Mission</h4>
 <p>Anderson Primary School's Aesthetics Department nurtures confident, expressive

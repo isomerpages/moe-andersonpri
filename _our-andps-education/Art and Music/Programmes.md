@@ -1,10 +1,21 @@
 ---
 title: Programmes
-permalink: /programmes/
+permalink: /curriculum/departments/art/programmes/
 variant: tiptap
 description: ""
-third_nav_title: Music
+third_nav_title: Art and Music
 ---
+<h4>Art Museum-Based Learning Journey (MBL)</h4>
+<p>Primary 4 students visit local art museums to engage with artworks in
+authentic settings. Builds visual literacy, discussion skills, and deepens
+understanding of artists’ intent. Encourages reflective thinking and inquiry.</p>
+<h4>Arts Picnic</h4>
+<p>A whole-school platform for creative engagement during recess, activating
+shared spaces and strengthening student voice, ownership, and pride through
+the arts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Picnic.png">
+</div>
 <h4>Digital Song Writing Programme</h4>
 <p>The Digital Song Writing Programme as a 8-session enrichment programme.
 The main objectives of the programme are to enable students to acquire
@@ -15,7 +26,6 @@ values.</p>
 <p>Below is one of our students’ work which was specially mentioned by MOE
 Arts Branch for the Singapore Youth Festival Youth Station Song Writing
 Project.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c9_rzD0i8dY?si=8sG1YDBCx3n7A6z-"></iframe>
 </div>
