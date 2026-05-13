@@ -2,10 +2,6 @@ collections:
   department:
     output: true
     order:
-      - Aesthetics/.keep
-      - Aesthetics/Living Arts Gallery.md
-      - Aesthetics/Our Arts Programme.md
-      - Aesthetics/Vision & Mission.md
       - English Language/.keep
       - English Language/Mission.md
       - English Language/Curriculum.md
