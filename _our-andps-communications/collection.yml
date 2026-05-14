@@ -1,0 +1,8 @@
+collections:
+  our-andps-communications:
+    output: true
+    order:
+      - Communications Policy.md
+      - Home School Partnership.md
+      - Social Media.md
+      - Contact & Admin Info.md

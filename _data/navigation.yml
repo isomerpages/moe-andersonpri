@@ -1,0 +1,104 @@
+logo: /images/logo.jpg
+links:
+  - title: Our AndPS Journey
+    url: /25th-silver-jubilee-celebration/
+    sublinks:
+      - title: Silver Jubilee Celebration
+        url: /25th-silver-jubilee-celebration/
+      - title: Our Strategic Plan
+        url: /about/our-strategic-plan/
+      - title: School Vision, Mission & Value
+        url: /school-vision-mission-values/
+      - title: School History
+        url: /about/school-history
+      - title: School Song
+        url: /about/school-song
+      - title: School Corporate Videos
+        url: /school-corporate-videos/
+      - title: School Rules
+        url: /about/school-rules
+  - title: Our AndPS Family
+    url: /school-leaders/
+    sublinks:
+      - title: School Leaders
+        url: /school-leaders/
+      - title: Key Personnel
+        url: /key-personnel/
+      - title: Teachers
+        url: /key-personnel/teachers/primary-1
+      - title: Allied Educators
+        url: /key-personnel/allied-educators
+      - title: Executive and Administrative
+        url: /our-family/executive-and-administrative-staff/
+      - title: Security Guards
+        url: /security-guards/
+  - title: Our AndPS Education
+    url: /curriculum/departments/art/mission/
+    sublinks:
+      - title: Art and Music
+        url: /curriculum/departments/art/mission/
+      - title: CCE
+        url: /curriculum/departments/cce/mission/
+      - title: Chinese Language
+        url: /curriculum/departments/chinese/mission/
+      - title: English Language
+        url: /curriculum/departments/english/mission/
+      - title: High Ability
+        url: /curriculum/departments/high/mission/
+      - title: ICT
+        url: /curriculum/departments/ict/mission/
+      - title: Malay Language
+        url: /curriculum/departments/malay/mission/
+      - title: Mathematics
+        url: /curriculum/departments/mathematics/mission/
+      - title: Physical Education
+        url: /curriculum/departments/physical/mission/
+      - title: Science
+        url: /curriculum/departments/science/mission/
+      - title: Tamil Language
+        url: /curriculum/departments/tamil/mission/
+  - title: Our AndPS Experience
+    url: /alp-terra/
+    sublinks:
+      - title: For All
+        url: /alp-terra/
+      - title: CCAs
+        url: /angklung-kulintang-ensemble/
+      - title: Primary 1
+        url: /primary-1/
+      - title: Primary 2
+        url: /junior-arts-experience/
+      - title: Primary 3
+        url: /p3-cce-museum-based-learning-journeys/
+      - title: Primary 4
+        url: /p4-cce-museum-based-learning-journey/
+      - title: Primary 5
+        url: /p5-cce-museum-based-learning-journeys/
+      - title: Primary 6
+        url: /p6-cce-museum-based-learning-journeys/
+  - title: Our AndPS Partnerships
+    url: /partners/school-advisory-committee-sac
+    sublinks:
+      - title: School Advisory Committee
+        url: /partners/school-advisory-committee-sac
+      - title: Parent Support Group
+        url: /partners/parent-support-group
+      - title: Existing AndPS Parents
+        url: /booklists/
+      - title: Potential Parents
+        url: /p1-registration/
+      - title: Alumni
+        url: /partners/alumni
+      - title: Service Providers
+        url: /school-bookshop/
+  - title: Our AndPS Communications
+    url: /connect/contact-n-admin-info
+    sublinks:
+      - title: Communications Policy
+        url: /communications-policy/
+      - title: Social Media
+        url: /social-media/
+      - title: Contact & Admin Info
+        url: /connect/contact-n-admin-info
+      - title: Have a Question?
+        url: https://ask.gov.sg/aps

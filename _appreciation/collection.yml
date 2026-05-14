@@ -1,0 +1,5 @@
+collections:
+  appreciation:
+    output: true
+    order:
+      - Affirmation.md
