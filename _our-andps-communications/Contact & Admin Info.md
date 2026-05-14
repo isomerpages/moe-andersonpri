@@ -34,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Have a Question?</p>
+<p>Have a Question about P1 Registration?</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://ask.gov.sg/aps" rel="noopener noreferrer nofollow" target="">Ask Anderson Primary School</a>
