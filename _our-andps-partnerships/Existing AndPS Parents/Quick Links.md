@@ -112,10 +112,6 @@ third_nav_title: Existing AndPS Parents
 <p><a href="https://go.gov.sg/andpshwpolicy" rel="noopener" target="_blank">Homework Policy</a>
 </p>
 </li>
-<li>
-<p><a href="/connect-us/quick-links/school-calendar" rel="noopener noreferrer nofollow" target="">School Calendar</a>
-</p>
-</li>
 </ul>
 <p><strong>Academic Links</strong>
 </p>
