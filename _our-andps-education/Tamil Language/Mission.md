@@ -8,3 +8,8 @@ third_nav_title: Tamil Language
 <h4>Mission</h4>
 <p>Building strong Tamil language foundations that empower students to communicate
 with confidence, think deeply, and appreciate Tamil language and culture.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_15_at_13_33_57.jpg">
+</div>
+<p></p>
