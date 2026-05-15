@@ -60,3 +60,8 @@ undergo the following milestones:</p>
 <p>Through these meaningful experiences, we empower our students to become
 active, responsible, and healthy individuals for life, equipped with the
 skills and dispositions to thrive beyond school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage_ezgif_com_video_to_gif_converter.gif">
+</div>
+<p></p>
