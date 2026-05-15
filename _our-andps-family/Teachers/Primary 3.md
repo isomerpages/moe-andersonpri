@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Class 3 LOVE </strong>
+<p><strong>Class 3 LOVE</strong>
 </p>
 </td>
 </tr>
@@ -59,15 +59,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_mui_lin_lena@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_mui_lin_lena@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mahmud Hussain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mahmud_hussain_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mahmud_hussain_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
