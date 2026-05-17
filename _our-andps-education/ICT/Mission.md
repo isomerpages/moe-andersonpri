@@ -11,6 +11,6 @@ digital learners by weaving <strong>digital competencies</strong> and <strong>AI
 everyday learning, enabling them to think critically, create meaningfully
 and use technology wisely in school and beyond.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.png">
 </div>
 <p></p>
