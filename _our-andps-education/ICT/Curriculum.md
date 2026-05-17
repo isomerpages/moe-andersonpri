@@ -14,8 +14,7 @@ They are also introduced to Artificial Intelligence (AI) through age-appropriate
 learning experiences that build awareness of how AI supports learning,
 the importance of verifying information, and the safe and responsible use
 of digital tools.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.png">
 </div>
 <p></p>
