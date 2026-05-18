@@ -10,6 +10,9 @@ environment where students develop musical skills, discipline and teamwork.
 Guided by PQRS values, students grow through GLOW opportunities, building
 leadership and character. We inspire passion for music and strive for excellence
 while serving the community with pride and purpose.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB1.png">
+</div>
 <h4>Schedule</h4>
 <table style="minWidth: 100px">
 <colgroup>
