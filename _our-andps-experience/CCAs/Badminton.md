@@ -20,6 +20,9 @@ both during training and in their conduct beyond the court.</p>
 <p>Through this holistic approach, the Badminton CCA nurtures disciplined
 and persevering individuals who value teamwork, sportsmanship, and continuous
 improvement, empowering them to grow both as players and as individuals.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XrBoCS7dNgg?si=FZAJRqoX2h7Ib7ZG"></iframe>
+</div>
 <h4>Schedule</h4>
 <table style="minWidth: 100px">
 <colgroup>
