@@ -11,6 +11,9 @@ technique, coordination, poise and confidence. Performance opportunities
 at school and external events build stage presence and teamwork, empowering
 members to express themselves creatively and take pride in their growth
 and achievements.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gDq5qxbObxA?si=byZaz30UInv8x9zW"></iframe>
+</div>
 <h4>Schedule</h4>
 <table style="minWidth: 100px">
 <colgroup>
