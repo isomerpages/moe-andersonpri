@@ -58,12 +58,12 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Dr_Teo_Tang_Wee.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Dr_Teo_Tang_Wee.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Mr_Siva_Govindasamy.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Mr_Siva_Govindasamy.jpg">
 </div>
 </th>
 </tr>
