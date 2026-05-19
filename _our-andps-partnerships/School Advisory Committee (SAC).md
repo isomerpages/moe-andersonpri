@@ -90,17 +90,17 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Mr_Chooake_Wongwattanasilpa.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mr_Chooake_Wongwattanasilpa.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Ms_Stella_Lim_Choy_Ghee.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Ms_Stella_Lim_Choy_Ghee.jpg">
 </div>
 </th>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Eric_Chua.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Mr_Eric_Chua.jpg">
 </div>
 </td>
 </tr>
@@ -127,7 +127,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Tommy_Lai_Chee_Choy.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Mr_Tommy_Lai_Chee_Choy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
