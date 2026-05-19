@@ -4,155 +4,134 @@ permalink: /partners/school-advisory-committee-sac/
 description: ""
 variant: tiptap
 ---
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Lim_Chiow_Giap__Chairman_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Low_Wing_Li_Gary.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Mr_Lim_Chiow_Giap__Chairman_.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Lim Chiow Giap</div>
+<div class="isomer-card-description">Chairman</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Pulickal_Geoiphy_George.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Dr_Low_Wing_Li_Gary.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Chiow Giap
-<br>Chairman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Low Wing Li Gary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Pulickal Geoiphy George</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Low Wing Li Gary</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Dr_Marie_De_Visser.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Dr_Pulickal_Geoiphy_George.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Pulickal Geoiphy George</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Dr_Teo_Tang_Wee.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Dr_Marie_De_Visser.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Marie De Visser</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Mr_Siva_Govindasamy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Dr_Teo_Tang_Wee.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Marie De Visser</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Teo Tang Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Siva Govindasamy</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Teo Tang Wee</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Mr_Chooake_Wongwattanasilpa.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Mr_Siva_Govindasamy.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Siva Govindasamy</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Ms_Stella_Lim_Choy_Ghee.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Mr_Chooake_Wongwattanasilpa.jpg">
 </div>
-</th>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Chooake Wongwattanasilpa</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Eric_Chua.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Ms_Stella_Lim_Choy_Ghee.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chooake Wongwattanasilpa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Stella Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Eric Chua</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Stella Lim</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Tommy_Lai_Chee_Choy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Mr_Eric_Chua.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Eric Chua</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ms_She_Zesi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Mr_Tommy_Lai_Chee_Choy.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Tommy Lai Chee Choy</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_08_112014.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Ms_She_Zesi.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tommy Lai Chee Choy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms She Zesi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms She Zesi</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2026_05_08_112014.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">.</div>
+</div>
+</div>
+</div>
 <p></p>
