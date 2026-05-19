@@ -112,6 +112,10 @@ third_nav_title: Existing AndPS Parents
 <p><a href="https://go.gov.sg/andpshwpolicy" rel="noopener" target="_blank">Homework Policy</a>
 </p>
 </li>
+<li>
+<p><a href="https://calendar.google.com/calendar/embed?src=andersonprimarysch%40gmail.com&amp;ctz=Asia%2FSingapore" rel="noopener nofollow" target="_blank">School Calendar</a>
+</p>
+</li>
 </ul>
 <p><strong>Academic Links</strong>
 </p>
