@@ -11,6 +11,10 @@ students explore diverse musical experiences while developing teamwork,
 perseverance and appreciation for music. Performance opportunities, both
 internal and external, build confidence and pride as members showcase their
 growth, creativity and talent.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SEU_j1ztM9A?si=ircTlLpt-rJ1Uud3"></iframe>
+</div>
 <h4>Schedule</h4>
 <table style="minWidth: 100px">
 <colgroup>
