@@ -5,8 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Our Mission</strong></h4>
-<p><strong>Mission</strong>
-</p>
 <p>We believe when your child joins Anderson Primary School, your family
 also becomes a part of Anderson Family. Parents are important partners
 in enriching your child's learning as you know your child best. Every year,
@@ -23,9 +21,7 @@ family. PSG Team. Meetings are held on a termly basis to co-ordinate events
 in the school.</p>
 <p>Click&nbsp;<a href="https://www.facebook.com/apsparentsupportgroup" rel="noopener" target="_blank">here</a>&nbsp;to
 find out more about them.</p>
-<h4><strong>Objectives</strong></h4>
-<p><strong>Objectives of PSG@ANDPS</strong>
-</p>
+<h4><strong>Objectives of PSG@ANDPS</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>To forge a strong partnership between the school and parents.</p>
@@ -48,3 +44,8 @@ like-minded parents!</p>
 <p>Parents who are interested to join the&nbsp;<strong>PSG@Anderson</strong>&nbsp;can
 register through this online form at&nbsp;<a href="https://go.gov.sg/andpspsg2025" rel="noopener" target="_blank">https://go.gov.sg/andpspsg2025.</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__Our_PSG_rocks_.jpg">
+</div>
+<p></p>
