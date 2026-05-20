@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<h4><strong>MOE Sexuality Education in Schools</strong></h4>
+<h3>MOE Sexuality Education in Schools</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
@@ -45,7 +45,7 @@ ones.</p>
 </ol>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of&nbsp; Anderson Primary School’s Sexuality Education Programme for 2026</strong></h4>
+<h4>Overview of&nbsp; Anderson Primary School’s Sexuality Education Programme for 2026</h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -61,7 +61,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <br>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)</p>
 <p></p>
-<h4><strong>Sexuality Education Lessons</strong></h4>
+<h4>Sexuality Education Lessons</h4>
 </li>
 <li>
 <p>The upper primary years mark the onset of puberty. With better nutrition
@@ -85,11 +85,10 @@ including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p></p>
-<h4><strong>At&nbsp; Anderson Primary School, the following Sexuality Education lessons will be taught in 2026:</strong></h4>
-<p></p>
 </li>
 </ol>
-<p>Primary 5</p>
+<h4>At Anderson Primary School, the following Sexuality Education lessons will be taught in 2026:</h4>
+<h4>Primary 5</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -180,7 +179,7 @@ and how to seek help for themselves and their friends.</p>
 </tbody>
 </table>
 <p></p>
-<p>Primary 6</p>
+<h4>Primary 6</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -251,7 +250,7 @@ and learn to behave maturely towards each other.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>Information for Parents</strong></h4>
+<h4>Information for Parents</h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
