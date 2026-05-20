@@ -44,3 +44,8 @@ like-minded parents!</p>
 <p>Parents who are interested to join the&nbsp;<strong>PSG@Anderson</strong>&nbsp;can
 register through this online form at&nbsp;<a href="https://go.gov.sg/andpspsg2025" rel="noopener" target="_blank">https://go.gov.sg/andpspsg2025.</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__Our_PSG_rocks_.jpg">
+</div>
+<p></p>
