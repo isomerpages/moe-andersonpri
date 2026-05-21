@@ -6,12 +6,10 @@ description: ""
 third_nav_title: CCAs
 ---
 <h3>The Boys’ Brigade 22J Singapore Company</h3>
-<p>The 22J Boys’ Brigade Company at Anderson Primary School began in 2019,
-providing P3 boys with holistic development beyond the classroom. Through
-drills, camps, badge work and leadership activities, students build discipline
-and character. Guided by teachers, they serve family, school and community
-while participating in BB HQ events and programmes.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22J_Company_with_the_school_leaders_and_the_BB_teachers.jpg">
+</div>
 <h4>Schedule</h4>
 <table style="minWidth: 100px">
 <colgroup>
