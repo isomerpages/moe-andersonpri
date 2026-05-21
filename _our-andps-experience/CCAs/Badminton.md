@@ -5,21 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCAs
 ---
-<p>The Badminton CCA at Anderson Primary School provides Primary 3 to Primary
-6 students with a structured and progressive training programme that develops
-essential technical, tactical, and cognitive skills. Through regular practice,
-students strengthen their focus, resilience, and game understanding while
-building confidence in both training and competitive settings.</p>
-<p>The programme is organised into three tiers — Recreation, Development,
-and School Team — offering meaningful pathways to cater to students of
-different abilities and aspirations. Students are given opportunities to
-progress across tiers, with advancement based on their readiness, skill
-development, and demonstration of positive attitude and aptitude. Central
-to this progression is the embodiment of the school’s L.I.G.H.T. values,
-both during training and in their conduct beyond the court.</p>
-<p>Through this holistic approach, the Badminton CCA nurtures disciplined
-and persevering individuals who value teamwork, sportsmanship, and continuous
-improvement, empowering them to grow both as players and as individuals.</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XrBoCS7dNgg?si=FZAJRqoX2h7Ib7ZG"></iframe>
 </div>
