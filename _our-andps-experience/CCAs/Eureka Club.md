@@ -5,12 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCAs
 ---
-<p>Eureka Club nurtures students’ curiosity and encourages exploration in
-STEM. Members develop skills, knowledge and a creative mindset to become
-active and caring problem-solvers. Through engaging activities aligned
-with the school’s STEM Applied Learning Programme, students are inspired
-to think critically, innovate confidently and apply learning meaningfully
-to real-world situations.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eureka1.png">
 </div>

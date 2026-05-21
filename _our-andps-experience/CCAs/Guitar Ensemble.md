@@ -5,12 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CCAs
 ---
-<p>Anderson Primary School Guitar Ensemble nurtures students’ passion for
-guitar in a supportive and safe environment. Through engaging practices,
-students explore diverse musical experiences while developing teamwork,
-perseverance and appreciation for music. Performance opportunities, both
-internal and external, build confidence and pride as members showcase their
-growth, creativity and talent.</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SEU_j1ztM9A?si=ircTlLpt-rJ1Uud3"></iframe>
