@@ -15,10 +15,6 @@ third_nav_title: Existing AndPS Parents
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener" target="_blank">MOE P5-P6 Sexuality Education Programme</a>
-</p>
-</li>
-<li>
 <p><a href="https://go.gov.sg/studentcovidvaccination" rel="noopener" target="_blank">Information on Student Vaccination Exercise</a>
 </p>
 </li>
