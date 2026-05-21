@@ -5,12 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCAs
 ---
-<p>Anderson Primary School Dance Ensemble nurtures a passion for dance among
-Primary 3 to 6 students. Through structured training, students develop
-technique, coordination, poise and confidence. Performance opportunities
-at school and external events build stage presence and teamwork, empowering
-members to express themselves creatively and take pride in their growth
-and achievements.</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gDq5qxbObxA?si=byZaz30UInv8x9zW"></iframe>
 </div>
@@ -52,8 +47,8 @@ and achievements.</p>
 <p>2 pm to 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance Studio</p>
-<p>PAL Room 1 and 2</p>
+<p>Dance Studio
+<br>PAL Room 1 and 2</p>
 </td>
 </tr>
 </tbody>
