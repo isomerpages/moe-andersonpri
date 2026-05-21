@@ -6,11 +6,7 @@ description: ""
 third_nav_title: CCAs
 ---
 <h3>The 22nd Girls’ Brigade at Anderson Primary School</h3>
-<p>Established in 2020, nurtures girls to reach their full potential through
-values-based programmes. Emphasising self-discipline, leadership and teamwork,
-members engage in drills, badge work, camps and service learning. Through
-enriching activities and HQ events, they grow in character, confidence
-and social responsibility.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_22_at_8_01_40_PM.jpg">
 </div>
@@ -68,24 +64,6 @@ and social responsibility.</p>
 </ul>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
-<li>
-<p>2021 LGT Challenge (Silver)</p>
-</li>
-<li>
-<p>2021 LGT Challenge (Bronze)</p>
-</li>
-<li>
-<p>2021 Company Award (Bronze)</p>
-</li>
-<li>
-<p>2022 Company Award (Silver)</p>
-</li>
-<li>
-<p>2022 JBB Girls (Selene Yang, Lim Yong En)</p>
-</li>
-<li>
-<p>2022 Music Drill (Bronze, Silver)</p>
-</li>
 <li>
 <p>2023 Company Award (Bronze)</p>
 </li>
