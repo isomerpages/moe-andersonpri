@@ -5,12 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCAs
 ---
-<p>Volleyball CCA focuses on developing students’ technical skills and personal
-character. With guidance from professional and well-accredited coaches,
-students receive high-quality training in a safe and supportive environment.
-Emphasising both skill-building and character growth, the programme helps
-students improve in their sport while nurturing discipline, confidence
-and resilience for lifelong development.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VB1.png">
 </div>
