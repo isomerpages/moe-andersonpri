@@ -5,12 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCAs
 ---
-<p>Visual Voices is a student-led art club that empowers young artists to
-express ideas and showcase creativity. Members develop artistic skills,
-leadership and teamwork while exploring diverse mediums. Through exhibitions,
-events and community projects, students amplify their voices, promote social
-responsibility and build a vibrant community that celebrates art’s power
-to inspire.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art1.png">
 </div>
