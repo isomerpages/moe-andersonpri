@@ -42,16 +42,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Bee Bee
-<br>HOD/Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_bee_bee_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_bee_bee_c@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Elaine Zheng
 <br>HOD/Talent Development</p>
 </td>
