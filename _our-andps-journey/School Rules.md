@@ -165,127 +165,419 @@ being reminded or scolded by their teachers, helps them develop responsibility
 and independence.</p>
 </li>
 </ul>
-<h4><strong>Summary Of Consequences For School Offences</strong></h4>
-<table style="minWidth: 50px">
+<h3><strong>ANTI-BULLYING POLICY</strong></h3>
+<h4>Our Commitment</h4>
+<p>At Anderson Primary School, every child has the right to feel safe, valued,
+and supported in their learning. We are committed to fostering a caring
+and enabling environment where children can flourish and develop positive
+relationships.</p>
+<p>We explicitly teach and model our LIGHT values, including respect, empathy,
+and kindness, and work in strong partnership with parents to nurture a
+shared sense of belonging within our school community.</p>
+<p>We recognise that children may experience misunderstandings or conflicts
+as part of growing up. These situations will be addressed through guidance
+and support. However, we make a clear distinction between such incidents
+and hurtful or bullying behaviours, which require a different and firmer
+response.</p>
+<h4>What are Hurtful Behaviours and Bullying?</h4>
+<p>Hurtful behaviours refer to unkind actions that cause distress, including
+one-off incidents such as insensitive remarks or physical aggression. Bullying
+refers to repeated and intentional acts of harm, often involving a pattern
+of behaviour and/or an imbalance of power.</p>
+<p>Both hurtful and bullying behaviours may take the form of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Verbal: Name-calling, insults, threats, spreading rumours</p>
+</li>
+<li>
+<p>Social: Exclusion, isolation, or influencing others to ignore someone</p>
+</li>
+<li>
+<p>Physical: Hitting, pushing, or damaging belongings</p>
+</li>
+<li>
+<p>Cyber: Repeated use of digital platforms to humiliate, threaten, or harm</p>
+</li>
+</ul>
+<h4>How We Proactively Educate Children</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Explicit teaching of LIGHT values through assemblies, Values-of-the-Month,
+and school-wide programmes and events</p>
+</li>
+<li>
+<p>Structured Form Teacher Guidance Periods and CCE lessons on empathy, conflict
+resolution, resilience, and cyber wellness</p>
+</li>
+<li>
+<p>A positive school culture supported by strong teacher–student relationships
+and student leadership</p>
+</li>
+<li>
+<p>Ongoing communication of expected behaviours, with timely guidance and
+correction of misbehaviour by all staff</p>
+</li>
+</ul>
+<h4>How We Respond</h4>
+<p>The school adopts a firm stance towards all forms of hurtful behaviours
+and maintains a zero tolerance towards bullying. While responses are always
+proportionate to context, any behaviour that causes harm to others is not
+condoned.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Immediate safety:</strong> We act promptly to ensure the physical
+and emotional safety of all children. Parents will be informed that a school-based
+fact-finding process will begin.</p>
+</li>
+<li>
+<p><strong>Fact-finding &amp; updates:</strong> We conduct fair and timely
+fact-finding through conversations with the children over time, as well
+as with relevant parties. We then triangulate the information gathered
+to ensure accuracy and fairness. Depending on the complexity of the case,
+this process takes time, and updates will be provided within 3, 7, or 21
+days for cross-level or more complex cases.</p>
+</li>
+<li>
+<p><strong>Consequences &amp; accountability:</strong> Appropriate consequences
+will be applied in line with school guidelines. Please refer to Annex A
+for details on classification of offences and consequences. The school
+may not disclose individual consequences to other parents, in order to
+protect the privacy and dignity of all children involved.</p>
+</li>
+<li>
+<p><strong>Student support:</strong> We put in place support plans for both
+affected children and those involved, addressing their emotional, behavioural,
+and relational needs. As an educational institution, our focus is on guiding
+children’ learning, responsibility, and behavioural growth.</p>
+</li>
+<li>
+<p><strong>Restorative approaches:</strong> Where appropriate, we use restorative
+practices to support reflection and, when suitable, facilitate reconciliation
+between children, alongside counselling support and/or external referrals.</p>
+</li>
+<li>
+<p><strong>Parent partnership:</strong> We work closely with parents throughout
+the process to support resolution, learning, and shared responsibility.</p>
+</li>
+</ul>
+<h4>How to Report Concerns</h4>
+<p>We encourage early reporting and open communication. Concerns may be raised
+through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Form Teachers</p>
+</li>
+<li>
+<p>School reporting channels (e.g., designated reporting box or online form
+via SLS)</p>
+</li>
+<li>
+<p>Year Heads, Discipline Masters, or school leaders via email</p>
+</li>
+</ul>
+<h4>How Parents Can Support</h4>
+<p>Understand that discipline is a <u>shared responsibility</u> between home
+and school.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Engage your child regularly in conversations about school life and friendships,
+and guide them on safe, respectful ways to respond to unkind behaviour
+without causing hurt to others.</p>
+</li>
+<li>
+<p>Reinforce respectful behaviour and responsible digital habits at home.
+Your child picks up your habits and language too!</p>
+</li>
+<li>
+<p>Monitor your child’s online and offline interactions appropriately to
+support safe and responsible choices.</p>
+</li>
+<li>
+<p>Work in partnership with the school on agreed interventions to support
+your child’s development and well-being, reinforcing <u>a consistent message</u> that
+home and school are working together in your child’s best interests.</p>
+</li>
+<li>
+<p>Use everyday situations as teachable moments to build your child’s understanding
+of respect, empathy, and responsibility.</p>
+</li>
+</ul>
+<p>This policy is reviewed annually to ensure it remains relevant and effective.
+Together, as partners, let’s build a safe, respectful, and caring school
+community for our children.</p>
+<h4>Annex A: Updated Offences and Consequences (with effect from Term 3, 2026)</h4>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Type of Offences</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Possible Consequences</p>
+<p><strong>Minor Offences</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Serious/ Very Serious* Offences</strong>
+</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Minor Offences</strong> e.g., being late to school,
-<br>failing to hand in assignments/work on time, using inappropriate language
-to peers,
-<br>interrupting lessons,
-<br>not adhering to uniform guidelines, skipping classes, etc</p>
-<p></p>
+<td rowspan="3" colspan="1">
+<p>Examples (non-exhaustive)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Attendance:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Verbal warning and reminders</p>
+<p>Latecoming</p>
 </li>
 <li>
-<p>Reflection or apology letter</p>
+<p>Skipping classes or lessons</p>
 </li>
 <li>
-<p>Suspension of privileges or access to activity e.g., recess play and learning
-journeys</p>
+<p>Not returning to class on time</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attendance:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Leaving school grounds without permission</p>
 </li>
 <li>
-<p>Temporary removal from classroom activity</p>
-</li>
-<li>
-<p>Community service within school (e.g., cleaning, assisting teachers)</p>
-</li>
-<li>
-<p>Behavioural Contract</p>
-</li>
-<li>
-<p>Research &amp; Presentation to school/class on harms caused</p>
-</li>
-<li>
-<p>Counselling or mentoring sessions</p>
-</li>
-<li>
-<p>Adjustment of Conduct Grade</p>
+<p>Truancy</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Serious Offences</strong> e.g.,
-<br>arson,
-<br>bullying,
-<br>damage to school property,
-<br>defiance or rudeness (especially to school staff and teachers),
-<br>disruption in class,
-<br>fighting,
-<br>gambling,
-<br>involvement in gangs,
-<br>possession of weapon-like items which are used or intended to be used
-to cause harm or hurt to others,
-<br>smoking, and alcohol consumption etc.
-<br>theft,
-<br>truancy,
-<br>use or possession of drugs, inhalants, e-vaporizers,</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<p><strong>Misconduct:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Formal Warning Letters</p>
+<p>Improper attire &amp; grooming (e.g., not tucking in shirts)</p>
 </li>
 <li>
-<p>Withdrawal of privileges and/or leadership positions, if any</p>
+<p>Littering</p>
 </li>
 <li>
-<p>Ineligibility for Scholarships/Awards, Leadership Appointments, Overseas
-Trips, School Team (e.g., NSG or SYF) Representation</p>
+<p>Not doing assignments</p>
 </li>
 <li>
-<p>Restitution for damage or theft (financial or service-based)</p>
+<p>Rough play resulting in hurt or causing discomfort to others</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Misconduct:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cheating in assessments/tests/exams</p>
 </li>
 <li>
-<p>Suspension (home or in-school)</p>
+<p>Disruptive behaviour, including being public nuisance</p>
 </li>
 <li>
-<p>Caning</p>
+<p>Forgery</p>
 </li>
 <li>
-<p>Adjustment of Conduct Grade to ‘Fair’ or ‘Poor’</p>
+<p>Bullying (cyber, physical, social, verbal)*</p>
 </li>
 <li>
-<p>Reporting to external authorities where required (e.g., police for weapons,
-drugs, or assault, and HSA for vapes)</p>
+<p>Open defiance or rudeness (to teachers or staff)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Others:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unintentional damage of school property</p>
+</li>
+<li>
+<p>Using vulgarity / abusive language or gestures to (other children)</p>
+</li>
+<li>
+<p>Non-compliance to school expectations</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Others:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Alcohol abuse</p>
+</li>
+<li>
+<p>Arson*</p>
+</li>
+<li>
+<p>Assault*</p>
+</li>
+<li>
+<p>Cyber security violations</p>
+</li>
+<li>
+<p>Drug abuse</p>
+</li>
+<li>
+<p>Fighting*</p>
+</li>
+<li>
+<p>Gambling</p>
+</li>
+<li>
+<p>Gangsterism</p>
+</li>
+<li>
+<p>Inhalant abuse</p>
+</li>
+<li>
+<p>Pornography</p>
+</li>
+<li>
+<p>Possession of weapon-like items</p>
+</li>
+<li>
+<p>Scams</p>
+</li>
+<li>
+<p>Sexual misconduct*</p>
+</li>
+<li>
+<p>Smoking</p>
+</li>
+<li>
+<p>Theft</p>
+</li>
+<li>
+<p>Trespassing and unauthorised access</p>
+</li>
+<li>
+<p>Use of handphones/smart devices during school</p>
+</li>
+<li>
+<p>Vandalism (intentional damage to school or public property)</p>
+</li>
+<li>
+<p>Vaping*</p>
 </li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Notes:</p>
-<ol data-tight="true" class="tight">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>Possible Consequences for Minor Offences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Possible Consequences for Serious/Very Serious Offences</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Possible Consequences</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
-<p>Indicative Examples: Listed offences are illustrative and not exhaustive.</p>
+<p>Adjustment of conduct grade Behavioural Contract</p>
 </li>
 <li>
-<p>Recording: All offences are logged in the School Cockpit System for monitoring
-and follow-up.</p>
+<p>Community service within school</p>
 </li>
 <li>
-<p>Consequences carried out are based on severity and frequency, ensuring
-fairness and support for student development.</p>
+<p>Counselling or mentoring sessions by School Counsellor or Teacher Counsellors</p>
 </li>
-</ol>
+<li>
+<p>Research &amp; presentation of correct behaviour in school</p>
+</li>
+<li>
+<p>Restitution for damage</p>
+</li>
+<li>
+<p>Suspension of privileges or access to activity e.g., recess play and/or
+learning journeys</p>
+</li>
+<li>
+<p>Verbal/ written apologies</p>
+</li>
+<li>
+<p>Verbal/written warning &amp; parents will be informed</p>
+</li>
+<li>
+<p>Written reflection</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Adjustment of conduct grade no better than ‘Good’</p>
+</li>
+<li>
+<p>Behavioural Contract</p>
+</li>
+<li>
+<p>Caning (for upper primary and older boys only)</p>
+</li>
+<li>
+<p>Counselling or mentoring sessions by School Counsellor or Teacher Counsellors</p>
+</li>
+<li>
+<p>Detention and/or suspension (in school or home)</p>
+</li>
+<li>
+<p>Formal written warning; letter to be sent to parents</p>
+</li>
+<li>
+<p>Ineligibility for Scholarships/Awards, Leadership Appointment, Overseas
+Trips, School Team (e.g., NSG or SYF) Representation</p>
+</li>
+<li>
+<p>Research &amp; presentation of correct behaviour in school</p>
+</li>
+<li>
+<p>Restitution for damage or theft (financial or service-based)</p>
+</li>
+<li>
+<p>Withdrawal of privileges and/or leadership positions Informing relevant
+authorities e.g. police</p>
+</li>
+<li>
+<p>Written reflection</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
