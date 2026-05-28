@@ -42,6 +42,9 @@ them</p>
 </ul>
 <p>Through fun and engaging activities, students will build confidence as
 creative thinkers and future-ready learners.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oCD3PyUT2JA?si=VqhomiYB4vyhSm_S"></iframe>
+</div>
 <h4>AI for Fun (Primary 5 and Primary 6)</h4>
 <p>Aligned with Singapore’s Smart Nation 2.0 vision to prepare students for
 the digital future, our Andersonians will have exciting opportunities to
