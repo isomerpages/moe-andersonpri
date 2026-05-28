@@ -509,7 +509,10 @@ community for our children.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Adjustment of conduct grade Behavioural Contract</p>
+<p>Adjustment of conduct grade</p>
+</li>
+<li>
+<p>Behavioural Contract</p>
 </li>
 <li>
 <p>Community service within school</p>
