@@ -29,7 +29,7 @@ third_nav_title: Service Providers
 <p>Halal food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 May 2026</p>
+<p>30 Nov 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Must serve halal food. Open to proposal except Malay Noodle.</p>
