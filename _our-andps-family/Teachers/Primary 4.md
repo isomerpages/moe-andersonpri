@@ -64,11 +64,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yu Dan Yun</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yu_dan_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yu_dan_yun@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
