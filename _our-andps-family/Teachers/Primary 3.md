@@ -97,7 +97,8 @@ variant: tiptap
 <p>Ms Rebecca Anne Tay Kay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:rebecca_anne_tay_kay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_anne_tay_kay@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
