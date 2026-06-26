@@ -28,7 +28,8 @@ variant: tiptap
 <p>Ms Zahira Begum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ramesh_sivakadacham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahira_begum_abdul_rahim@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
