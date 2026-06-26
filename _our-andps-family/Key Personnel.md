@@ -262,16 +262,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Leow Kor Ming
-<br>SSD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ramesh_sivakadacham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_kor_ming@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Haslinda Azhar
 <br>LT/EL</p>
 </td>
